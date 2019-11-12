@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700&display=swap');
+
+html, header, body, div, svg {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto Mono', monospace;
+    font-size: small;
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: auto;
+    padding: 0;
+
+    max-width: 1440px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1.25em;
+    margin: 5px 0 0 0;
+}
+
+.caption {
+    margin: 0;
+}
+
+.dot { stroke: #000; }
+.axis path, .axis line {
+  	fill: none;
+  	stroke: #000;
+  	shape-rendering: crispEdges;
+}
+.year.label {
+  	fill: #ddd;
+}
+.overlay {
+  	fill: none;
+  	pointer-events: all;
+  	cursor: ew-resize;
+}
+
+.large-vis {
+    width: 2580px;
+    height: 1380px;
+    min-width: 1000px;
+    margin: 15px 0 0 15px;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+.node {
+  cursor: pointer;
+}
+.node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+.node--leaf {
+  fill: white;
+}
+.label {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+.label,
+.node--root,
+.node--leaf {
+  pointer-events: none;
+}
+
+.d3-tip {
+  line-height: 1;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
+
+/* Style northward tooltips specifically */
+.d3-tip.n:after {
+  margin: -2px 0 0 0;
+  top: 100%;
+  left: 0;
+}

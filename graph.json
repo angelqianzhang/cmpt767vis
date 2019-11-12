@@ -1,0 +1,498 @@
+[{
+  "name": "China, mainland",
+  "children": [
+    {
+      "name": "Algeria",
+      "size": 13175.0
+    },
+    {
+      "name": "Argentina",
+      "size": 13577.0
+    },
+    {
+      "name": "Austria",
+      "size": 12246.0
+    },
+    {
+      "name": "Belgium",
+      "size": 1289.0
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "size": 1436.0
+    },
+    {
+      "name": "Brazil",
+      "size": 44640.0
+    },
+    {
+      "name": "Bulgaria",
+      "size": 13883.0
+    },
+    {
+      "name": "Cameroon",
+      "size": 81.0
+    },
+    {
+      "name": "Canada",
+      "size": 735.0
+    },
+    {
+      "name": "Chile",
+      "size": 5.0
+    },
+    {
+      "name": "China, mainland",
+      "size": 1191.0
+    },
+    {
+      "name": "Colombia",
+      "size": 2904.0
+    },
+    {
+      "name": "Costa Rica",
+      "size": 59.0
+    },
+    {
+      "name": "Croatia",
+      "size": 5457.0
+    },
+    {
+      "name": "Cuba",
+      "size": 3.0
+    },
+    {
+      "name": "Cyprus",
+      "size": 42.0
+    },
+    {
+      "name": "Czechia",
+      "size": 104.0
+    },
+    {
+      "name": "C\u00f4te d'Ivoire",
+      "size": 82.0
+    },
+    {
+      "name": "Denmark",
+      "size": 227.0
+    },
+    {
+      "name": "Ecuador",
+      "size": 17604.0
+    },
+    {
+      "name": "Egypt",
+      "size": 439.0
+    },
+    {
+      "name": "Estonia",
+      "size": 6.0
+    },
+    {
+      "name": "Ethiopia",
+      "size": 28.0
+    },
+    {
+      "name": "France",
+      "size": 876.0
+    },
+    {
+      "name": "Germany",
+      "size": 13857.0
+    },
+    {
+      "name": "Greece",
+      "size": 171630.0
+    },
+    {
+      "name": "Guatemala",
+      "size": 11.0
+    },
+    {
+      "name": "Honduras",
+      "size": 26.0
+    },
+    {
+      "name": "Hungary",
+      "size": 23555.0
+    },
+    {
+      "name": "India",
+      "size": 3684.0
+    },
+    {
+      "name": "Indonesia",
+      "size": 1040.0
+    },
+    {
+      "name": "Iran (Islamic Republic of)",
+      "size": 100.0
+    },
+    {
+      "name": "Ireland",
+      "size": 14.0
+    },
+    {
+      "name": "Italy",
+      "size": 102288.0
+    },
+    {
+      "name": "Kazakhstan",
+      "size": 8.0
+    },
+    {
+      "name": "Lithuania",
+      "size": 589.0
+    },
+    {
+      "name": "Malaysia",
+      "size": 1037.0
+    },
+    {
+      "name": "Mexico",
+      "size": 2992.0
+    },
+    {
+      "name": "Montenegro",
+      "size": 298.0
+    },
+    {
+      "name": "Morocco",
+      "size": 3.0
+    },
+    {
+      "name": "Netherlands",
+      "size": 8834.0
+    },
+    {
+      "name": "North Macedonia",
+      "size": 28493.0
+    },
+    {
+      "name": "Pakistan",
+      "size": 3237.0
+    },
+    {
+      "name": "Paraguay",
+      "size": 152.0
+    },
+    {
+      "name": "Poland",
+      "size": 4593.0
+    },
+    {
+      "name": "Romania",
+      "size": 19477.0
+    },
+    {
+      "name": "Russian Federation",
+      "size": 134399.0
+    },
+    {
+      "name": "Serbia",
+      "size": 270136.0
+    },
+    {
+      "name": "Slovenia",
+      "size": 11.0
+    },
+    {
+      "name": "South Africa",
+      "size": 201.0
+    },
+    {
+      "name": "Spain",
+      "size": 4095.0
+    },
+    {
+      "name": "Sri Lanka",
+      "size": 8.0
+    },
+    {
+      "name": "Switzerland",
+      "size": 18.0
+    },
+    {
+      "name": "Thailand",
+      "size": 343.0
+    },
+    {
+      "name": "Tunisia",
+      "size": 20.0
+    },
+    {
+      "name": "Turkey",
+      "size": 15945.0
+    },
+    {
+      "name": "Uganda",
+      "size": 96.0
+    },
+    {
+      "name": "Ukraine",
+      "size": 8414.0
+    },
+    {
+      "name": "United Kingdom",
+      "size": 735.0
+    },
+    {
+      "name": "United States of America",
+      "size": 3699.0
+    },
+    {
+      "name": "Viet Nam",
+      "size": 1121.0
+    }
+  ]
+},
+{
+"name": "China",
+"children": [
+{
+"name": "Algeria",
+"size": 13175.0
+},
+{
+"name": "Argentina",
+"size": 13577.0
+},
+{
+"name": "Austria",
+"size": 12246.0
+},
+{
+"name": "Belgium",
+"size": 1289.0
+},
+{
+"name": "Bosnia and Herzegovina",
+"size": 1436.0
+},
+{
+"name": "Brazil",
+"size": 44640.0
+},
+{
+"name": "Bulgaria",
+"size": 13883.0
+},
+{
+"name": "Cameroon",
+"size": 81.0
+},
+{
+"name": "Canada",
+"size": 735.0
+},
+{
+"name": "Chile",
+"size": 5.0
+},
+{
+"name": "China, mainland",
+"size": 1191.0
+},
+{
+"name": "Colombia",
+"size": 2904.0
+},
+{
+"name": "Costa Rica",
+"size": 59.0
+},
+{
+"name": "Croatia",
+"size": 5457.0
+},
+{
+"name": "Cuba",
+"size": 3.0
+},
+{
+"name": "Cyprus",
+"size": 42.0
+},
+{
+"name": "Czechia",
+"size": 104.0
+},
+{
+"name": "C\u00f4te d'Ivoire",
+"size": 82.0
+},
+{
+"name": "Denmark",
+"size": 227.0
+},
+{
+"name": "Ecuador",
+"size": 17604.0
+},
+{
+"name": "Egypt",
+"size": 439.0
+},
+{
+"name": "Estonia",
+"size": 6.0
+},
+{
+"name": "Ethiopia",
+"size": 28.0
+},
+{
+"name": "France",
+"size": 876.0
+},
+{
+"name": "Germany",
+"size": 13857.0
+},
+{
+"name": "Greece",
+"size": 171630.0
+},
+{
+"name": "Guatemala",
+"size": 11.0
+},
+{
+"name": "Honduras",
+"size": 26.0
+},
+{
+"name": "Hungary",
+"size": 23555.0
+},
+{
+"name": "India",
+"size": 3684.0
+},
+{
+"name": "Indonesia",
+"size": 1040.0
+},
+{
+"name": "Iran (Islamic Republic of)",
+"size": 100.0
+},
+{
+"name": "Ireland",
+"size": 14.0
+},
+{
+"name": "Italy",
+"size": 102288.0
+},
+{
+"name": "Kazakhstan",
+"size": 8.0
+},
+{
+"name": "Lithuania",
+"size": 589.0
+},
+{
+"name": "Malaysia",
+"size": 1037.0
+},
+{
+"name": "Mexico",
+"size": 2992.0
+},
+{
+"name": "Montenegro",
+"size": 298.0
+},
+{
+"name": "Morocco",
+"size": 3.0
+},
+{
+"name": "Netherlands",
+"size": 8834.0
+},
+{
+"name": "North Macedonia",
+"size": 28493.0
+},
+{
+"name": "Pakistan",
+"size": 3237.0
+},
+{
+"name": "Paraguay",
+"size": 152.0
+},
+{
+"name": "Poland",
+"size": 4593.0
+},
+{
+"name": "Romania",
+"size": 19477.0
+},
+{
+"name": "Russian Federation",
+"size": 134399.0
+},
+{
+"name": "Serbia",
+"size": 270136.0
+},
+{
+"name": "Slovenia",
+"size": 11.0
+},
+{
+"name": "South Africa",
+"size": 201.0
+},
+{
+"name": "Spain",
+"size": 4095.0
+},
+{
+"name": "Sri Lanka",
+"size": 8.0
+},
+{
+"name": "Switzerland",
+"size": 18.0
+},
+{
+"name": "Thailand",
+"size": 343.0
+},
+{
+"name": "Tunisia",
+"size": 20.0
+},
+{
+"name": "Turkey",
+"size": 15945.0
+},
+{
+"name": "Uganda",
+"size": 96.0
+},
+{
+"name": "Ukraine",
+"size": 8414.0
+},
+{
+"name": "United Kingdom",
+"size": 735.0
+},
+{
+"name": "United States of America",
+"size": 3699.0
+},
+{
+"name": "Viet Nam",
+"size": 1121.0
+}
+]
+}]
