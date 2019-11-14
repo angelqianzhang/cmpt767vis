@@ -1,0 +1,3454 @@
+source,target,value,sourcecont,targetcont
+Morocco,Afghanistan,1503.0,AF,AS
+South Africa,Afghanistan,1.0,AF,AS
+Tunisia,Afghanistan,43.0,AF,AS
+Algeria,Albania,6912.0,AF,EU
+Algeria,Albania,8052.0,AF,EU
+Cameroon,Albania,164.0,AF,EU
+Egypt,Albania,234.0,AF,EU
+Ethiopia,Albania,91.0,AF,EU
+Ethiopia,Albania,57.0,AF,EU
+Kenya,Albania,144.0,AF,EU
+Morocco,Albania,2.0,AF,EU
+Morocco,Albania,2915.0,AF,EU
+South Africa,Albania,164.0,AF,EU
+South Africa,Albania,258.0,AF,EU
+Tunisia,Albania,44.0,AF,EU
+Tunisia,Albania,92.0,AF,EU
+Uganda,Albania,240.0,AF,EU
+Mauritius,Albania,33.0,AF,EU
+Cameroon,Algeria,8483.0,AF,AF
+Egypt,Algeria,111609.0,AF,AF
+Egypt,Algeria,157.0,AF,AF
+Ethiopia,Algeria,1068.0,AF,AF
+Kenya,Algeria,132.0,AF,AF
+Morocco,Algeria,89330.0,AF,AF
+Morocco,Algeria,59501.0,AF,AF
+South Africa,Algeria,26605.0,AF,AF
+South Africa,Algeria,23418.0,AF,AF
+Tunisia,Algeria,20394.0,AF,AF
+Tunisia,Algeria,22620.0,AF,AF
+Uganda,Algeria,3865.0,AF,AF
+Benin,Algeria,4.0,AF,AF
+Burkina Faso,Algeria,155.0,AF,AF
+Burkina Faso,Algeria,16.0,AF,AF
+Burundi,Algeria,79.0,AF,AF
+Comoros,Algeria,199.0,AF,AF
+Ghana,Algeria,844.0,AF,AF
+Guinea,Algeria,352.0,AF,AF
+Madagascar,Algeria,194.0,AF,AF
+Madagascar,Algeria,111.0,AF,AF
+Malawi,Algeria,1306.0,AF,AF
+Niger,Algeria,5.0,AF,AF
+Niger,Algeria,2030.0,AF,AF
+Nigeria,Algeria,564.0,AF,AF
+Togo,Algeria,125.0,AF,AF
+Zimbabwe,Algeria,3921.0,AF,AF
+Mali,Algeria,30.0,AF,AF
+Senegal,Algeria,4.0,AF,AF
+Algeria,Antigua and Barbuda,1.0,AF,
+South Africa,Antigua and Barbuda,96.0,AF,
+South Africa,Antigua and Barbuda,140.0,AF,
+Niger,Antigua and Barbuda,55.0,AF,
+Nigeria,Antigua and Barbuda,3.0,AF,
+Namibia,Antigua and Barbuda,10.0,AF,
+Cameroon,Argentina,2.0,AF,SA
+Egypt,Argentina,1771.0,AF,SA
+Ethiopia,Argentina,34.0,AF,SA
+Ethiopia,Argentina,14.0,AF,SA
+Kenya,Argentina,1.0,AF,SA
+Morocco,Argentina,609.0,AF,SA
+Morocco,Argentina,351.0,AF,SA
+South Africa,Argentina,4585.0,AF,SA
+South Africa,Argentina,2852.0,AF,SA
+Tunisia,Argentina,210.0,AF,SA
+Tunisia,Argentina,113.0,AF,SA
+Uganda,Argentina,7.0,AF,SA
+Burundi,Argentina,5.0,AF,SA
+Comoros,Argentina,23.0,AF,SA
+Guinea,Argentina,1.0,AF,SA
+Madagascar,Argentina,455.0,AF,SA
+Madagascar,Argentina,58.0,AF,SA
+Malawi,Argentina,679.0,AF,SA
+Nigeria,Argentina,6.0,AF,SA
+Namibia,Argentina,5.0,AF,SA
+Namibia,Argentina,8.0,AF,SA
+Congo,Argentina,2.0,AF,SA
+Djibouti,Argentina,119.0,AF,SA
+Gabon,Argentina,3.0,AF,SA
+Mozambique,Argentina,11058.0,AF,SA
+Rwanda,Argentina,3.0,AF,SA
+Sierra Leone,Argentina,1.0,AF,SA
+Mauritius,Argentina,1.0,AF,SA
+Senegal,Argentina,26.0,AF,SA
+Egypt,Armenia,274.0,AF,AS
+South Africa,Armenia,6337.0,AF,AS
+South Africa,Armenia,32.0,AF,AS
+Ghana,Armenia,1008.0,AF,AS
+Malawi,Armenia,4201.0,AF,AS
+Nigeria,Armenia,635.0,AF,AS
+Togo,Armenia,934.0,AF,AS
+Zimbabwe,Armenia,6813.0,AF,AS
+Sierra Leone,Armenia,668.0,AF,AS
+Mali,Armenia,5.0,AF,AS
+Mauritius,Armenia,40.0,AF,AS
+Algeria,Australia,47.0,AF,OC
+Algeria,Australia,9.0,AF,OC
+Egypt,Australia,8442.0,AF,OC
+Ethiopia,Australia,17701.0,AF,OC
+Ethiopia,Australia,20342.0,AF,OC
+Kenya,Australia,20455.0,AF,OC
+Morocco,Australia,4761.0,AF,OC
+Morocco,Australia,4361.0,AF,OC
+South Africa,Australia,44654.0,AF,OC
+South Africa,Australia,51337.0,AF,OC
+Tunisia,Australia,2854.0,AF,OC
+Tunisia,Australia,2405.0,AF,OC
+Uganda,Australia,1054.0,AF,OC
+Burkina Faso,Australia,15.0,AF,OC
+Burundi,Australia,372.0,AF,OC
+Comoros,Australia,9.0,AF,OC
+Ghana,Australia,5219.0,AF,OC
+Ghana,Australia,618.0,AF,OC
+Guinea,Australia,34.0,AF,OC
+Madagascar,Australia,1741.0,AF,OC
+Madagascar,Australia,1490.0,AF,OC
+Malawi,Australia,26.0,AF,OC
+Niger,Australia,134.0,AF,OC
+Niger,Australia,29.0,AF,OC
+Nigeria,Australia,211.0,AF,OC
+Zimbabwe,Australia,134.0,AF,OC
+Zimbabwe,Australia,3.0,AF,OC
+Namibia,Australia,82.0,AF,OC
+Namibia,Australia,54.0,AF,OC
+Djibouti,Australia,857.0,AF,OC
+Rwanda,Australia,1126.0,AF,OC
+Sierra Leone,Australia,40.0,AF,OC
+Sierra Leone,Australia,2.0,AF,OC
+Mali,Australia,97.0,AF,OC
+Mali,Australia,11.0,AF,OC
+Mauritius,Australia,696.0,AF,OC
+Mauritius,Australia,1856.0,AF,OC
+Equatorial Guinea,Australia,9.0,AF,OC
+Lesotho,Australia,72.0,AF,OC
+Liberia,Australia,14.0,AF,OC
+Mauritania,Australia,15.0,AF,OC
+Sao Tome and Principe,Australia,10.0,AF,OC
+Seychelles,Australia,764.0,AF,OC
+Seychelles,Australia,3.0,AF,OC
+Somalia,Australia,137.0,AF,OC
+Zambia,Australia,59.0,AF,OC
+Algeria,Austria,1.0,AF,EU
+Cameroon,Austria,24.0,AF,EU
+Egypt,Austria,4021.0,AF,EU
+Egypt,Austria,18.0,AF,EU
+Ethiopia,Austria,416.0,AF,EU
+Ethiopia,Austria,84.0,AF,EU
+Kenya,Austria,687.0,AF,EU
+Morocco,Austria,846.0,AF,EU
+Morocco,Austria,251.0,AF,EU
+South Africa,Austria,6915.0,AF,EU
+South Africa,Austria,4419.0,AF,EU
+Tunisia,Austria,4337.0,AF,EU
+Tunisia,Austria,493.0,AF,EU
+Uganda,Austria,41.0,AF,EU
+Burkina Faso,Austria,17.0,AF,EU
+Burkina Faso,Austria,42.0,AF,EU
+Ghana,Austria,6.0,AF,EU
+Madagascar,Austria,149.0,AF,EU
+Madagascar,Austria,7.0,AF,EU
+Nigeria,Austria,151.0,AF,EU
+Namibia,Austria,3.0,AF,EU
+Namibia,Austria,34.0,AF,EU
+Mozambique,Austria,262.0,AF,EU
+Mauritius,Austria,1435.0,AF,EU
+Mauritius,Austria,852.0,AF,EU
+Seychelles,Austria,1.0,AF,EU
+Somalia,Austria,14.0,AF,EU
+Angola,Austria,1.0,AF,EU
+Senegal,Austria,32.0,AF,EU
+Senegal,Austria,303.0,AF,EU
+Algeria,Azerbaijan,147.0,AF,AS
+Ethiopia,Azerbaijan,1.0,AF,AS
+South Africa,Azerbaijan,260.0,AF,AS
+Tunisia,Azerbaijan,702.0,AF,AS
+Algeria,Bahrain,54.0,AF,AS
+Algeria,Bahrain,34.0,AF,AS
+Cameroon,Bahrain,4.0,AF,AS
+Egypt,Bahrain,39376.0,AF,AS
+Egypt,Bahrain,66.0,AF,AS
+Ethiopia,Bahrain,3405.0,AF,AS
+Ethiopia,Bahrain,2496.0,AF,AS
+Kenya,Bahrain,3365.0,AF,AS
+Morocco,Bahrain,3190.0,AF,AS
+Morocco,Bahrain,3441.0,AF,AS
+South Africa,Bahrain,20497.0,AF,AS
+South Africa,Bahrain,13214.0,AF,AS
+Tunisia,Bahrain,1340.0,AF,AS
+Tunisia,Bahrain,796.0,AF,AS
+Uganda,Bahrain,517.0,AF,AS
+Burkina Faso,Bahrain,6366.0,AF,AS
+Burundi,Bahrain,1.0,AF,AS
+Comoros,Bahrain,45.0,AF,AS
+Ghana,Bahrain,39.0,AF,AS
+Madagascar,Bahrain,78.0,AF,AS
+Malawi,Bahrain,23.0,AF,AS
+Niger,Bahrain,1.0,AF,AS
+Nigeria,Bahrain,6748.0,AF,AS
+Togo,Bahrain,3.0,AF,AS
+Zimbabwe,Bahrain,15.0,AF,AS
+Namibia,Bahrain,156.0,AF,AS
+Djibouti,Bahrain,1.0,AF,AS
+Gabon,Bahrain,36.0,AF,AS
+Mozambique,Bahrain,226.0,AF,AS
+Sierra Leone,Bahrain,36.0,AF,AS
+Mali,Bahrain,746.0,AF,AS
+Mali,Bahrain,335.0,AF,AS
+Mauritius,Bahrain,301.0,AF,AS
+Lesotho,Bahrain,2.0,AF,AS
+Mauritania,Bahrain,4.0,AF,AS
+Somalia,Bahrain,8032.0,AF,AS
+Zambia,Bahrain,1.0,AF,AS
+Senegal,Bahrain,8.0,AF,AS
+Chad,Bahrain,2906.0,AF,AS
+Gambia,Bahrain,2.0,AF,AS
+Algeria,Bangladesh,796.0,AF,AS
+Ethiopia,Bangladesh,2249.0,AF,AS
+South Africa,Bangladesh,49201.0,AF,AS
+Tunisia,Bangladesh,93.0,AF,AS
+Benin,Bangladesh,41884.0,AF,AS
+Madagascar,Bangladesh,1580.0,AF,AS
+Togo,Bangladesh,8128.0,AF,AS
+Mali,Bangladesh,76630.0,AF,AS
+Mauritius,Bangladesh,2.0,AF,AS
+Senegal,Bangladesh,11183.0,AF,AS
+Cameroon,Barbados,6.0,AF,
+Egypt,Barbados,100.0,AF,
+Kenya,Barbados,12.0,AF,
+Morocco,Barbados,7.0,AF,
+South Africa,Barbados,1036.0,AF,
+South Africa,Barbados,680.0,AF,
+Uganda,Barbados,4.0,AF,
+Comoros,Barbados,3.0,AF,
+Ghana,Barbados,1.0,AF,
+Madagascar,Barbados,10.0,AF,
+Nigeria,Barbados,1.0,AF,
+Zimbabwe,Barbados,1.0,AF,
+Eritrea,Barbados,6.0,AF,
+Cameroon,Belarus,28679.0,AF,EU
+Egypt,Belarus,9266.0,AF,EU
+Ethiopia,Belarus,817.0,AF,EU
+Kenya,Belarus,20627.0,AF,EU
+Morocco,Belarus,13068.0,AF,EU
+Morocco,Belarus,432.0,AF,EU
+South Africa,Belarus,3729.0,AF,EU
+South Africa,Belarus,185.0,AF,EU
+Tunisia,Belarus,48.0,AF,EU
+Uganda,Belarus,1867.0,AF,EU
+Benin,Belarus,34626.0,AF,EU
+Burkina Faso,Belarus,26987.0,AF,EU
+Burundi,Belarus,2602.0,AF,EU
+Comoros,Belarus,17.0,AF,EU
+Ghana,Belarus,25129.0,AF,EU
+Guinea,Belarus,40666.0,AF,EU
+Madagascar,Belarus,1935.0,AF,EU
+Malawi,Belarus,27.0,AF,EU
+Nigeria,Belarus,9067.0,AF,EU
+Zimbabwe,Belarus,124.0,AF,EU
+Namibia,Belarus,82.0,AF,EU
+Congo,Belarus,14.0,AF,EU
+Mozambique,Belarus,479.0,AF,EU
+Rwanda,Belarus,64.0,AF,EU
+Sierra Leone,Belarus,16320.0,AF,EU
+Mali,Belarus,24519.0,AF,EU
+Mauritius,Belarus,11.0,AF,EU
+Equatorial Guinea,Belarus,2080.0,AF,EU
+Liberia,Belarus,18178.0,AF,EU
+Somalia,Belarus,13613.0,AF,EU
+Zambia,Belarus,1.0,AF,EU
+Senegal,Belarus,122.0,AF,EU
+Central African Republic,Belarus,34727.0,AF,EU
+Guinea-Bissau,Belarus,32725.0,AF,EU
+Algeria,Belgium,2664.0,AF,EU
+Algeria,Belgium,2077.0,AF,EU
+Cameroon,Belgium,162941.0,AF,EU
+Egypt,Belgium,53369.0,AF,EU
+Egypt,Belgium,3243.0,AF,EU
+Ethiopia,Belgium,29274.0,AF,EU
+Ethiopia,Belgium,51962.0,AF,EU
+Kenya,Belgium,49080.0,AF,EU
+Morocco,Belgium,64331.0,AF,EU
+Morocco,Belgium,52950.0,AF,EU
+South Africa,Belgium,51919.0,AF,EU
+South Africa,Belgium,41311.0,AF,EU
+Tunisia,Belgium,19753.0,AF,EU
+Tunisia,Belgium,9460.0,AF,EU
+Uganda,Belgium,40362.0,AF,EU
+Benin,Belgium,2257.0,AF,EU
+Benin,Belgium,2877.0,AF,EU
+Burkina Faso,Belgium,3018.0,AF,EU
+Burkina Faso,Belgium,149.0,AF,EU
+Burundi,Belgium,5697.0,AF,EU
+Ghana,Belgium,254702.0,AF,EU
+Ghana,Belgium,88970.0,AF,EU
+Guinea,Belgium,1379.0,AF,EU
+Guinea,Belgium,1.0,AF,EU
+Madagascar,Belgium,44247.0,AF,EU
+Madagascar,Belgium,17743.0,AF,EU
+Malawi,Belgium,124569.0,AF,EU
+Niger,Belgium,7.0,AF,EU
+Nigeria,Belgium,28922.0,AF,EU
+Togo,Belgium,16612.0,AF,EU
+Togo,Belgium,6978.0,AF,EU
+Zimbabwe,Belgium,48969.0,AF,EU
+Namibia,Belgium,115.0,AF,EU
+Namibia,Belgium,3006.0,AF,EU
+Congo,Belgium,983.0,AF,EU
+Djibouti,Belgium,192.0,AF,EU
+Mozambique,Belgium,42165.0,AF,EU
+Rwanda,Belgium,8903.0,AF,EU
+Sierra Leone,Belgium,2511.0,AF,EU
+Mali,Belgium,526.0,AF,EU
+Mali,Belgium,164.0,AF,EU
+Mauritius,Belgium,9487.0,AF,EU
+Mauritius,Belgium,4841.0,AF,EU
+Liberia,Belgium,2632.0,AF,EU
+Sao Tome and Principe,Belgium,2482.0,AF,EU
+Zambia,Belgium,54065.0,AF,EU
+Senegal,Belgium,8588.0,AF,EU
+Senegal,Belgium,1533.0,AF,EU
+Gambia,Belgium,580.0,AF,EU
+Gambia,Belgium,4.0,AF,EU
+Central African Republic,Belgium,30.0,AF,EU
+Botswana,Belgium,91.0,AF,EU
+Algeria,Benin,738.0,AF,AF
+Algeria,Benin,1281.0,AF,AF
+Cameroon,Benin,5.0,AF,AF
+Egypt,Benin,256.0,AF,AF
+Ethiopia,Benin,12.0,AF,AF
+Kenya,Benin,1.0,AF,AF
+Morocco,Benin,1438.0,AF,AF
+Morocco,Benin,1690.0,AF,AF
+South Africa,Benin,1179.0,AF,AF
+South Africa,Benin,5939.0,AF,AF
+Tunisia,Benin,1832.0,AF,AF
+Tunisia,Benin,2538.0,AF,AF
+Burkina Faso,Benin,25.0,AF,AF
+Burkina Faso,Benin,928.0,AF,AF
+Ghana,Benin,2894.0,AF,AF
+Ghana,Benin,6375.0,AF,AF
+Niger,Benin,302.0,AF,AF
+Niger,Benin,2550.0,AF,AF
+Nigeria,Benin,3290.0,AF,AF
+Togo,Benin,15752.0,AF,AF
+Togo,Benin,38791.0,AF,AF
+Congo,Benin,77.0,AF,AF
+Congo,Benin,69.0,AF,AF
+Mali,Benin,3885.0,AF,AF
+Mauritius,Benin,48.0,AF,AF
+Mauritania,Benin,16.0,AF,AF
+Senegal,Benin,2929.0,AF,AF
+Senegal,Benin,4704.0,AF,AF
+Chad,Benin,10.0,AF,AF
+Egypt,Bermuda,4.0,AF,
+South Africa,Bermuda,167.0,AF,
+South Africa,Bermuda,158.0,AF,
+Algeria,Bosnia and Herzegovina,693.0,AF,EU
+Cameroon,Bosnia and Herzegovina,143.0,AF,EU
+Egypt,Bosnia and Herzegovina,2619.0,AF,EU
+Ethiopia,Bosnia and Herzegovina,124.0,AF,EU
+Ethiopia,Bosnia and Herzegovina,44.0,AF,EU
+Kenya,Bosnia and Herzegovina,259.0,AF,EU
+Morocco,Bosnia and Herzegovina,332.0,AF,EU
+Morocco,Bosnia and Herzegovina,10.0,AF,EU
+South Africa,Bosnia and Herzegovina,1021.0,AF,EU
+South Africa,Bosnia and Herzegovina,8862.0,AF,EU
+Tunisia,Bosnia and Herzegovina,380.0,AF,EU
+Tunisia,Bosnia and Herzegovina,467.0,AF,EU
+Uganda,Bosnia and Herzegovina,727.0,AF,EU
+Comoros,Bosnia and Herzegovina,2.0,AF,EU
+Ghana,Bosnia and Herzegovina,3874.0,AF,EU
+Madagascar,Bosnia and Herzegovina,50.0,AF,EU
+Malawi,Bosnia and Herzegovina,377.0,AF,EU
+Nigeria,Bosnia and Herzegovina,34.0,AF,EU
+Togo,Bosnia and Herzegovina,65.0,AF,EU
+Zimbabwe,Bosnia and Herzegovina,52.0,AF,EU
+Namibia,Bosnia and Herzegovina,18.0,AF,EU
+Congo,Bosnia and Herzegovina,3.0,AF,EU
+Rwanda,Bosnia and Herzegovina,1.0,AF,EU
+Sierra Leone,Bosnia and Herzegovina,3.0,AF,EU
+Mauritius,Bosnia and Herzegovina,129.0,AF,EU
+Mauritius,Bosnia and Herzegovina,151.0,AF,EU
+Zambia,Bosnia and Herzegovina,223.0,AF,EU
+Ethiopia,Botswana,15.0,AF,AF
+Ethiopia,Botswana,71.0,AF,AF
+Kenya,Botswana,2.0,AF,AF
+South Africa,Botswana,607341.0,AF,AF
+South Africa,Botswana,559105.0,AF,AF
+Ghana,Botswana,6.0,AF,AF
+Malawi,Botswana,3671.0,AF,AF
+Nigeria,Botswana,6.0,AF,AF
+Zimbabwe,Botswana,10208.0,AF,AF
+Zimbabwe,Botswana,12700.0,AF,AF
+Namibia,Botswana,7294.0,AF,AF
+Namibia,Botswana,6715.0,AF,AF
+Mozambique,Botswana,116.0,AF,AF
+Mauritius,Botswana,286.0,AF,AF
+Lesotho,Botswana,1065.0,AF,AF
+Zambia,Botswana,9546.0,AF,AF
+Angola,Botswana,3.0,AF,AF
+Gambia,Botswana,2.0,AF,AF
+Cameroon,Brazil,192.0,AF,SA
+Egypt,Brazil,17740.0,AF,SA
+Ethiopia,Brazil,502.0,AF,SA
+Kenya,Brazil,354.0,AF,SA
+Morocco,Brazil,3407.0,AF,SA
+Morocco,Brazil,2734.0,AF,SA
+South Africa,Brazil,7485.0,AF,SA
+South Africa,Brazil,8206.0,AF,SA
+Tunisia,Brazil,3749.0,AF,SA
+Tunisia,Brazil,3337.0,AF,SA
+Uganda,Brazil,4.0,AF,SA
+Comoros,Brazil,41.0,AF,SA
+Ghana,Brazil,185038.0,AF,SA
+Ghana,Brazil,200942.0,AF,SA
+Madagascar,Brazil,334.0,AF,SA
+Madagascar,Brazil,284.0,AF,SA
+Malawi,Brazil,1336.0,AF,SA
+Niger,Brazil,5440.0,AF,SA
+Nigeria,Brazil,283.0,AF,SA
+Togo,Brazil,24.0,AF,SA
+Zimbabwe,Brazil,2.0,AF,SA
+Namibia,Brazil,41.0,AF,SA
+Mozambique,Brazil,1248.0,AF,SA
+Rwanda,Brazil,1.0,AF,SA
+Somalia,Brazil,1.0,AF,SA
+Senegal,Brazil,3.0,AF,SA
+Senegal,Brazil,1.0,AF,SA
+Guinea-Bissau,Brazil,1292.0,AF,SA
+South Africa,Brunei Darussalam,52.0,AF,AS
+Niger,Brunei Darussalam,3.0,AF,AS
+Senegal,Brunei Darussalam,108.0,AF,AS
+Algeria,Bulgaria,338.0,AF,EU
+Algeria,Bulgaria,922.0,AF,EU
+Egypt,Bulgaria,3597.0,AF,EU
+Egypt,Bulgaria,95.0,AF,EU
+Ethiopia,Bulgaria,6122.0,AF,EU
+Ethiopia,Bulgaria,2228.0,AF,EU
+Kenya,Bulgaria,422.0,AF,EU
+Morocco,Bulgaria,27.0,AF,EU
+Morocco,Bulgaria,16.0,AF,EU
+South Africa,Bulgaria,1339.0,AF,EU
+South Africa,Bulgaria,988.0,AF,EU
+Tunisia,Bulgaria,392.0,AF,EU
+Tunisia,Bulgaria,496.0,AF,EU
+Uganda,Bulgaria,1333.0,AF,EU
+Ghana,Bulgaria,34620.0,AF,EU
+Ghana,Bulgaria,2.0,AF,EU
+Madagascar,Bulgaria,87.0,AF,EU
+Malawi,Bulgaria,1370.0,AF,EU
+Niger,Bulgaria,8.0,AF,EU
+Nigeria,Bulgaria,38.0,AF,EU
+Zimbabwe,Bulgaria,1024.0,AF,EU
+Namibia,Bulgaria,7.0,AF,EU
+Namibia,Bulgaria,4.0,AF,EU
+Mozambique,Bulgaria,17.0,AF,EU
+Mauritius,Bulgaria,3117.0,AF,EU
+Mauritius,Bulgaria,2221.0,AF,EU
+Senegal,Bulgaria,196.0,AF,EU
+Algeria,Burkina Faso,30.0,AF,AF
+Cameroon,Burkina Faso,498.0,AF,AF
+Egypt,Burkina Faso,1276.0,AF,AF
+Ethiopia,Burkina Faso,5.0,AF,AF
+Kenya,Burkina Faso,50.0,AF,AF
+Morocco,Burkina Faso,2190.0,AF,AF
+Morocco,Burkina Faso,3906.0,AF,AF
+South Africa,Burkina Faso,697.0,AF,AF
+South Africa,Burkina Faso,845.0,AF,AF
+Tunisia,Burkina Faso,977.0,AF,AF
+Tunisia,Burkina Faso,996.0,AF,AF
+Benin,Burkina Faso,1012.0,AF,AF
+Benin,Burkina Faso,383.0,AF,AF
+Ghana,Burkina Faso,15702.0,AF,AF
+Ghana,Burkina Faso,22141.0,AF,AF
+Madagascar,Burkina Faso,2.0,AF,AF
+Niger,Burkina Faso,280.0,AF,AF
+Niger,Burkina Faso,8506.0,AF,AF
+Nigeria,Burkina Faso,3692.0,AF,AF
+Togo,Burkina Faso,12101.0,AF,AF
+Togo,Burkina Faso,15995.0,AF,AF
+Mali,Burkina Faso,1511.0,AF,AF
+Mali,Burkina Faso,37213.0,AF,AF
+Senegal,Burkina Faso,10741.0,AF,AF
+Senegal,Burkina Faso,21628.0,AF,AF
+Ethiopia,Burundi,111.0,AF,AF
+South Africa,Burundi,163.0,AF,AF
+Madagascar,Burundi,412.0,AF,AF
+Mauritius,Burundi,35.0,AF,AF
+Senegal,Burundi,2.0,AF,AF
+Egypt,Cambodia,59.0,AF,AS
+Ethiopia,Cambodia,1.0,AF,AS
+Ethiopia,Cambodia,138.0,AF,AS
+Kenya,Cambodia,1.0,AF,AS
+Morocco,Cambodia,8224.0,AF,AS
+South Africa,Cambodia,530.0,AF,AS
+South Africa,Cambodia,1368.0,AF,AS
+Tunisia,Cambodia,63.0,AF,AS
+Malawi,Cambodia,124.0,AF,AS
+Nigeria,Cambodia,3.0,AF,AS
+Zimbabwe,Cambodia,103.0,AF,AS
+Mozambique,Cambodia,25.0,AF,AS
+Mali,Cambodia,5.0,AF,AS
+Algeria,Cameroon,284.0,AF,AF
+Ethiopia,Cameroon,34.0,AF,AF
+Morocco,Cameroon,3571.0,AF,AF
+South Africa,Cameroon,11486.0,AF,AF
+Tunisia,Cameroon,5500.0,AF,AF
+Benin,Cameroon,24.0,AF,AF
+Burkina Faso,Cameroon,109.0,AF,AF
+Ghana,Cameroon,1700.0,AF,AF
+Togo,Cameroon,423.0,AF,AF
+Namibia,Cameroon,1.0,AF,AF
+Mauritius,Cameroon,25.0,AF,AF
+Senegal,Cameroon,1768.0,AF,AF
+Algeria,Canada,2573.0,AF,
+Algeria,Canada,1473.0,AF,
+Cameroon,Canada,910.0,AF,
+Egypt,Canada,23190.0,AF,
+Egypt,Canada,25.0,AF,
+Ethiopia,Canada,22769.0,AF,
+Ethiopia,Canada,9418.0,AF,
+Kenya,Canada,15070.0,AF,
+Morocco,Canada,109195.0,AF,
+Morocco,Canada,44054.0,AF,
+South Africa,Canada,164768.0,AF,
+South Africa,Canada,143867.0,AF,
+Tunisia,Canada,28714.0,AF,
+Tunisia,Canada,22080.0,AF,
+Uganda,Canada,5597.0,AF,
+Benin,Canada,126.0,AF,
+Benin,Canada,1.0,AF,
+Burkina Faso,Canada,210.0,AF,
+Burkina Faso,Canada,289.0,AF,
+Burundi,Canada,264.0,AF,
+Comoros,Canada,18.0,AF,
+Ghana,Canada,45396.0,AF,
+Ghana,Canada,32161.0,AF,
+Guinea,Canada,177.0,AF,
+Madagascar,Canada,20270.0,AF,
+Madagascar,Canada,13808.0,AF,
+Malawi,Canada,3027.0,AF,
+Niger,Canada,17.0,AF,
+Niger,Canada,2.0,AF,
+Nigeria,Canada,41106.0,AF,
+Nigeria,Canada,7.0,AF,
+Togo,Canada,1210.0,AF,
+Togo,Canada,352.0,AF,
+Zimbabwe,Canada,476.0,AF,
+Zimbabwe,Canada,6.0,AF,
+Namibia,Canada,13.0,AF,
+Namibia,Canada,502.0,AF,
+Congo,Canada,159.0,AF,
+Djibouti,Canada,35.0,AF,
+Gabon,Canada,114.0,AF,
+Mozambique,Canada,1733.0,AF,
+Rwanda,Canada,1266.0,AF,
+Sierra Leone,Canada,70.0,AF,
+Mali,Canada,599.0,AF,
+Mali,Canada,12.0,AF,
+Mauritius,Canada,2498.0,AF,
+Mauritius,Canada,1064.0,AF,
+Lesotho,Canada,1.0,AF,
+Liberia,Canada,30051.0,AF,
+Mauritania,Canada,24.0,AF,
+Seychelles,Canada,106.0,AF,
+Somalia,Canada,159.0,AF,
+Zambia,Canada,75.0,AF,
+Angola,Canada,5.0,AF,
+Senegal,Canada,198.0,AF,
+Senegal,Canada,139.0,AF,
+Central African Republic,Canada,38.0,AF,
+Guinea-Bissau,Canada,2.0,AF,
+Botswana,Canada,27.0,AF,
+Ethiopia,Central African Republic,1.0,AF,AF
+Morocco,Central African Republic,153.0,AF,AF
+South Africa,Central African Republic,30.0,AF,AF
+Senegal,Central African Republic,6147.0,AF,AF
+Egypt,Chile,1043.0,AF,SA
+Ethiopia,Chile,72.0,AF,SA
+Ethiopia,Chile,121.0,AF,SA
+Kenya,Chile,4041.0,AF,SA
+Morocco,Chile,763.0,AF,SA
+Morocco,Chile,287.0,AF,SA
+South Africa,Chile,10954.0,AF,SA
+South Africa,Chile,9214.0,AF,SA
+Uganda,Chile,145.0,AF,SA
+Burundi,Chile,8.0,AF,SA
+Ghana,Chile,41.0,AF,SA
+Madagascar,Chile,33.0,AF,SA
+Malawi,Chile,172.0,AF,SA
+Namibia,Chile,3.0,AF,SA
+Rwanda,Chile,21.0,AF,SA
+Mauritius,Chile,10.0,AF,SA
+Mauritius,Chile,1.0,AF,SA
+Angola,Chile,68.0,AF,SA
+Algeria,Colombia,1.0,AF,SA
+Egypt,Colombia,363.0,AF,SA
+Ethiopia,Colombia,1.0,AF,SA
+Kenya,Colombia,1644.0,AF,SA
+Morocco,Colombia,415.0,AF,SA
+Morocco,Colombia,259.0,AF,SA
+South Africa,Colombia,1088.0,AF,SA
+South Africa,Colombia,1320.0,AF,SA
+Tunisia,Colombia,24.0,AF,SA
+Benin,Colombia,1.0,AF,SA
+Benin,Colombia,2016.0,AF,SA
+Comoros,Colombia,3.0,AF,SA
+Ghana,Colombia,86.0,AF,SA
+Madagascar,Colombia,9.0,AF,SA
+Malawi,Colombia,61.0,AF,SA
+Nigeria,Colombia,88.0,AF,SA
+Mozambique,Colombia,32.0,AF,SA
+Somalia,Colombia,5.0,AF,SA
+Senegal,Colombia,5.0,AF,SA
+Eritrea,Colombia,1.0,AF,SA
+Ethiopia,Comoros,320.0,AF,AF
+Morocco,Comoros,7.0,AF,AF
+South Africa,Comoros,2599.0,AF,AF
+Tunisia,Comoros,428.0,AF,AF
+Madagascar,Comoros,723.0,AF,AF
+Namibia,Comoros,2.0,AF,AF
+Mauritius,Comoros,43.0,AF,AF
+Mauritius,Comoros,2138.0,AF,AF
+Algeria,Congo,19.0,AF,AF
+Ethiopia,Congo,50.0,AF,AF
+Morocco,Congo,4026.0,AF,AF
+South Africa,Congo,16776.0,AF,AF
+Tunisia,Congo,3757.0,AF,AF
+Benin,Congo,4.0,AF,AF
+Ghana,Congo,1135.0,AF,AF
+Togo,Congo,150.0,AF,AF
+Zimbabwe,Congo,78.0,AF,AF
+Mali,Congo,8.0,AF,AF
+Senegal,Congo,32517.0,AF,AF
+Gambia,Congo,66.0,AF,AF
+Egypt,Costa Rica,155.0,AF,
+Ethiopia,Costa Rica,1.0,AF,
+Kenya,Costa Rica,23.0,AF,
+Morocco,Costa Rica,103.0,AF,
+South Africa,Costa Rica,209.0,AF,
+South Africa,Costa Rica,271.0,AF,
+Uganda,Costa Rica,1.0,AF,
+Burundi,Costa Rica,5.0,AF,
+Madagascar,Costa Rica,2.0,AF,
+Malawi,Costa Rica,115.0,AF,
+Mozambique,Costa Rica,280.0,AF,
+Algeria,Croatia,478.0,AF,EU
+Cameroon,Croatia,157.0,AF,EU
+Egypt,Croatia,3850.0,AF,EU
+Ethiopia,Croatia,360.0,AF,EU
+Ethiopia,Croatia,2.0,AF,EU
+Kenya,Croatia,4.0,AF,EU
+Morocco,Croatia,42.0,AF,EU
+Morocco,Croatia,33.0,AF,EU
+South Africa,Croatia,276.0,AF,EU
+South Africa,Croatia,363.0,AF,EU
+Tunisia,Croatia,249.0,AF,EU
+Tunisia,Croatia,146.0,AF,EU
+Uganda,Croatia,14.0,AF,EU
+Comoros,Croatia,1.0,AF,EU
+Ghana,Croatia,5.0,AF,EU
+Madagascar,Croatia,16.0,AF,EU
+Madagascar,Croatia,39.0,AF,EU
+Nigeria,Croatia,127.0,AF,EU
+Congo,Croatia,9.0,AF,EU
+Mozambique,Croatia,1083.0,AF,EU
+Mauritius,Croatia,354.0,AF,EU
+Mauritius,Croatia,372.0,AF,EU
+Algeria,Cyprus,4.0,AF,AS
+Algeria,Cyprus,852.0,AF,AS
+Cameroon,Cyprus,1.0,AF,AS
+Egypt,Cyprus,2848.0,AF,AS
+Ethiopia,Cyprus,58.0,AF,AS
+Ethiopia,Cyprus,2.0,AF,AS
+Kenya,Cyprus,2226.0,AF,AS
+Morocco,Cyprus,1.0,AF,AS
+South Africa,Cyprus,2035.0,AF,AS
+South Africa,Cyprus,1692.0,AF,AS
+Tunisia,Cyprus,86.0,AF,AS
+Tunisia,Cyprus,207.0,AF,AS
+Uganda,Cyprus,10.0,AF,AS
+Ghana,Cyprus,5.0,AF,AS
+Madagascar,Cyprus,101.0,AF,AS
+Madagascar,Cyprus,42.0,AF,AS
+Nigeria,Cyprus,1.0,AF,AS
+Togo,Cyprus,55.0,AF,AS
+Namibia,Cyprus,31.0,AF,AS
+Mozambique,Cyprus,28.0,AF,AS
+Mauritius,Cyprus,19.0,AF,AS
+Mauritius,Cyprus,36.0,AF,AS
+Botswana,Cyprus,423.0,AF,AS
+Botswana,Cyprus,370.0,AF,AS
+Cameroon,Denmark,6.0,AF,EU
+Egypt,Denmark,2250.0,AF,EU
+Egypt,Denmark,222.0,AF,EU
+Ethiopia,Denmark,799.0,AF,EU
+Ethiopia,Denmark,775.0,AF,EU
+Kenya,Denmark,1611.0,AF,EU
+Morocco,Denmark,1818.0,AF,EU
+Morocco,Denmark,1709.0,AF,EU
+South Africa,Denmark,43937.0,AF,EU
+South Africa,Denmark,49718.0,AF,EU
+Tunisia,Denmark,2162.0,AF,EU
+Tunisia,Denmark,1804.0,AF,EU
+Uganda,Denmark,1525.0,AF,EU
+Burkina Faso,Denmark,25647.0,AF,EU
+Ghana,Denmark,13.0,AF,EU
+Ghana,Denmark,10510.0,AF,EU
+Madagascar,Denmark,176.0,AF,EU
+Madagascar,Denmark,113.0,AF,EU
+Malawi,Denmark,4705.0,AF,EU
+Niger,Denmark,17.0,AF,EU
+Nigeria,Denmark,22.0,AF,EU
+Zimbabwe,Denmark,6.0,AF,EU
+Namibia,Denmark,468.0,AF,EU
+Namibia,Denmark,1197.0,AF,EU
+Congo,Denmark,149.0,AF,EU
+Djibouti,Denmark,100.0,AF,EU
+Mozambique,Denmark,1.0,AF,EU
+Rwanda,Denmark,356.0,AF,EU
+Mali,Denmark,37.0,AF,EU
+Mali,Denmark,146.0,AF,EU
+Mauritius,Denmark,821.0,AF,EU
+Mauritius,Denmark,881.0,AF,EU
+Seychelles,Denmark,21.0,AF,EU
+Zambia,Denmark,3386.0,AF,EU
+Gambia,Denmark,120.0,AF,EU
+Ethiopia,Djibouti,26735.0,AF,AF
+Morocco,Djibouti,498.0,AF,AF
+South Africa,Djibouti,1517.0,AF,AF
+Tunisia,Djibouti,23.0,AF,AF
+Ghana,Djibouti,65.0,AF,AF
+Senegal,Djibouti,23.0,AF,AF
+Egypt,Ecuador,25.0,AF,SA
+Kenya,Ecuador,860.0,AF,SA
+Morocco,Ecuador,2.0,AF,SA
+South Africa,Ecuador,65.0,AF,SA
+South Africa,Ecuador,7.0,AF,SA
+Tunisia,Ecuador,152.0,AF,SA
+Algeria,Egypt,27126.0,AF,AF
+Ethiopia,Egypt,1853.0,AF,AF
+Morocco,Egypt,24730.0,AF,AF
+South Africa,Egypt,6768.0,AF,AF
+Tunisia,Egypt,2044.0,AF,AF
+Benin,Egypt,13501.0,AF,AF
+Ghana,Egypt,5.0,AF,AF
+Madagascar,Egypt,2049.0,AF,AF
+Niger,Egypt,1473.0,AF,AF
+Zimbabwe,Egypt,156.0,AF,AF
+Mali,Egypt,63.0,AF,AF
+Mauritius,Egypt,130.0,AF,AF
+Senegal,Egypt,44.0,AF,AF
+Ethiopia,El Salvador,1314.0,AF,
+Ethiopia,El Salvador,852.0,AF,
+Morocco,El Salvador,79.0,AF,
+Morocco,El Salvador,105.0,AF,
+Nigeria,El Salvador,427.0,AF,
+Zimbabwe,El Salvador,13.0,AF,
+Algeria,Estonia,1.0,AF,EU
+Egypt,Estonia,474.0,AF,EU
+Ethiopia,Estonia,564.0,AF,EU
+Kenya,Estonia,5.0,AF,EU
+Morocco,Estonia,18.0,AF,EU
+Morocco,Estonia,15.0,AF,EU
+South Africa,Estonia,2034.0,AF,EU
+South Africa,Estonia,1145.0,AF,EU
+Uganda,Estonia,7.0,AF,EU
+Ghana,Estonia,5692.0,AF,EU
+Ghana,Estonia,71302.0,AF,EU
+Guinea,Estonia,160.0,AF,EU
+Nigeria,Estonia,94.0,AF,EU
+Togo,Estonia,80.0,AF,EU
+Zimbabwe,Estonia,159.0,AF,EU
+Algeria,Ethiopia,4.0,AF,AF
+Egypt,Ethiopia,42736.0,AF,AF
+Ethiopia,Ethiopia,566.0,AF,AF
+Kenya,Ethiopia,4804.0,AF,AF
+Morocco,Ethiopia,1.0,AF,AF
+South Africa,Ethiopia,7145.0,AF,AF
+South Africa,Ethiopia,6336.0,AF,AF
+Tunisia,Ethiopia,60.0,AF,AF
+Tunisia,Ethiopia,6608.0,AF,AF
+Uganda,Ethiopia,71.0,AF,AF
+Burkina Faso,Ethiopia,1.0,AF,AF
+Comoros,Ethiopia,8.0,AF,AF
+Madagascar,Ethiopia,16.0,AF,AF
+Malawi,Ethiopia,1113.0,AF,AF
+Nigeria,Ethiopia,1.0,AF,AF
+Zimbabwe,Ethiopia,11.0,AF,AF
+Zimbabwe,Ethiopia,22.0,AF,AF
+Namibia,Ethiopia,2.0,AF,AF
+Gabon,Ethiopia,2.0,AF,AF
+Mozambique,Ethiopia,1.0,AF,AF
+Mali,Ethiopia,269.0,AF,AF
+Somalia,Ethiopia,136.0,AF,AF
+Egypt,Fiji,55.0,AF,OC
+Kenya,Fiji,4.0,AF,OC
+Morocco,Fiji,20.0,AF,OC
+South Africa,Fiji,79.0,AF,OC
+South Africa,Fiji,46.0,AF,OC
+Madagascar,Fiji,19.0,AF,OC
+Malawi,Fiji,44.0,AF,OC
+Togo,Fiji,51.0,AF,OC
+Namibia,Fiji,75.0,AF,OC
+Mozambique,Fiji,1.0,AF,OC
+Cameroon,Finland,89.0,AF,EU
+Egypt,Finland,6870.0,AF,EU
+Ethiopia,Finland,4199.0,AF,EU
+Ethiopia,Finland,3668.0,AF,EU
+Kenya,Finland,17192.0,AF,EU
+Morocco,Finland,1605.0,AF,EU
+Morocco,Finland,232.0,AF,EU
+South Africa,Finland,16480.0,AF,EU
+South Africa,Finland,14943.0,AF,EU
+Tunisia,Finland,188.0,AF,EU
+Uganda,Finland,1929.0,AF,EU
+Burundi,Finland,1016.0,AF,EU
+Ghana,Finland,1.0,AF,EU
+Malawi,Finland,766.0,AF,EU
+Niger,Finland,3.0,AF,EU
+Nigeria,Finland,320.0,AF,EU
+Zimbabwe,Finland,3193.0,AF,EU
+Namibia,Finland,31.0,AF,EU
+Namibia,Finland,18.0,AF,EU
+Mozambique,Finland,7304.0,AF,EU
+Rwanda,Finland,2428.0,AF,EU
+Sierra Leone,Finland,56.0,AF,EU
+Liberia,Finland,2.0,AF,EU
+Zambia,Finland,151.0,AF,EU
+Central African Republic,Finland,37.0,AF,EU
+Algeria,France,34358.0,AF,EU
+Algeria,France,29421.0,AF,EU
+Cameroon,France,166309.0,AF,EU
+Egypt,France,51182.0,AF,EU
+Egypt,France,1169.0,AF,EU
+Ethiopia,France,40792.0,AF,EU
+Ethiopia,France,33498.0,AF,EU
+Kenya,France,75620.0,AF,EU
+Morocco,France,952079.0,AF,EU
+Morocco,France,871309.0,AF,EU
+South Africa,France,111725.0,AF,EU
+South Africa,France,81709.0,AF,EU
+Tunisia,France,121355.0,AF,EU
+Tunisia,France,135990.0,AF,EU
+Uganda,France,10789.0,AF,EU
+Benin,France,2838.0,AF,EU
+Benin,France,1495.0,AF,EU
+Burkina Faso,France,12125.0,AF,EU
+Burkina Faso,France,53287.0,AF,EU
+Burundi,France,2441.0,AF,EU
+Comoros,France,9195.0,AF,EU
+Ghana,France,203582.0,AF,EU
+Ghana,France,88783.0,AF,EU
+Guinea,France,6795.0,AF,EU
+Madagascar,France,170706.0,AF,EU
+Madagascar,France,181301.0,AF,EU
+Malawi,France,736.0,AF,EU
+Niger,France,6.0,AF,EU
+Niger,France,4088.0,AF,EU
+Nigeria,France,20703.0,AF,EU
+Togo,France,8285.0,AF,EU
+Togo,France,2717.0,AF,EU
+Zimbabwe,France,21331.0,AF,EU
+Zimbabwe,France,127.0,AF,EU
+Namibia,France,3171.0,AF,EU
+Namibia,France,1250.0,AF,EU
+Congo,France,1853.0,AF,EU
+Djibouti,France,73.0,AF,EU
+Gabon,France,3557.0,AF,EU
+Mozambique,France,552.0,AF,EU
+Rwanda,France,2535.0,AF,EU
+Sierra Leone,France,1022.0,AF,EU
+Mali,France,4101.0,AF,EU
+Mali,France,6307.0,AF,EU
+Mauritius,France,35379.0,AF,EU
+Mauritius,France,37362.0,AF,EU
+Liberia,France,3584.0,AF,EU
+Mauritania,France,113.0,AF,EU
+Sao Tome and Principe,France,815.0,AF,EU
+Sao Tome and Principe,France,8.0,AF,EU
+Seychelles,France,1.0,AF,EU
+Seychelles,France,3.0,AF,EU
+Zambia,France,415.0,AF,EU
+Angola,France,1.0,AF,EU
+Senegal,France,20552.0,AF,EU
+Senegal,France,16109.0,AF,EU
+Chad,France,321.0,AF,EU
+Gambia,France,6010.0,AF,EU
+Gambia,France,67.0,AF,EU
+Central African Republic,France,323.0,AF,EU
+Botswana,France,2.0,AF,EU
+Algeria,Gabon,6.0,AF,AF
+Ethiopia,Gabon,6.0,AF,AF
+Morocco,Gabon,6515.0,AF,AF
+South Africa,Gabon,1.0,AF,AF
+South Africa,Gabon,11830.0,AF,AF
+Tunisia,Gabon,6366.0,AF,AF
+Benin,Gabon,96.0,AF,AF
+Burkina Faso,Gabon,2.0,AF,AF
+Ghana,Gabon,1932.0,AF,AF
+Niger,Gabon,6.0,AF,AF
+Togo,Gabon,547.0,AF,AF
+Mali,Gabon,88.0,AF,AF
+Sao Tome and Principe,Gabon,10.0,AF,AF
+Senegal,Gabon,6006.0,AF,AF
+Algeria,Gambia,84.0,AF,AF
+Algeria,Gambia,359.0,AF,AF
+Egypt,Gambia,672.0,AF,AF
+Ethiopia,Gambia,3.0,AF,AF
+Morocco,Gambia,85.0,AF,AF
+Morocco,Gambia,707.0,AF,AF
+South Africa,Gambia,1325.0,AF,AF
+South Africa,Gambia,2736.0,AF,AF
+Tunisia,Gambia,129.0,AF,AF
+Tunisia,Gambia,1545.0,AF,AF
+Benin,Gambia,4.0,AF,AF
+Ghana,Gambia,253.0,AF,AF
+Ghana,Gambia,834.0,AF,AF
+Guinea,Gambia,438.0,AF,AF
+Nigeria,Gambia,266.0,AF,AF
+Togo,Gambia,22.0,AF,AF
+Togo,Gambia,78.0,AF,AF
+Djibouti,Gambia,742.0,AF,AF
+Sierra Leone,Gambia,25.0,AF,AF
+Mali,Gambia,8.0,AF,AF
+Liberia,Gambia,27.0,AF,AF
+Senegal,Gambia,1910.0,AF,AF
+Senegal,Gambia,18869.0,AF,AF
+Algeria,Georgia,4.0,AF,AS
+Algeria,Georgia,668.0,AF,AS
+Egypt,Georgia,1197.0,AF,AS
+Ethiopia,Georgia,2.0,AF,AS
+Ethiopia,Georgia,67.0,AF,AS
+Kenya,Georgia,133.0,AF,AS
+South Africa,Georgia,1239.0,AF,AS
+South Africa,Georgia,6715.0,AF,AS
+Malawi,Georgia,27.0,AF,AS
+Nigeria,Georgia,13.0,AF,AS
+Namibia,Georgia,9.0,AF,AS
+Senegal,Georgia,35.0,AF,AS
+Gambia,Georgia,9.0,AF,AS
+Algeria,Germany,4817.0,AF,EU
+Algeria,Germany,4262.0,AF,EU
+Cameroon,Germany,35183.0,AF,EU
+Egypt,Germany,140023.0,AF,EU
+Ethiopia,Germany,154474.0,AF,EU
+Ethiopia,Germany,102278.0,AF,EU
+Kenya,Germany,133986.0,AF,EU
+Morocco,Germany,55059.0,AF,EU
+Morocco,Germany,59195.0,AF,EU
+South Africa,Germany,252395.0,AF,EU
+South Africa,Germany,255747.0,AF,EU
+Tunisia,Germany,28569.0,AF,EU
+Tunisia,Germany,26453.0,AF,EU
+Uganda,Germany,93204.0,AF,EU
+Benin,Germany,374.0,AF,EU
+Benin,Germany,659.0,AF,EU
+Burkina Faso,Germany,7623.0,AF,EU
+Burkina Faso,Germany,9330.0,AF,EU
+Burundi,Germany,13019.0,AF,EU
+Comoros,Germany,4450.0,AF,EU
+Ghana,Germany,166895.0,AF,EU
+Ghana,Germany,140190.0,AF,EU
+Guinea,Germany,14371.0,AF,EU
+Madagascar,Germany,114986.0,AF,EU
+Madagascar,Germany,107730.0,AF,EU
+Malawi,Germany,46764.0,AF,EU
+Niger,Germany,2.0,AF,EU
+Niger,Germany,640.0,AF,EU
+Nigeria,Germany,115269.0,AF,EU
+Togo,Germany,3282.0,AF,EU
+Togo,Germany,1563.0,AF,EU
+Zimbabwe,Germany,23949.0,AF,EU
+Zimbabwe,Germany,168.0,AF,EU
+Namibia,Germany,1310.0,AF,EU
+Namibia,Germany,6984.0,AF,EU
+Congo,Germany,7920.0,AF,EU
+Djibouti,Germany,322.0,AF,EU
+Gabon,Germany,1504.0,AF,EU
+Mozambique,Germany,11609.0,AF,EU
+Rwanda,Germany,7665.0,AF,EU
+Sierra Leone,Germany,3020.0,AF,EU
+Mali,Germany,751.0,AF,EU
+Mali,Germany,540.0,AF,EU
+Mauritius,Germany,6680.0,AF,EU
+Mauritius,Germany,19130.0,AF,EU
+Lesotho,Germany,1545.0,AF,EU
+Liberia,Germany,3138.0,AF,EU
+Sao Tome and Principe,Germany,425.0,AF,EU
+Seychelles,Germany,9.0,AF,EU
+Seychelles,Germany,40.0,AF,EU
+Somalia,Germany,108.0,AF,EU
+Zambia,Germany,7556.0,AF,EU
+Angola,Germany,2.0,AF,EU
+Senegal,Germany,3554.0,AF,EU
+Senegal,Germany,4689.0,AF,EU
+Chad,Germany,2871.0,AF,EU
+Gambia,Germany,9.0,AF,EU
+Central African Republic,Germany,330.0,AF,EU
+Botswana,Germany,5.0,AF,EU
+Botswana,Germany,49.0,AF,EU
+Algeria,Ghana,1714.0,AF,AF
+Algeria,Ghana,1818.0,AF,AF
+Cameroon,Ghana,1.0,AF,AF
+Egypt,Ghana,8052.0,AF,AF
+Ethiopia,Ghana,4.0,AF,AF
+Ethiopia,Ghana,44.0,AF,AF
+Kenya,Ghana,831.0,AF,AF
+Morocco,Ghana,7708.0,AF,AF
+Morocco,Ghana,13266.0,AF,AF
+South Africa,Ghana,35144.0,AF,AF
+South Africa,Ghana,35386.0,AF,AF
+Tunisia,Ghana,2881.0,AF,AF
+Tunisia,Ghana,2357.0,AF,AF
+Uganda,Ghana,3.0,AF,AF
+Benin,Ghana,26.0,AF,AF
+Benin,Ghana,212.0,AF,AF
+Burkina Faso,Ghana,5799.0,AF,AF
+Burkina Faso,Ghana,29172.0,AF,AF
+Ghana,Ghana,3829.0,AF,AF
+Malawi,Ghana,33.0,AF,AF
+Niger,Ghana,7415.0,AF,AF
+Niger,Ghana,4408.0,AF,AF
+Nigeria,Ghana,7355.0,AF,AF
+Nigeria,Ghana,1.0,AF,AF
+Togo,Ghana,16455.0,AF,AF
+Togo,Ghana,6498.0,AF,AF
+Zimbabwe,Ghana,9.0,AF,AF
+Zimbabwe,Ghana,10.0,AF,AF
+Congo,Ghana,212.0,AF,AF
+Gabon,Ghana,252.0,AF,AF
+Rwanda,Ghana,8.0,AF,AF
+Sierra Leone,Ghana,19.0,AF,AF
+Mali,Ghana,14.0,AF,AF
+Mali,Ghana,2141.0,AF,AF
+Mauritius,Ghana,3069.0,AF,AF
+Mauritius,Ghana,198.0,AF,AF
+Liberia,Ghana,5.0,AF,AF
+Mauritania,Ghana,29.0,AF,AF
+Angola,Ghana,126.0,AF,AF
+Senegal,Ghana,328.0,AF,AF
+Senegal,Ghana,3551.0,AF,AF
+Gambia,Ghana,17.0,AF,AF
+Algeria,Greece,3050.0,AF,EU
+Algeria,Greece,4492.0,AF,EU
+Cameroon,Greece,118.0,AF,EU
+Egypt,Greece,27430.0,AF,EU
+Ethiopia,Greece,8242.0,AF,EU
+Ethiopia,Greece,5876.0,AF,EU
+Kenya,Greece,2245.0,AF,EU
+Morocco,Greece,1287.0,AF,EU
+Morocco,Greece,6340.0,AF,EU
+South Africa,Greece,7836.0,AF,EU
+South Africa,Greece,8195.0,AF,EU
+Tunisia,Greece,1464.0,AF,EU
+Tunisia,Greece,1899.0,AF,EU
+Uganda,Greece,789.0,AF,EU
+Benin,Greece,45.0,AF,EU
+Burkina Faso,Greece,722.0,AF,EU
+Burkina Faso,Greece,42718.0,AF,EU
+Comoros,Greece,357.0,AF,EU
+Ghana,Greece,142.0,AF,EU
+Ghana,Greece,60.0,AF,EU
+Guinea,Greece,8.0,AF,EU
+Madagascar,Greece,532.0,AF,EU
+Madagascar,Greece,1266.0,AF,EU
+Malawi,Greece,7909.0,AF,EU
+Nigeria,Greece,8299.0,AF,EU
+Togo,Greece,219.0,AF,EU
+Togo,Greece,211.0,AF,EU
+Zimbabwe,Greece,5497.0,AF,EU
+Namibia,Greece,88.0,AF,EU
+Namibia,Greece,198.0,AF,EU
+Mozambique,Greece,4756.0,AF,EU
+Rwanda,Greece,140.0,AF,EU
+Mauritius,Greece,24572.0,AF,EU
+Mauritius,Greece,19442.0,AF,EU
+Liberia,Greece,52.0,AF,EU
+Somalia,Greece,121.0,AF,EU
+Zambia,Greece,305.0,AF,EU
+Senegal,Greece,6.0,AF,EU
+Chad,Greece,219.0,AF,EU
+Botswana,Greece,3901.0,AF,EU
+Botswana,Greece,6183.0,AF,EU
+Egypt,Greenland,31.0,AF,
+Kenya,Greenland,12.0,AF,
+Morocco,Greenland,1.0,AF,
+South Africa,Greenland,321.0,AF,
+Tunisia,Greenland,4.0,AF,
+Uganda,Greenland,1.0,AF,
+Burkina Faso,Greenland,1.0,AF,
+Madagascar,Greenland,4.0,AF,
+Zimbabwe,Greenland,5.0,AF,
+Namibia,Greenland,1.0,AF,
+Djibouti,Greenland,3.0,AF,
+Sierra Leone,Greenland,12.0,AF,
+Mauritius,Greenland,1.0,AF,
+Zambia,Greenland,5.0,AF,
+Algeria,Guinea,2212.0,AF,AF
+Ethiopia,Guinea,13.0,AF,AF
+Morocco,Guinea,8167.0,AF,AF
+South Africa,Guinea,3824.0,AF,AF
+Tunisia,Guinea,3240.0,AF,AF
+Benin,Guinea,11.0,AF,AF
+Ghana,Guinea,1470.0,AF,AF
+Niger,Guinea,20.0,AF,AF
+Togo,Guinea,671.0,AF,AF
+Mali,Guinea,14936.0,AF,AF
+Senegal,Guinea,358.0,AF,AF
+Senegal,Guinea,19985.0,AF,AF
+Gambia,Guinea,92.0,AF,AF
+Egypt,Guyana,36.0,AF,SA
+Morocco,Guyana,163.0,AF,SA
+Morocco,Guyana,131.0,AF,SA
+South Africa,Guyana,32.0,AF,SA
+South Africa,Guyana,61.0,AF,SA
+Tunisia,Guyana,12.0,AF,SA
+Comoros,Guyana,9.0,AF,SA
+Madagascar,Guyana,13.0,AF,SA
+Mauritius,Guyana,1.0,AF,SA
+Egypt,Honduras,32.0,AF,
+Morocco,Honduras,4.0,AF,
+South Africa,Honduras,140.0,AF,
+South Africa,Honduras,139.0,AF,
+Uganda,Honduras,279.0,AF,
+Nigeria,Honduras,155.0,AF,
+Zimbabwe,Honduras,410.0,AF,
+Namibia,Honduras,1.0,AF,
+Cameroon,Hungary,1398.0,AF,EU
+Egypt,Hungary,3840.0,AF,EU
+Ethiopia,Hungary,528.0,AF,EU
+Ethiopia,Hungary,436.0,AF,EU
+Kenya,Hungary,382.0,AF,EU
+Morocco,Hungary,497.0,AF,EU
+Morocco,Hungary,539.0,AF,EU
+South Africa,Hungary,575.0,AF,EU
+South Africa,Hungary,119.0,AF,EU
+Tunisia,Hungary,736.0,AF,EU
+Tunisia,Hungary,668.0,AF,EU
+Uganda,Hungary,903.0,AF,EU
+Ghana,Hungary,1305.0,AF,EU
+Ghana,Hungary,377.0,AF,EU
+Guinea,Hungary,3.0,AF,EU
+Madagascar,Hungary,16.0,AF,EU
+Madagascar,Hungary,16.0,AF,EU
+Malawi,Hungary,518.0,AF,EU
+Nigeria,Hungary,1.0,AF,EU
+Togo,Hungary,12.0,AF,EU
+Zimbabwe,Hungary,1832.0,AF,EU
+Namibia,Hungary,78.0,AF,EU
+Namibia,Hungary,34.0,AF,EU
+Gabon,Hungary,130.0,AF,EU
+Mozambique,Hungary,1798.0,AF,EU
+Mauritius,Hungary,279.0,AF,EU
+Liberia,Hungary,654.0,AF,EU
+Somalia,Hungary,4.0,AF,EU
+Zambia,Hungary,17.0,AF,EU
+Botswana,Hungary,2.0,AF,EU
+Botswana,Hungary,8.0,AF,EU
+Algeria,Iceland,2.0,AF,EU
+Egypt,Iceland,753.0,AF,EU
+Ethiopia,Iceland,237.0,AF,EU
+Kenya,Iceland,654.0,AF,EU
+Morocco,Iceland,294.0,AF,EU
+South Africa,Iceland,4363.0,AF,EU
+South Africa,Iceland,43.0,AF,EU
+Tunisia,Iceland,133.0,AF,EU
+Uganda,Iceland,25.0,AF,EU
+Burkina Faso,Iceland,43.0,AF,EU
+Comoros,Iceland,14.0,AF,EU
+Ghana,Iceland,4.0,AF,EU
+Madagascar,Iceland,59.0,AF,EU
+Malawi,Iceland,13.0,AF,EU
+Nigeria,Iceland,1.0,AF,EU
+Zimbabwe,Iceland,45.0,AF,EU
+Namibia,Iceland,202.0,AF,EU
+Mozambique,Iceland,1.0,AF,EU
+Rwanda,Iceland,24.0,AF,EU
+Sierra Leone,Iceland,1.0,AF,EU
+Mali,Iceland,41.0,AF,EU
+Mauritius,Iceland,30.0,AF,EU
+Zambia,Iceland,5.0,AF,EU
+Senegal,Iceland,44.0,AF,EU
+Senegal,Iceland,53.0,AF,EU
+Algeria,Indonesia,52.0,AF,AS
+Algeria,Indonesia,69.0,AF,AS
+Cameroon,Indonesia,16475.0,AF,AS
+Egypt,Indonesia,26938.0,AF,AS
+Ethiopia,Indonesia,21848.0,AF,AS
+Ethiopia,Indonesia,8648.0,AF,AS
+Kenya,Indonesia,5896.0,AF,AS
+Morocco,Indonesia,138.0,AF,AS
+Morocco,Indonesia,76.0,AF,AS
+South Africa,Indonesia,31019.0,AF,AS
+South Africa,Indonesia,17745.0,AF,AS
+Tunisia,Indonesia,11364.0,AF,AS
+Tunisia,Indonesia,10741.0,AF,AS
+Uganda,Indonesia,14531.0,AF,AS
+Benin,Indonesia,18733.0,AF,AS
+Benin,Indonesia,4525.0,AF,AS
+Burkina Faso,Indonesia,28085.0,AF,AS
+Comoros,Indonesia,1703.0,AF,AS
+Ghana,Indonesia,5925.0,AF,AS
+Ghana,Indonesia,4790.0,AF,AS
+Guinea,Indonesia,834.0,AF,AS
+Madagascar,Indonesia,54280.0,AF,AS
+Madagascar,Indonesia,9172.0,AF,AS
+Malawi,Indonesia,7776.0,AF,AS
+Niger,Indonesia,16969.0,AF,AS
+Nigeria,Indonesia,3918.0,AF,AS
+Togo,Indonesia,6729.0,AF,AS
+Togo,Indonesia,6767.0,AF,AS
+Zimbabwe,Indonesia,32207.0,AF,AS
+Djibouti,Indonesia,148.0,AF,AS
+Mozambique,Indonesia,7373.0,AF,AS
+Rwanda,Indonesia,2.0,AF,AS
+Mali,Indonesia,26731.0,AF,AS
+Mali,Indonesia,20304.0,AF,AS
+Liberia,Indonesia,738.0,AF,AS
+Mauritania,Indonesia,6.0,AF,AS
+Seychelles,Indonesia,675.0,AF,AS
+Zambia,Indonesia,16234.0,AF,AS
+Senegal,Indonesia,1797.0,AF,AS
+Senegal,Indonesia,869.0,AF,AS
+Chad,Indonesia,2106.0,AF,AS
+Gambia,Indonesia,9.0,AF,AS
+Central African Republic,Indonesia,4059.0,AF,AS
+Algeria,Ireland,6.0,AF,EU
+Cameroon,Ireland,2.0,AF,EU
+Egypt,Ireland,6694.0,AF,EU
+Ethiopia,Ireland,706.0,AF,EU
+Ethiopia,Ireland,473.0,AF,EU
+Kenya,Ireland,14660.0,AF,EU
+Morocco,Ireland,4650.0,AF,EU
+Morocco,Ireland,679.0,AF,EU
+South Africa,Ireland,22897.0,AF,EU
+South Africa,Ireland,20102.0,AF,EU
+Tunisia,Ireland,30.0,AF,EU
+Tunisia,Ireland,20.0,AF,EU
+Uganda,Ireland,161.0,AF,EU
+Benin,Ireland,1.0,AF,EU
+Benin,Ireland,7.0,AF,EU
+Burkina Faso,Ireland,15.0,AF,EU
+Burkina Faso,Ireland,32.0,AF,EU
+Ghana,Ireland,34.0,AF,EU
+Ghana,Ireland,10.0,AF,EU
+Madagascar,Ireland,7.0,AF,EU
+Malawi,Ireland,5.0,AF,EU
+Nigeria,Ireland,1149.0,AF,EU
+Zimbabwe,Ireland,301.0,AF,EU
+Zimbabwe,Ireland,92.0,AF,EU
+Namibia,Ireland,31.0,AF,EU
+Namibia,Ireland,261.0,AF,EU
+Djibouti,Ireland,106.0,AF,EU
+Mozambique,Ireland,1.0,AF,EU
+Mali,Ireland,224.0,AF,EU
+Mauritius,Ireland,2789.0,AF,EU
+Mauritius,Ireland,598.0,AF,EU
+Mauritania,Ireland,1.0,AF,EU
+Seychelles,Ireland,1.0,AF,EU
+Somalia,Ireland,8.0,AF,EU
+Zambia,Ireland,3.0,AF,EU
+Egypt,Israel,21623.0,AF,AS
+Ethiopia,Israel,45799.0,AF,AS
+Ethiopia,Israel,6085.0,AF,AS
+Kenya,Israel,1832.0,AF,AS
+Morocco,Israel,4107.0,AF,AS
+South Africa,Israel,26357.0,AF,AS
+South Africa,Israel,20516.0,AF,AS
+Tunisia,Israel,1141.0,AF,AS
+Uganda,Israel,79.0,AF,AS
+Ghana,Israel,439.0,AF,AS
+Ghana,Israel,12.0,AF,AS
+Madagascar,Israel,290.0,AF,AS
+Madagascar,Israel,156.0,AF,AS
+Nigeria,Israel,2221.0,AF,AS
+Namibia,Israel,84.0,AF,AS
+Namibia,Israel,189.0,AF,AS
+Djibouti,Israel,66.0,AF,AS
+Mauritius,Israel,1277.0,AF,AS
+Mauritius,Israel,1636.0,AF,AS
+Mauritania,Israel,77.0,AF,AS
+Algeria,Italy,34178.0,AF,EU
+Algeria,Italy,18536.0,AF,EU
+Cameroon,Italy,34360.0,AF,EU
+Egypt,Italy,153031.0,AF,EU
+Egypt,Italy,59.0,AF,EU
+Ethiopia,Italy,42576.0,AF,EU
+Ethiopia,Italy,43569.0,AF,EU
+Kenya,Italy,11563.0,AF,EU
+Morocco,Italy,46304.0,AF,EU
+Morocco,Italy,44322.0,AF,EU
+South Africa,Italy,110260.0,AF,EU
+South Africa,Italy,88305.0,AF,EU
+Tunisia,Italy,231433.0,AF,EU
+Tunisia,Italy,215876.0,AF,EU
+Uganda,Italy,90942.0,AF,EU
+Benin,Italy,3771.0,AF,EU
+Benin,Italy,2506.0,AF,EU
+Burkina Faso,Italy,2609.0,AF,EU
+Burkina Faso,Italy,2096.0,AF,EU
+Burundi,Italy,977.0,AF,EU
+Comoros,Italy,186.0,AF,EU
+Ghana,Italy,61618.0,AF,EU
+Ghana,Italy,53992.0,AF,EU
+Guinea,Italy,3702.0,AF,EU
+Madagascar,Italy,3049.0,AF,EU
+Madagascar,Italy,1590.0,AF,EU
+Malawi,Italy,13255.0,AF,EU
+Niger,Italy,550.0,AF,EU
+Nigeria,Italy,14406.0,AF,EU
+Togo,Italy,10998.0,AF,EU
+Togo,Italy,3580.0,AF,EU
+Zimbabwe,Italy,437.0,AF,EU
+Namibia,Italy,5630.0,AF,EU
+Namibia,Italy,3102.0,AF,EU
+Congo,Italy,5786.0,AF,EU
+Djibouti,Italy,764.0,AF,EU
+Gabon,Italy,2151.0,AF,EU
+Mozambique,Italy,4103.0,AF,EU
+Rwanda,Italy,2886.0,AF,EU
+Sierra Leone,Italy,17.0,AF,EU
+Mali,Italy,785.0,AF,EU
+Mali,Italy,4178.0,AF,EU
+Mauritius,Italy,79493.0,AF,EU
+Mauritius,Italy,73604.0,AF,EU
+Liberia,Italy,3128.0,AF,EU
+Mauritania,Italy,35.0,AF,EU
+Sao Tome and Principe,Italy,485.0,AF,EU
+Zambia,Italy,14936.0,AF,EU
+Senegal,Italy,10912.0,AF,EU
+Senegal,Italy,7509.0,AF,EU
+Eritrea,Italy,35.0,AF,EU
+Guinea-Bissau,Italy,97.0,AF,EU
+Botswana,Italy,9338.0,AF,EU
+Botswana,Italy,8428.0,AF,EU
+Egypt,Jamaica,177.0,AF,
+South Africa,Jamaica,334.0,AF,
+South Africa,Jamaica,672.0,AF,
+Tunisia,Jamaica,24.0,AF,
+Tunisia,Jamaica,49.0,AF,
+Madagascar,Jamaica,19.0,AF,
+Madagascar,Jamaica,8.0,AF,
+Niger,Jamaica,3.0,AF,
+Nigeria,Jamaica,15.0,AF,
+Zimbabwe,Jamaica,2.0,AF,
+Algeria,Japan,6.0,AF,AS
+Algeria,Japan,7.0,AF,AS
+Cameroon,Japan,1612.0,AF,AS
+Egypt,Japan,20307.0,AF,AS
+Ethiopia,Japan,73652.0,AF,AS
+Ethiopia,Japan,57584.0,AF,AS
+Kenya,Japan,35531.0,AF,AS
+Morocco,Japan,24576.0,AF,AS
+Morocco,Japan,19958.0,AF,AS
+South Africa,Japan,117644.0,AF,AS
+South Africa,Japan,103562.0,AF,AS
+Tunisia,Japan,2270.0,AF,AS
+Tunisia,Japan,1164.0,AF,AS
+Uganda,Japan,7148.0,AF,AS
+Benin,Japan,22.0,AF,AS
+Burkina Faso,Japan,13109.0,AF,AS
+Burkina Faso,Japan,15891.0,AF,AS
+Burundi,Japan,1107.0,AF,AS
+Comoros,Japan,38.0,AF,AS
+Ghana,Japan,178549.0,AF,AS
+Ghana,Japan,150180.0,AF,AS
+Guinea,Japan,170.0,AF,AS
+Madagascar,Japan,15178.0,AF,AS
+Madagascar,Japan,3488.0,AF,AS
+Malawi,Japan,12116.0,AF,AS
+Niger,Japan,165.0,AF,AS
+Nigeria,Japan,58392.0,AF,AS
+Togo,Japan,189.0,AF,AS
+Togo,Japan,2.0,AF,AS
+Zimbabwe,Japan,9823.0,AF,AS
+Zimbabwe,Japan,2.0,AF,AS
+Namibia,Japan,3.0,AF,AS
+Namibia,Japan,5.0,AF,AS
+Congo,Japan,5.0,AF,AS
+Mozambique,Japan,10336.0,AF,AS
+Rwanda,Japan,1689.0,AF,AS
+Sierra Leone,Japan,60.0,AF,AS
+Mali,Japan,24.0,AF,AS
+Mali,Japan,29.0,AF,AS
+Mauritius,Japan,600.0,AF,AS
+Mauritius,Japan,727.0,AF,AS
+Equatorial Guinea,Japan,7.0,AF,AS
+Mauritania,Japan,7.0,AF,AS
+Sao Tome and Principe,Japan,50.0,AF,AS
+Seychelles,Japan,13.0,AF,AS
+Seychelles,Japan,13.0,AF,AS
+Somalia,Japan,978.0,AF,AS
+Zambia,Japan,12284.0,AF,AS
+Senegal,Japan,977.0,AF,AS
+Senegal,Japan,100.0,AF,AS
+Botswana,Japan,8.0,AF,AS
+Botswana,Japan,3.0,AF,AS
+Algeria,Jordan,15798.0,AF,AS
+Algeria,Jordan,15395.0,AF,AS
+Egypt,Jordan,177861.0,AF,AS
+Egypt,Jordan,254.0,AF,AS
+Ethiopia,Jordan,26497.0,AF,AS
+Ethiopia,Jordan,9738.0,AF,AS
+Kenya,Jordan,10943.0,AF,AS
+Morocco,Jordan,8032.0,AF,AS
+Morocco,Jordan,8470.0,AF,AS
+South Africa,Jordan,23952.0,AF,AS
+South Africa,Jordan,18317.0,AF,AS
+Tunisia,Jordan,3621.0,AF,AS
+Tunisia,Jordan,3344.0,AF,AS
+Uganda,Jordan,57.0,AF,AS
+Burkina Faso,Jordan,117.0,AF,AS
+Ghana,Jordan,640.0,AF,AS
+Guinea,Jordan,526.0,AF,AS
+Madagascar,Jordan,79.0,AF,AS
+Madagascar,Jordan,42.0,AF,AS
+Malawi,Jordan,1104.0,AF,AS
+Nigeria,Jordan,951.0,AF,AS
+Zimbabwe,Jordan,3010.0,AF,AS
+Congo,Jordan,275.0,AF,AS
+Mozambique,Jordan,121.0,AF,AS
+Sierra Leone,Jordan,12.0,AF,AS
+Mali,Jordan,6.0,AF,AS
+Mauritius,Jordan,18.0,AF,AS
+Mauritius,Jordan,16.0,AF,AS
+Zambia,Jordan,332.0,AF,AS
+Senegal,Jordan,4.0,AF,AS
+Senegal,Jordan,9.0,AF,AS
+Guinea-Bissau,Jordan,1239.0,AF,AS
+Algeria,Kazakhstan,2.0,AF,AS
+Egypt,Kazakhstan,2996.0,AF,AS
+Ethiopia,Kazakhstan,32.0,AF,AS
+Kenya,Kazakhstan,46868.0,AF,AS
+Morocco,Kazakhstan,627.0,AF,AS
+Morocco,Kazakhstan,16.0,AF,AS
+South Africa,Kazakhstan,1060.0,AF,AS
+South Africa,Kazakhstan,114.0,AF,AS
+Tunisia,Kazakhstan,78.0,AF,AS
+Tunisia,Kazakhstan,377.0,AF,AS
+Uganda,Kazakhstan,126.0,AF,AS
+Burundi,Kazakhstan,11.0,AF,AS
+Comoros,Kazakhstan,9.0,AF,AS
+Ghana,Kazakhstan,28526.0,AF,AS
+Madagascar,Kazakhstan,18.0,AF,AS
+Malawi,Kazakhstan,1392.0,AF,AS
+Nigeria,Kazakhstan,17.0,AF,AS
+Zimbabwe,Kazakhstan,1138.0,AF,AS
+Namibia,Kazakhstan,1.0,AF,AS
+Mozambique,Kazakhstan,1307.0,AF,AS
+Zambia,Kazakhstan,758.0,AF,AS
+Algeria,Kenya,1202.0,AF,AF
+Ethiopia,Kenya,12509.0,AF,AF
+Morocco,Kenya,177.0,AF,AF
+South Africa,Kenya,54233.0,AF,AF
+Tunisia,Kenya,57.0,AF,AF
+Ghana,Kenya,30.0,AF,AF
+Madagascar,Kenya,6095.0,AF,AF
+Zimbabwe,Kenya,11010.0,AF,AF
+Namibia,Kenya,246.0,AF,AF
+Mauritius,Kenya,24769.0,AF,AF
+Seychelles,Kenya,1.0,AF,AF
+Morocco,Kiribati,7.0,AF,OC
+Mali,Kiribati,59.0,AF,OC
+Mauritius,Kiribati,62.0,AF,OC
+Algeria,Kuwait,245.0,AF,AS
+Algeria,Kuwait,180.0,AF,AS
+Cameroon,Kuwait,9.0,AF,AS
+Egypt,Kuwait,228904.0,AF,AS
+Egypt,Kuwait,1931.0,AF,AS
+Ethiopia,Kuwait,2684.0,AF,AS
+Ethiopia,Kuwait,849.0,AF,AS
+Kenya,Kuwait,3854.0,AF,AS
+Morocco,Kuwait,4928.0,AF,AS
+Morocco,Kuwait,3044.0,AF,AS
+South Africa,Kuwait,62920.0,AF,AS
+South Africa,Kuwait,52574.0,AF,AS
+Tunisia,Kuwait,2172.0,AF,AS
+Tunisia,Kuwait,1601.0,AF,AS
+Uganda,Kuwait,138.0,AF,AS
+Benin,Kuwait,9.0,AF,AS
+Burkina Faso,Kuwait,2.0,AF,AS
+Comoros,Kuwait,194.0,AF,AS
+Ghana,Kuwait,882.0,AF,AS
+Guinea,Kuwait,20.0,AF,AS
+Madagascar,Kuwait,471.0,AF,AS
+Madagascar,Kuwait,127.0,AF,AS
+Malawi,Kuwait,86.0,AF,AS
+Niger,Kuwait,3.0,AF,AS
+Nigeria,Kuwait,599.0,AF,AS
+Zimbabwe,Kuwait,66.0,AF,AS
+Namibia,Kuwait,14.0,AF,AS
+Congo,Kuwait,447.0,AF,AS
+Mozambique,Kuwait,1470.0,AF,AS
+Rwanda,Kuwait,13.0,AF,AS
+Sierra Leone,Kuwait,5.0,AF,AS
+Mali,Kuwait,88.0,AF,AS
+Mali,Kuwait,7.0,AF,AS
+Mauritius,Kuwait,362.0,AF,AS
+Mauritius,Kuwait,85.0,AF,AS
+Equatorial Guinea,Kuwait,19.0,AF,AS
+Seychelles,Kuwait,4.0,AF,AS
+Somalia,Kuwait,207.0,AF,AS
+Zambia,Kuwait,1.0,AF,AS
+Senegal,Kuwait,2.0,AF,AS
+Central African Republic,Kuwait,88.0,AF,AS
+Botswana,Kuwait,1.0,AF,AS
+Egypt,Kyrgyzstan,100.0,AF,AS
+Ethiopia,Kyrgyzstan,1.0,AF,AS
+Kenya,Kyrgyzstan,2029.0,AF,AS
+Morocco,Kyrgyzstan,222.0,AF,AS
+South Africa,Kyrgyzstan,15.0,AF,AS
+Tunisia,Kyrgyzstan,1.0,AF,AS
+Nigeria,Kyrgyzstan,1.0,AF,AS
+Egypt,Latvia,1479.0,AF,EU
+Kenya,Latvia,85.0,AF,EU
+Morocco,Latvia,147.0,AF,EU
+Morocco,Latvia,303.0,AF,EU
+South Africa,Latvia,732.0,AF,EU
+South Africa,Latvia,3159.0,AF,EU
+Tunisia,Latvia,3.0,AF,EU
+Tunisia,Latvia,74.0,AF,EU
+Uganda,Latvia,210.0,AF,EU
+Comoros,Latvia,53.0,AF,EU
+Ghana,Latvia,1154.0,AF,EU
+Guinea,Latvia,54.0,AF,EU
+Madagascar,Latvia,25.0,AF,EU
+Madagascar,Latvia,412.0,AF,EU
+Nigeria,Latvia,48.0,AF,EU
+Mauritius,Latvia,110.0,AF,EU
+Mauritius,Latvia,80.0,AF,EU
+Algeria,Lebanon,13189.0,AF,AS
+Algeria,Lebanon,12697.0,AF,AS
+Cameroon,Lebanon,66.0,AF,AS
+Egypt,Lebanon,157259.0,AF,AS
+Egypt,Lebanon,1657.0,AF,AS
+Ethiopia,Lebanon,1152.0,AF,AS
+Ethiopia,Lebanon,388.0,AF,AS
+Kenya,Lebanon,752.0,AF,AS
+Morocco,Lebanon,37057.0,AF,AS
+Morocco,Lebanon,46626.0,AF,AS
+South Africa,Lebanon,3152.0,AF,AS
+South Africa,Lebanon,3930.0,AF,AS
+Tunisia,Lebanon,3741.0,AF,AS
+Tunisia,Lebanon,2489.0,AF,AS
+Uganda,Lebanon,48.0,AF,AS
+Benin,Lebanon,112.0,AF,AS
+Burkina Faso,Lebanon,107.0,AF,AS
+Comoros,Lebanon,7.0,AF,AS
+Ghana,Lebanon,5486.0,AF,AS
+Ghana,Lebanon,258.0,AF,AS
+Guinea,Lebanon,1.0,AF,AS
+Madagascar,Lebanon,390.0,AF,AS
+Madagascar,Lebanon,111.0,AF,AS
+Malawi,Lebanon,1620.0,AF,AS
+Niger,Lebanon,1592.0,AF,AS
+Nigeria,Lebanon,717.0,AF,AS
+Togo,Lebanon,119.0,AF,AS
+Togo,Lebanon,165.0,AF,AS
+Zimbabwe,Lebanon,1935.0,AF,AS
+Mozambique,Lebanon,3398.0,AF,AS
+Sierra Leone,Lebanon,562.0,AF,AS
+Mali,Lebanon,6.0,AF,AS
+Mali,Lebanon,13.0,AF,AS
+Mauritius,Lebanon,70.0,AF,AS
+Mauritius,Lebanon,31.0,AF,AS
+Liberia,Lebanon,10.0,AF,AS
+Mauritania,Lebanon,2.0,AF,AS
+Somalia,Lebanon,155.0,AF,AS
+Angola,Lebanon,350.0,AF,AS
+Senegal,Lebanon,30.0,AF,AS
+Senegal,Lebanon,12.0,AF,AS
+Egypt,Lithuania,6463.0,AF,EU
+Ethiopia,Lithuania,348.0,AF,EU
+Ethiopia,Lithuania,391.0,AF,EU
+Kenya,Lithuania,46.0,AF,EU
+Morocco,Lithuania,4643.0,AF,EU
+Morocco,Lithuania,2009.0,AF,EU
+South Africa,Lithuania,3300.0,AF,EU
+South Africa,Lithuania,3343.0,AF,EU
+Tunisia,Lithuania,35.0,AF,EU
+Tunisia,Lithuania,32.0,AF,EU
+Uganda,Lithuania,823.0,AF,EU
+Guinea,Lithuania,55.0,AF,EU
+Malawi,Lithuania,4902.0,AF,EU
+Zimbabwe,Lithuania,174.0,AF,EU
+Namibia,Lithuania,174.0,AF,EU
+Namibia,Lithuania,124.0,AF,EU
+Mozambique,Lithuania,8852.0,AF,EU
+Mauritius,Lithuania,72.0,AF,EU
+Cameroon,Luxembourg,5441.0,AF,EU
+Egypt,Luxembourg,11.0,AF,EU
+Kenya,Luxembourg,45.0,AF,EU
+Morocco,Luxembourg,45.0,AF,EU
+Morocco,Luxembourg,45.0,AF,EU
+South Africa,Luxembourg,3335.0,AF,EU
+South Africa,Luxembourg,1672.0,AF,EU
+Tunisia,Luxembourg,23.0,AF,EU
+Tunisia,Luxembourg,1.0,AF,EU
+Burkina Faso,Luxembourg,324.0,AF,EU
+Ghana,Luxembourg,1588.0,AF,EU
+Ghana,Luxembourg,1.0,AF,EU
+Madagascar,Luxembourg,20.0,AF,EU
+Madagascar,Luxembourg,12.0,AF,EU
+Mali,Luxembourg,10.0,AF,EU
+Mauritius,Luxembourg,3.0,AF,EU
+Algeria,Madagascar,4.0,AF,AF
+Cameroon,Madagascar,399.0,AF,AF
+Egypt,Madagascar,40229.0,AF,AF
+Ethiopia,Madagascar,2.0,AF,AF
+Ethiopia,Madagascar,60.0,AF,AF
+Kenya,Madagascar,222.0,AF,AF
+Morocco,Madagascar,88.0,AF,AF
+Morocco,Madagascar,287.0,AF,AF
+South Africa,Madagascar,14483.0,AF,AF
+South Africa,Madagascar,10854.0,AF,AF
+Tunisia,Madagascar,1909.0,AF,AF
+Tunisia,Madagascar,2426.0,AF,AF
+Burkina Faso,Madagascar,3.0,AF,AF
+Ghana,Madagascar,50.0,AF,AF
+Ghana,Madagascar,29.0,AF,AF
+Guinea,Madagascar,65.0,AF,AF
+Malawi,Madagascar,75.0,AF,AF
+Zimbabwe,Madagascar,1536.0,AF,AF
+Zimbabwe,Madagascar,130.0,AF,AF
+Congo,Madagascar,1.0,AF,AF
+Mozambique,Madagascar,158.0,AF,AF
+Mali,Madagascar,155.0,AF,AF
+Mauritius,Madagascar,19344.0,AF,AF
+Mauritius,Madagascar,30097.0,AF,AF
+Seychelles,Madagascar,8.0,AF,AF
+Seychelles,Madagascar,7.0,AF,AF
+Zambia,Madagascar,191.0,AF,AF
+South Africa,Malawi,168.0,AF,AF
+South Africa,Malawi,53683.0,AF,AF
+Zimbabwe,Malawi,816.0,AF,AF
+Namibia,Malawi,122.0,AF,AF
+Mauritius,Malawi,91.0,AF,AF
+Algeria,Malaysia,287.0,AF,AS
+Algeria,Malaysia,210.0,AF,AS
+Cameroon,Malaysia,65733.0,AF,AS
+Egypt,Malaysia,40583.0,AF,AS
+Ethiopia,Malaysia,783.0,AF,AS
+Ethiopia,Malaysia,3104.0,AF,AS
+Kenya,Malaysia,6279.0,AF,AS
+Morocco,Malaysia,632.0,AF,AS
+Morocco,Malaysia,1013.0,AF,AS
+South Africa,Malaysia,134141.0,AF,AS
+South Africa,Malaysia,100046.0,AF,AS
+Tunisia,Malaysia,14797.0,AF,AS
+Tunisia,Malaysia,15331.0,AF,AS
+Uganda,Malaysia,20651.0,AF,AS
+Benin,Malaysia,53773.0,AF,AS
+Burkina Faso,Malaysia,7932.0,AF,AS
+Burkina Faso,Malaysia,1635.0,AF,AS
+Comoros,Malaysia,168.0,AF,AS
+Ghana,Malaysia,159262.0,AF,AS
+Ghana,Malaysia,211820.0,AF,AS
+Guinea,Malaysia,3073.0,AF,AS
+Madagascar,Malaysia,3591.0,AF,AS
+Madagascar,Malaysia,615.0,AF,AS
+Malawi,Malaysia,4284.0,AF,AS
+Niger,Malaysia,227.0,AF,AS
+Niger,Malaysia,102948.0,AF,AS
+Nigeria,Malaysia,50112.0,AF,AS
+Togo,Malaysia,2040.0,AF,AS
+Togo,Malaysia,16863.0,AF,AS
+Zimbabwe,Malaysia,2884.0,AF,AS
+Namibia,Malaysia,2.0,AF,AS
+Namibia,Malaysia,580.0,AF,AS
+Congo,Malaysia,2239.0,AF,AS
+Djibouti,Malaysia,124.0,AF,AS
+Mozambique,Malaysia,2471.0,AF,AS
+Sierra Leone,Malaysia,2.0,AF,AS
+Mali,Malaysia,497.0,AF,AS
+Mali,Malaysia,52681.0,AF,AS
+Mauritius,Malaysia,47.0,AF,AS
+Mauritius,Malaysia,2192.0,AF,AS
+Liberia,Malaysia,14535.0,AF,AS
+Seychelles,Malaysia,1006.0,AF,AS
+Seychelles,Malaysia,2642.0,AF,AS
+Zambia,Malaysia,780.0,AF,AS
+Senegal,Malaysia,232.0,AF,AS
+Algeria,Maldives,1.0,AF,AS
+Egypt,Maldives,2587.0,AF,AS
+Kenya,Maldives,114.0,AF,AS
+South Africa,Maldives,4215.0,AF,AS
+South Africa,Maldives,3741.0,AF,AS
+Tunisia,Maldives,110.0,AF,AS
+Tunisia,Maldives,125.0,AF,AS
+Uganda,Maldives,637.0,AF,AS
+Ghana,Maldives,2.0,AF,AS
+Mozambique,Maldives,2.0,AF,AS
+Mauritius,Maldives,25.0,AF,AS
+Mauritius,Maldives,18.0,AF,AS
+Liberia,Maldives,14.0,AF,AS
+Gambia,Maldives,237.0,AF,AS
+Algeria,Mali,1711.0,AF,AF
+Algeria,Mali,141.0,AF,AF
+Egypt,Mali,664.0,AF,AF
+Egypt,Mali,14.0,AF,AF
+Ethiopia,Mali,38.0,AF,AF
+Morocco,Mali,8297.0,AF,AF
+Morocco,Mali,9766.0,AF,AF
+South Africa,Mali,55647.0,AF,AF
+South Africa,Mali,26026.0,AF,AF
+Tunisia,Mali,331.0,AF,AF
+Tunisia,Mali,1090.0,AF,AF
+Uganda,Mali,34.0,AF,AF
+Benin,Mali,517.0,AF,AF
+Benin,Mali,178.0,AF,AF
+Burkina Faso,Mali,2161.0,AF,AF
+Burkina Faso,Mali,11003.0,AF,AF
+Ghana,Mali,1080.0,AF,AF
+Ghana,Mali,3202.0,AF,AF
+Guinea,Mali,331.0,AF,AF
+Guinea,Mali,151.0,AF,AF
+Niger,Mali,285.0,AF,AF
+Niger,Mali,309.0,AF,AF
+Nigeria,Mali,133.0,AF,AF
+Togo,Mali,3713.0,AF,AF
+Togo,Mali,6434.0,AF,AF
+Gabon,Mali,6.0,AF,AF
+Mozambique,Mali,36.0,AF,AF
+Mauritania,Mali,3439.0,AF,AF
+Mauritania,Mali,49.0,AF,AF
+Angola,Mali,9.0,AF,AF
+Senegal,Mali,54429.0,AF,AF
+Senegal,Mali,97596.0,AF,AF
+Gambia,Mali,56.0,AF,AF
+Gambia,Mali,2127.0,AF,AF
+Algeria,Malta,74.0,AF,EU
+Egypt,Malta,1029.0,AF,EU
+Ethiopia,Malta,6.0,AF,EU
+Ethiopia,Malta,8.0,AF,EU
+Kenya,Malta,162.0,AF,EU
+Morocco,Malta,927.0,AF,EU
+Morocco,Malta,1205.0,AF,EU
+South Africa,Malta,1237.0,AF,EU
+South Africa,Malta,1132.0,AF,EU
+Tunisia,Malta,282.0,AF,EU
+Tunisia,Malta,85.0,AF,EU
+Nigeria,Malta,2.0,AF,EU
+Zimbabwe,Malta,86.0,AF,EU
+Namibia,Malta,812.0,AF,EU
+Namibia,Malta,29.0,AF,EU
+Sierra Leone,Malta,6.0,AF,EU
+Mauritius,Malta,11.0,AF,EU
+Mauritius,Malta,8.0,AF,EU
+Zambia,Malta,1.0,AF,EU
+Senegal,Malta,7.0,AF,EU
+Botswana,Malta,476.0,AF,EU
+Botswana,Malta,568.0,AF,EU
+Algeria,Mauritania,2955.0,AF,AF
+Algeria,Mauritania,37911.0,AF,AF
+Egypt,Mauritania,3819.0,AF,AF
+Kenya,Mauritania,85.0,AF,AF
+Morocco,Mauritania,26805.0,AF,AF
+Morocco,Mauritania,51513.0,AF,AF
+South Africa,Mauritania,108.0,AF,AF
+South Africa,Mauritania,711.0,AF,AF
+Tunisia,Mauritania,1605.0,AF,AF
+Tunisia,Mauritania,4330.0,AF,AF
+Uganda,Mauritania,24.0,AF,AF
+Benin,Mauritania,119.0,AF,AF
+Benin,Mauritania,404.0,AF,AF
+Burkina Faso,Mauritania,106.0,AF,AF
+Ghana,Mauritania,7.0,AF,AF
+Ghana,Mauritania,84.0,AF,AF
+Guinea,Mauritania,99.0,AF,AF
+Niger,Mauritania,181.0,AF,AF
+Nigeria,Mauritania,215.0,AF,AF
+Namibia,Mauritania,19.0,AF,AF
+Mali,Mauritania,229.0,AF,AF
+Mali,Mauritania,4010.0,AF,AF
+Senegal,Mauritania,2801.0,AF,AF
+Senegal,Mauritania,14788.0,AF,AF
+Gambia,Mauritania,5.0,AF,AF
+Guinea-Bissau,Mauritania,1.0,AF,AF
+Algeria,Mauritius,56.0,AF,AF
+Algeria,Mauritius,19.0,AF,AF
+Cameroon,Mauritius,1224.0,AF,AF
+Egypt,Mauritius,13893.0,AF,AF
+Ethiopia,Mauritius,52.0,AF,AF
+Kenya,Mauritius,32173.0,AF,AF
+Morocco,Mauritius,560.0,AF,AF
+Morocco,Mauritius,519.0,AF,AF
+South Africa,Mauritius,107740.0,AF,AF
+South Africa,Mauritius,74785.0,AF,AF
+Tunisia,Mauritius,946.0,AF,AF
+Tunisia,Mauritius,827.0,AF,AF
+Uganda,Mauritius,237.0,AF,AF
+Benin,Mauritius,1791.0,AF,AF
+Benin,Mauritius,666.0,AF,AF
+Burkina Faso,Mauritius,1750.0,AF,AF
+Comoros,Mauritius,2988.0,AF,AF
+Ghana,Mauritius,167.0,AF,AF
+Ghana,Mauritius,31.0,AF,AF
+Madagascar,Mauritius,34980.0,AF,AF
+Madagascar,Mauritius,37072.0,AF,AF
+Malawi,Mauritius,456.0,AF,AF
+Togo,Mauritius,451.0,AF,AF
+Zimbabwe,Mauritius,208.0,AF,AF
+Namibia,Mauritius,44.0,AF,AF
+Namibia,Mauritius,29.0,AF,AF
+Gabon,Mauritius,1.0,AF,AF
+Mozambique,Mauritius,10147.0,AF,AF
+Sierra Leone,Mauritius,1.0,AF,AF
+Mali,Mauritius,1012.0,AF,AF
+Mali,Mauritius,978.0,AF,AF
+Liberia,Mauritius,197.0,AF,AF
+Seychelles,Mauritius,8.0,AF,AF
+Seychelles,Mauritius,17.0,AF,AF
+Zambia,Mauritius,5510.0,AF,AF
+Botswana,Mauritius,43.0,AF,AF
+Egypt,Mexico,2078.0,AF,
+Ethiopia,Mexico,746.0,AF,
+Ethiopia,Mexico,1279.0,AF,
+Kenya,Mexico,909.0,AF,
+Morocco,Mexico,2573.0,AF,
+Morocco,Mexico,678.0,AF,
+South Africa,Mexico,2028.0,AF,
+South Africa,Mexico,1053.0,AF,
+Tunisia,Mexico,1196.0,AF,
+Tunisia,Mexico,161.0,AF,
+Uganda,Mexico,4848.0,AF,
+Burkina Faso,Mexico,1.0,AF,
+Comoros,Mexico,340.0,AF,
+Ghana,Mexico,510.0,AF,
+Guinea,Mexico,4.0,AF,
+Madagascar,Mexico,779.0,AF,
+Madagascar,Mexico,237.0,AF,
+Malawi,Mexico,120.0,AF,
+Nigeria,Mexico,28036.0,AF,
+Togo,Mexico,1.0,AF,
+Zimbabwe,Mexico,14.0,AF,
+Namibia,Mexico,7.0,AF,
+Namibia,Mexico,6.0,AF,
+Djibouti,Mexico,400.0,AF,
+Mozambique,Mexico,5401.0,AF,
+Rwanda,Mexico,208.0,AF,
+Mali,Mexico,9.0,AF,
+Mauritius,Mexico,12.0,AF,
+Lesotho,Mexico,191.0,AF,
+Liberia,Mexico,1899.0,AF,
+Somalia,Mexico,4.0,AF,
+Senegal,Mexico,93.0,AF,
+Senegal,Mexico,82.0,AF,
+Algeria,Mongolia,2.0,AF,AS
+Egypt,Mongolia,80.0,AF,AS
+Ethiopia,Mongolia,10.0,AF,AS
+Kenya,Mongolia,12.0,AF,AS
+Morocco,Mongolia,575.0,AF,AS
+South Africa,Mongolia,481.0,AF,AS
+Tunisia,Mongolia,1.0,AF,AS
+Benin,Mongolia,1.0,AF,AS
+Burkina Faso,Mongolia,6.0,AF,AS
+Burundi,Mongolia,1.0,AF,AS
+Guinea,Mongolia,9.0,AF,AS
+Niger,Mongolia,1.0,AF,AS
+Nigeria,Mongolia,4.0,AF,AS
+Sierra Leone,Mongolia,2.0,AF,AS
+Mali,Mongolia,2.0,AF,AS
+Mauritius,Mongolia,1.0,AF,AS
+Liberia,Mongolia,6.0,AF,AS
+Chad,Mongolia,4.0,AF,AS
+Guinea-Bissau,Mongolia,3.0,AF,AS
+Cameroon,Montenegro,72.0,AF,EU
+Egypt,Montenegro,211.0,AF,EU
+Ethiopia,Montenegro,14.0,AF,EU
+Kenya,Montenegro,133.0,AF,EU
+Morocco,Montenegro,21.0,AF,EU
+Morocco,Montenegro,631.0,AF,EU
+South Africa,Montenegro,759.0,AF,EU
+South Africa,Montenegro,494.0,AF,EU
+Tunisia,Montenegro,79.0,AF,EU
+Tunisia,Montenegro,64.0,AF,EU
+Comoros,Montenegro,3.0,AF,EU
+Ghana,Montenegro,12.0,AF,EU
+Madagascar,Montenegro,10.0,AF,EU
+Zimbabwe,Montenegro,194.0,AF,EU
+Namibia,Montenegro,1.0,AF,EU
+Mauritius,Montenegro,70.0,AF,EU
+Zambia,Montenegro,1.0,AF,EU
+Senegal,Montenegro,1.0,AF,EU
+Algeria,Morocco,3094.0,AF,AF
+Algeria,Morocco,2262.0,AF,AF
+Cameroon,Morocco,1249.0,AF,AF
+Egypt,Morocco,102018.0,AF,AF
+Egypt,Morocco,127.0,AF,AF
+Ethiopia,Morocco,277.0,AF,AF
+Ethiopia,Morocco,257.0,AF,AF
+Kenya,Morocco,5189.0,AF,AF
+South Africa,Morocco,1945.0,AF,AF
+South Africa,Morocco,1181.0,AF,AF
+Tunisia,Morocco,68919.0,AF,AF
+Tunisia,Morocco,62891.0,AF,AF
+Uganda,Morocco,6707.0,AF,AF
+Benin,Morocco,1107.0,AF,AF
+Benin,Morocco,164.0,AF,AF
+Burkina Faso,Morocco,2457.0,AF,AF
+Burkina Faso,Morocco,507.0,AF,AF
+Ghana,Morocco,5843.0,AF,AF
+Ghana,Morocco,2781.0,AF,AF
+Guinea,Morocco,21765.0,AF,AF
+Madagascar,Morocco,9896.0,AF,AF
+Madagascar,Morocco,4334.0,AF,AF
+Niger,Morocco,113.0,AF,AF
+Niger,Morocco,17.0,AF,AF
+Nigeria,Morocco,23554.0,AF,AF
+Togo,Morocco,8797.0,AF,AF
+Togo,Morocco,5389.0,AF,AF
+Zimbabwe,Morocco,417.0,AF,AF
+Zimbabwe,Morocco,16.0,AF,AF
+Namibia,Morocco,3.0,AF,AF
+Congo,Morocco,7001.0,AF,AF
+Gabon,Morocco,2512.0,AF,AF
+Mozambique,Morocco,745.0,AF,AF
+Rwanda,Morocco,59.0,AF,AF
+Sierra Leone,Morocco,216.0,AF,AF
+Mali,Morocco,3099.0,AF,AF
+Mali,Morocco,1992.0,AF,AF
+Mauritania,Morocco,2.0,AF,AF
+Mauritania,Morocco,181.0,AF,AF
+Zambia,Morocco,1.0,AF,AF
+Senegal,Morocco,2043.0,AF,AF
+Senegal,Morocco,1768.0,AF,AF
+Chad,Morocco,180.0,AF,AF
+Gambia,Morocco,2.0,AF,AF
+Guinea-Bissau,Morocco,112.0,AF,AF
+Egypt,Namibia,74.0,AF,AF
+Ethiopia,Namibia,25.0,AF,AF
+Kenya,Namibia,45.0,AF,AF
+South Africa,Namibia,687955.0,AF,AF
+South Africa,Namibia,615904.0,AF,AF
+Tunisia,Namibia,74.0,AF,AF
+Ghana,Namibia,5.0,AF,AF
+Niger,Namibia,39.0,AF,AF
+Nigeria,Namibia,2.0,AF,AF
+Zimbabwe,Namibia,411.0,AF,AF
+Zimbabwe,Namibia,10.0,AF,AF
+Mauritius,Namibia,182.0,AF,AF
+Mauritius,Namibia,31.0,AF,AF
+Seychelles,Namibia,1309.0,AF,AF
+Zambia,Namibia,9349.0,AF,AF
+Angola,Namibia,582.0,AF,AF
+Senegal,Namibia,76.0,AF,AF
+Botswana,Namibia,1206.0,AF,AF
+Botswana,Namibia,1357.0,AF,AF
+Ethiopia,Nepal,23.0,AF,AS
+Morocco,Nepal,13.0,AF,AS
+South Africa,Nepal,414.0,AF,AS
+Namibia,Nepal,28.0,AF,AS
+Algeria,Netherlands,6050.0,AF,EU
+Algeria,Netherlands,5218.0,AF,EU
+Cameroon,Netherlands,349116.0,AF,EU
+Egypt,Netherlands,178678.0,AF,EU
+Egypt,Netherlands,3911.0,AF,EU
+Ethiopia,Netherlands,193607.0,AF,EU
+Ethiopia,Netherlands,16087.0,AF,EU
+Kenya,Netherlands,500156.0,AF,EU
+Morocco,Netherlands,182228.0,AF,EU
+Morocco,Netherlands,160448.0,AF,EU
+South Africa,Netherlands,1061678.0,AF,EU
+South Africa,Netherlands,736557.0,AF,EU
+Tunisia,Netherlands,10423.0,AF,EU
+Tunisia,Netherlands,15559.0,AF,EU
+Uganda,Netherlands,75224.0,AF,EU
+Benin,Netherlands,3459.0,AF,EU
+Benin,Netherlands,2415.0,AF,EU
+Burkina Faso,Netherlands,12714.0,AF,EU
+Burkina Faso,Netherlands,9608.0,AF,EU
+Comoros,Netherlands,1923.0,AF,EU
+Ghana,Netherlands,788737.0,AF,EU
+Ghana,Netherlands,416317.0,AF,EU
+Guinea,Netherlands,26842.0,AF,EU
+Madagascar,Netherlands,29014.0,AF,EU
+Madagascar,Netherlands,38712.0,AF,EU
+Malawi,Netherlands,17731.0,AF,EU
+Niger,Netherlands,73.0,AF,EU
+Nigeria,Netherlands,412028.0,AF,EU
+Togo,Netherlands,21700.0,AF,EU
+Togo,Netherlands,5670.0,AF,EU
+Zimbabwe,Netherlands,54966.0,AF,EU
+Zimbabwe,Netherlands,2895.0,AF,EU
+Namibia,Netherlands,57991.0,AF,EU
+Namibia,Netherlands,13712.0,AF,EU
+Congo,Netherlands,297.0,AF,EU
+Djibouti,Netherlands,839.0,AF,EU
+Gabon,Netherlands,170.0,AF,EU
+Mozambique,Netherlands,42288.0,AF,EU
+Rwanda,Netherlands,621.0,AF,EU
+Sierra Leone,Netherlands,28927.0,AF,EU
+Mali,Netherlands,9212.0,AF,EU
+Mali,Netherlands,5025.0,AF,EU
+Mauritius,Netherlands,1968.0,AF,EU
+Mauritius,Netherlands,9826.0,AF,EU
+Lesotho,Netherlands,64.0,AF,EU
+Liberia,Netherlands,95348.0,AF,EU
+Sao Tome and Principe,Netherlands,5022.0,AF,EU
+Sao Tome and Principe,Netherlands,251.0,AF,EU
+Seychelles,Netherlands,56.0,AF,EU
+Seychelles,Netherlands,18.0,AF,EU
+Zambia,Netherlands,9525.0,AF,EU
+Angola,Netherlands,4.0,AF,EU
+Senegal,Netherlands,28100.0,AF,EU
+Senegal,Netherlands,22995.0,AF,EU
+Chad,Netherlands,1.0,AF,EU
+Gambia,Netherlands,89.0,AF,EU
+Gambia,Netherlands,216.0,AF,EU
+Botswana,Netherlands,3751.0,AF,EU
+Botswana,Netherlands,14700.0,AF,EU
+Algeria,New Zealand,75.0,AF,OC
+Algeria,New Zealand,34.0,AF,OC
+Egypt,New Zealand,728.0,AF,OC
+Ethiopia,New Zealand,4082.0,AF,OC
+Ethiopia,New Zealand,5169.0,AF,OC
+Kenya,New Zealand,2052.0,AF,OC
+Morocco,New Zealand,2105.0,AF,OC
+Morocco,New Zealand,1641.0,AF,OC
+South Africa,New Zealand,20420.0,AF,OC
+South Africa,New Zealand,18075.0,AF,OC
+Tunisia,New Zealand,557.0,AF,OC
+Tunisia,New Zealand,228.0,AF,OC
+Uganda,New Zealand,869.0,AF,OC
+Burundi,New Zealand,37.0,AF,OC
+Ghana,New Zealand,7163.0,AF,OC
+Ghana,New Zealand,3104.0,AF,OC
+Guinea,New Zealand,655.0,AF,OC
+Madagascar,New Zealand,269.0,AF,OC
+Madagascar,New Zealand,203.0,AF,OC
+Malawi,New Zealand,224.0,AF,OC
+Niger,New Zealand,21.0,AF,OC
+Niger,New Zealand,28.0,AF,OC
+Nigeria,New Zealand,4.0,AF,OC
+Togo,New Zealand,1.0,AF,OC
+Zimbabwe,New Zealand,1420.0,AF,OC
+Zimbabwe,New Zealand,1.0,AF,OC
+Namibia,New Zealand,6.0,AF,OC
+Namibia,New Zealand,1.0,AF,OC
+Djibouti,New Zealand,645.0,AF,OC
+Mozambique,New Zealand,595.0,AF,OC
+Rwanda,New Zealand,332.0,AF,OC
+Sierra Leone,New Zealand,48.0,AF,OC
+Mali,New Zealand,10.0,AF,OC
+Mauritius,New Zealand,118.0,AF,OC
+Mauritius,New Zealand,25.0,AF,OC
+Lesotho,New Zealand,355.0,AF,OC
+Mauritania,New Zealand,28.0,AF,OC
+Seychelles,New Zealand,2.0,AF,OC
+Zambia,New Zealand,91.0,AF,OC
+Angola,New Zealand,3.0,AF,OC
+Gambia,New Zealand,5.0,AF,OC
+Botswana,New Zealand,2.0,AF,OC
+Algeria,Niger,8558.0,AF,AF
+Algeria,Niger,39.0,AF,AF
+Cameroon,Niger,7.0,AF,AF
+Egypt,Niger,870.0,AF,AF
+Ethiopia,Niger,12.0,AF,AF
+Morocco,Niger,1360.0,AF,AF
+Morocco,Niger,4284.0,AF,AF
+South Africa,Niger,255.0,AF,AF
+South Africa,Niger,1503.0,AF,AF
+Tunisia,Niger,2762.0,AF,AF
+Tunisia,Niger,2196.0,AF,AF
+Benin,Niger,9152.0,AF,AF
+Benin,Niger,5013.0,AF,AF
+Burkina Faso,Niger,1141.0,AF,AF
+Burkina Faso,Niger,4165.0,AF,AF
+Ghana,Niger,25434.0,AF,AF
+Ghana,Niger,30986.0,AF,AF
+Nigeria,Niger,37402.0,AF,AF
+Nigeria,Niger,12.0,AF,AF
+Togo,Niger,6903.0,AF,AF
+Togo,Niger,8685.0,AF,AF
+Namibia,Niger,25.0,AF,AF
+Mali,Niger,142.0,AF,AF
+Mali,Niger,9430.0,AF,AF
+Mauritania,Niger,4.0,AF,AF
+Senegal,Niger,6242.0,AF,AF
+Senegal,Niger,10105.0,AF,AF
+Chad,Niger,18.0,AF,AF
+Algeria,Nigeria,99.0,AF,AF
+Ethiopia,Nigeria,383.0,AF,AF
+Morocco,Nigeria,3086.0,AF,AF
+South Africa,Nigeria,31.0,AF,AF
+South Africa,Nigeria,70716.0,AF,AF
+Tunisia,Nigeria,180.0,AF,AF
+Benin,Nigeria,18423.0,AF,AF
+Burkina Faso,Nigeria,150.0,AF,AF
+Ghana,Nigeria,28438.0,AF,AF
+Niger,Nigeria,56.0,AF,AF
+Niger,Nigeria,9765.0,AF,AF
+Togo,Nigeria,17.0,AF,AF
+Togo,Nigeria,235.0,AF,AF
+Zimbabwe,Nigeria,13.0,AF,AF
+Namibia,Nigeria,34.0,AF,AF
+Mali,Nigeria,126.0,AF,AF
+Mauritius,Nigeria,173.0,AF,AF
+Senegal,Nigeria,5593.0,AF,AF
+Algeria,Norway,33.0,AF,EU
+Algeria,Norway,8.0,AF,EU
+Cameroon,Norway,4.0,AF,EU
+Egypt,Norway,7586.0,AF,EU
+Ethiopia,Norway,17726.0,AF,EU
+Ethiopia,Norway,2826.0,AF,EU
+Kenya,Norway,53196.0,AF,EU
+Morocco,Norway,30119.0,AF,EU
+Morocco,Norway,940.0,AF,EU
+South Africa,Norway,59192.0,AF,EU
+South Africa,Norway,19434.0,AF,EU
+Tunisia,Norway,982.0,AF,EU
+Tunisia,Norway,296.0,AF,EU
+Uganda,Norway,1556.0,AF,EU
+Burkina Faso,Norway,64.0,AF,EU
+Burundi,Norway,49.0,AF,EU
+Comoros,Norway,100.0,AF,EU
+Ghana,Norway,535.0,AF,EU
+Ghana,Norway,136.0,AF,EU
+Guinea,Norway,12.0,AF,EU
+Madagascar,Norway,1271.0,AF,EU
+Madagascar,Norway,4.0,AF,EU
+Malawi,Norway,242.0,AF,EU
+Nigeria,Norway,58.0,AF,EU
+Nigeria,Norway,1.0,AF,EU
+Togo,Norway,5.0,AF,EU
+Zimbabwe,Norway,1572.0,AF,EU
+Namibia,Norway,26306.0,AF,EU
+Namibia,Norway,1165.0,AF,EU
+Congo,Norway,36.0,AF,EU
+Gabon,Norway,8.0,AF,EU
+Mozambique,Norway,1048.0,AF,EU
+Rwanda,Norway,336.0,AF,EU
+Mali,Norway,160.0,AF,EU
+Mauritius,Norway,717.0,AF,EU
+Mauritius,Norway,11.0,AF,EU
+Liberia,Norway,8.0,AF,EU
+Somalia,Norway,3.0,AF,EU
+Zambia,Norway,483.0,AF,EU
+Senegal,Norway,2596.0,AF,EU
+Gambia,Norway,6.0,AF,EU
+Botswana,Norway,23997.0,AF,EU
+Botswana,Norway,21.0,AF,EU
+Algeria,Oman,2.0,AF,AS
+Algeria,Oman,2.0,AF,AS
+Egypt,Oman,94503.0,AF,AS
+Ethiopia,Oman,557.0,AF,AS
+Ethiopia,Oman,377.0,AF,AS
+Kenya,Oman,14077.0,AF,AS
+Morocco,Oman,536.0,AF,AS
+Morocco,Oman,3603.0,AF,AS
+South Africa,Oman,6064.0,AF,AS
+South Africa,Oman,14103.0,AF,AS
+Tunisia,Oman,174.0,AF,AS
+Tunisia,Oman,1816.0,AF,AS
+Uganda,Oman,944.0,AF,AS
+Benin,Oman,5.0,AF,AS
+Guinea,Oman,14.0,AF,AS
+Madagascar,Oman,40.0,AF,AS
+Namibia,Oman,26.0,AF,AS
+Djibouti,Oman,974.0,AF,AS
+Mozambique,Oman,510.0,AF,AS
+Mali,Oman,25.0,AF,AS
+Mali,Oman,24.0,AF,AS
+Mauritius,Oman,196.0,AF,AS
+Mauritius,Oman,429.0,AF,AS
+Somalia,Oman,146004.0,AF,AS
+Algeria,Pakistan,6.0,AF,AS
+Cameroon,Pakistan,351.0,AF,AS
+Egypt,Pakistan,16667.0,AF,AS
+Ethiopia,Pakistan,61790.0,AF,AS
+Ethiopia,Pakistan,75975.0,AF,AS
+Kenya,Pakistan,399285.0,AF,AS
+Morocco,Pakistan,164.0,AF,AS
+Morocco,Pakistan,455.0,AF,AS
+South Africa,Pakistan,25230.0,AF,AS
+South Africa,Pakistan,6873.0,AF,AS
+Tunisia,Pakistan,191.0,AF,AS
+Tunisia,Pakistan,335.0,AF,AS
+Uganda,Pakistan,5446.0,AF,AS
+Benin,Pakistan,5738.0,AF,AS
+Benin,Pakistan,7126.0,AF,AS
+Burkina Faso,Pakistan,15381.0,AF,AS
+Burundi,Pakistan,12576.0,AF,AS
+Comoros,Pakistan,1150.0,AF,AS
+Ghana,Pakistan,2076.0,AF,AS
+Guinea,Pakistan,723.0,AF,AS
+Madagascar,Pakistan,5844.0,AF,AS
+Madagascar,Pakistan,4405.0,AF,AS
+Malawi,Pakistan,165.0,AF,AS
+Niger,Pakistan,151.0,AF,AS
+Nigeria,Pakistan,85.0,AF,AS
+Togo,Pakistan,13929.0,AF,AS
+Togo,Pakistan,4368.0,AF,AS
+Zimbabwe,Pakistan,257.0,AF,AS
+Zimbabwe,Pakistan,2.0,AF,AS
+Namibia,Pakistan,2.0,AF,AS
+Congo,Pakistan,182.0,AF,AS
+Djibouti,Pakistan,608.0,AF,AS
+Mozambique,Pakistan,376.0,AF,AS
+Rwanda,Pakistan,32194.0,AF,AS
+Mali,Pakistan,2.0,AF,AS
+Mali,Pakistan,35.0,AF,AS
+Sao Tome and Principe,Pakistan,8.0,AF,AS
+Seychelles,Pakistan,1.0,AF,AS
+Seychelles,Pakistan,22.0,AF,AS
+Somalia,Pakistan,1592.0,AF,AS
+Senegal,Pakistan,398.0,AF,AS
+Senegal,Pakistan,564.0,AF,AS
+Chad,Pakistan,175.0,AF,AS
+Botswana,Pakistan,19.0,AF,AS
+Botswana,Pakistan,13.0,AF,AS
+South Africa,Papua New Guinea,1.0,AF,OC
+South Africa,Papua New Guinea,3637.0,AF,OC
+Egypt,Paraguay,331.0,AF,SA
+Kenya,Paraguay,1.0,AF,SA
+South Africa,Paraguay,170.0,AF,SA
+South Africa,Paraguay,482.0,AF,SA
+Ghana,Paraguay,19.0,AF,SA
+Malawi,Paraguay,769.0,AF,SA
+Zimbabwe,Paraguay,6078.0,AF,SA
+Namibia,Paraguay,4.0,AF,SA
+Liberia,Paraguay,21.0,AF,SA
+Egypt,Peru,89.0,AF,SA
+Ethiopia,Peru,62.0,AF,SA
+Morocco,Peru,49.0,AF,SA
+Morocco,Peru,28.0,AF,SA
+South Africa,Peru,756.0,AF,SA
+South Africa,Peru,729.0,AF,SA
+Tunisia,Peru,3.0,AF,SA
+Ghana,Peru,43.0,AF,SA
+Madagascar,Peru,1678.0,AF,SA
+Madagascar,Peru,1040.0,AF,SA
+Nigeria,Peru,19.0,AF,SA
+Somalia,Peru,2.0,AF,SA
+Central African Republic,Peru,19.0,AF,SA
+Egypt,Philippines,7892.0,AF,AS
+Ethiopia,Philippines,28.0,AF,AS
+Ethiopia,Philippines,114.0,AF,AS
+Kenya,Philippines,25.0,AF,AS
+Kenya,Philippines,19.0,AF,AS
+Morocco,Philippines,501.0,AF,AS
+Morocco,Philippines,527.0,AF,AS
+South Africa,Philippines,6348.0,AF,AS
+South Africa,Philippines,10129.0,AF,AS
+Tunisia,Philippines,305.0,AF,AS
+Tunisia,Philippines,50.0,AF,AS
+Uganda,Philippines,17.0,AF,AS
+Ghana,Philippines,631.0,AF,AS
+Ghana,Philippines,580.0,AF,AS
+Madagascar,Philippines,20.0,AF,AS
+Malawi,Philippines,6712.0,AF,AS
+Zimbabwe,Philippines,1801.0,AF,AS
+Mozambique,Philippines,3089.0,AF,AS
+Seychelles,Philippines,1980.0,AF,AS
+Seychelles,Philippines,9094.0,AF,AS
+Somalia,Philippines,1.0,AF,AS
+Zambia,Philippines,1314.0,AF,AS
+Cameroon,Poland,1823.0,AF,EU
+Egypt,Poland,13253.0,AF,EU
+Ethiopia,Poland,593.0,AF,EU
+Ethiopia,Poland,328.0,AF,EU
+Kenya,Poland,19486.0,AF,EU
+Morocco,Poland,2150.0,AF,EU
+Morocco,Poland,1589.0,AF,EU
+South Africa,Poland,4300.0,AF,EU
+South Africa,Poland,4536.0,AF,EU
+Tunisia,Poland,809.0,AF,EU
+Tunisia,Poland,953.0,AF,EU
+Uganda,Poland,11379.0,AF,EU
+Burkina Faso,Poland,378.0,AF,EU
+Burkina Faso,Poland,295.0,AF,EU
+Burundi,Poland,1203.0,AF,EU
+Ghana,Poland,29411.0,AF,EU
+Ghana,Poland,1469.0,AF,EU
+Guinea,Poland,3877.0,AF,EU
+Madagascar,Poland,176.0,AF,EU
+Madagascar,Poland,34.0,AF,EU
+Malawi,Poland,6581.0,AF,EU
+Nigeria,Poland,6401.0,AF,EU
+Togo,Poland,1306.0,AF,EU
+Togo,Poland,102.0,AF,EU
+Zimbabwe,Poland,27903.0,AF,EU
+Namibia,Poland,327.0,AF,EU
+Namibia,Poland,361.0,AF,EU
+Congo,Poland,1139.0,AF,EU
+Gabon,Poland,3510.0,AF,EU
+Mozambique,Poland,36971.0,AF,EU
+Rwanda,Poland,1179.0,AF,EU
+Mauritius,Poland,5508.0,AF,EU
+Mauritius,Poland,4797.0,AF,EU
+Liberia,Poland,4257.0,AF,EU
+Zambia,Poland,1.0,AF,EU
+Guinea-Bissau,Poland,3.0,AF,EU
+Algeria,Portugal,65.0,AF,EU
+Algeria,Portugal,133.0,AF,EU
+Cameroon,Portugal,9586.0,AF,EU
+Egypt,Portugal,9162.0,AF,EU
+Ethiopia,Portugal,6148.0,AF,EU
+Ethiopia,Portugal,5985.0,AF,EU
+Kenya,Portugal,3743.0,AF,EU
+Morocco,Portugal,9262.0,AF,EU
+Morocco,Portugal,26733.0,AF,EU
+South Africa,Portugal,70815.0,AF,EU
+South Africa,Portugal,51817.0,AF,EU
+Tunisia,Portugal,762.0,AF,EU
+Tunisia,Portugal,6499.0,AF,EU
+Uganda,Portugal,16713.0,AF,EU
+Benin,Portugal,1442.0,AF,EU
+Benin,Portugal,1162.0,AF,EU
+Burkina Faso,Portugal,1862.0,AF,EU
+Ghana,Portugal,225.0,AF,EU
+Ghana,Portugal,523.0,AF,EU
+Guinea,Portugal,528.0,AF,EU
+Madagascar,Portugal,719.0,AF,EU
+Madagascar,Portugal,1935.0,AF,EU
+Malawi,Portugal,26961.0,AF,EU
+Nigeria,Portugal,1623.0,AF,EU
+Togo,Portugal,2092.0,AF,EU
+Togo,Portugal,1556.0,AF,EU
+Zimbabwe,Portugal,4224.0,AF,EU
+Namibia,Portugal,146.0,AF,EU
+Namibia,Portugal,45.0,AF,EU
+Congo,Portugal,101.0,AF,EU
+Mozambique,Portugal,8611.0,AF,EU
+Sierra Leone,Portugal,370.0,AF,EU
+Mali,Portugal,5712.0,AF,EU
+Mali,Portugal,4584.0,AF,EU
+Mauritius,Portugal,1105.0,AF,EU
+Mauritius,Portugal,1657.0,AF,EU
+Liberia,Portugal,2.0,AF,EU
+Mauritania,Portugal,1.0,AF,EU
+Sao Tome and Principe,Portugal,60.0,AF,EU
+Sao Tome and Principe,Portugal,19.0,AF,EU
+Zambia,Portugal,3137.0,AF,EU
+Angola,Portugal,605.0,AF,EU
+Senegal,Portugal,296.0,AF,EU
+Senegal,Portugal,502.0,AF,EU
+Chad,Portugal,5030.0,AF,EU
+Guinea-Bissau,Portugal,7.0,AF,EU
+Algeria,Qatar,1998.0,AF,AS
+Algeria,Qatar,1711.0,AF,AS
+Egypt,Qatar,60984.0,AF,AS
+Egypt,Qatar,944.0,AF,AS
+Ethiopia,Qatar,1917.0,AF,AS
+Ethiopia,Qatar,410.0,AF,AS
+Kenya,Qatar,6167.0,AF,AS
+Morocco,Qatar,8464.0,AF,AS
+Morocco,Qatar,7660.0,AF,AS
+South Africa,Qatar,30323.0,AF,AS
+South Africa,Qatar,15375.0,AF,AS
+Tunisia,Qatar,2650.0,AF,AS
+Tunisia,Qatar,2134.0,AF,AS
+Uganda,Qatar,1272.0,AF,AS
+Ghana,Qatar,65.0,AF,AS
+Madagascar,Qatar,246.0,AF,AS
+Madagascar,Qatar,188.0,AF,AS
+Nigeria,Qatar,13.0,AF,AS
+Zimbabwe,Qatar,258.0,AF,AS
+Djibouti,Qatar,19.0,AF,AS
+Mozambique,Qatar,4272.0,AF,AS
+Mauritius,Qatar,471.0,AF,AS
+Mauritius,Qatar,3.0,AF,AS
+Somalia,Qatar,824.0,AF,AS
+Cameroon,Romania,452.0,AF,EU
+Egypt,Romania,22728.0,AF,EU
+Egypt,Romania,708.0,AF,EU
+Ethiopia,Romania,1053.0,AF,EU
+Ethiopia,Romania,127.0,AF,EU
+Kenya,Romania,3223.0,AF,EU
+Morocco,Romania,18.0,AF,EU
+Morocco,Romania,15.0,AF,EU
+South Africa,Romania,1890.0,AF,EU
+South Africa,Romania,957.0,AF,EU
+Tunisia,Romania,21.0,AF,EU
+Tunisia,Romania,44.0,AF,EU
+Uganda,Romania,7115.0,AF,EU
+Burundi,Romania,106.0,AF,EU
+Ghana,Romania,67.0,AF,EU
+Ghana,Romania,58.0,AF,EU
+Guinea,Romania,481.0,AF,EU
+Madagascar,Romania,57.0,AF,EU
+Madagascar,Romania,28.0,AF,EU
+Malawi,Romania,2683.0,AF,EU
+Nigeria,Romania,1090.0,AF,EU
+Zimbabwe,Romania,17076.0,AF,EU
+Namibia,Romania,3.0,AF,EU
+Congo,Romania,320.0,AF,EU
+Gabon,Romania,421.0,AF,EU
+Mozambique,Romania,26357.0,AF,EU
+Rwanda,Romania,230.0,AF,EU
+Mauritius,Romania,661.0,AF,EU
+Mauritius,Romania,543.0,AF,EU
+Somalia,Romania,2.0,AF,EU
+Algeria,Russian Federation,6812.0,AF,EU
+Algeria,Russian Federation,5623.0,AF,EU
+Cameroon,Russian Federation,2752.0,AF,EU
+Egypt,Russian Federation,287449.0,AF,EU
+Ethiopia,Russian Federation,20247.0,AF,EU
+Ethiopia,Russian Federation,14046.0,AF,EU
+Kenya,Russian Federation,136897.0,AF,EU
+Morocco,Russian Federation,376431.0,AF,EU
+Morocco,Russian Federation,160013.0,AF,EU
+South Africa,Russian Federation,199314.0,AF,EU
+South Africa,Russian Federation,143686.0,AF,EU
+Tunisia,Russian Federation,12520.0,AF,EU
+Tunisia,Russian Federation,8597.0,AF,EU
+Uganda,Russian Federation,13892.0,AF,EU
+Benin,Russian Federation,21.0,AF,EU
+Burkina Faso,Russian Federation,97.0,AF,EU
+Burkina Faso,Russian Federation,4.0,AF,EU
+Burundi,Russian Federation,1181.0,AF,EU
+Comoros,Russian Federation,668.0,AF,EU
+Ghana,Russian Federation,56405.0,AF,EU
+Ghana,Russian Federation,60.0,AF,EU
+Guinea,Russian Federation,926.0,AF,EU
+Madagascar,Russian Federation,5641.0,AF,EU
+Madagascar,Russian Federation,2213.0,AF,EU
+Malawi,Russian Federation,66099.0,AF,EU
+Nigeria,Russian Federation,14069.0,AF,EU
+Zimbabwe,Russian Federation,58374.0,AF,EU
+Zimbabwe,Russian Federation,1.0,AF,EU
+Namibia,Russian Federation,986.0,AF,EU
+Namibia,Russian Federation,179.0,AF,EU
+Congo,Russian Federation,55.0,AF,EU
+Mozambique,Russian Federation,33945.0,AF,EU
+Rwanda,Russian Federation,1763.0,AF,EU
+Mali,Russian Federation,50.0,AF,EU
+Mali,Russian Federation,15.0,AF,EU
+Mauritius,Russian Federation,2866.0,AF,EU
+Mauritius,Russian Federation,2194.0,AF,EU
+Lesotho,Russian Federation,14.0,AF,EU
+Liberia,Russian Federation,220.0,AF,EU
+Sao Tome and Principe,Russian Federation,18.0,AF,EU
+Seychelles,Russian Federation,2.0,AF,EU
+Somalia,Russian Federation,1.0,AF,EU
+Zambia,Russian Federation,13254.0,AF,EU
+Senegal,Russian Federation,5649.0,AF,EU
+Senegal,Russian Federation,20.0,AF,EU
+Ethiopia,Rwanda,66.0,AF,AF
+South Africa,Rwanda,2574.0,AF,AF
+Mauritius,Rwanda,218.0,AF,AF
+South Africa,Saint Lucia,13.0,AF,
+South Africa,Saint Lucia,59.0,AF,
+Tunisia,Saint Lucia,13.0,AF,
+Niger,Saint Lucia,27.0,AF,
+Namibia,Saint Lucia,10.0,AF,
+Cameroon,Sao Tome and Principe,57.0,AF,AF
+Nigeria,Sao Tome and Principe,1.0,AF,AF
+Togo,Sao Tome and Principe,13.0,AF,AF
+Gabon,Sao Tome and Principe,13.0,AF,AF
+Angola,Sao Tome and Principe,268.0,AF,AF
+Algeria,Saudi Arabia,5647.0,AF,AS
+Ethiopia,Saudi Arabia,166469.0,AF,AS
+Morocco,Saudi Arabia,30721.0,AF,AS
+South Africa,Saudi Arabia,128671.0,AF,AS
+Tunisia,Saudi Arabia,11516.0,AF,AS
+Benin,Saudi Arabia,537.0,AF,AS
+Ghana,Saudi Arabia,165.0,AF,AS
+Madagascar,Saudi Arabia,2353.0,AF,AS
+Niger,Saudi Arabia,1.0,AF,AS
+Namibia,Saudi Arabia,446.0,AF,AS
+Mali,Saudi Arabia,29.0,AF,AS
+Mauritius,Saudi Arabia,826.0,AF,AS
+Mauritania,Saudi Arabia,2.0,AF,AS
+Senegal,Saudi Arabia,122.0,AF,AS
+Botswana,Saudi Arabia,1.0,AF,AS
+Algeria,Senegal,18658.0,AF,AF
+Algeria,Senegal,703.0,AF,AF
+Cameroon,Senegal,51.0,AF,AF
+Egypt,Senegal,7974.0,AF,AF
+Ethiopia,Senegal,3.0,AF,AF
+Ethiopia,Senegal,5.0,AF,AF
+Kenya,Senegal,164.0,AF,AF
+Morocco,Senegal,10976.0,AF,AF
+Morocco,Senegal,34026.0,AF,AF
+South Africa,Senegal,7936.0,AF,AF
+South Africa,Senegal,16434.0,AF,AF
+Tunisia,Senegal,20539.0,AF,AF
+Tunisia,Senegal,19271.0,AF,AF
+Benin,Senegal,210.0,AF,AF
+Benin,Senegal,182.0,AF,AF
+Burkina Faso,Senegal,4853.0,AF,AF
+Ghana,Senegal,49229.0,AF,AF
+Ghana,Senegal,50275.0,AF,AF
+Guinea,Senegal,1654.0,AF,AF
+Malawi,Senegal,293.0,AF,AF
+Niger,Senegal,8.0,AF,AF
+Niger,Senegal,32.0,AF,AF
+Nigeria,Senegal,1171.0,AF,AF
+Togo,Senegal,4320.0,AF,AF
+Togo,Senegal,5384.0,AF,AF
+Zimbabwe,Senegal,7.0,AF,AF
+Congo,Senegal,26.0,AF,AF
+Mozambique,Senegal,708.0,AF,AF
+Mali,Senegal,602.0,AF,AF
+Mali,Senegal,66535.0,AF,AF
+Liberia,Senegal,42.0,AF,AF
+Mauritania,Senegal,201.0,AF,AF
+Mauritania,Senegal,28.0,AF,AF
+Zambia,Senegal,83.0,AF,AF
+Gambia,Senegal,139.0,AF,AF
+Gambia,Senegal,5936.0,AF,AF
+Guinea-Bissau,Senegal,11.0,AF,AF
+Algeria,Serbia,9.0,AF,EU
+Cameroon,Serbia,55.0,AF,EU
+Egypt,Serbia,1162.0,AF,EU
+Ethiopia,Serbia,174.0,AF,EU
+Kenya,Serbia,723.0,AF,EU
+Morocco,Serbia,351.0,AF,EU
+Morocco,Serbia,3.0,AF,EU
+South Africa,Serbia,4443.0,AF,EU
+South Africa,Serbia,211.0,AF,EU
+Tunisia,Serbia,335.0,AF,EU
+Tunisia,Serbia,380.0,AF,EU
+Uganda,Serbia,4022.0,AF,EU
+Burkina Faso,Serbia,3.0,AF,EU
+Comoros,Serbia,13.0,AF,EU
+Ghana,Serbia,9705.0,AF,EU
+Ghana,Serbia,161.0,AF,EU
+Guinea,Serbia,3.0,AF,EU
+Madagascar,Serbia,73.0,AF,EU
+Malawi,Serbia,288.0,AF,EU
+Niger,Serbia,49.0,AF,EU
+Nigeria,Serbia,836.0,AF,EU
+Togo,Serbia,223.0,AF,EU
+Zimbabwe,Serbia,316.0,AF,EU
+Namibia,Serbia,4.0,AF,EU
+Mozambique,Serbia,646.0,AF,EU
+Rwanda,Serbia,67.0,AF,EU
+Mali,Serbia,3.0,AF,EU
+Mauritius,Serbia,82.0,AF,EU
+Lesotho,Serbia,77.0,AF,EU
+Liberia,Serbia,116.0,AF,EU
+Zambia,Serbia,124.0,AF,EU
+Senegal,Serbia,4.0,AF,EU
+Algeria,Seychelles,5.0,AF,AF
+Egypt,Seychelles,4710.0,AF,AF
+Ethiopia,Seychelles,73.0,AF,AF
+Ethiopia,Seychelles,35.0,AF,AF
+Kenya,Seychelles,873.0,AF,AF
+Morocco,Seychelles,17.0,AF,AF
+Morocco,Seychelles,11.0,AF,AF
+South Africa,Seychelles,17442.0,AF,AF
+South Africa,Seychelles,14074.0,AF,AF
+Tunisia,Seychelles,8149.0,AF,AF
+Tunisia,Seychelles,6338.0,AF,AF
+Uganda,Seychelles,273.0,AF,AF
+Guinea,Seychelles,1.0,AF,AF
+Madagascar,Seychelles,34.0,AF,AF
+Madagascar,Seychelles,1612.0,AF,AF
+Malawi,Seychelles,128.0,AF,AF
+Sierra Leone,Seychelles,1.0,AF,AF
+Mali,Seychelles,13.0,AF,AF
+Mauritius,Seychelles,9227.0,AF,AF
+Mauritius,Seychelles,7770.0,AF,AF
+Liberia,Seychelles,23.0,AF,AF
+Mauritania,Seychelles,1.0,AF,AF
+Algeria,Sierra Leone,582.0,AF,AF
+Ethiopia,Sierra Leone,2.0,AF,AF
+Morocco,Sierra Leone,3387.0,AF,AF
+South Africa,Sierra Leone,3705.0,AF,AF
+Tunisia,Sierra Leone,172.0,AF,AF
+Benin,Sierra Leone,1.0,AF,AF
+Ghana,Sierra Leone,1161.0,AF,AF
+Togo,Sierra Leone,19.0,AF,AF
+Senegal,Sierra Leone,10028.0,AF,AF
+Gambia,Sierra Leone,1.0,AF,AF
+Cameroon,Singapore,32275.0,AF,AS
+Egypt,Singapore,11286.0,AF,AS
+Ethiopia,Singapore,725.0,AF,AS
+Ethiopia,Singapore,667.0,AF,AS
+Kenya,Singapore,3202.0,AF,AS
+Morocco,Singapore,966.0,AF,AS
+Morocco,Singapore,4386.0,AF,AS
+South Africa,Singapore,61768.0,AF,AS
+South Africa,Singapore,52324.0,AF,AS
+Tunisia,Singapore,1104.0,AF,AS
+Tunisia,Singapore,855.0,AF,AS
+Uganda,Singapore,13878.0,AF,AS
+Benin,Singapore,2727.0,AF,AS
+Burkina Faso,Singapore,100.0,AF,AS
+Burkina Faso,Singapore,226316.0,AF,AS
+Burundi,Singapore,3.0,AF,AS
+Comoros,Singapore,4164.0,AF,AS
+Ghana,Singapore,100075.0,AF,AS
+Ghana,Singapore,9641.0,AF,AS
+Guinea,Singapore,85.0,AF,AS
+Madagascar,Singapore,64920.0,AF,AS
+Madagascar,Singapore,61208.0,AF,AS
+Malawi,Singapore,432.0,AF,AS
+Niger,Singapore,1.0,AF,AS
+Niger,Singapore,8112.0,AF,AS
+Nigeria,Singapore,12999.0,AF,AS
+Togo,Singapore,2117.0,AF,AS
+Zimbabwe,Singapore,8415.0,AF,AS
+Namibia,Singapore,2028.0,AF,AS
+Namibia,Singapore,699.0,AF,AS
+Congo,Singapore,73.0,AF,AS
+Djibouti,Singapore,341.0,AF,AS
+Gabon,Singapore,530.0,AF,AS
+Mozambique,Singapore,2841.0,AF,AS
+Rwanda,Singapore,113.0,AF,AS
+Sierra Leone,Singapore,15.0,AF,AS
+Mali,Singapore,44.0,AF,AS
+Mali,Singapore,366.0,AF,AS
+Mauritius,Singapore,3364.0,AF,AS
+Mauritius,Singapore,6193.0,AF,AS
+Liberia,Singapore,615.0,AF,AS
+Seychelles,Singapore,7.0,AF,AS
+Somalia,Singapore,111.0,AF,AS
+Zambia,Singapore,26.0,AF,AS
+Senegal,Singapore,144.0,AF,AS
+Senegal,Singapore,1080.0,AF,AS
+Guinea-Bissau,Singapore,550.0,AF,AS
+Cameroon,Slovakia,1955.0,AF,EU
+Egypt,Slovakia,204.0,AF,EU
+Ethiopia,Slovakia,646.0,AF,EU
+Ethiopia,Slovakia,160.0,AF,EU
+Kenya,Slovakia,16.0,AF,EU
+Morocco,Slovakia,16.0,AF,EU
+Morocco,Slovakia,12.0,AF,EU
+South Africa,Slovakia,371.0,AF,EU
+South Africa,Slovakia,48.0,AF,EU
+Tunisia,Slovakia,340.0,AF,EU
+Tunisia,Slovakia,332.0,AF,EU
+Madagascar,Slovakia,38.0,AF,EU
+Madagascar,Slovakia,83.0,AF,EU
+Nigeria,Slovakia,956.0,AF,EU
+Namibia,Slovakia,3.0,AF,EU
+Rwanda,Slovakia,6.0,AF,EU
+Mauritius,Slovakia,114.0,AF,EU
+Mauritius,Slovakia,206.0,AF,EU
+Somalia,Slovakia,33.0,AF,EU
+Cameroon,Slovenia,301.0,AF,EU
+Egypt,Slovenia,20232.0,AF,EU
+Ethiopia,Slovenia,548.0,AF,EU
+Ethiopia,Slovenia,1166.0,AF,EU
+Kenya,Slovenia,65.0,AF,EU
+Morocco,Slovenia,1800.0,AF,EU
+Morocco,Slovenia,1335.0,AF,EU
+South Africa,Slovenia,1270.0,AF,EU
+South Africa,Slovenia,1078.0,AF,EU
+Tunisia,Slovenia,322.0,AF,EU
+Tunisia,Slovenia,280.0,AF,EU
+Uganda,Slovenia,101.0,AF,EU
+Burkina Faso,Slovenia,227.0,AF,EU
+Burundi,Slovenia,296.0,AF,EU
+Madagascar,Slovenia,43.0,AF,EU
+Madagascar,Slovenia,26.0,AF,EU
+Congo,Slovenia,30.0,AF,EU
+Rwanda,Slovenia,125.0,AF,EU
+Mauritius,Slovenia,16.0,AF,EU
+Liberia,Slovenia,118.0,AF,EU
+Senegal,Slovenia,2.0,AF,EU
+Algeria,South Africa,5.0,AF,AF
+Algeria,South Africa,3.0,AF,AF
+Cameroon,South Africa,26.0,AF,AF
+Egypt,South Africa,11110.0,AF,AF
+Ethiopia,South Africa,7404.0,AF,AF
+Ethiopia,South Africa,11640.0,AF,AF
+Kenya,South Africa,8094.0,AF,AF
+Morocco,South Africa,1916.0,AF,AF
+Morocco,South Africa,1685.0,AF,AF
+South Africa,South Africa,11585.0,AF,AF
+Tunisia,South Africa,687.0,AF,AF
+Tunisia,South Africa,560.0,AF,AF
+Uganda,South Africa,4906.0,AF,AF
+Benin,South Africa,3216.0,AF,AF
+Benin,South Africa,2226.0,AF,AF
+Burkina Faso,South Africa,6.0,AF,AF
+Burundi,South Africa,301.0,AF,AF
+Comoros,South Africa,180.0,AF,AF
+Ghana,South Africa,3026.0,AF,AF
+Ghana,South Africa,2302.0,AF,AF
+Madagascar,South Africa,2378.0,AF,AF
+Madagascar,South Africa,811.0,AF,AF
+Malawi,South Africa,48211.0,AF,AF
+Niger,South Africa,2.0,AF,AF
+Nigeria,South Africa,6183.0,AF,AF
+Togo,South Africa,113.0,AF,AF
+Togo,South Africa,258.0,AF,AF
+Zimbabwe,South Africa,78572.0,AF,AF
+Zimbabwe,South Africa,901404.0,AF,AF
+Namibia,South Africa,176328.0,AF,AF
+Namibia,South Africa,170001.0,AF,AF
+Congo,South Africa,33.0,AF,AF
+Djibouti,South Africa,660.0,AF,AF
+Gabon,South Africa,12.0,AF,AF
+Mozambique,South Africa,75842.0,AF,AF
+Rwanda,South Africa,788.0,AF,AF
+Sierra Leone,South Africa,66.0,AF,AF
+Mali,South Africa,1.0,AF,AF
+Mali,South Africa,1.0,AF,AF
+Mauritius,South Africa,3034.0,AF,AF
+Mauritius,South Africa,1612.0,AF,AF
+Lesotho,South Africa,38219.0,AF,AF
+Liberia,South Africa,34.0,AF,AF
+Sao Tome and Principe,South Africa,4.0,AF,AF
+Seychelles,South Africa,6.0,AF,AF
+Somalia,South Africa,18.0,AF,AF
+Zambia,South Africa,48099.0,AF,AF
+Zambia,South Africa,190.0,AF,AF
+Angola,South Africa,3.0,AF,AF
+Senegal,South Africa,10.0,AF,AF
+Senegal,South Africa,12.0,AF,AF
+Central African Republic,South Africa,3.0,AF,AF
+Botswana,South Africa,37843.0,AF,AF
+Botswana,South Africa,60855.0,AF,AF
+Algeria,Spain,10862.0,AF,EU
+Algeria,Spain,12342.0,AF,EU
+Cameroon,Spain,49478.0,AF,EU
+Egypt,Spain,59716.0,AF,EU
+Egypt,Spain,2671.0,AF,EU
+Ethiopia,Spain,6881.0,AF,EU
+Ethiopia,Spain,3911.0,AF,EU
+Kenya,Spain,21897.0,AF,EU
+Morocco,Spain,544232.0,AF,EU
+Morocco,Spain,407820.0,AF,EU
+South Africa,Spain,34398.0,AF,EU
+South Africa,Spain,29400.0,AF,EU
+Tunisia,Spain,96902.0,AF,EU
+Tunisia,Spain,91648.0,AF,EU
+Uganda,Spain,26789.0,AF,EU
+Benin,Spain,5446.0,AF,EU
+Benin,Spain,2196.0,AF,EU
+Burkina Faso,Spain,2919.0,AF,EU
+Burkina Faso,Spain,1799.0,AF,EU
+Burundi,Spain,37.0,AF,EU
+Comoros,Spain,400.0,AF,EU
+Ghana,Spain,85613.0,AF,EU
+Ghana,Spain,110370.0,AF,EU
+Guinea,Spain,9671.0,AF,EU
+Madagascar,Spain,5405.0,AF,EU
+Madagascar,Spain,6131.0,AF,EU
+Malawi,Spain,6102.0,AF,EU
+Niger,Spain,2556.0,AF,EU
+Niger,Spain,1757.0,AF,EU
+Nigeria,Spain,58164.0,AF,EU
+Togo,Spain,8622.0,AF,EU
+Togo,Spain,1426.0,AF,EU
+Zimbabwe,Spain,2110.0,AF,EU
+Zimbabwe,Spain,44.0,AF,EU
+Namibia,Spain,193.0,AF,EU
+Namibia,Spain,614.0,AF,EU
+Congo,Spain,2414.0,AF,EU
+Djibouti,Spain,6255.0,AF,EU
+Gabon,Spain,3412.0,AF,EU
+Mozambique,Spain,10374.0,AF,EU
+Rwanda,Spain,27.0,AF,EU
+Sierra Leone,Spain,1913.0,AF,EU
+Mali,Spain,1902.0,AF,EU
+Mauritius,Spain,27065.0,AF,EU
+Mauritius,Spain,24703.0,AF,EU
+Equatorial Guinea,Spain,928.0,AF,EU
+Liberia,Spain,7291.0,AF,EU
+Mauritania,Spain,125.0,AF,EU
+Mauritania,Spain,1.0,AF,EU
+Sao Tome and Principe,Spain,1981.0,AF,EU
+Seychelles,Spain,44.0,AF,EU
+Zambia,Spain,11.0,AF,EU
+Angola,Spain,202.0,AF,EU
+Senegal,Spain,11715.0,AF,EU
+Senegal,Spain,9870.0,AF,EU
+Chad,Spain,10.0,AF,EU
+Gambia,Spain,52.0,AF,EU
+Gambia,Spain,5.0,AF,EU
+Central African Republic,Spain,7.0,AF,EU
+Guinea-Bissau,Spain,36.0,AF,EU
+Botswana,Spain,13.0,AF,EU
+Botswana,Spain,31.0,AF,EU
+Algeria,Sri Lanka,16.0,AF,AS
+Algeria,Sri Lanka,8.0,AF,AS
+Egypt,Sri Lanka,5022.0,AF,AS
+Ethiopia,Sri Lanka,759.0,AF,AS
+Ethiopia,Sri Lanka,227.0,AF,AS
+Kenya,Sri Lanka,2569.0,AF,AS
+Morocco,Sri Lanka,79.0,AF,AS
+Morocco,Sri Lanka,73.0,AF,AS
+South Africa,Sri Lanka,10885.0,AF,AS
+South Africa,Sri Lanka,9219.0,AF,AS
+Tunisia,Sri Lanka,27.0,AF,AS
+Uganda,Sri Lanka,290.0,AF,AS
+Benin,Sri Lanka,288.0,AF,AS
+Ghana,Sri Lanka,71.0,AF,AS
+Madagascar,Sri Lanka,375.0,AF,AS
+Madagascar,Sri Lanka,1352.0,AF,AS
+Malawi,Sri Lanka,953.0,AF,AS
+Niger,Sri Lanka,1.0,AF,AS
+Nigeria,Sri Lanka,49.0,AF,AS
+Congo,Sri Lanka,1.0,AF,AS
+Mozambique,Sri Lanka,39.0,AF,AS
+Sierra Leone,Sri Lanka,9.0,AF,AS
+Mauritius,Sri Lanka,1582.0,AF,AS
+Mauritius,Sri Lanka,1133.0,AF,AS
+Liberia,Sri Lanka,51.0,AF,AS
+Seychelles,Sri Lanka,234.0,AF,AS
+Zambia,Sri Lanka,5.0,AF,AS
+South Africa,Suriname,260.0,AF,SA
+Tunisia,Suriname,112.0,AF,SA
+Algeria,Sweden,60.0,AF,EU
+Algeria,Sweden,59.0,AF,EU
+Cameroon,Sweden,11.0,AF,EU
+Egypt,Sweden,9452.0,AF,EU
+Egypt,Sweden,44.0,AF,EU
+Ethiopia,Sweden,16128.0,AF,EU
+Ethiopia,Sweden,12597.0,AF,EU
+Kenya,Sweden,28244.0,AF,EU
+Morocco,Sweden,18300.0,AF,EU
+Morocco,Sweden,5220.0,AF,EU
+South Africa,Sweden,67961.0,AF,EU
+South Africa,Sweden,52505.0,AF,EU
+Tunisia,Sweden,1071.0,AF,EU
+Tunisia,Sweden,1346.0,AF,EU
+Uganda,Sweden,6919.0,AF,EU
+Benin,Sweden,24.0,AF,EU
+Benin,Sweden,10.0,AF,EU
+Burkina Faso,Sweden,10.0,AF,EU
+Burkina Faso,Sweden,61.0,AF,EU
+Burundi,Sweden,7889.0,AF,EU
+Ghana,Sweden,143.0,AF,EU
+Madagascar,Sweden,25.0,AF,EU
+Madagascar,Sweden,38.0,AF,EU
+Malawi,Sweden,1553.0,AF,EU
+Nigeria,Sweden,19.0,AF,EU
+Togo,Sweden,4.0,AF,EU
+Togo,Sweden,2.0,AF,EU
+Zimbabwe,Sweden,205.0,AF,EU
+Zimbabwe,Sweden,33.0,AF,EU
+Namibia,Sweden,825.0,AF,EU
+Namibia,Sweden,18.0,AF,EU
+Congo,Sweden,429.0,AF,EU
+Mozambique,Sweden,459.0,AF,EU
+Rwanda,Sweden,3016.0,AF,EU
+Mali,Sweden,99.0,AF,EU
+Mali,Sweden,65.0,AF,EU
+Mauritius,Sweden,299.0,AF,EU
+Mauritius,Sweden,241.0,AF,EU
+Liberia,Sweden,3.0,AF,EU
+Somalia,Sweden,56.0,AF,EU
+Zambia,Sweden,4.0,AF,EU
+Senegal,Sweden,35.0,AF,EU
+Gambia,Sweden,1.0,AF,EU
+Gambia,Sweden,58.0,AF,EU
+Eritrea,Sweden,15.0,AF,EU
+Algeria,Switzerland,438.0,AF,EU
+Algeria,Switzerland,75.0,AF,EU
+Cameroon,Switzerland,1894.0,AF,EU
+Egypt,Switzerland,17038.0,AF,EU
+Ethiopia,Switzerland,41678.0,AF,EU
+Ethiopia,Switzerland,1625.0,AF,EU
+Kenya,Switzerland,44853.0,AF,EU
+Morocco,Switzerland,36842.0,AF,EU
+Morocco,Switzerland,9048.0,AF,EU
+South Africa,Switzerland,74312.0,AF,EU
+South Africa,Switzerland,28419.0,AF,EU
+Tunisia,Switzerland,7612.0,AF,EU
+Tunisia,Switzerland,4985.0,AF,EU
+Uganda,Switzerland,5700.0,AF,EU
+Benin,Switzerland,466.0,AF,EU
+Benin,Switzerland,15.0,AF,EU
+Burkina Faso,Switzerland,1103.0,AF,EU
+Burkina Faso,Switzerland,160852.0,AF,EU
+Burundi,Switzerland,20.0,AF,EU
+Comoros,Switzerland,557.0,AF,EU
+Ghana,Switzerland,85897.0,AF,EU
+Ghana,Switzerland,516.0,AF,EU
+Guinea,Switzerland,104.0,AF,EU
+Madagascar,Switzerland,18451.0,AF,EU
+Madagascar,Switzerland,3985.0,AF,EU
+Malawi,Switzerland,3754.0,AF,EU
+Niger,Switzerland,331.0,AF,EU
+Niger,Switzerland,138.0,AF,EU
+Nigeria,Switzerland,218.0,AF,EU
+Togo,Switzerland,606.0,AF,EU
+Togo,Switzerland,29.0,AF,EU
+Zimbabwe,Switzerland,2849.0,AF,EU
+Zimbabwe,Switzerland,3.0,AF,EU
+Namibia,Switzerland,543.0,AF,EU
+Namibia,Switzerland,1628.0,AF,EU
+Congo,Switzerland,19.0,AF,EU
+Gabon,Switzerland,1395.0,AF,EU
+Mozambique,Switzerland,24417.0,AF,EU
+Rwanda,Switzerland,994.0,AF,EU
+Sierra Leone,Switzerland,13.0,AF,EU
+Mali,Switzerland,160.0,AF,EU
+Mali,Switzerland,1753.0,AF,EU
+Mauritius,Switzerland,3117.0,AF,EU
+Mauritius,Switzerland,2426.0,AF,EU
+Equatorial Guinea,Switzerland,1.0,AF,EU
+Lesotho,Switzerland,14.0,AF,EU
+Mauritania,Switzerland,8.0,AF,EU
+Sao Tome and Principe,Switzerland,324.0,AF,EU
+Sao Tome and Principe,Switzerland,33.0,AF,EU
+Seychelles,Switzerland,19.0,AF,EU
+Seychelles,Switzerland,1.0,AF,EU
+Somalia,Switzerland,63.0,AF,EU
+Zambia,Switzerland,163.0,AF,EU
+Senegal,Switzerland,8837.0,AF,EU
+Senegal,Switzerland,935.0,AF,EU
+Eritrea,Switzerland,4.0,AF,EU
+Central African Republic,Switzerland,4.0,AF,EU
+Botswana,Switzerland,10.0,AF,EU
+Algeria,Syrian Arab Republic,5464.0,AF,AS
+Ethiopia,Syrian Arab Republic,75.0,AF,AS
+Morocco,Syrian Arab Republic,23533.0,AF,AS
+South Africa,Syrian Arab Republic,8495.0,AF,AS
+Tunisia,Syrian Arab Republic,764.0,AF,AS
+Benin,Syrian Arab Republic,25.0,AF,AS
+Algeria,Thailand,34.0,AF,AS
+Algeria,Thailand,47.0,AF,AS
+Cameroon,Thailand,350.0,AF,AS
+Egypt,Thailand,2091.0,AF,AS
+Ethiopia,Thailand,243.0,AF,AS
+Ethiopia,Thailand,59.0,AF,AS
+Kenya,Thailand,381.0,AF,AS
+Morocco,Thailand,5904.0,AF,AS
+Morocco,Thailand,840.0,AF,AS
+South Africa,Thailand,7607.0,AF,AS
+South Africa,Thailand,13211.0,AF,AS
+Tunisia,Thailand,7571.0,AF,AS
+Tunisia,Thailand,1271.0,AF,AS
+Uganda,Thailand,2535.0,AF,AS
+Benin,Thailand,1856.0,AF,AS
+Benin,Thailand,1279.0,AF,AS
+Burkina Faso,Thailand,14779.0,AF,AS
+Burundi,Thailand,1.0,AF,AS
+Ghana,Thailand,1460.0,AF,AS
+Ghana,Thailand,129.0,AF,AS
+Guinea,Thailand,1484.0,AF,AS
+Madagascar,Thailand,101.0,AF,AS
+Madagascar,Thailand,186.0,AF,AS
+Malawi,Thailand,242.0,AF,AS
+Niger,Thailand,1.0,AF,AS
+Niger,Thailand,107399.0,AF,AS
+Nigeria,Thailand,611.0,AF,AS
+Togo,Thailand,1599.0,AF,AS
+Togo,Thailand,680.0,AF,AS
+Zimbabwe,Thailand,1068.0,AF,AS
+Namibia,Thailand,1.0,AF,AS
+Congo,Thailand,18.0,AF,AS
+Mozambique,Thailand,1977.0,AF,AS
+Rwanda,Thailand,7.0,AF,AS
+Mali,Thailand,31010.0,AF,AS
+Mali,Thailand,15922.0,AF,AS
+Mauritius,Thailand,128.0,AF,AS
+Mauritius,Thailand,84.0,AF,AS
+Mauritania,Thailand,1.0,AF,AS
+Seychelles,Thailand,3.0,AF,AS
+Seychelles,Thailand,4.0,AF,AS
+Zambia,Thailand,1188.0,AF,AS
+Senegal,Thailand,3.0,AF,AS
+Senegal,Thailand,2.0,AF,AS
+Chad,Thailand,4697.0,AF,AS
+Guinea-Bissau,Thailand,175.0,AF,AS
+Algeria,Togo,48.0,AF,AF
+Algeria,Togo,1134.0,AF,AF
+Cameroon,Togo,38.0,AF,AF
+Egypt,Togo,683.0,AF,AF
+Ethiopia,Togo,1.0,AF,AF
+Kenya,Togo,53.0,AF,AF
+Morocco,Togo,640.0,AF,AF
+Morocco,Togo,3598.0,AF,AF
+South Africa,Togo,775.0,AF,AF
+South Africa,Togo,3921.0,AF,AF
+Tunisia,Togo,864.0,AF,AF
+Tunisia,Togo,688.0,AF,AF
+Uganda,Togo,13.0,AF,AF
+Benin,Togo,1238.0,AF,AF
+Benin,Togo,1803.0,AF,AF
+Burkina Faso,Togo,3081.0,AF,AF
+Burkina Faso,Togo,25837.0,AF,AF
+Ghana,Togo,17575.0,AF,AF
+Ghana,Togo,19352.0,AF,AF
+Niger,Togo,597.0,AF,AF
+Nigeria,Togo,4615.0,AF,AF
+Mali,Togo,2.0,AF,AF
+Mali,Togo,410.0,AF,AF
+Mauritius,Togo,5.0,AF,AF
+Senegal,Togo,2655.0,AF,AF
+Senegal,Togo,3102.0,AF,AF
+Morocco,Trinidad and Tobago,250.0,AF,
+South Africa,Trinidad and Tobago,405.0,AF,
+Ghana,Trinidad and Tobago,220.0,AF,
+Mauritius,Trinidad and Tobago,3.0,AF,
+Senegal,Trinidad and Tobago,30.0,AF,
+Algeria,Tunisia,4102.0,AF,AF
+Algeria,Tunisia,5379.0,AF,AF
+Cameroon,Tunisia,737.0,AF,AF
+Egypt,Tunisia,31898.0,AF,AF
+Ethiopia,Tunisia,407.0,AF,AF
+Kenya,Tunisia,21.0,AF,AF
+Morocco,Tunisia,17733.0,AF,AF
+Morocco,Tunisia,19676.0,AF,AF
+South Africa,Tunisia,110.0,AF,AF
+South Africa,Tunisia,175.0,AF,AF
+Uganda,Tunisia,5661.0,AF,AF
+Benin,Tunisia,316.0,AF,AF
+Burkina Faso,Tunisia,17.0,AF,AF
+Comoros,Tunisia,19.0,AF,AF
+Ghana,Tunisia,11063.0,AF,AF
+Ghana,Tunisia,10929.0,AF,AF
+Madagascar,Tunisia,88.0,AF,AF
+Madagascar,Tunisia,277.0,AF,AF
+Malawi,Tunisia,2655.0,AF,AF
+Niger,Tunisia,832.0,AF,AF
+Nigeria,Tunisia,932.0,AF,AF
+Togo,Tunisia,161.0,AF,AF
+Togo,Tunisia,147.0,AF,AF
+Zimbabwe,Tunisia,946.0,AF,AF
+Zimbabwe,Tunisia,798.0,AF,AF
+Mali,Tunisia,108.0,AF,AF
+Mauritius,Tunisia,121.0,AF,AF
+Mauritius,Tunisia,56.0,AF,AF
+Mauritania,Tunisia,13.0,AF,AF
+Senegal,Tunisia,103.0,AF,AF
+Senegal,Tunisia,517.0,AF,AF
+Algeria,Turkey,15686.0,AF,AS
+Algeria,Turkey,26931.0,AF,AS
+Cameroon,Turkey,19352.0,AF,AS
+Egypt,Turkey,49426.0,AF,AS
+Egypt,Turkey,9.0,AF,AS
+Ethiopia,Turkey,22531.0,AF,AS
+Ethiopia,Turkey,4638.0,AF,AS
+Kenya,Turkey,7753.0,AF,AS
+Morocco,Turkey,20159.0,AF,AS
+Morocco,Turkey,59449.0,AF,AS
+South Africa,Turkey,2787.0,AF,AS
+South Africa,Turkey,4611.0,AF,AS
+Tunisia,Turkey,11981.0,AF,AS
+Tunisia,Turkey,13389.0,AF,AS
+Uganda,Turkey,8268.0,AF,AS
+Benin,Turkey,2849.0,AF,AS
+Benin,Turkey,2945.0,AF,AS
+Burkina Faso,Turkey,44742.0,AF,AS
+Burkina Faso,Turkey,322.0,AF,AS
+Burundi,Turkey,42.0,AF,AS
+Comoros,Turkey,46.0,AF,AS
+Ghana,Turkey,155139.0,AF,AS
+Ghana,Turkey,85590.0,AF,AS
+Guinea,Turkey,6234.0,AF,AS
+Madagascar,Turkey,331.0,AF,AS
+Madagascar,Turkey,1103.0,AF,AS
+Malawi,Turkey,16171.0,AF,AS
+Niger,Turkey,21055.0,AF,AS
+Nigeria,Turkey,130463.0,AF,AS
+Togo,Turkey,2323.0,AF,AS
+Zimbabwe,Turkey,9892.0,AF,AS
+Namibia,Turkey,7.0,AF,AS
+Namibia,Turkey,3.0,AF,AS
+Congo,Turkey,881.0,AF,AS
+Mozambique,Turkey,48683.0,AF,AS
+Rwanda,Turkey,91.0,AF,AS
+Mali,Turkey,8093.0,AF,AS
+Mali,Turkey,9369.0,AF,AS
+Mauritius,Turkey,174.0,AF,AS
+Mauritius,Turkey,294.0,AF,AS
+Liberia,Turkey,136.0,AF,AS
+Mauritania,Turkey,442.0,AF,AS
+Mauritania,Turkey,176.0,AF,AS
+Somalia,Turkey,708.0,AF,AS
+Zambia,Turkey,1282.0,AF,AS
+Angola,Turkey,74.0,AF,AS
+Senegal,Turkey,1360.0,AF,AS
+Senegal,Turkey,581.0,AF,AS
+Chad,Turkey,23500.0,AF,AS
+Guinea-Bissau,Turkey,1588.0,AF,AS
+Ethiopia,Uganda,37.0,AF,AF
+South Africa,Uganda,4.0,AF,AF
+South Africa,Uganda,9055.0,AF,AF
+Tunisia,Uganda,70.0,AF,AF
+Benin,Uganda,1.0,AF,AF
+Madagascar,Uganda,611.0,AF,AF
+Zimbabwe,Uganda,2.0,AF,AF
+Namibia,Uganda,18.0,AF,AF
+Mauritius,Uganda,576.0,AF,AF
+Senegal,Uganda,92.0,AF,AF
+Algeria,Ukraine,100.0,AF,EU
+Ethiopia,Ukraine,852.0,AF,EU
+Morocco,Ukraine,179.0,AF,EU
+South Africa,Ukraine,5205.0,AF,EU
+Tunisia,Ukraine,592.0,AF,EU
+Benin,Ukraine,6113.0,AF,EU
+Madagascar,Ukraine,148.0,AF,EU
+Togo,Ukraine,143.0,AF,EU
+Namibia,Ukraine,18.0,AF,EU
+Mauritius,Ukraine,126.0,AF,EU
+Senegal,Ukraine,1.0,AF,EU
+Algeria,United Arab Emirates,8120.0,AF,AS
+Algeria,United Arab Emirates,10540.0,AF,AS
+Cameroon,United Arab Emirates,55.0,AF,AS
+Egypt,United Arab Emirates,298341.0,AF,AS
+Egypt,United Arab Emirates,4025.0,AF,AS
+Ethiopia,United Arab Emirates,79957.0,AF,AS
+Ethiopia,United Arab Emirates,80093.0,AF,AS
+Kenya,United Arab Emirates,92393.0,AF,AS
+Morocco,United Arab Emirates,26279.0,AF,AS
+Morocco,United Arab Emirates,22174.0,AF,AS
+South Africa,United Arab Emirates,300959.0,AF,AS
+South Africa,United Arab Emirates,273364.0,AF,AS
+Tunisia,United Arab Emirates,12798.0,AF,AS
+Tunisia,United Arab Emirates,24866.0,AF,AS
+Uganda,United Arab Emirates,3372.0,AF,AS
+Benin,United Arab Emirates,3682.0,AF,AS
+Burkina Faso,United Arab Emirates,10.0,AF,AS
+Burkina Faso,United Arab Emirates,156.0,AF,AS
+Burundi,United Arab Emirates,608.0,AF,AS
+Comoros,United Arab Emirates,5662.0,AF,AS
+Ghana,United Arab Emirates,6094.0,AF,AS
+Ghana,United Arab Emirates,995.0,AF,AS
+Guinea,United Arab Emirates,2.0,AF,AS
+Madagascar,United Arab Emirates,6794.0,AF,AS
+Madagascar,United Arab Emirates,7133.0,AF,AS
+Malawi,United Arab Emirates,4117.0,AF,AS
+Niger,United Arab Emirates,1756.0,AF,AS
+Nigeria,United Arab Emirates,6777.0,AF,AS
+Togo,United Arab Emirates,89.0,AF,AS
+Zimbabwe,United Arab Emirates,53311.0,AF,AS
+Zimbabwe,United Arab Emirates,176.0,AF,AS
+Namibia,United Arab Emirates,2040.0,AF,AS
+Namibia,United Arab Emirates,1046.0,AF,AS
+Djibouti,United Arab Emirates,45.0,AF,AS
+Gabon,United Arab Emirates,12.0,AF,AS
+Mozambique,United Arab Emirates,10847.0,AF,AS
+Rwanda,United Arab Emirates,1996.0,AF,AS
+Mali,United Arab Emirates,6.0,AF,AS
+Mauritius,United Arab Emirates,3503.0,AF,AS
+Mauritius,United Arab Emirates,1390.0,AF,AS
+Mauritania,United Arab Emirates,23.0,AF,AS
+Seychelles,United Arab Emirates,42.0,AF,AS
+Seychelles,United Arab Emirates,151.0,AF,AS
+Somalia,United Arab Emirates,12625.0,AF,AS
+Zambia,United Arab Emirates,1471.0,AF,AS
+Senegal,United Arab Emirates,168.0,AF,AS
+Senegal,United Arab Emirates,1343.0,AF,AS
+Gambia,United Arab Emirates,1.0,AF,AS
+Gambia,United Arab Emirates,9.0,AF,AS
+Guinea-Bissau,United Arab Emirates,181.0,AF,AS
+Algeria,United Kingdom,2367.0,AF,EU
+Algeria,United Kingdom,2489.0,AF,EU
+Cameroon,United Kingdom,38403.0,AF,EU
+Egypt,United Kingdom,191106.0,AF,EU
+Egypt,United Kingdom,5066.0,AF,EU
+Ethiopia,United Kingdom,45198.0,AF,EU
+Ethiopia,United Kingdom,24503.0,AF,EU
+Kenya,United Kingdom,380694.0,AF,EU
+Morocco,United Kingdom,183064.0,AF,EU
+Morocco,United Kingdom,72439.0,AF,EU
+South Africa,United Kingdom,784087.0,AF,EU
+South Africa,United Kingdom,615809.0,AF,EU
+Tunisia,United Kingdom,9492.0,AF,EU
+Tunisia,United Kingdom,19571.0,AF,EU
+Uganda,United Kingdom,16940.0,AF,EU
+Benin,United Kingdom,3.0,AF,EU
+Burkina Faso,United Kingdom,1891.0,AF,EU
+Burkina Faso,United Kingdom,37130.0,AF,EU
+Burundi,United Kingdom,894.0,AF,EU
+Comoros,United Kingdom,92.0,AF,EU
+Ghana,United Kingdom,142966.0,AF,EU
+Ghana,United Kingdom,79715.0,AF,EU
+Guinea,United Kingdom,82.0,AF,EU
+Madagascar,United Kingdom,4993.0,AF,EU
+Madagascar,United Kingdom,3636.0,AF,EU
+Malawi,United Kingdom,24562.0,AF,EU
+Malawi,United Kingdom,77.0,AF,EU
+Niger,United Kingdom,2.0,AF,EU
+Niger,United Kingdom,25.0,AF,EU
+Nigeria,United Kingdom,47771.0,AF,EU
+Nigeria,United Kingdom,2.0,AF,EU
+Togo,United Kingdom,42.0,AF,EU
+Togo,United Kingdom,12.0,AF,EU
+Zimbabwe,United Kingdom,18533.0,AF,EU
+Zimbabwe,United Kingdom,478.0,AF,EU
+Namibia,United Kingdom,41743.0,AF,EU
+Namibia,United Kingdom,32398.0,AF,EU
+Congo,United Kingdom,84.0,AF,EU
+Djibouti,United Kingdom,4505.0,AF,EU
+Gabon,United Kingdom,66.0,AF,EU
+Mozambique,United Kingdom,18447.0,AF,EU
+Rwanda,United Kingdom,11899.0,AF,EU
+Sierra Leone,United Kingdom,302.0,AF,EU
+Mali,United Kingdom,132.0,AF,EU
+Mali,United Kingdom,959.0,AF,EU
+Mauritius,United Kingdom,41461.0,AF,EU
+Mauritius,United Kingdom,36348.0,AF,EU
+Equatorial Guinea,United Kingdom,102.0,AF,EU
+Lesotho,United Kingdom,420.0,AF,EU
+Liberia,United Kingdom,246.0,AF,EU
+Somalia,United Kingdom,54.0,AF,EU
+Zambia,United Kingdom,5987.0,AF,EU
+Senegal,United Kingdom,33707.0,AF,EU
+Senegal,United Kingdom,28664.0,AF,EU
+Gambia,United Kingdom,4298.0,AF,EU
+Gambia,United Kingdom,19.0,AF,EU
+Eritrea,United Kingdom,10.0,AF,EU
+Botswana,United Kingdom,20675.0,AF,EU
+Botswana,United Kingdom,28188.0,AF,EU
+Egypt,Uruguay,839.0,AF,SA
+Ethiopia,Uruguay,4.0,AF,SA
+Kenya,Uruguay,3.0,AF,SA
+Morocco,Uruguay,30.0,AF,SA
+Morocco,Uruguay,23.0,AF,SA
+South Africa,Uruguay,208.0,AF,SA
+South Africa,Uruguay,1386.0,AF,SA
+Tunisia,Uruguay,142.0,AF,SA
+Tunisia,Uruguay,22.0,AF,SA
+Burkina Faso,Uruguay,1.0,AF,SA
+Burundi,Uruguay,3.0,AF,SA
+Ghana,Uruguay,1131.0,AF,SA
+Madagascar,Uruguay,18.0,AF,SA
+Malawi,Uruguay,301.0,AF,SA
+Nigeria,Uruguay,1193.0,AF,SA
+Ethiopia,Yemen,7576.0,AF,AS
+Morocco,Yemen,8700.0,AF,AS
+South Africa,Yemen,25.0,AF,AS
+South Africa,Yemen,21010.0,AF,AS
+Tunisia,Yemen,813.0,AF,AS
+Madagascar,Yemen,2990.0,AF,AS
+Ethiopia,Zambia,444.0,AF,AF
+Morocco,Zambia,15.0,AF,AF
+South Africa,Zambia,3607.0,AF,AF
+South Africa,Zambia,238956.0,AF,AF
+Ghana,Zambia,45.0,AF,AF
+Zimbabwe,Zambia,1012.0,AF,AF
+Zimbabwe,Zambia,14000.0,AF,AF
+Namibia,Zambia,14.0,AF,AF
+Namibia,Zambia,23396.0,AF,AF
+Mauritius,Zambia,359.0,AF,AF
+Senegal,Zambia,1.0,AF,AF
+Botswana,Zambia,10.0,AF,AF
+Botswana,Zambia,523.0,AF,AF
+Egypt,Zimbabwe,6914.0,AF,AF
+Egypt,Zimbabwe,22.0,AF,AF
+Ethiopia,Zimbabwe,3.0,AF,AF
+Ethiopia,Zimbabwe,14.0,AF,AF
+Kenya,Zimbabwe,2645.0,AF,AF
+South Africa,Zimbabwe,507695.0,AF,AF
+South Africa,Zimbabwe,445614.0,AF,AF
+Madagascar,Zimbabwe,32.0,AF,AF
+Madagascar,Zimbabwe,41.0,AF,AF
+Malawi,Zimbabwe,30993.0,AF,AF
+Malawi,Zimbabwe,8.0,AF,AF
+Namibia,Zimbabwe,4259.0,AF,AF
+Namibia,Zimbabwe,3654.0,AF,AF
+Congo,Zimbabwe,2.0,AF,AF
+Gabon,Zimbabwe,57.0,AF,AF
+Mozambique,Zimbabwe,35420.0,AF,AF
+Mali,Zimbabwe,1.0,AF,AF
+Mauritius,Zimbabwe,40385.0,AF,AF
+Mauritius,Zimbabwe,2045.0,AF,AF
+Zambia,Zimbabwe,130423.0,AF,AF
+Zambia,Zimbabwe,2.0,AF,AF
+Botswana,Zimbabwe,4029.0,AF,AF
+Botswana,Zimbabwe,3951.0,AF,AF
+Mauritius,American Samoa,163.0,AF,OC
+Algeria,Angola,947.0,AF,AF
+Ethiopia,Angola,56.0,AF,AF
+Morocco,Angola,6217.0,AF,AF
+South Africa,Angola,154267.0,AF,AF
+Tunisia,Angola,399.0,AF,AF
+Namibia,Angola,14136.0,AF,AF
+Mauritius,Angola,147.0,AF,AF
+Sao Tome and Principe,Angola,14.0,AF,AF
+Botswana,Angola,2256.0,AF,AF
+South Africa,Bahamas,572.0,AF,
+Tunisia,Bahamas,43.0,AF,
+Namibia,Bahamas,1.0,AF,
+Namibia,Bahamas,70.0,AF,
+Gambia,Bahamas,3.0,AF,
+South Africa,Belize,31.0,AF,
+Niger,Belize,19.0,AF,
+Namibia,Belize,155.0,AF,
+South Africa,Cayman Islands,214.0,AF,
+Tunisia,Cayman Islands,151.0,AF,
+Namibia,Cayman Islands,82.0,AF,
+Ethiopia,Chad,13.0,AF,AF
+Morocco,Chad,299.0,AF,AF
+South Africa,Chad,75.0,AF,AF
+Tunisia,Chad,395.0,AF,AF
+Ghana,Chad,30.0,AF,AF
+Senegal,Chad,17657.0,AF,AF
+South Africa,Cuba,32.0,AF,
+Tunisia,Cuba,1103.0,AF,
+South Africa,Dominica,197.0,AF,
+Morocco,Dominican Republic,263.0,AF,
+South Africa,Dominican Republic,180.0,AF,
+Tunisia,Dominican Republic,19.0,AF,
+Algeria,Equatorial Guinea,104.0,AF,AF
+Morocco,Equatorial Guinea,2568.0,AF,AF
+South Africa,Equatorial Guinea,7510.0,AF,AF
+Tunisia,Equatorial Guinea,1861.0,AF,AF
+Benin,Equatorial Guinea,4.0,AF,AF
+Ghana,Equatorial Guinea,733.0,AF,AF
+Togo,Equatorial Guinea,131.0,AF,AF
+Mali,Equatorial Guinea,1.0,AF,AF
+Senegal,Equatorial Guinea,3797.0,AF,AF
+South Africa,Eritrea,152.0,AF,AF
+South Africa,French Polynesia,856.0,AF,OC
+South Africa,Grenada,60.0,AF,
+Ethiopia,Guatemala,435.0,AF,
+Morocco,Guatemala,42.0,AF,
+South Africa,Guatemala,239.0,AF,
+Ethiopia,Guinea-Bissau,1.0,AF,AF
+Morocco,Guinea-Bissau,2043.0,AF,AF
+South Africa,Guinea-Bissau,550.0,AF,AF
+Tunisia,Guinea-Bissau,17.0,AF,AF
+Togo,Guinea-Bissau,50.0,AF,AF
+Senegal,Guinea-Bissau,13549.0,AF,AF
+Gambia,Guinea-Bissau,27349.0,AF,AF
+Morocco,Haiti,650.0,AF,
+South Africa,Haiti,70.0,AF,
+Niger,Haiti,50.0,AF,
+Senegal,Haiti,7.0,AF,
+Algeria,Iraq,352.0,AF,AS
+Ethiopia,Iraq,759.0,AF,AS
+Morocco,Iraq,8010.0,AF,AS
+South Africa,Iraq,646.0,AF,AS
+Tunisia,Iraq,592.0,AF,AS
+Benin,Iraq,11.0,AF,AS
+Burkina Faso,Iraq,21.0,AF,AS
+Ghana,Iraq,427.0,AF,AS
+Madagascar,Iraq,201.0,AF,AS
+South Africa,Lesotho,330318.0,AF,AF
+Namibia,Lesotho,258.0,AF,AF
+Botswana,Lesotho,27.0,AF,AF
+Algeria,Liberia,187.0,AF,AF
+Morocco,Liberia,794.0,AF,AF
+South Africa,Liberia,4872.0,AF,AF
+Tunisia,Liberia,542.0,AF,AF
+Ghana,Liberia,1146.0,AF,AF
+Togo,Liberia,317.0,AF,AF
+Namibia,Liberia,11.0,AF,AF
+Mali,Liberia,582.0,AF,AF
+Senegal,Liberia,2878.0,AF,AF
+South Africa,Marshall Islands,27.0,AF,OC
+Tunisia,Marshall Islands,35.0,AF,OC
+Namibia,Marshall Islands,40.0,AF,OC
+Ethiopia,Mozambique,15.0,AF,AF
+South Africa,Mozambique,430890.0,AF,AF
+Tunisia,Mozambique,78.0,AF,AF
+Madagascar,Mozambique,364.0,AF,AF
+Zimbabwe,Mozambique,130065.0,AF,AF
+Namibia,Mozambique,92.0,AF,AF
+Mali,Mozambique,1.0,AF,AF
+Mauritius,Mozambique,115.0,AF,AF
+Botswana,Mozambique,275.0,AF,AF
+Ethiopia,Myanmar,25.0,AF,AS
+Morocco,Myanmar,2341.0,AF,AS
+South Africa,Myanmar,714.0,AF,AS
+Benin,Myanmar,310.0,AF,AS
+Mauritius,Myanmar,1267.0,AF,AS
+Morocco,New Caledonia,4.0,AF,OC
+South Africa,New Caledonia,30.0,AF,OC
+Tunisia,New Caledonia,74.0,AF,OC
+Madagascar,New Caledonia,14.0,AF,OC
+Ethiopia,Nicaragua,311.0,AF,
+Niger,Nicaragua,54.0,AF,
+Niger,Nicaragua,236.0,AF,
+South Africa,Panama,3704.0,AF,
+Tunisia,Panama,60.0,AF,
+Ghana,Panama,62.0,AF,
+Namibia,Panama,273.0,AF,
+Gambia,Panama,24.0,AF,
+South Africa,Saint Vincent and the Grenadines,17.0,AF,
+Senegal,Saint Vincent and the Grenadines,7.0,AF,
+South Africa,Samoa,4.0,AF,OC
+Mauritius,Samoa,300.0,AF,OC
+Tunisia,Solomon Islands,43.0,AF,OC
+Ethiopia,Somalia,4682.0,AF,AF
+Morocco,Somalia,48.0,AF,AF
+South Africa,Somalia,1229.0,AF,AF
+Tunisia,Somalia,142.0,AF,AF
+Namibia,Somalia,1.0,AF,AF
+South Africa,Tuvalu,305.0,AF,OC
+Mauritius,Tuvalu,22.0,AF,OC
+South Africa,Uzbekistan,37.0,AF,AS
+Namibia,Vanuatu,9.0,AF,OC
+Algeria,Viet Nam,36.0,AF,AS
+Ethiopia,Viet Nam,11330.0,AF,AS
+Morocco,Viet Nam,277.0,AF,AS
+South Africa,Viet Nam,84043.0,AF,AS
+Tunisia,Viet Nam,210.0,AF,AS
+Benin,Viet Nam,12122.0,AF,AS
+Burkina Faso,Viet Nam,27828.0,AF,AS
+Ghana,Viet Nam,537417.0,AF,AS
+Madagascar,Viet Nam,33354.0,AF,AS
+Niger,Viet Nam,1755.0,AF,AS
+Togo,Viet Nam,5078.0,AF,AS
+Namibia,Viet Nam,2530.0,AF,AS
+Mali,Viet Nam,30242.0,AF,AS
+Mauritius,Viet Nam,208.0,AF,AS
+Mauritania,Viet Nam,496.0,AF,AS
+Seychelles,Viet Nam,4121.0,AF,AS
+Senegal,Viet Nam,23427.0,AF,AS
+Gambia,Viet Nam,6329.0,AF,AS
+Botswana,Viet Nam,329.0,AF,AS
+Algeria,India,1709.0,AF,AS
+Algeria,India,871.0,AF,AS
+Cameroon,India,22833.0,AF,AS
+Egypt,India,81570.0,AF,AS
+Ethiopia,India,64371.0,AF,AS
+Ethiopia,India,31943.0,AF,AS
+Kenya,India,53422.0,AF,AS
+Morocco,India,4739.0,AF,AS
+Morocco,India,3367.0,AF,AS
+South Africa,India,22616.0,AF,AS
+South Africa,India,17776.0,AF,AS
+Tunisia,India,6408.0,AF,AS
+Tunisia,India,5358.0,AF,AS
+Uganda,India,35286.0,AF,AS
+Benin,India,161626.0,AF,AS
+Benin,India,48710.0,AF,AS
+Burkina Faso,India,50012.0,AF,AS
+Burkina Faso,India,4361.0,AF,AS
+Burundi,India,1212.0,AF,AS
+Comoros,India,22957.0,AF,AS
+Ghana,India,87247.0,AF,AS
+Ghana,India,463932.0,AF,AS
+Guinea,India,25781.0,AF,AS
+Madagascar,India,90262.0,AF,AS
+Madagascar,India,70364.0,AF,AS
+Malawi,India,1793.0,AF,AS
+Niger,India,22616.0,AF,AS
+Nigeria,India,79717.0,AF,AS
+Togo,India,15002.0,AF,AS
+Togo,India,5039.0,AF,AS
+Zimbabwe,India,9606.0,AF,AS
+Namibia,India,2.0,AF,AS
+Congo,India,1847.0,AF,AS
+Djibouti,India,1775.0,AF,AS
+Mozambique,India,46391.0,AF,AS
+Mali,India,62314.0,AF,AS
+Mali,India,42927.0,AF,AS
+Mauritius,India,240.0,AF,AS
+Mauritius,India,571.0,AF,AS
+Seychelles,India,12.0,AF,AS
+Somalia,India,16750.0,AF,AS
+Zambia,India,9082.0,AF,AS
+Senegal,India,52142.0,AF,AS
+Senegal,India,7260.0,AF,AS
+Chad,India,11593.0,AF,AS
+Gambia,India,39436.0,AF,AS
+Gambia,India,1492.0,AF,AS
+Guinea-Bissau,India,209390.0,AF,AS
+Botswana,India,142.0,AF,AS
+Botswana,India,185.0,AF,AS
+South Africa,Cook Islands,1.0,AF,OC
+Namibia,Faroe Islands,3.0,AF,EU
+South Africa,Saint Kitts and Nevis,2.0,AF,
+Namibia,Saint Kitts and Nevis,134.0,AF,
+Senegal,Saint Pierre and Miquelon,84.0,AF,
+South Africa,Turks and Caicos Islands,19.0,AF,
+Morocco,Gibraltar,68.0,AF,EU
+South Africa,Falkland Islands (Malvinas),35.0,AF,SA
+South Africa,Andorra,16.0,AF,EU

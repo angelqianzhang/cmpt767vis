@@ -1,0 +1,5364 @@
+source,target,value,sourcecont,targetcont
+India,Afghanistan,418.0,AS,AS
+India,Afghanistan,63094.0,AS,AS
+Kazakhstan,Afghanistan,64.0,AS,AS
+Kazakhstan,Afghanistan,408308.0,AS,AS
+Kyrgyzstan,Afghanistan,2.0,AS,AS
+Kyrgyzstan,Afghanistan,608.0,AS,AS
+Pakistan,Afghanistan,133836.0,AS,AS
+Pakistan,Afghanistan,737203.0,AS,AS
+Turkey,Afghanistan,50.0,AS,AS
+Turkey,Afghanistan,23533.0,AS,AS
+United Arab Emirates,Afghanistan,40.0,AS,AS
+United Arab Emirates,Afghanistan,74075.0,AS,AS
+Indonesia,Afghanistan,2276.0,AS,AS
+Malaysia,Afghanistan,77650.0,AS,AS
+Sri Lanka,Afghanistan,128.0,AS,AS
+Thailand,Afghanistan,226.0,AS,AS
+Georgia,Afghanistan,24.0,AS,AS
+Japan,Afghanistan,453.0,AS,AS
+Philippines,Afghanistan,344.0,AS,AS
+Singapore,Afghanistan,457.0,AS,AS
+Bahrain,Afghanistan,254.0,AS,AS
+Qatar,Afghanistan,92.0,AS,AS
+India,Albania,6201.0,AS,EU
+India,Albania,4929.0,AS,EU
+Kazakhstan,Albania,12.0,AS,EU
+Pakistan,Albania,1303.0,AS,EU
+Pakistan,Albania,1851.0,AS,EU
+Turkey,Albania,30409.0,AS,EU
+Turkey,Albania,30646.0,AS,EU
+United Arab Emirates,Albania,47.0,AS,EU
+Cyprus,Albania,26.0,AS,EU
+Cyprus,Albania,60.0,AS,EU
+Indonesia,Albania,1035.0,AS,EU
+Indonesia,Albania,1203.0,AS,EU
+Malaysia,Albania,827.0,AS,EU
+Malaysia,Albania,1199.0,AS,EU
+Sri Lanka,Albania,64.0,AS,EU
+Sri Lanka,Albania,6305.0,AS,EU
+Thailand,Albania,358.0,AS,EU
+Thailand,Albania,253.0,AS,EU
+Viet Nam,Albania,2388.0,AS,EU
+Georgia,Albania,78.0,AS,EU
+Lebanon,Albania,2.0,AS,EU
+Kuwait,Albania,25.0,AS,EU
+India,Algeria,218884.0,AS,AF
+India,Algeria,90522.0,AS,AF
+Kazakhstan,Algeria,1320.0,AS,AF
+Kyrgyzstan,Algeria,736.0,AS,AF
+Pakistan,Algeria,7332.0,AS,AF
+Pakistan,Algeria,5683.0,AS,AF
+Turkey,Algeria,125955.0,AS,AF
+Turkey,Algeria,124252.0,AS,AF
+United Arab Emirates,Algeria,5434.0,AS,AF
+United Arab Emirates,Algeria,11989.0,AS,AF
+Cyprus,Algeria,3920.0,AS,AF
+Indonesia,Algeria,71654.0,AS,AF
+Indonesia,Algeria,90119.0,AS,AF
+Malaysia,Algeria,17240.0,AS,AF
+Malaysia,Algeria,40960.0,AS,AF
+Sri Lanka,Algeria,246.0,AS,AF
+Sri Lanka,Algeria,313.0,AS,AF
+Thailand,Algeria,19778.0,AS,AF
+Thailand,Algeria,25883.0,AS,AF
+Viet Nam,Algeria,157824.0,AS,AF
+Afghanistan,Algeria,28.0,AS,AF
+Azerbaijan,Algeria,120.0,AS,AF
+Cambodia,Algeria,71.0,AS,AF
+Cambodia,Algeria,53.0,AS,AF
+Georgia,Algeria,297.0,AS,AF
+Georgia,Algeria,373.0,AS,AF
+Iraq,Algeria,133.0,AS,AF
+Japan,Algeria,11.0,AS,AF
+Jordan,Algeria,3955.0,AS,AF
+Jordan,Algeria,3394.0,AS,AF
+Lebanon,Algeria,5526.0,AS,AF
+Lebanon,Algeria,4501.0,AS,AF
+Myanmar,Algeria,21.0,AS,AF
+Oman,Algeria,765.0,AS,AF
+Oman,Algeria,313.0,AS,AF
+Philippines,Algeria,1076.0,AS,AF
+Philippines,Algeria,1431.0,AS,AF
+Saudi Arabia,Algeria,3754.0,AS,AF
+Singapore,Algeria,265.0,AS,AF
+Singapore,Algeria,1485.0,AS,AF
+Syrian Arab Republic,Algeria,19508.0,AS,AF
+Tajikistan,Algeria,3955.0,AS,AF
+Uzbekistan,Algeria,44.0,AS,AF
+Armenia,Algeria,108.0,AS,AF
+India,Antigua and Barbuda,18.0,AS,
+Pakistan,Antigua and Barbuda,13.0,AS,
+Turkey,Antigua and Barbuda,94.0,AS,
+Turkey,Antigua and Barbuda,40.0,AS,
+United Arab Emirates,Antigua and Barbuda,30.0,AS,
+United Arab Emirates,Antigua and Barbuda,143.0,AS,
+Cyprus,Antigua and Barbuda,359.0,AS,
+Cyprus,Antigua and Barbuda,5.0,AS,
+Indonesia,Antigua and Barbuda,36.0,AS,
+Indonesia,Antigua and Barbuda,75.0,AS,
+Malaysia,Antigua and Barbuda,355.0,AS,
+Malaysia,Antigua and Barbuda,434.0,AS,
+Sri Lanka,Antigua and Barbuda,23.0,AS,
+Thailand,Antigua and Barbuda,156.0,AS,
+Thailand,Antigua and Barbuda,10.0,AS,
+Georgia,Antigua and Barbuda,14.0,AS,
+Philippines,Antigua and Barbuda,46.0,AS,
+Philippines,Antigua and Barbuda,16.0,AS,
+Saudi Arabia,Antigua and Barbuda,25.0,AS,
+Syrian Arab Republic,Antigua and Barbuda,4.0,AS,
+Bahrain,Antigua and Barbuda,16.0,AS,
+India,Argentina,17986.0,AS,SA
+India,Argentina,16047.0,AS,SA
+Pakistan,Argentina,41.0,AS,SA
+Pakistan,Argentina,21.0,AS,SA
+Turkey,Argentina,12603.0,AS,SA
+Turkey,Argentina,10220.0,AS,SA
+United Arab Emirates,Argentina,59.0,AS,SA
+United Arab Emirates,Argentina,313.0,AS,SA
+Cyprus,Argentina,2.0,AS,SA
+Indonesia,Argentina,60347.0,AS,SA
+Indonesia,Argentina,54396.0,AS,SA
+Malaysia,Argentina,20265.0,AS,SA
+Malaysia,Argentina,15910.0,AS,SA
+Sri Lanka,Argentina,1574.0,AS,SA
+Sri Lanka,Argentina,1175.0,AS,SA
+Thailand,Argentina,11287.0,AS,SA
+Thailand,Argentina,10294.0,AS,SA
+Viet Nam,Argentina,10600.0,AS,SA
+Japan,Argentina,396.0,AS,SA
+Japan,Argentina,407.0,AS,SA
+Jordan,Argentina,30.0,AS,SA
+Lebanon,Argentina,122.0,AS,SA
+Lebanon,Argentina,117.0,AS,SA
+Philippines,Argentina,7785.0,AS,SA
+Philippines,Argentina,6258.0,AS,SA
+Singapore,Argentina,876.0,AS,SA
+Singapore,Argentina,1593.0,AS,SA
+Uzbekistan,Argentina,314.0,AS,SA
+Israel,Argentina,930.0,AS,SA
+Israel,Argentina,1211.0,AS,SA
+India,Armenia,18519.0,AS,AS
+India,Armenia,12262.0,AS,AS
+Kazakhstan,Armenia,66.0,AS,AS
+Kazakhstan,Armenia,33.0,AS,AS
+Pakistan,Armenia,1227.0,AS,AS
+Turkey,Armenia,2240.0,AS,AS
+United Arab Emirates,Armenia,838.0,AS,AS
+United Arab Emirates,Armenia,1885.0,AS,AS
+Cyprus,Armenia,144.0,AS,AS
+Cyprus,Armenia,115.0,AS,AS
+Indonesia,Armenia,237.0,AS,AS
+Indonesia,Armenia,1658.0,AS,AS
+Malaysia,Armenia,1965.0,AS,AS
+Malaysia,Armenia,81.0,AS,AS
+Sri Lanka,Armenia,4.0,AS,AS
+Sri Lanka,Armenia,230.0,AS,AS
+Thailand,Armenia,3485.0,AS,AS
+Thailand,Armenia,263.0,AS,AS
+Viet Nam,Armenia,604.0,AS,AS
+Georgia,Armenia,27369.0,AS,AS
+Georgia,Armenia,41335.0,AS,AS
+Japan,Armenia,17.0,AS,AS
+Jordan,Armenia,4.0,AS,AS
+Jordan,Armenia,5.0,AS,AS
+Lebanon,Armenia,156.0,AS,AS
+Lebanon,Armenia,294.0,AS,AS
+Philippines,Armenia,51.0,AS,AS
+Saudi Arabia,Armenia,27.0,AS,AS
+Singapore,Armenia,80.0,AS,AS
+Singapore,Armenia,106.0,AS,AS
+Syrian Arab Republic,Armenia,108.0,AS,AS
+Uzbekistan,Armenia,24.0,AS,AS
+Israel,Armenia,603.0,AS,AS
+Israel,Armenia,423.0,AS,AS
+Bangladesh,Armenia,3591.0,AS,AS
+Kuwait,Armenia,3.0,AS,AS
+Turkmenistan,Armenia,102.0,AS,AS
+India,Australia,213172.0,AS,OC
+India,Australia,206285.0,AS,OC
+Kyrgyzstan,Australia,1.0,AS,OC
+Pakistan,Australia,26825.0,AS,OC
+Pakistan,Australia,26245.0,AS,OC
+Turkey,Australia,114668.0,AS,OC
+Turkey,Australia,108632.0,AS,OC
+United Arab Emirates,Australia,18818.0,AS,OC
+United Arab Emirates,Australia,10089.0,AS,OC
+Cyprus,Australia,12730.0,AS,OC
+Cyprus,Australia,12230.0,AS,OC
+Indonesia,Australia,200008.0,AS,OC
+Indonesia,Australia,177010.0,AS,OC
+Malaysia,Australia,393883.0,AS,OC
+Malaysia,Australia,436708.0,AS,OC
+Sri Lanka,Australia,52443.0,AS,OC
+Sri Lanka,Australia,51344.0,AS,OC
+Thailand,Australia,478573.0,AS,OC
+Thailand,Australia,457937.0,AS,OC
+Viet Nam,Australia,243609.0,AS,OC
+Afghanistan,Australia,84.0,AS,OC
+Azerbaijan,Australia,120.0,AS,OC
+Cambodia,Australia,1565.0,AS,OC
+Cambodia,Australia,1084.0,AS,OC
+Georgia,Australia,860.0,AS,OC
+Georgia,Australia,950.0,AS,OC
+Japan,Australia,93339.0,AS,OC
+Japan,Australia,94462.0,AS,OC
+Jordan,Australia,1902.0,AS,OC
+Jordan,Australia,1784.0,AS,OC
+Lebanon,Australia,9069.0,AS,OC
+Lebanon,Australia,10928.0,AS,OC
+Myanmar,Australia,2525.0,AS,OC
+Oman,Australia,685.0,AS,OC
+Oman,Australia,286.0,AS,OC
+Philippines,Australia,58298.0,AS,OC
+Philippines,Australia,55401.0,AS,OC
+Saudi Arabia,Australia,1455.0,AS,OC
+Singapore,Australia,692580.0,AS,OC
+Singapore,Australia,844256.0,AS,OC
+Syrian Arab Republic,Australia,1009.0,AS,OC
+Tajikistan,Australia,10.0,AS,OC
+Uzbekistan,Australia,3.0,AS,OC
+Israel,Australia,20135.0,AS,OC
+Israel,Australia,21538.0,AS,OC
+Bangladesh,Australia,2022.0,AS,OC
+Bangladesh,Australia,349.0,AS,OC
+Kuwait,Australia,60.0,AS,OC
+Kuwait,Australia,355.0,AS,OC
+Armenia,Australia,9.0,AS,OC
+Armenia,Australia,28.0,AS,OC
+Bahrain,Australia,72.0,AS,OC
+Bahrain,Australia,216.0,AS,OC
+Nepal,Australia,487.0,AS,OC
+Nepal,Australia,14.0,AS,OC
+Qatar,Australia,1.0,AS,OC
+Timor-Leste,Australia,694.0,AS,OC
+Yemen,Australia,15.0,AS,OC
+Mongolia,Australia,4.0,AS,OC
+India,Austria,28586.0,AS,EU
+India,Austria,8862.0,AS,EU
+Kazakhstan,Austria,721.0,AS,EU
+Kazakhstan,Austria,195.0,AS,EU
+Kyrgyzstan,Austria,67.0,AS,EU
+Kyrgyzstan,Austria,2.0,AS,EU
+Pakistan,Austria,321.0,AS,EU
+Pakistan,Austria,205.0,AS,EU
+Turkey,Austria,363135.0,AS,EU
+Turkey,Austria,124107.0,AS,EU
+United Arab Emirates,Austria,1247.0,AS,EU
+United Arab Emirates,Austria,474.0,AS,EU
+Cyprus,Austria,14088.0,AS,EU
+Cyprus,Austria,8957.0,AS,EU
+Indonesia,Austria,5940.0,AS,EU
+Indonesia,Austria,1580.0,AS,EU
+Malaysia,Austria,1737.0,AS,EU
+Malaysia,Austria,778.0,AS,EU
+Sri Lanka,Austria,2477.0,AS,EU
+Sri Lanka,Austria,3181.0,AS,EU
+Thailand,Austria,10716.0,AS,EU
+Thailand,Austria,7443.0,AS,EU
+Viet Nam,Austria,6964.0,AS,EU
+Afghanistan,Austria,52.0,AS,EU
+Azerbaijan,Austria,202.0,AS,EU
+Cambodia,Austria,1226.0,AS,EU
+Cambodia,Austria,438.0,AS,EU
+Georgia,Austria,264.0,AS,EU
+Georgia,Austria,109.0,AS,EU
+Iraq,Austria,15.0,AS,EU
+Japan,Austria,3094.0,AS,EU
+Japan,Austria,1725.0,AS,EU
+Jordan,Austria,373.0,AS,EU
+Jordan,Austria,249.0,AS,EU
+Lebanon,Austria,1817.0,AS,EU
+Lebanon,Austria,1108.0,AS,EU
+Oman,Austria,9.0,AS,EU
+Philippines,Austria,4207.0,AS,EU
+Philippines,Austria,853.0,AS,EU
+Saudi Arabia,Austria,45.0,AS,EU
+Singapore,Austria,5558.0,AS,EU
+Singapore,Austria,332.0,AS,EU
+Syrian Arab Republic,Austria,851.0,AS,EU
+Uzbekistan,Austria,1007.0,AS,EU
+Israel,Austria,2072.0,AS,EU
+Israel,Austria,2005.0,AS,EU
+Kuwait,Austria,3.0,AS,EU
+Armenia,Austria,112.0,AS,EU
+Armenia,Austria,39.0,AS,EU
+Nepal,Austria,79.0,AS,EU
+Mongolia,Austria,1783.0,AS,EU
+Mongolia,Austria,500.0,AS,EU
+India,Azerbaijan,11663.0,AS,AS
+India,Azerbaijan,12139.0,AS,AS
+Kazakhstan,Azerbaijan,68.0,AS,AS
+Kazakhstan,Azerbaijan,11040.0,AS,AS
+Kyrgyzstan,Azerbaijan,241.0,AS,AS
+Pakistan,Azerbaijan,60150.0,AS,AS
+Pakistan,Azerbaijan,60279.0,AS,AS
+Turkey,Azerbaijan,45.0,AS,AS
+Turkey,Azerbaijan,116079.0,AS,AS
+United Arab Emirates,Azerbaijan,4.0,AS,AS
+United Arab Emirates,Azerbaijan,6939.0,AS,AS
+Malaysia,Azerbaijan,1980.0,AS,AS
+Sri Lanka,Azerbaijan,45197.0,AS,AS
+Thailand,Azerbaijan,418.0,AS,AS
+Georgia,Azerbaijan,30.0,AS,AS
+Georgia,Azerbaijan,29303.0,AS,AS
+Jordan,Azerbaijan,354.0,AS,AS
+Lebanon,Azerbaijan,394.0,AS,AS
+Singapore,Azerbaijan,122.0,AS,AS
+Israel,Azerbaijan,1049.0,AS,AS
+India,Bahrain,154854.0,AS,AS
+India,Bahrain,106722.0,AS,AS
+Kyrgyzstan,Bahrain,1.0,AS,AS
+Pakistan,Bahrain,41144.0,AS,AS
+Pakistan,Bahrain,36344.0,AS,AS
+Turkey,Bahrain,107836.0,AS,AS
+Turkey,Bahrain,91300.0,AS,AS
+United Arab Emirates,Bahrain,101453.0,AS,AS
+United Arab Emirates,Bahrain,45085.0,AS,AS
+Cyprus,Bahrain,2592.0,AS,AS
+Cyprus,Bahrain,2074.0,AS,AS
+Indonesia,Bahrain,5624.0,AS,AS
+Indonesia,Bahrain,3843.0,AS,AS
+Malaysia,Bahrain,22033.0,AS,AS
+Malaysia,Bahrain,19540.0,AS,AS
+Sri Lanka,Bahrain,3701.0,AS,AS
+Sri Lanka,Bahrain,8082.0,AS,AS
+Thailand,Bahrain,22749.0,AS,AS
+Thailand,Bahrain,15893.0,AS,AS
+Viet Nam,Bahrain,4781.0,AS,AS
+Afghanistan,Bahrain,211.0,AS,AS
+Azerbaijan,Bahrain,177.0,AS,AS
+Georgia,Bahrain,63.0,AS,AS
+Georgia,Bahrain,16.0,AS,AS
+Iraq,Bahrain,97.0,AS,AS
+Japan,Bahrain,1472.0,AS,AS
+Japan,Bahrain,932.0,AS,AS
+Jordan,Bahrain,25337.0,AS,AS
+Jordan,Bahrain,46182.0,AS,AS
+Lebanon,Bahrain,9033.0,AS,AS
+Lebanon,Bahrain,8248.0,AS,AS
+Myanmar,Bahrain,192.0,AS,AS
+Oman,Bahrain,25513.0,AS,AS
+Oman,Bahrain,32773.0,AS,AS
+Philippines,Bahrain,17868.0,AS,AS
+Philippines,Bahrain,4432.0,AS,AS
+Saudi Arabia,Bahrain,265467.0,AS,AS
+Saudi Arabia,Bahrain,2.0,AS,AS
+Singapore,Bahrain,6190.0,AS,AS
+Singapore,Bahrain,7536.0,AS,AS
+Syrian Arab Republic,Bahrain,1630.0,AS,AS
+Uzbekistan,Bahrain,66.0,AS,AS
+Bangladesh,Bahrain,3977.0,AS,AS
+Bangladesh,Bahrain,19.0,AS,AS
+Kuwait,Bahrain,15460.0,AS,AS
+Kuwait,Bahrain,16317.0,AS,AS
+Qatar,Bahrain,2270.0,AS,AS
+Qatar,Bahrain,2165.0,AS,AS
+Yemen,Bahrain,3188.0,AS,AS
+Mongolia,Bahrain,1.0,AS,AS
+Maldives,Bahrain,5.0,AS,AS
+Maldives,Bahrain,3.0,AS,AS
+India,Bangladesh,16089.0,AS,AS
+India,Bangladesh,888450.0,AS,AS
+Kazakhstan,Bangladesh,1216.0,AS,AS
+Kyrgyzstan,Bangladesh,85.0,AS,AS
+Pakistan,Bangladesh,1749.0,AS,AS
+Pakistan,Bangladesh,15626.0,AS,AS
+Turkey,Bangladesh,53223.0,AS,AS
+United Arab Emirates,Bangladesh,43644.0,AS,AS
+Cyprus,Bangladesh,159.0,AS,AS
+Indonesia,Bangladesh,610612.0,AS,AS
+Malaysia,Bangladesh,333959.0,AS,AS
+Sri Lanka,Bangladesh,7930.0,AS,AS
+Thailand,Bangladesh,152.0,AS,AS
+Thailand,Bangladesh,49258.0,AS,AS
+Japan,Bangladesh,978.0,AS,AS
+Jordan,Bangladesh,65.0,AS,AS
+Oman,Bangladesh,388.0,AS,AS
+Philippines,Bangladesh,4708.0,AS,AS
+Singapore,Bangladesh,11.0,AS,AS
+Singapore,Bangladesh,60344.0,AS,AS
+Kuwait,Bangladesh,30.0,AS,AS
+Bahrain,Bangladesh,1078.0,AS,AS
+India,Barbados,850.0,AS,
+India,Barbados,363.0,AS,
+Pakistan,Barbados,1.0,AS,
+Pakistan,Barbados,4.0,AS,
+Turkey,Barbados,1586.0,AS,
+Turkey,Barbados,1293.0,AS,
+United Arab Emirates,Barbados,43.0,AS,
+United Arab Emirates,Barbados,44.0,AS,
+Cyprus,Barbados,1.0,AS,
+Indonesia,Barbados,674.0,AS,
+Indonesia,Barbados,567.0,AS,
+Malaysia,Barbados,880.0,AS,
+Malaysia,Barbados,683.0,AS,
+Sri Lanka,Barbados,280.0,AS,
+Sri Lanka,Barbados,117.0,AS,
+Thailand,Barbados,1076.0,AS,
+Thailand,Barbados,374.0,AS,
+Viet Nam,Barbados,371.0,AS,
+Afghanistan,Barbados,8.0,AS,
+Japan,Barbados,16.0,AS,
+Lebanon,Barbados,2.0,AS,
+Philippines,Barbados,212.0,AS,
+Philippines,Barbados,103.0,AS,
+Saudi Arabia,Barbados,8.0,AS,
+Singapore,Barbados,153.0,AS,
+Singapore,Barbados,112.0,AS,
+Israel,Barbados,9.0,AS,
+Israel,Barbados,1.0,AS,
+India,Belarus,16908.0,AS,EU
+India,Belarus,9970.0,AS,EU
+Kazakhstan,Belarus,3426.0,AS,EU
+Kazakhstan,Belarus,4053.0,AS,EU
+Kyrgyzstan,Belarus,859.0,AS,EU
+Kyrgyzstan,Belarus,561.0,AS,EU
+Pakistan,Belarus,9217.0,AS,EU
+Pakistan,Belarus,56.0,AS,EU
+Turkey,Belarus,274158.0,AS,EU
+Turkey,Belarus,119955.0,AS,EU
+United Arab Emirates,Belarus,853.0,AS,EU
+United Arab Emirates,Belarus,655.0,AS,EU
+Cyprus,Belarus,355.0,AS,EU
+Cyprus,Belarus,84.0,AS,EU
+Indonesia,Belarus,6251.0,AS,EU
+Indonesia,Belarus,73.0,AS,EU
+Malaysia,Belarus,13714.0,AS,EU
+Malaysia,Belarus,786.0,AS,EU
+Sri Lanka,Belarus,2917.0,AS,EU
+Sri Lanka,Belarus,2376.0,AS,EU
+Thailand,Belarus,4374.0,AS,EU
+Thailand,Belarus,1248.0,AS,EU
+Viet Nam,Belarus,17268.0,AS,EU
+Afghanistan,Belarus,10889.0,AS,EU
+Azerbaijan,Belarus,987.0,AS,EU
+Georgia,Belarus,12830.0,AS,EU
+Georgia,Belarus,13260.0,AS,EU
+Japan,Belarus,1257.0,AS,EU
+Japan,Belarus,121.0,AS,EU
+Jordan,Belarus,8841.0,AS,EU
+Lebanon,Belarus,28241.0,AS,EU
+Lebanon,Belarus,8.0,AS,EU
+Myanmar,Belarus,2.0,AS,EU
+Philippines,Belarus,2264.0,AS,EU
+Saudi Arabia,Belarus,69.0,AS,EU
+Singapore,Belarus,284.0,AS,EU
+Singapore,Belarus,2.0,AS,EU
+Syrian Arab Republic,Belarus,8078.0,AS,EU
+Tajikistan,Belarus,1602.0,AS,EU
+Uzbekistan,Belarus,8963.0,AS,EU
+Israel,Belarus,11893.0,AS,EU
+Israel,Belarus,6376.0,AS,EU
+Bangladesh,Belarus,79.0,AS,EU
+Turkmenistan,Belarus,467.0,AS,EU
+Armenia,Belarus,5938.0,AS,EU
+Armenia,Belarus,6273.0,AS,EU
+Yemen,Belarus,2278.0,AS,EU
+India,Belgium,214066.0,AS,EU
+India,Belgium,422620.0,AS,EU
+Kazakhstan,Belgium,56609.0,AS,EU
+Kazakhstan,Belgium,37326.0,AS,EU
+Kyrgyzstan,Belgium,520.0,AS,EU
+Kyrgyzstan,Belgium,45.0,AS,EU
+Pakistan,Belgium,33083.0,AS,EU
+Pakistan,Belgium,38861.0,AS,EU
+Turkey,Belgium,250739.0,AS,EU
+Turkey,Belgium,198632.0,AS,EU
+United Arab Emirates,Belgium,1302.0,AS,EU
+United Arab Emirates,Belgium,7326.0,AS,EU
+Cyprus,Belgium,15101.0,AS,EU
+Cyprus,Belgium,7138.0,AS,EU
+Indonesia,Belgium,195730.0,AS,EU
+Indonesia,Belgium,182601.0,AS,EU
+Malaysia,Belgium,76995.0,AS,EU
+Malaysia,Belgium,22178.0,AS,EU
+Sri Lanka,Belgium,17690.0,AS,EU
+Sri Lanka,Belgium,59886.0,AS,EU
+Thailand,Belgium,107733.0,AS,EU
+Thailand,Belgium,132531.0,AS,EU
+Viet Nam,Belgium,139606.0,AS,EU
+Afghanistan,Belgium,76.0,AS,EU
+Azerbaijan,Belgium,44.0,AS,EU
+Cambodia,Belgium,5498.0,AS,EU
+Cambodia,Belgium,12608.0,AS,EU
+Georgia,Belgium,3116.0,AS,EU
+Georgia,Belgium,3155.0,AS,EU
+Iraq,Belgium,44.0,AS,EU
+Japan,Belgium,9886.0,AS,EU
+Japan,Belgium,8939.0,AS,EU
+Jordan,Belgium,2230.0,AS,EU
+Jordan,Belgium,441.0,AS,EU
+Lebanon,Belgium,12014.0,AS,EU
+Lebanon,Belgium,8481.0,AS,EU
+Myanmar,Belgium,20003.0,AS,EU
+Philippines,Belgium,61540.0,AS,EU
+Philippines,Belgium,35925.0,AS,EU
+Saudi Arabia,Belgium,4549.0,AS,EU
+Singapore,Belgium,3578.0,AS,EU
+Singapore,Belgium,8587.0,AS,EU
+Syrian Arab Republic,Belgium,1133.0,AS,EU
+Tajikistan,Belgium,286.0,AS,EU
+Uzbekistan,Belgium,138.0,AS,EU
+Israel,Belgium,99654.0,AS,EU
+Israel,Belgium,111871.0,AS,EU
+Bangladesh,Belgium,19687.0,AS,EU
+Bangladesh,Belgium,40.0,AS,EU
+Kuwait,Belgium,85.0,AS,EU
+Kuwait,Belgium,270.0,AS,EU
+Turkmenistan,Belgium,1061.0,AS,EU
+Armenia,Belgium,1033.0,AS,EU
+Armenia,Belgium,280.0,AS,EU
+Bahrain,Belgium,2.0,AS,EU
+Bahrain,Belgium,95.0,AS,EU
+Nepal,Belgium,351.0,AS,EU
+Nepal,Belgium,1.0,AS,EU
+Qatar,Belgium,20.0,AS,EU
+Qatar,Belgium,2445.0,AS,EU
+Yemen,Belgium,25.0,AS,EU
+Mongolia,Belgium,12.0,AS,EU
+Maldives,Belgium,3.0,AS,EU
+Maldives,Belgium,4.0,AS,EU
+India,Benin,355090.0,AS,AF
+India,Benin,265867.0,AS,AF
+Pakistan,Benin,20252.0,AS,AF
+Pakistan,Benin,23398.0,AS,AF
+Turkey,Benin,21534.0,AS,AF
+Turkey,Benin,72773.0,AS,AF
+United Arab Emirates,Benin,49248.0,AS,AF
+United Arab Emirates,Benin,5687.0,AS,AF
+Cyprus,Benin,26.0,AS,AF
+Indonesia,Benin,11194.0,AS,AF
+Indonesia,Benin,147824.0,AS,AF
+Malaysia,Benin,50461.0,AS,AF
+Malaysia,Benin,272177.0,AS,AF
+Sri Lanka,Benin,439.0,AS,AF
+Sri Lanka,Benin,326.0,AS,AF
+Thailand,Benin,324584.0,AS,AF
+Thailand,Benin,514024.0,AS,AF
+Viet Nam,Benin,2062.0,AS,AF
+Cambodia,Benin,19.0,AS,AF
+Georgia,Benin,24.0,AS,AF
+Japan,Benin,3834.0,AS,AF
+Japan,Benin,310.0,AS,AF
+Jordan,Benin,1.0,AS,AF
+Jordan,Benin,81.0,AS,AF
+Lebanon,Benin,2345.0,AS,AF
+Lebanon,Benin,1136.0,AS,AF
+Oman,Benin,25.0,AS,AF
+Saudi Arabia,Benin,112.0,AS,AF
+Singapore,Benin,19003.0,AS,AF
+Singapore,Benin,5908.0,AS,AF
+Bangladesh,Benin,56.0,AS,AF
+Kuwait,Benin,3.0,AS,AF
+Kuwait,Benin,2.0,AS,AF
+India,Bermuda,19.0,AS,
+Turkey,Bermuda,1.0,AS,
+Malaysia,Bermuda,3.0,AS,
+Malaysia,Bermuda,14.0,AS,
+Sri Lanka,Bermuda,2.0,AS,
+Thailand,Bermuda,2.0,AS,
+Thailand,Bermuda,66.0,AS,
+Viet Nam,Bermuda,3.0,AS,
+Japan,Bermuda,25.0,AS,
+Philippines,Bermuda,1.0,AS,
+Philippines,Bermuda,48.0,AS,
+Singapore,Bermuda,89.0,AS,
+Singapore,Bermuda,83.0,AS,
+Israel,Bermuda,2.0,AS,
+India,Bhutan,1934.0,AS,AS
+India,Bhutan,38440.0,AS,AS
+Malaysia,Bhutan,352.0,AS,AS
+Thailand,Bhutan,2502.0,AS,AS
+Japan,Bhutan,10.0,AS,AS
+Singapore,Bhutan,671.0,AS,AS
+India,Bosnia and Herzegovina,12601.0,AS,EU
+India,Bosnia and Herzegovina,645.0,AS,EU
+Kazakhstan,Bosnia and Herzegovina,10.0,AS,EU
+Kyrgyzstan,Bosnia and Herzegovina,595.0,AS,EU
+Kyrgyzstan,Bosnia and Herzegovina,374.0,AS,EU
+Pakistan,Bosnia and Herzegovina,296.0,AS,EU
+Turkey,Bosnia and Herzegovina,33168.0,AS,EU
+Turkey,Bosnia and Herzegovina,27735.0,AS,EU
+United Arab Emirates,Bosnia and Herzegovina,19.0,AS,EU
+United Arab Emirates,Bosnia and Herzegovina,19.0,AS,EU
+Cyprus,Bosnia and Herzegovina,77.0,AS,EU
+Indonesia,Bosnia and Herzegovina,3139.0,AS,EU
+Indonesia,Bosnia and Herzegovina,200.0,AS,EU
+Malaysia,Bosnia and Herzegovina,662.0,AS,EU
+Malaysia,Bosnia and Herzegovina,77.0,AS,EU
+Sri Lanka,Bosnia and Herzegovina,374.0,AS,EU
+Sri Lanka,Bosnia and Herzegovina,75.0,AS,EU
+Thailand,Bosnia and Herzegovina,648.0,AS,EU
+Viet Nam,Bosnia and Herzegovina,3150.0,AS,EU
+Cambodia,Bosnia and Herzegovina,6.0,AS,EU
+Georgia,Bosnia and Herzegovina,50.0,AS,EU
+Japan,Bosnia and Herzegovina,48.0,AS,EU
+Jordan,Bosnia and Herzegovina,87.0,AS,EU
+Jordan,Bosnia and Herzegovina,77.0,AS,EU
+Lebanon,Bosnia and Herzegovina,2.0,AS,EU
+Philippines,Bosnia and Herzegovina,108.0,AS,EU
+Saudi Arabia,Bosnia and Herzegovina,216.0,AS,EU
+Singapore,Bosnia and Herzegovina,18.0,AS,EU
+Syrian Arab Republic,Bosnia and Herzegovina,159.0,AS,EU
+Israel,Bosnia and Herzegovina,290.0,AS,EU
+Bangladesh,Bosnia and Herzegovina,48.0,AS,EU
+India,Botswana,671.0,AS,AF
+India,Botswana,666.0,AS,AF
+Pakistan,Botswana,130.0,AS,AF
+Pakistan,Botswana,45.0,AS,AF
+Turkey,Botswana,238.0,AS,AF
+Turkey,Botswana,527.0,AS,AF
+United Arab Emirates,Botswana,346.0,AS,AF
+United Arab Emirates,Botswana,61.0,AS,AF
+Indonesia,Botswana,61.0,AS,AF
+Malaysia,Botswana,208.0,AS,AF
+Malaysia,Botswana,235.0,AS,AF
+Thailand,Botswana,89.0,AS,AF
+Thailand,Botswana,37.0,AS,AF
+Japan,Botswana,22.0,AS,AF
+Philippines,Botswana,3.0,AS,AF
+Singapore,Botswana,449.0,AS,AF
+India,Brazil,58427.0,AS,SA
+India,Brazil,55251.0,AS,SA
+Pakistan,Brazil,988.0,AS,SA
+Pakistan,Brazil,1298.0,AS,SA
+Turkey,Brazil,68505.0,AS,SA
+Turkey,Brazil,63085.0,AS,SA
+United Arab Emirates,Brazil,1998.0,AS,SA
+United Arab Emirates,Brazil,7645.0,AS,SA
+Cyprus,Brazil,35.0,AS,SA
+Indonesia,Brazil,481060.0,AS,SA
+Indonesia,Brazil,485259.0,AS,SA
+Malaysia,Brazil,108583.0,AS,SA
+Malaysia,Brazil,98142.0,AS,SA
+Sri Lanka,Brazil,1872.0,AS,SA
+Sri Lanka,Brazil,2309.0,AS,SA
+Thailand,Brazil,115525.0,AS,SA
+Thailand,Brazil,110117.0,AS,SA
+Viet Nam,Brazil,25867.0,AS,SA
+Georgia,Brazil,270.0,AS,SA
+Georgia,Brazil,467.0,AS,SA
+Japan,Brazil,5475.0,AS,SA
+Japan,Brazil,7790.0,AS,SA
+Jordan,Brazil,623.0,AS,SA
+Jordan,Brazil,674.0,AS,SA
+Lebanon,Brazil,681.0,AS,SA
+Lebanon,Brazil,932.0,AS,SA
+Oman,Brazil,41.0,AS,SA
+Philippines,Brazil,21294.0,AS,SA
+Philippines,Brazil,22455.0,AS,SA
+Singapore,Brazil,7317.0,AS,SA
+Singapore,Brazil,15851.0,AS,SA
+Syrian Arab Republic,Brazil,1109.0,AS,SA
+Israel,Brazil,2877.0,AS,SA
+Israel,Brazil,2321.0,AS,SA
+Bangladesh,Brazil,5535.0,AS,SA
+Kuwait,Brazil,248.0,AS,SA
+Armenia,Brazil,2.0,AS,SA
+Bahrain,Brazil,17.0,AS,SA
+Qatar,Brazil,189.0,AS,SA
+India,Brunei Darussalam,1202.0,AS,AS
+India,Brunei Darussalam,5851.0,AS,AS
+Pakistan,Brunei Darussalam,103.0,AS,AS
+Turkey,Brunei Darussalam,298.0,AS,AS
+United Arab Emirates,Brunei Darussalam,3.0,AS,AS
+United Arab Emirates,Brunei Darussalam,589.0,AS,AS
+Cyprus,Brunei Darussalam,2.0,AS,AS
+Indonesia,Brunei Darussalam,16340.0,AS,AS
+Malaysia,Brunei Darussalam,174459.0,AS,AS
+Sri Lanka,Brunei Darussalam,84.0,AS,AS
+Thailand,Brunei Darussalam,15578.0,AS,AS
+Thailand,Brunei Darussalam,27078.0,AS,AS
+Cambodia,Brunei Darussalam,10752.0,AS,AS
+Cambodia,Brunei Darussalam,9600.0,AS,AS
+Japan,Brunei Darussalam,580.0,AS,AS
+Jordan,Brunei Darussalam,37.0,AS,AS
+Lebanon,Brunei Darussalam,165.0,AS,AS
+Oman,Brunei Darussalam,13.0,AS,AS
+Philippines,Brunei Darussalam,5424.0,AS,AS
+Singapore,Brunei Darussalam,279.0,AS,AS
+Singapore,Brunei Darussalam,53785.0,AS,AS
+India,Bulgaria,10117.0,AS,EU
+India,Bulgaria,8413.0,AS,EU
+Kazakhstan,Bulgaria,358.0,AS,EU
+Kazakhstan,Bulgaria,256.0,AS,EU
+Kyrgyzstan,Bulgaria,3984.0,AS,EU
+Kyrgyzstan,Bulgaria,4336.0,AS,EU
+Pakistan,Bulgaria,455.0,AS,EU
+Pakistan,Bulgaria,336.0,AS,EU
+Turkey,Bulgaria,122899.0,AS,EU
+Turkey,Bulgaria,105663.0,AS,EU
+United Arab Emirates,Bulgaria,474.0,AS,EU
+United Arab Emirates,Bulgaria,2693.0,AS,EU
+Cyprus,Bulgaria,5165.0,AS,EU
+Cyprus,Bulgaria,695.0,AS,EU
+Indonesia,Bulgaria,14993.0,AS,EU
+Indonesia,Bulgaria,24164.0,AS,EU
+Malaysia,Bulgaria,8621.0,AS,EU
+Malaysia,Bulgaria,19516.0,AS,EU
+Sri Lanka,Bulgaria,1758.0,AS,EU
+Sri Lanka,Bulgaria,1415.0,AS,EU
+Thailand,Bulgaria,13457.0,AS,EU
+Thailand,Bulgaria,9769.0,AS,EU
+Viet Nam,Bulgaria,18237.0,AS,EU
+Afghanistan,Bulgaria,1.0,AS,EU
+Azerbaijan,Bulgaria,34.0,AS,EU
+Cambodia,Bulgaria,2923.0,AS,EU
+Cambodia,Bulgaria,6473.0,AS,EU
+Georgia,Bulgaria,394.0,AS,EU
+Georgia,Bulgaria,455.0,AS,EU
+Japan,Bulgaria,292.0,AS,EU
+Japan,Bulgaria,292.0,AS,EU
+Jordan,Bulgaria,88.0,AS,EU
+Jordan,Bulgaria,49.0,AS,EU
+Lebanon,Bulgaria,4298.0,AS,EU
+Lebanon,Bulgaria,5337.0,AS,EU
+Myanmar,Bulgaria,417.0,AS,EU
+Philippines,Bulgaria,400.0,AS,EU
+Philippines,Bulgaria,154.0,AS,EU
+Saudi Arabia,Bulgaria,23.0,AS,EU
+Singapore,Bulgaria,741.0,AS,EU
+Singapore,Bulgaria,1581.0,AS,EU
+Syrian Arab Republic,Bulgaria,186.0,AS,EU
+Israel,Bulgaria,1377.0,AS,EU
+Israel,Bulgaria,1490.0,AS,EU
+Kuwait,Bulgaria,2.0,AS,EU
+Armenia,Bulgaria,121.0,AS,EU
+Armenia,Bulgaria,100.0,AS,EU
+Nepal,Bulgaria,2.0,AS,EU
+Qatar,Bulgaria,5.0,AS,EU
+India,Burkina Faso,39140.0,AS,AF
+India,Burkina Faso,15688.0,AS,AF
+Pakistan,Burkina Faso,2077.0,AS,AF
+Turkey,Burkina Faso,4847.0,AS,AF
+Turkey,Burkina Faso,4456.0,AS,AF
+United Arab Emirates,Burkina Faso,806.0,AS,AF
+United Arab Emirates,Burkina Faso,10148.0,AS,AF
+Cyprus,Burkina Faso,9.0,AS,AF
+Indonesia,Burkina Faso,2398.0,AS,AF
+Indonesia,Burkina Faso,2054.0,AS,AF
+Malaysia,Burkina Faso,4236.0,AS,AF
+Malaysia,Burkina Faso,1131.0,AS,AF
+Sri Lanka,Burkina Faso,739.0,AS,AF
+Sri Lanka,Burkina Faso,903.0,AS,AF
+Thailand,Burkina Faso,61396.0,AS,AF
+Thailand,Burkina Faso,11407.0,AS,AF
+Viet Nam,Burkina Faso,243.0,AS,AF
+Cambodia,Burkina Faso,7.0,AS,AF
+Japan,Burkina Faso,1545.0,AS,AF
+Japan,Burkina Faso,1649.0,AS,AF
+Lebanon,Burkina Faso,145.0,AS,AF
+Philippines,Burkina Faso,7.0,AS,AF
+Saudi Arabia,Burkina Faso,219.0,AS,AF
+Saudi Arabia,Burkina Faso,62.0,AS,AF
+Singapore,Burkina Faso,277.0,AS,AF
+Syrian Arab Republic,Burkina Faso,2.0,AS,AF
+Bangladesh,Burkina Faso,80.0,AS,AF
+India,Burundi,563.0,AS,AF
+India,Burundi,1021.0,AS,AF
+Turkey,Burundi,507.0,AS,AF
+United Arab Emirates,Burundi,1.0,AS,AF
+United Arab Emirates,Burundi,122.0,AS,AF
+India,Cambodia,6020.0,AS,AS
+India,Cambodia,5365.0,AS,AS
+Pakistan,Cambodia,10.0,AS,AS
+Turkey,Cambodia,1217.0,AS,AS
+Turkey,Cambodia,1098.0,AS,AS
+United Arab Emirates,Cambodia,4801.0,AS,AS
+United Arab Emirates,Cambodia,7537.0,AS,AS
+Cyprus,Cambodia,420.0,AS,AS
+Cyprus,Cambodia,245.0,AS,AS
+Indonesia,Cambodia,194994.0,AS,AS
+Indonesia,Cambodia,285854.0,AS,AS
+Malaysia,Cambodia,52884.0,AS,AS
+Malaysia,Cambodia,57803.0,AS,AS
+Sri Lanka,Cambodia,276.0,AS,AS
+Sri Lanka,Cambodia,1398.0,AS,AS
+Thailand,Cambodia,229414.0,AS,AS
+Thailand,Cambodia,949044.0,AS,AS
+Viet Nam,Cambodia,100324.0,AS,AS
+Japan,Cambodia,1735.0,AS,AS
+Japan,Cambodia,31254.0,AS,AS
+Lebanon,Cambodia,13.0,AS,AS
+Myanmar,Cambodia,3916.0,AS,AS
+Philippines,Cambodia,2338.0,AS,AS
+Philippines,Cambodia,1828.0,AS,AS
+Saudi Arabia,Cambodia,189.0,AS,AS
+Singapore,Cambodia,74818.0,AS,AS
+Singapore,Cambodia,124494.0,AS,AS
+Israel,Cambodia,54.0,AS,AS
+Bangladesh,Cambodia,59.0,AS,AS
+Qatar,Cambodia,29.0,AS,AS
+India,Cameroon,28991.0,AS,AF
+India,Cameroon,31950.0,AS,AF
+Pakistan,Cameroon,6641.0,AS,AF
+Pakistan,Cameroon,6085.0,AS,AF
+Turkey,Cameroon,18350.0,AS,AF
+United Arab Emirates,Cameroon,4.0,AS,AF
+United Arab Emirates,Cameroon,8406.0,AS,AF
+Cyprus,Cameroon,33.0,AS,AF
+Indonesia,Cameroon,11382.0,AS,AF
+Malaysia,Cameroon,30973.0,AS,AF
+Sri Lanka,Cameroon,120.0,AS,AF
+Thailand,Cameroon,189174.0,AS,AF
+Thailand,Cameroon,169005.0,AS,AF
+Cambodia,Cameroon,23.0,AS,AF
+Cambodia,Cameroon,21.0,AS,AF
+Jordan,Cameroon,26.0,AS,AF
+Lebanon,Cameroon,3.0,AS,AF
+Lebanon,Cameroon,923.0,AS,AF
+Oman,Cameroon,334.0,AS,AF
+Philippines,Cameroon,2175.0,AS,AF
+Singapore,Cameroon,2795.0,AS,AF
+Israel,Cameroon,66.0,AS,AF
+India,Canada,267714.0,AS,
+India,Canada,216973.0,AS,
+Kazakhstan,Canada,1000.0,AS,
+Kyrgyzstan,Canada,13.0,AS,
+Kyrgyzstan,Canada,29.0,AS,
+Pakistan,Canada,26763.0,AS,
+Pakistan,Canada,23905.0,AS,
+Turkey,Canada,207348.0,AS,
+Turkey,Canada,176764.0,AS,
+United Arab Emirates,Canada,9106.0,AS,
+United Arab Emirates,Canada,8033.0,AS,
+Cyprus,Canada,1903.0,AS,
+Cyprus,Canada,1690.0,AS,
+Indonesia,Canada,268360.0,AS,
+Indonesia,Canada,190972.0,AS,
+Malaysia,Canada,169190.0,AS,
+Malaysia,Canada,84180.0,AS,
+Sri Lanka,Canada,31221.0,AS,
+Sri Lanka,Canada,25856.0,AS,
+Thailand,Canada,326611.0,AS,
+Thailand,Canada,298557.0,AS,
+Viet Nam,Canada,191475.0,AS,
+Afghanistan,Canada,1821.0,AS,
+Azerbaijan,Canada,298.0,AS,
+Cambodia,Canada,570.0,AS,
+Cambodia,Canada,544.0,AS,
+Georgia,Canada,2180.0,AS,
+Georgia,Canada,2417.0,AS,
+Iraq,Canada,403.0,AS,
+Japan,Canada,70545.0,AS,
+Japan,Canada,48303.0,AS,
+Jordan,Canada,2649.0,AS,
+Jordan,Canada,2157.0,AS,
+Lebanon,Canada,16390.0,AS,
+Lebanon,Canada,16019.0,AS,
+Myanmar,Canada,4422.0,AS,
+Oman,Canada,1245.0,AS,
+Oman,Canada,158.0,AS,
+Philippines,Canada,113387.0,AS,
+Philippines,Canada,80899.0,AS,
+Saudi Arabia,Canada,2404.0,AS,
+Saudi Arabia,Canada,9.0,AS,
+Singapore,Canada,18146.0,AS,
+Singapore,Canada,24127.0,AS,
+Syrian Arab Republic,Canada,1019.0,AS,
+Uzbekistan,Canada,243.0,AS,
+Israel,Canada,57519.0,AS,
+Israel,Canada,45113.0,AS,
+Bangladesh,Canada,3617.0,AS,
+Bangladesh,Canada,204.0,AS,
+Kuwait,Canada,33.0,AS,
+Kuwait,Canada,66.0,AS,
+Turkmenistan,Canada,12.0,AS,
+Armenia,Canada,186.0,AS,
+Armenia,Canada,178.0,AS,
+Bahrain,Canada,58.0,AS,
+Nepal,Canada,511.0,AS,
+Timor-Leste,Canada,2395.0,AS,
+Yemen,Canada,91.0,AS,
+Mongolia,Canada,8.0,AS,
+Mongolia,Canada,13.0,AS,
+Brunei Darussalam,Canada,483.0,AS,
+India,Central African Republic,284.0,AS,AF
+India,Central African Republic,413.0,AS,AF
+Turkey,Central African Republic,318.0,AS,AF
+United Arab Emirates,Central African Republic,288.0,AS,AF
+Malaysia,Central African Republic,636.0,AS,AF
+Sri Lanka,Central African Republic,1.0,AS,AF
+Lebanon,Central African Republic,398.0,AS,AF
+India,Chile,13151.0,AS,SA
+India,Chile,11328.0,AS,SA
+Pakistan,Chile,2205.0,AS,SA
+Pakistan,Chile,3079.0,AS,SA
+Turkey,Chile,7497.0,AS,SA
+Turkey,Chile,6565.0,AS,SA
+United Arab Emirates,Chile,170.0,AS,SA
+United Arab Emirates,Chile,212.0,AS,SA
+Indonesia,Chile,17766.0,AS,SA
+Indonesia,Chile,17518.0,AS,SA
+Malaysia,Chile,17398.0,AS,SA
+Malaysia,Chile,14372.0,AS,SA
+Sri Lanka,Chile,32650.0,AS,SA
+Sri Lanka,Chile,29577.0,AS,SA
+Thailand,Chile,16361.0,AS,SA
+Thailand,Chile,16021.0,AS,SA
+Viet Nam,Chile,12091.0,AS,SA
+Georgia,Chile,585.0,AS,SA
+Japan,Chile,867.0,AS,SA
+Japan,Chile,278.0,AS,SA
+Jordan,Chile,28.0,AS,SA
+Jordan,Chile,86.0,AS,SA
+Lebanon,Chile,246.0,AS,SA
+Lebanon,Chile,214.0,AS,SA
+Oman,Chile,97.0,AS,SA
+Philippines,Chile,3482.0,AS,SA
+Philippines,Chile,2245.0,AS,SA
+Singapore,Chile,7280.0,AS,SA
+Singapore,Chile,6563.0,AS,SA
+Syrian Arab Republic,Chile,93.0,AS,SA
+Uzbekistan,Chile,176.0,AS,SA
+Israel,Chile,355.0,AS,SA
+Israel,Chile,274.0,AS,SA
+Qatar,Chile,3.0,AS,SA
+India,Colombia,11479.0,AS,SA
+India,Colombia,8706.0,AS,SA
+Pakistan,Colombia,294.0,AS,SA
+Pakistan,Colombia,236.0,AS,SA
+Turkey,Colombia,3783.0,AS,SA
+Turkey,Colombia,5827.0,AS,SA
+United Arab Emirates,Colombia,21.0,AS,SA
+United Arab Emirates,Colombia,21.0,AS,SA
+Indonesia,Colombia,10880.0,AS,SA
+Indonesia,Colombia,12300.0,AS,SA
+Malaysia,Colombia,25073.0,AS,SA
+Malaysia,Colombia,10673.0,AS,SA
+Sri Lanka,Colombia,9434.0,AS,SA
+Sri Lanka,Colombia,8175.0,AS,SA
+Thailand,Colombia,8612.0,AS,SA
+Thailand,Colombia,6153.0,AS,SA
+Viet Nam,Colombia,1507.0,AS,SA
+Japan,Colombia,453.0,AS,SA
+Japan,Colombia,584.0,AS,SA
+Jordan,Colombia,28.0,AS,SA
+Jordan,Colombia,25.0,AS,SA
+Lebanon,Colombia,168.0,AS,SA
+Lebanon,Colombia,504.0,AS,SA
+Philippines,Colombia,1078.0,AS,SA
+Philippines,Colombia,888.0,AS,SA
+Singapore,Colombia,3594.0,AS,SA
+Singapore,Colombia,3264.0,AS,SA
+Syrian Arab Republic,Colombia,264.0,AS,SA
+Israel,Colombia,2095.0,AS,SA
+Israel,Colombia,1887.0,AS,SA
+Bhutan,Colombia,19.0,AS,SA
+India,Comoros,307.0,AS,AF
+India,Comoros,2106.0,AS,AF
+Pakistan,Comoros,11259.0,AS,AF
+Pakistan,Comoros,10091.0,AS,AF
+Turkey,Comoros,987.0,AS,AF
+United Arab Emirates,Comoros,269.0,AS,AF
+United Arab Emirates,Comoros,15592.0,AS,AF
+Indonesia,Comoros,1636.0,AS,AF
+Malaysia,Comoros,2455.0,AS,AF
+Thailand,Comoros,80.0,AS,AF
+Thailand,Comoros,1615.0,AS,AF
+Oman,Comoros,493.0,AS,AF
+Singapore,Comoros,409.0,AS,AF
+India,Congo,2537.0,AS,AF
+India,Congo,13243.0,AS,AF
+Turkey,Congo,23.0,AS,AF
+Turkey,Congo,22185.0,AS,AF
+United Arab Emirates,Congo,18.0,AS,AF
+United Arab Emirates,Congo,3232.0,AS,AF
+Indonesia,Congo,28834.0,AS,AF
+Malaysia,Congo,29473.0,AS,AF
+Sri Lanka,Congo,2263.0,AS,AF
+Thailand,Congo,68252.0,AS,AF
+Thailand,Congo,61117.0,AS,AF
+Cambodia,Congo,165.0,AS,AF
+Cambodia,Congo,147.0,AS,AF
+Lebanon,Congo,18.0,AS,AF
+Lebanon,Congo,2739.0,AS,AF
+Oman,Congo,37.0,AS,AF
+Singapore,Congo,43.0,AS,AF
+Israel,Congo,4.0,AS,AF
+India,Costa Rica,3047.0,AS,
+India,Costa Rica,2173.0,AS,
+Pakistan,Costa Rica,3.0,AS,
+Pakistan,Costa Rica,8.0,AS,
+Turkey,Costa Rica,2970.0,AS,
+Turkey,Costa Rica,3486.0,AS,
+United Arab Emirates,Costa Rica,83.0,AS,
+United Arab Emirates,Costa Rica,128.0,AS,
+Indonesia,Costa Rica,3127.0,AS,
+Indonesia,Costa Rica,2150.0,AS,
+Malaysia,Costa Rica,6583.0,AS,
+Malaysia,Costa Rica,3523.0,AS,
+Sri Lanka,Costa Rica,436.0,AS,
+Sri Lanka,Costa Rica,377.0,AS,
+Thailand,Costa Rica,2217.0,AS,
+Thailand,Costa Rica,1526.0,AS,
+Viet Nam,Costa Rica,1201.0,AS,
+Georgia,Costa Rica,6.0,AS,
+Georgia,Costa Rica,28.0,AS,
+Japan,Costa Rica,95.0,AS,
+Japan,Costa Rica,3.0,AS,
+Jordan,Costa Rica,2.0,AS,
+Philippines,Costa Rica,659.0,AS,
+Philippines,Costa Rica,235.0,AS,
+Singapore,Costa Rica,5001.0,AS,
+Singapore,Costa Rica,4676.0,AS,
+Israel,Costa Rica,255.0,AS,
+Israel,Costa Rica,144.0,AS,
+Bangladesh,Costa Rica,1.0,AS,
+India,Croatia,9282.0,AS,EU
+India,Croatia,9266.0,AS,EU
+Kazakhstan,Croatia,12.0,AS,EU
+Kazakhstan,Croatia,25.0,AS,EU
+Kyrgyzstan,Croatia,123.0,AS,EU
+Kyrgyzstan,Croatia,72.0,AS,EU
+Pakistan,Croatia,2.0,AS,EU
+Pakistan,Croatia,351.0,AS,EU
+Turkey,Croatia,21511.0,AS,EU
+Turkey,Croatia,18730.0,AS,EU
+United Arab Emirates,Croatia,7.0,AS,EU
+United Arab Emirates,Croatia,161.0,AS,EU
+Cyprus,Croatia,1441.0,AS,EU
+Cyprus,Croatia,1510.0,AS,EU
+Indonesia,Croatia,3091.0,AS,EU
+Indonesia,Croatia,9408.0,AS,EU
+Malaysia,Croatia,3443.0,AS,EU
+Malaysia,Croatia,7292.0,AS,EU
+Sri Lanka,Croatia,294.0,AS,EU
+Sri Lanka,Croatia,323.0,AS,EU
+Thailand,Croatia,3201.0,AS,EU
+Thailand,Croatia,1574.0,AS,EU
+Viet Nam,Croatia,6648.0,AS,EU
+Cambodia,Croatia,1936.0,AS,EU
+Cambodia,Croatia,1670.0,AS,EU
+Georgia,Croatia,55.0,AS,EU
+Georgia,Croatia,235.0,AS,EU
+Japan,Croatia,96.0,AS,EU
+Japan,Croatia,63.0,AS,EU
+Lebanon,Croatia,10.0,AS,EU
+Lebanon,Croatia,23.0,AS,EU
+Myanmar,Croatia,116.0,AS,EU
+Philippines,Croatia,185.0,AS,EU
+Philippines,Croatia,595.0,AS,EU
+Saudi Arabia,Croatia,460.0,AS,EU
+Singapore,Croatia,42.0,AS,EU
+Singapore,Croatia,1256.0,AS,EU
+Israel,Croatia,1501.0,AS,EU
+Israel,Croatia,613.0,AS,EU
+India,Cyprus,4324.0,AS,AS
+India,Cyprus,4441.0,AS,AS
+Pakistan,Cyprus,214.0,AS,AS
+Pakistan,Cyprus,147.0,AS,AS
+Turkey,Cyprus,132.0,AS,AS
+United Arab Emirates,Cyprus,688.0,AS,AS
+United Arab Emirates,Cyprus,1440.0,AS,AS
+Indonesia,Cyprus,127.0,AS,AS
+Indonesia,Cyprus,272.0,AS,AS
+Malaysia,Cyprus,912.0,AS,AS
+Malaysia,Cyprus,699.0,AS,AS
+Sri Lanka,Cyprus,636.0,AS,AS
+Sri Lanka,Cyprus,584.0,AS,AS
+Thailand,Cyprus,3261.0,AS,AS
+Thailand,Cyprus,3478.0,AS,AS
+Viet Nam,Cyprus,1390.0,AS,AS
+Cambodia,Cyprus,397.0,AS,AS
+Cambodia,Cyprus,426.0,AS,AS
+Georgia,Cyprus,302.0,AS,AS
+Georgia,Cyprus,564.0,AS,AS
+Japan,Cyprus,57.0,AS,AS
+Japan,Cyprus,31.0,AS,AS
+Jordan,Cyprus,87.0,AS,AS
+Jordan,Cyprus,121.0,AS,AS
+Lebanon,Cyprus,2091.0,AS,AS
+Lebanon,Cyprus,2283.0,AS,AS
+Myanmar,Cyprus,24.0,AS,AS
+Philippines,Cyprus,839.0,AS,AS
+Philippines,Cyprus,887.0,AS,AS
+Saudi Arabia,Cyprus,5.0,AS,AS
+Singapore,Cyprus,3866.0,AS,AS
+Singapore,Cyprus,3521.0,AS,AS
+Syrian Arab Republic,Cyprus,578.0,AS,AS
+Syrian Arab Republic,Cyprus,2.0,AS,AS
+Israel,Cyprus,7564.0,AS,AS
+Israel,Cyprus,7242.0,AS,AS
+Bangladesh,Cyprus,147.0,AS,AS
+Bangladesh,Cyprus,1.0,AS,AS
+Kuwait,Cyprus,4.0,AS,AS
+Kuwait,Cyprus,1.0,AS,AS
+Bahrain,Cyprus,3.0,AS,AS
+Nepal,Cyprus,1.0,AS,AS
+India,Denmark,36945.0,AS,EU
+India,Denmark,31650.0,AS,EU
+Kazakhstan,Denmark,5.0,AS,EU
+Kazakhstan,Denmark,3.0,AS,EU
+Kyrgyzstan,Denmark,74.0,AS,EU
+Kyrgyzstan,Denmark,18.0,AS,EU
+Pakistan,Denmark,6926.0,AS,EU
+Pakistan,Denmark,6149.0,AS,EU
+Turkey,Denmark,42304.0,AS,EU
+Turkey,Denmark,38078.0,AS,EU
+United Arab Emirates,Denmark,1378.0,AS,EU
+United Arab Emirates,Denmark,1847.0,AS,EU
+Cyprus,Denmark,5973.0,AS,EU
+Cyprus,Denmark,6078.0,AS,EU
+Indonesia,Denmark,73657.0,AS,EU
+Indonesia,Denmark,33161.0,AS,EU
+Malaysia,Denmark,48136.0,AS,EU
+Malaysia,Denmark,37583.0,AS,EU
+Sri Lanka,Denmark,3677.0,AS,EU
+Sri Lanka,Denmark,2967.0,AS,EU
+Thailand,Denmark,33112.0,AS,EU
+Thailand,Denmark,24997.0,AS,EU
+Viet Nam,Denmark,12929.0,AS,EU
+Afghanistan,Denmark,27.0,AS,EU
+Cambodia,Denmark,3621.0,AS,EU
+Cambodia,Denmark,3418.0,AS,EU
+Georgia,Denmark,61.0,AS,EU
+Georgia,Denmark,57.0,AS,EU
+Japan,Denmark,2370.0,AS,EU
+Japan,Denmark,2104.0,AS,EU
+Jordan,Denmark,360.0,AS,EU
+Jordan,Denmark,1076.0,AS,EU
+Lebanon,Denmark,712.0,AS,EU
+Lebanon,Denmark,1191.0,AS,EU
+Myanmar,Denmark,259.0,AS,EU
+Oman,Denmark,10.0,AS,EU
+Oman,Denmark,8.0,AS,EU
+Philippines,Denmark,16374.0,AS,EU
+Philippines,Denmark,13232.0,AS,EU
+Saudi Arabia,Denmark,326.0,AS,EU
+Singapore,Denmark,1744.0,AS,EU
+Singapore,Denmark,2201.0,AS,EU
+Syrian Arab Republic,Denmark,256.0,AS,EU
+Uzbekistan,Denmark,5.0,AS,EU
+Israel,Denmark,2358.0,AS,EU
+Israel,Denmark,2232.0,AS,EU
+Bangladesh,Denmark,1003.0,AS,EU
+Kuwait,Denmark,38.0,AS,EU
+Kuwait,Denmark,49.0,AS,EU
+Armenia,Denmark,101.0,AS,EU
+Armenia,Denmark,245.0,AS,EU
+Bahrain,Denmark,4.0,AS,EU
+Nepal,Denmark,19.0,AS,EU
+Qatar,Denmark,1.0,AS,EU
+India,Djibouti,61282.0,AS,AF
+India,Djibouti,172329.0,AS,AF
+Pakistan,Djibouti,10674.0,AS,AF
+Pakistan,Djibouti,14431.0,AS,AF
+Turkey,Djibouti,1.0,AS,AF
+Turkey,Djibouti,39540.0,AS,AF
+United Arab Emirates,Djibouti,105.0,AS,AF
+United Arab Emirates,Djibouti,38050.0,AS,AF
+Indonesia,Djibouti,146898.0,AS,AF
+Malaysia,Djibouti,68784.0,AS,AF
+Sri Lanka,Djibouti,20.0,AS,AF
+Thailand,Djibouti,28.0,AS,AF
+Thailand,Djibouti,1650.0,AS,AF
+Japan,Djibouti,57.0,AS,AF
+Japan,Djibouti,93.0,AS,AF
+Jordan,Djibouti,880.0,AS,AF
+Lebanon,Djibouti,152.0,AS,AF
+Oman,Djibouti,24.0,AS,AF
+Oman,Djibouti,8627.0,AS,AF
+Israel,Djibouti,1696.0,AS,AF
+India,Ecuador,4158.0,AS,SA
+India,Ecuador,3473.0,AS,SA
+Turkey,Ecuador,1073.0,AS,SA
+Turkey,Ecuador,1832.0,AS,SA
+Cyprus,Ecuador,45.0,AS,SA
+Indonesia,Ecuador,4450.0,AS,SA
+Indonesia,Ecuador,3767.0,AS,SA
+Malaysia,Ecuador,709.0,AS,SA
+Malaysia,Ecuador,509.0,AS,SA
+Sri Lanka,Ecuador,8505.0,AS,SA
+Sri Lanka,Ecuador,7286.0,AS,SA
+Thailand,Ecuador,6956.0,AS,SA
+Thailand,Ecuador,3919.0,AS,SA
+Viet Nam,Ecuador,239.0,AS,SA
+Japan,Ecuador,30.0,AS,SA
+Japan,Ecuador,112.0,AS,SA
+Lebanon,Ecuador,24.0,AS,SA
+Lebanon,Ecuador,32.0,AS,SA
+Philippines,Ecuador,56.0,AS,SA
+Philippines,Ecuador,319.0,AS,SA
+Singapore,Ecuador,4055.0,AS,SA
+Singapore,Ecuador,4588.0,AS,SA
+Syrian Arab Republic,Ecuador,489.0,AS,SA
+Israel,Ecuador,636.0,AS,SA
+Israel,Ecuador,534.0,AS,SA
+India,Egypt,44466.0,AS,AF
+India,Egypt,141457.0,AS,AF
+Kazakhstan,Egypt,551.0,AS,AF
+Kyrgyzstan,Egypt,3.0,AS,AF
+Pakistan,Egypt,521.0,AS,AF
+Pakistan,Egypt,2482.0,AS,AF
+Turkey,Egypt,155.0,AS,AF
+Turkey,Egypt,138415.0,AS,AF
+United Arab Emirates,Egypt,178.0,AS,AF
+United Arab Emirates,Egypt,107692.0,AS,AF
+Cyprus,Egypt,5473.0,AS,AF
+Indonesia,Egypt,788041.0,AS,AF
+Malaysia,Egypt,173030.0,AS,AF
+Sri Lanka,Egypt,24986.0,AS,AF
+Thailand,Egypt,2917.0,AS,AF
+Thailand,Egypt,44443.0,AS,AF
+Georgia,Egypt,4204.0,AS,AF
+Japan,Egypt,400.0,AS,AF
+Jordan,Egypt,6014.0,AS,AF
+Lebanon,Egypt,20191.0,AS,AF
+Oman,Egypt,623.0,AS,AF
+Philippines,Egypt,1752.0,AS,AF
+Singapore,Egypt,11157.0,AS,AF
+Israel,Egypt,702.0,AS,AF
+Kuwait,Egypt,33.0,AS,AF
+Kuwait,Egypt,567.0,AS,AF
+Bahrain,Egypt,464.0,AS,AF
+Qatar,Egypt,151.0,AS,AF
+India,El Salvador,1707.0,AS,
+India,El Salvador,595.0,AS,
+Pakistan,El Salvador,1.0,AS,
+Turkey,El Salvador,652.0,AS,
+Turkey,El Salvador,1024.0,AS,
+Cyprus,El Salvador,52.0,AS,
+Indonesia,El Salvador,175.0,AS,
+Indonesia,El Salvador,103.0,AS,
+Malaysia,El Salvador,66.0,AS,
+Malaysia,El Salvador,110.0,AS,
+Sri Lanka,El Salvador,2328.0,AS,
+Sri Lanka,El Salvador,1384.0,AS,
+Thailand,El Salvador,256.0,AS,
+Thailand,El Salvador,224.0,AS,
+Viet Nam,El Salvador,81.0,AS,
+Japan,El Salvador,33.0,AS,
+Philippines,El Salvador,148.0,AS,
+Philippines,El Salvador,136.0,AS,
+Singapore,El Salvador,2641.0,AS,
+Singapore,El Salvador,2087.0,AS,
+Bangladesh,El Salvador,1261.0,AS,
+India,Estonia,7037.0,AS,EU
+India,Estonia,8672.0,AS,EU
+Kazakhstan,Estonia,1067.0,AS,EU
+Kazakhstan,Estonia,193.0,AS,EU
+Kyrgyzstan,Estonia,3.0,AS,EU
+Pakistan,Estonia,1318.0,AS,EU
+Pakistan,Estonia,994.0,AS,EU
+Turkey,Estonia,6838.0,AS,EU
+Turkey,Estonia,4554.0,AS,EU
+United Arab Emirates,Estonia,82.0,AS,EU
+United Arab Emirates,Estonia,170.0,AS,EU
+Cyprus,Estonia,1779.0,AS,EU
+Cyprus,Estonia,120.0,AS,EU
+Indonesia,Estonia,2356.0,AS,EU
+Indonesia,Estonia,38370.0,AS,EU
+Malaysia,Estonia,461.0,AS,EU
+Malaysia,Estonia,18561.0,AS,EU
+Sri Lanka,Estonia,1917.0,AS,EU
+Sri Lanka,Estonia,2180.0,AS,EU
+Thailand,Estonia,1731.0,AS,EU
+Thailand,Estonia,5922.0,AS,EU
+Viet Nam,Estonia,3621.0,AS,EU
+Azerbaijan,Estonia,497.0,AS,EU
+Cambodia,Estonia,194.0,AS,EU
+Cambodia,Estonia,210.0,AS,EU
+Georgia,Estonia,2339.0,AS,EU
+Georgia,Estonia,2404.0,AS,EU
+Japan,Estonia,340.0,AS,EU
+Japan,Estonia,538.0,AS,EU
+Jordan,Estonia,7.0,AS,EU
+Jordan,Estonia,7.0,AS,EU
+Myanmar,Estonia,36.0,AS,EU
+Philippines,Estonia,43.0,AS,EU
+Philippines,Estonia,193.0,AS,EU
+Singapore,Estonia,4.0,AS,EU
+Singapore,Estonia,4.0,AS,EU
+Uzbekistan,Estonia,96.0,AS,EU
+Israel,Estonia,227.0,AS,EU
+Israel,Estonia,210.0,AS,EU
+Armenia,Estonia,401.0,AS,EU
+Armenia,Estonia,402.0,AS,EU
+Nepal,Estonia,1.0,AS,EU
+India,Ethiopia,342494.0,AS,AF
+India,Ethiopia,31308.0,AS,AF
+Pakistan,Ethiopia,18965.0,AS,AF
+Turkey,Ethiopia,69722.0,AS,AF
+Turkey,Ethiopia,11117.0,AS,AF
+United Arab Emirates,Ethiopia,54686.0,AS,AF
+United Arab Emirates,Ethiopia,18338.0,AS,AF
+Cyprus,Ethiopia,10.0,AS,AF
+Indonesia,Ethiopia,229926.0,AS,AF
+Indonesia,Ethiopia,2514.0,AS,AF
+Malaysia,Ethiopia,281578.0,AS,AF
+Malaysia,Ethiopia,106086.0,AS,AF
+Sri Lanka,Ethiopia,31.0,AS,AF
+Sri Lanka,Ethiopia,49.0,AS,AF
+Thailand,Ethiopia,5893.0,AS,AF
+Thailand,Ethiopia,3819.0,AS,AF
+Viet Nam,Ethiopia,3211.0,AS,AF
+Cambodia,Ethiopia,49.0,AS,AF
+Iraq,Ethiopia,36.0,AS,AF
+Japan,Ethiopia,91.0,AS,AF
+Jordan,Ethiopia,508.0,AS,AF
+Jordan,Ethiopia,336.0,AS,AF
+Lebanon,Ethiopia,105.0,AS,AF
+Lebanon,Ethiopia,110.0,AS,AF
+Oman,Ethiopia,6255.0,AS,AF
+Philippines,Ethiopia,197.0,AS,AF
+Saudi Arabia,Ethiopia,26855.0,AS,AF
+Saudi Arabia,Ethiopia,6.0,AS,AF
+Singapore,Ethiopia,1320.0,AS,AF
+Singapore,Ethiopia,53.0,AS,AF
+Syrian Arab Republic,Ethiopia,97.0,AS,AF
+Israel,Ethiopia,767.0,AS,AF
+Israel,Ethiopia,597.0,AS,AF
+Bangladesh,Ethiopia,3224.0,AS,AF
+Kuwait,Ethiopia,9.0,AS,AF
+Bahrain,Ethiopia,1.0,AS,AF
+Yemen,Ethiopia,2911.0,AS,AF
+Mongolia,Ethiopia,49.0,AS,AF
+India,Fiji,3826.0,AS,OC
+India,Fiji,3055.0,AS,OC
+Pakistan,Fiji,95.0,AS,OC
+Pakistan,Fiji,185.0,AS,OC
+Turkey,Fiji,66.0,AS,OC
+Turkey,Fiji,12.0,AS,OC
+United Arab Emirates,Fiji,694.0,AS,OC
+United Arab Emirates,Fiji,471.0,AS,OC
+Cyprus,Fiji,52.0,AS,OC
+Cyprus,Fiji,11.0,AS,OC
+Indonesia,Fiji,4135.0,AS,OC
+Indonesia,Fiji,3847.0,AS,OC
+Malaysia,Fiji,18830.0,AS,OC
+Malaysia,Fiji,21534.0,AS,OC
+Sri Lanka,Fiji,2436.0,AS,OC
+Sri Lanka,Fiji,2436.0,AS,OC
+Thailand,Fiji,9520.0,AS,OC
+Thailand,Fiji,8622.0,AS,OC
+Viet Nam,Fiji,12598.0,AS,OC
+Japan,Fiji,375.0,AS,OC
+Japan,Fiji,48.0,AS,OC
+Oman,Fiji,59.0,AS,OC
+Oman,Fiji,14.0,AS,OC
+Philippines,Fiji,692.0,AS,OC
+Philippines,Fiji,599.0,AS,OC
+Saudi Arabia,Fiji,4.0,AS,OC
+Singapore,Fiji,7258.0,AS,OC
+Singapore,Fiji,11998.0,AS,OC
+Israel,Fiji,10.0,AS,OC
+Bangladesh,Fiji,150.0,AS,OC
+Brunei Darussalam,Fiji,27.0,AS,OC
+India,Finland,9609.0,AS,EU
+India,Finland,18696.0,AS,EU
+Kazakhstan,Finland,767.0,AS,EU
+Kazakhstan,Finland,986.0,AS,EU
+Kyrgyzstan,Finland,2.0,AS,EU
+Pakistan,Finland,522.0,AS,EU
+Pakistan,Finland,215.0,AS,EU
+Turkey,Finland,12172.0,AS,EU
+Turkey,Finland,10996.0,AS,EU
+United Arab Emirates,Finland,12.0,AS,EU
+United Arab Emirates,Finland,268.0,AS,EU
+Cyprus,Finland,3917.0,AS,EU
+Cyprus,Finland,3674.0,AS,EU
+Indonesia,Finland,18208.0,AS,EU
+Indonesia,Finland,31092.0,AS,EU
+Malaysia,Finland,8025.0,AS,EU
+Malaysia,Finland,24684.0,AS,EU
+Sri Lanka,Finland,1806.0,AS,EU
+Sri Lanka,Finland,5884.0,AS,EU
+Thailand,Finland,19830.0,AS,EU
+Thailand,Finland,17919.0,AS,EU
+Viet Nam,Finland,7990.0,AS,EU
+Cambodia,Finland,425.0,AS,EU
+Cambodia,Finland,388.0,AS,EU
+Georgia,Finland,119.0,AS,EU
+Georgia,Finland,12.0,AS,EU
+Japan,Finland,453.0,AS,EU
+Japan,Finland,363.0,AS,EU
+Jordan,Finland,5.0,AS,EU
+Lebanon,Finland,85.0,AS,EU
+Lebanon,Finland,79.0,AS,EU
+Philippines,Finland,1804.0,AS,EU
+Philippines,Finland,965.0,AS,EU
+Singapore,Finland,35.0,AS,EU
+Singapore,Finland,696.0,AS,EU
+Israel,Finland,8490.0,AS,EU
+Israel,Finland,8144.0,AS,EU
+Bangladesh,Finland,28.0,AS,EU
+India,France,295888.0,AS,EU
+India,France,290370.0,AS,EU
+Kazakhstan,France,6435.0,AS,EU
+Kazakhstan,France,1694.0,AS,EU
+Kyrgyzstan,France,43.0,AS,EU
+Pakistan,France,32237.0,AS,EU
+Pakistan,France,22038.0,AS,EU
+Turkey,France,432734.0,AS,EU
+Turkey,France,424065.0,AS,EU
+United Arab Emirates,France,26683.0,AS,EU
+United Arab Emirates,France,12372.0,AS,EU
+Cyprus,France,28219.0,AS,EU
+Cyprus,France,2171.0,AS,EU
+Indonesia,France,219333.0,AS,EU
+Indonesia,France,160230.0,AS,EU
+Malaysia,France,87907.0,AS,EU
+Malaysia,France,35805.0,AS,EU
+Sri Lanka,France,27389.0,AS,EU
+Sri Lanka,France,29506.0,AS,EU
+Thailand,France,293972.0,AS,EU
+Thailand,France,242452.0,AS,EU
+Viet Nam,France,197154.0,AS,EU
+Afghanistan,France,97.0,AS,EU
+Azerbaijan,France,1357.0,AS,EU
+Cambodia,France,59243.0,AS,EU
+Cambodia,France,51921.0,AS,EU
+Georgia,France,19392.0,AS,EU
+Georgia,France,20687.0,AS,EU
+Iraq,France,994.0,AS,EU
+Japan,France,56094.0,AS,EU
+Japan,France,48992.0,AS,EU
+Jordan,France,1754.0,AS,EU
+Jordan,France,1356.0,AS,EU
+Lebanon,France,9650.0,AS,EU
+Lebanon,France,8243.0,AS,EU
+Myanmar,France,9568.0,AS,EU
+Oman,France,94.0,AS,EU
+Oman,France,19.0,AS,EU
+Philippines,France,34573.0,AS,EU
+Philippines,France,29362.0,AS,EU
+Saudi Arabia,France,599.0,AS,EU
+Singapore,France,19819.0,AS,EU
+Singapore,France,31836.0,AS,EU
+Syrian Arab Republic,France,1665.0,AS,EU
+Uzbekistan,France,1030.0,AS,EU
+Israel,France,186827.0,AS,EU
+Israel,France,175903.0,AS,EU
+Bangladesh,France,1331.0,AS,EU
+Kuwait,France,23.0,AS,EU
+Kuwait,France,11.0,AS,EU
+Turkmenistan,France,3939.0,AS,EU
+Armenia,France,448.0,AS,EU
+Armenia,France,578.0,AS,EU
+Bahrain,France,5.0,AS,EU
+Bahrain,France,64.0,AS,EU
+Nepal,France,1199.0,AS,EU
+Qatar,France,332.0,AS,EU
+Qatar,France,418.0,AS,EU
+Mongolia,France,1.0,AS,EU
+Bhutan,France,2.0,AS,EU
+India,Gabon,301.0,AS,AF
+India,Gabon,653.0,AS,AF
+Pakistan,Gabon,13.0,AS,AF
+Turkey,Gabon,4072.0,AS,AF
+United Arab Emirates,Gabon,67.0,AS,AF
+United Arab Emirates,Gabon,2976.0,AS,AF
+Indonesia,Gabon,4560.0,AS,AF
+Malaysia,Gabon,13094.0,AS,AF
+Thailand,Gabon,44504.0,AS,AF
+Thailand,Gabon,39859.0,AS,AF
+Cambodia,Gabon,3119.0,AS,AF
+Cambodia,Gabon,2785.0,AS,AF
+Lebanon,Gabon,2.0,AS,AF
+Lebanon,Gabon,1770.0,AS,AF
+Singapore,Gabon,375.0,AS,AF
+Israel,Gabon,20.0,AS,AF
+Kuwait,Gabon,46.0,AS,AF
+India,Gambia,7268.0,AS,AF
+India,Gambia,13862.0,AS,AF
+Pakistan,Gambia,7021.0,AS,AF
+Pakistan,Gambia,10611.0,AS,AF
+Turkey,Gambia,1820.0,AS,AF
+Turkey,Gambia,7056.0,AS,AF
+United Arab Emirates,Gambia,2197.0,AS,AF
+United Arab Emirates,Gambia,2614.0,AS,AF
+Cyprus,Gambia,40.0,AS,AF
+Indonesia,Gambia,5086.0,AS,AF
+Indonesia,Gambia,21829.0,AS,AF
+Malaysia,Gambia,16649.0,AS,AF
+Malaysia,Gambia,25335.0,AS,AF
+Sri Lanka,Gambia,175.0,AS,AF
+Sri Lanka,Gambia,1613.0,AS,AF
+Thailand,Gambia,1174.0,AS,AF
+Thailand,Gambia,1932.0,AS,AF
+Viet Nam,Gambia,58.0,AS,AF
+Jordan,Gambia,10.0,AS,AF
+Jordan,Gambia,9.0,AS,AF
+Lebanon,Gambia,75.0,AS,AF
+Lebanon,Gambia,340.0,AS,AF
+Saudi Arabia,Gambia,228.0,AS,AF
+Singapore,Gambia,2966.0,AS,AF
+Singapore,Gambia,14.0,AS,AF
+Bangladesh,Gambia,16.0,AS,AF
+Armenia,Gambia,14.0,AS,AF
+Qatar,Gambia,1.0,AS,AF
+Yemen,Gambia,8.0,AS,AF
+India,Georgia,6918.0,AS,AS
+India,Georgia,22444.0,AS,AS
+Kazakhstan,Georgia,3507.0,AS,AS
+Kazakhstan,Georgia,2506.0,AS,AS
+Kyrgyzstan,Georgia,1840.0,AS,AS
+Kyrgyzstan,Georgia,1766.0,AS,AS
+Pakistan,Georgia,1933.0,AS,AS
+Pakistan,Georgia,3239.0,AS,AS
+Turkey,Georgia,112865.0,AS,AS
+Turkey,Georgia,131402.0,AS,AS
+United Arab Emirates,Georgia,2607.0,AS,AS
+United Arab Emirates,Georgia,2456.0,AS,AS
+Cyprus,Georgia,934.0,AS,AS
+Cyprus,Georgia,243.0,AS,AS
+Indonesia,Georgia,7341.0,AS,AS
+Indonesia,Georgia,51978.0,AS,AS
+Malaysia,Georgia,1467.0,AS,AS
+Malaysia,Georgia,8349.0,AS,AS
+Sri Lanka,Georgia,1212.0,AS,AS
+Sri Lanka,Georgia,1889.0,AS,AS
+Thailand,Georgia,636.0,AS,AS
+Thailand,Georgia,4327.0,AS,AS
+Viet Nam,Georgia,3149.0,AS,AS
+Azerbaijan,Georgia,19328.0,AS,AS
+Japan,Georgia,133.0,AS,AS
+Japan,Georgia,9.0,AS,AS
+Jordan,Georgia,70.0,AS,AS
+Jordan,Georgia,116.0,AS,AS
+Lebanon,Georgia,233.0,AS,AS
+Lebanon,Georgia,59.0,AS,AS
+Philippines,Georgia,186.0,AS,AS
+Singapore,Georgia,239.0,AS,AS
+Singapore,Georgia,135.0,AS,AS
+Syrian Arab Republic,Georgia,28.0,AS,AS
+Uzbekistan,Georgia,4284.0,AS,AS
+Israel,Georgia,209.0,AS,AS
+Israel,Georgia,720.0,AS,AS
+Kuwait,Georgia,2.0,AS,AS
+Turkmenistan,Georgia,34.0,AS,AS
+Armenia,Georgia,14703.0,AS,AS
+Armenia,Georgia,13867.0,AS,AS
+India,Germany,497939.0,AS,EU
+India,Germany,476847.0,AS,EU
+Kazakhstan,Germany,17302.0,AS,EU
+Kazakhstan,Germany,12794.0,AS,EU
+Kyrgyzstan,Germany,5609.0,AS,EU
+Kyrgyzstan,Germany,954.0,AS,EU
+Pakistan,Germany,46953.0,AS,EU
+Pakistan,Germany,34908.0,AS,EU
+Turkey,Germany,1323749.0,AS,EU
+Turkey,Germany,1267271.0,AS,EU
+United Arab Emirates,Germany,5698.0,AS,EU
+United Arab Emirates,Germany,8076.0,AS,EU
+Cyprus,Germany,38792.0,AS,EU
+Cyprus,Germany,22845.0,AS,EU
+Indonesia,Germany,946916.0,AS,EU
+Indonesia,Germany,580286.0,AS,EU
+Malaysia,Germany,397544.0,AS,EU
+Malaysia,Germany,255703.0,AS,EU
+Sri Lanka,Germany,90891.0,AS,EU
+Sri Lanka,Germany,104972.0,AS,EU
+Thailand,Germany,379522.0,AS,EU
+Thailand,Germany,344717.0,AS,EU
+Viet Nam,Germany,885343.0,AS,EU
+Afghanistan,Germany,3120.0,AS,EU
+Azerbaijan,Germany,27003.0,AS,EU
+Cambodia,Germany,43109.0,AS,EU
+Cambodia,Germany,11773.0,AS,EU
+Georgia,Germany,62061.0,AS,EU
+Georgia,Germany,57901.0,AS,EU
+Iraq,Germany,337.0,AS,EU
+Japan,Germany,63195.0,AS,EU
+Japan,Germany,48885.0,AS,EU
+Jordan,Germany,9757.0,AS,EU
+Jordan,Germany,12518.0,AS,EU
+Lebanon,Germany,23378.0,AS,EU
+Lebanon,Germany,20601.0,AS,EU
+Myanmar,Germany,11128.0,AS,EU
+Oman,Germany,476.0,AS,EU
+Oman,Germany,71.0,AS,EU
+Philippines,Germany,89067.0,AS,EU
+Philippines,Germany,61021.0,AS,EU
+Saudi Arabia,Germany,886.0,AS,EU
+Singapore,Germany,17833.0,AS,EU
+Singapore,Germany,26287.0,AS,EU
+Syrian Arab Republic,Germany,12527.0,AS,EU
+Tajikistan,Germany,408.0,AS,EU
+Uzbekistan,Germany,14688.0,AS,EU
+Israel,Germany,52135.0,AS,EU
+Israel,Germany,71979.0,AS,EU
+Bangladesh,Germany,6311.0,AS,EU
+Bangladesh,Germany,7.0,AS,EU
+Kuwait,Germany,1.0,AS,EU
+Kuwait,Germany,158.0,AS,EU
+Turkmenistan,Germany,501.0,AS,EU
+Armenia,Germany,1451.0,AS,EU
+Armenia,Germany,1378.0,AS,EU
+Bahrain,Germany,50.0,AS,EU
+Bahrain,Germany,27.0,AS,EU
+Nepal,Germany,1019.0,AS,EU
+Qatar,Germany,120.0,AS,EU
+Qatar,Germany,467.0,AS,EU
+Yemen,Germany,391.0,AS,EU
+Mongolia,Germany,3408.0,AS,EU
+Mongolia,Germany,2242.0,AS,EU
+Bhutan,Germany,10.0,AS,EU
+India,Ghana,42751.0,AS,AF
+India,Ghana,67676.0,AS,AF
+Kazakhstan,Ghana,53.0,AS,AF
+Pakistan,Ghana,3581.0,AS,AF
+Pakistan,Ghana,4633.0,AS,AF
+Turkey,Ghana,21109.0,AS,AF
+Turkey,Ghana,31213.0,AS,AF
+United Arab Emirates,Ghana,14108.0,AS,AF
+United Arab Emirates,Ghana,13215.0,AS,AF
+Cyprus,Ghana,311.0,AS,AF
+Cyprus,Ghana,243.0,AS,AF
+Indonesia,Ghana,19856.0,AS,AF
+Indonesia,Ghana,39997.0,AS,AF
+Malaysia,Ghana,100501.0,AS,AF
+Malaysia,Ghana,144786.0,AS,AF
+Sri Lanka,Ghana,3111.0,AS,AF
+Sri Lanka,Ghana,11364.0,AS,AF
+Thailand,Ghana,68937.0,AS,AF
+Thailand,Ghana,109408.0,AS,AF
+Viet Nam,Ghana,184671.0,AS,AF
+Cambodia,Ghana,27.0,AS,AF
+Cambodia,Ghana,61.0,AS,AF
+Georgia,Ghana,31.0,AS,AF
+Georgia,Ghana,19.0,AS,AF
+Japan,Ghana,7.0,AS,AF
+Jordan,Ghana,195.0,AS,AF
+Jordan,Ghana,199.0,AS,AF
+Lebanon,Ghana,1552.0,AS,AF
+Lebanon,Ghana,1908.0,AS,AF
+Myanmar,Ghana,9.0,AS,AF
+Oman,Ghana,101.0,AS,AF
+Oman,Ghana,79.0,AS,AF
+Philippines,Ghana,847.0,AS,AF
+Philippines,Ghana,861.0,AS,AF
+Saudi Arabia,Ghana,348.0,AS,AF
+Saudi Arabia,Ghana,17.0,AS,AF
+Singapore,Ghana,11883.0,AS,AF
+Singapore,Ghana,5508.0,AS,AF
+Israel,Ghana,12057.0,AS,AF
+Israel,Ghana,1088.0,AS,AF
+Bangladesh,Ghana,309.0,AS,AF
+Bahrain,Ghana,2.0,AS,AF
+Qatar,Ghana,4.0,AS,AF
+Yemen,Ghana,19.0,AS,AF
+India,Greece,47705.0,AS,EU
+India,Greece,47930.0,AS,EU
+Kazakhstan,Greece,12.0,AS,EU
+Kyrgyzstan,Greece,331.0,AS,EU
+Pakistan,Greece,2614.0,AS,EU
+Pakistan,Greece,2480.0,AS,EU
+Turkey,Greece,78974.0,AS,EU
+Turkey,Greece,72307.0,AS,EU
+United Arab Emirates,Greece,391.0,AS,EU
+United Arab Emirates,Greece,565.0,AS,EU
+Cyprus,Greece,73348.0,AS,EU
+Cyprus,Greece,44663.0,AS,EU
+Indonesia,Greece,53340.0,AS,EU
+Indonesia,Greece,49761.0,AS,EU
+Malaysia,Greece,25245.0,AS,EU
+Malaysia,Greece,20211.0,AS,EU
+Sri Lanka,Greece,2082.0,AS,EU
+Sri Lanka,Greece,4349.0,AS,EU
+Thailand,Greece,9418.0,AS,EU
+Thailand,Greece,9579.0,AS,EU
+Viet Nam,Greece,25704.0,AS,EU
+Azerbaijan,Greece,494.0,AS,EU
+Cambodia,Greece,2694.0,AS,EU
+Cambodia,Greece,2657.0,AS,EU
+Georgia,Greece,3433.0,AS,EU
+Georgia,Greece,3470.0,AS,EU
+Iraq,Greece,19.0,AS,EU
+Japan,Greece,1314.0,AS,EU
+Japan,Greece,778.0,AS,EU
+Jordan,Greece,71.0,AS,EU
+Jordan,Greece,184.0,AS,EU
+Lebanon,Greece,3568.0,AS,EU
+Lebanon,Greece,1665.0,AS,EU
+Myanmar,Greece,554.0,AS,EU
+Oman,Greece,2823.0,AS,EU
+Philippines,Greece,984.0,AS,EU
+Philippines,Greece,917.0,AS,EU
+Saudi Arabia,Greece,326.0,AS,EU
+Singapore,Greece,873.0,AS,EU
+Singapore,Greece,1770.0,AS,EU
+Syrian Arab Republic,Greece,1613.0,AS,EU
+Tajikistan,Greece,288.0,AS,EU
+Uzbekistan,Greece,26.0,AS,EU
+Israel,Greece,4103.0,AS,EU
+Israel,Greece,4633.0,AS,EU
+Bangladesh,Greece,268.0,AS,EU
+Bangladesh,Greece,41.0,AS,EU
+Kuwait,Greece,1.0,AS,EU
+Armenia,Greece,241.0,AS,EU
+Armenia,Greece,170.0,AS,EU
+Bahrain,Greece,13.0,AS,EU
+Qatar,Greece,32.0,AS,EU
+Qatar,Greece,33.0,AS,EU
+Yemen,Greece,25.0,AS,EU
+India,Greenland,44.0,AS,
+Pakistan,Greenland,16.0,AS,
+Turkey,Greenland,113.0,AS,
+Indonesia,Greenland,50.0,AS,
+Malaysia,Greenland,5.0,AS,
+Sri Lanka,Greenland,10.0,AS,
+Thailand,Greenland,513.0,AS,
+Viet Nam,Greenland,19.0,AS,
+Cambodia,Greenland,2.0,AS,
+Japan,Greenland,14.0,AS,
+Philippines,Greenland,15.0,AS,
+Singapore,Greenland,2.0,AS,
+Israel,Greenland,71.0,AS,
+India,Guinea,193768.0,AS,AF
+India,Guinea,181213.0,AS,AF
+Pakistan,Guinea,4582.0,AS,AF
+Pakistan,Guinea,4200.0,AS,AF
+Turkey,Guinea,2.0,AS,AF
+Turkey,Guinea,8225.0,AS,AF
+United Arab Emirates,Guinea,8.0,AS,AF
+United Arab Emirates,Guinea,19010.0,AS,AF
+Cyprus,Guinea,74.0,AS,AF
+Indonesia,Guinea,7829.0,AS,AF
+Malaysia,Guinea,32837.0,AS,AF
+Sri Lanka,Guinea,2465.0,AS,AF
+Thailand,Guinea,36795.0,AS,AF
+Thailand,Guinea,38737.0,AS,AF
+Cambodia,Guinea,12.0,AS,AF
+Cambodia,Guinea,11.0,AS,AF
+Japan,Guinea,1076.0,AS,AF
+Japan,Guinea,961.0,AS,AF
+Jordan,Guinea,716.0,AS,AF
+Lebanon,Guinea,10.0,AS,AF
+Lebanon,Guinea,1369.0,AS,AF
+Oman,Guinea,87.0,AS,AF
+Singapore,Guinea,150.0,AS,AF
+India,Guyana,1561.0,AS,SA
+India,Guyana,1282.0,AS,SA
+Pakistan,Guyana,3.0,AS,SA
+Pakistan,Guyana,3.0,AS,SA
+Turkey,Guyana,1220.0,AS,SA
+Turkey,Guyana,658.0,AS,SA
+United Arab Emirates,Guyana,144.0,AS,SA
+United Arab Emirates,Guyana,50.0,AS,SA
+Indonesia,Guyana,277.0,AS,SA
+Indonesia,Guyana,667.0,AS,SA
+Malaysia,Guyana,3141.0,AS,SA
+Malaysia,Guyana,4613.0,AS,SA
+Sri Lanka,Guyana,207.0,AS,SA
+Sri Lanka,Guyana,327.0,AS,SA
+Thailand,Guyana,428.0,AS,SA
+Thailand,Guyana,671.0,AS,SA
+Viet Nam,Guyana,314.0,AS,SA
+Jordan,Guyana,14.0,AS,SA
+Lebanon,Guyana,1.0,AS,SA
+Oman,Guyana,30.0,AS,SA
+Saudi Arabia,Guyana,1.0,AS,SA
+Singapore,Guyana,2442.0,AS,SA
+Singapore,Guyana,1406.0,AS,SA
+Syrian Arab Republic,Guyana,20.0,AS,SA
+Israel,Guyana,1.0,AS,SA
+Bangladesh,Guyana,5.0,AS,SA
+Bahrain,Guyana,24.0,AS,SA
+Bahrain,Guyana,23.0,AS,SA
+India,Honduras,3980.0,AS,
+India,Honduras,3659.0,AS,
+Pakistan,Honduras,3.0,AS,
+Turkey,Honduras,643.0,AS,
+Turkey,Honduras,783.0,AS,
+United Arab Emirates,Honduras,119.0,AS,
+United Arab Emirates,Honduras,132.0,AS,
+Indonesia,Honduras,150.0,AS,
+Indonesia,Honduras,1301.0,AS,
+Malaysia,Honduras,287.0,AS,
+Malaysia,Honduras,288.0,AS,
+Sri Lanka,Honduras,1647.0,AS,
+Sri Lanka,Honduras,1427.0,AS,
+Thailand,Honduras,1852.0,AS,
+Thailand,Honduras,2146.0,AS,
+Viet Nam,Honduras,1647.0,AS,
+Japan,Honduras,61.0,AS,
+Jordan,Honduras,5.0,AS,
+Lebanon,Honduras,28.0,AS,
+Philippines,Honduras,103.0,AS,
+Saudi Arabia,Honduras,525.0,AS,
+Singapore,Honduras,1862.0,AS,
+Singapore,Honduras,46.0,AS,
+Syrian Arab Republic,Honduras,72.0,AS,
+Israel,Honduras,65.0,AS,
+India,Hungary,11063.0,AS,EU
+India,Hungary,6079.0,AS,EU
+Kazakhstan,Hungary,758.0,AS,EU
+Kazakhstan,Hungary,55.0,AS,EU
+Kyrgyzstan,Hungary,166.0,AS,EU
+Kyrgyzstan,Hungary,167.0,AS,EU
+Pakistan,Hungary,95.0,AS,EU
+Pakistan,Hungary,204.0,AS,EU
+Turkey,Hungary,42669.0,AS,EU
+Turkey,Hungary,30425.0,AS,EU
+United Arab Emirates,Hungary,83.0,AS,EU
+United Arab Emirates,Hungary,1342.0,AS,EU
+Cyprus,Hungary,19172.0,AS,EU
+Cyprus,Hungary,260.0,AS,EU
+Indonesia,Hungary,42386.0,AS,EU
+Indonesia,Hungary,4872.0,AS,EU
+Malaysia,Hungary,16678.0,AS,EU
+Malaysia,Hungary,14782.0,AS,EU
+Sri Lanka,Hungary,19226.0,AS,EU
+Sri Lanka,Hungary,15587.0,AS,EU
+Thailand,Hungary,12925.0,AS,EU
+Thailand,Hungary,4257.0,AS,EU
+Viet Nam,Hungary,5883.0,AS,EU
+Azerbaijan,Hungary,13.0,AS,EU
+Cambodia,Hungary,379.0,AS,EU
+Cambodia,Hungary,4292.0,AS,EU
+Georgia,Hungary,270.0,AS,EU
+Georgia,Hungary,254.0,AS,EU
+Japan,Hungary,311.0,AS,EU
+Japan,Hungary,130.0,AS,EU
+Jordan,Hungary,243.0,AS,EU
+Myanmar,Hungary,372.0,AS,EU
+Philippines,Hungary,1628.0,AS,EU
+Philippines,Hungary,1272.0,AS,EU
+Saudi Arabia,Hungary,2.0,AS,EU
+Singapore,Hungary,450.0,AS,EU
+Singapore,Hungary,376.0,AS,EU
+Syrian Arab Republic,Hungary,2.0,AS,EU
+Uzbekistan,Hungary,169.0,AS,EU
+Israel,Hungary,1312.0,AS,EU
+Israel,Hungary,2046.0,AS,EU
+Bangladesh,Hungary,777.0,AS,EU
+Kuwait,Hungary,2.0,AS,EU
+Turkmenistan,Hungary,33.0,AS,EU
+Armenia,Hungary,160.0,AS,EU
+Armenia,Hungary,112.0,AS,EU
+Nepal,Hungary,6.0,AS,EU
+Mongolia,Hungary,4.0,AS,EU
+India,Iceland,1406.0,AS,EU
+India,Iceland,5.0,AS,EU
+Kazakhstan,Iceland,12.0,AS,EU
+Pakistan,Iceland,41.0,AS,EU
+Pakistan,Iceland,2.0,AS,EU
+Turkey,Iceland,1390.0,AS,EU
+Turkey,Iceland,26.0,AS,EU
+United Arab Emirates,Iceland,1.0,AS,EU
+United Arab Emirates,Iceland,34.0,AS,EU
+Cyprus,Iceland,49.0,AS,EU
+Indonesia,Iceland,622.0,AS,EU
+Indonesia,Iceland,67.0,AS,EU
+Malaysia,Iceland,77.0,AS,EU
+Sri Lanka,Iceland,279.0,AS,EU
+Sri Lanka,Iceland,17.0,AS,EU
+Thailand,Iceland,4410.0,AS,EU
+Thailand,Iceland,2800.0,AS,EU
+Viet Nam,Iceland,757.0,AS,EU
+Cambodia,Iceland,16.0,AS,EU
+Georgia,Iceland,22.0,AS,EU
+Japan,Iceland,539.0,AS,EU
+Jordan,Iceland,23.0,AS,EU
+Lebanon,Iceland,14.0,AS,EU
+Myanmar,Iceland,1.0,AS,EU
+Philippines,Iceland,479.0,AS,EU
+Philippines,Iceland,25.0,AS,EU
+Singapore,Iceland,101.0,AS,EU
+Singapore,Iceland,1.0,AS,EU
+Syrian Arab Republic,Iceland,3.0,AS,EU
+Uzbekistan,Iceland,10.0,AS,EU
+Israel,Iceland,783.0,AS,EU
+Israel,Iceland,172.0,AS,EU
+Bangladesh,Iceland,56.0,AS,EU
+India,Indonesia,532626.0,AS,AS
+India,Indonesia,472205.0,AS,AS
+Kazakhstan,Indonesia,188.0,AS,AS
+Kyrgyzstan,Indonesia,4.0,AS,AS
+Pakistan,Indonesia,76982.0,AS,AS
+Pakistan,Indonesia,58223.0,AS,AS
+Turkey,Indonesia,80104.0,AS,AS
+Turkey,Indonesia,63262.0,AS,AS
+United Arab Emirates,Indonesia,15075.0,AS,AS
+United Arab Emirates,Indonesia,15229.0,AS,AS
+Cyprus,Indonesia,270.0,AS,AS
+Cyprus,Indonesia,43.0,AS,AS
+Indonesia,Indonesia,15483.0,AS,AS
+Malaysia,Indonesia,464893.0,AS,AS
+Malaysia,Indonesia,644938.0,AS,AS
+Sri Lanka,Indonesia,19672.0,AS,AS
+Sri Lanka,Indonesia,18328.0,AS,AS
+Thailand,Indonesia,1676530.0,AS,AS
+Thailand,Indonesia,1343591.0,AS,AS
+Viet Nam,Indonesia,363672.0,AS,AS
+Afghanistan,Indonesia,31.0,AS,AS
+Cambodia,Indonesia,405.0,AS,AS
+Cambodia,Indonesia,1089.0,AS,AS
+Georgia,Indonesia,1.0,AS,AS
+Japan,Indonesia,31500.0,AS,AS
+Japan,Indonesia,29796.0,AS,AS
+Jordan,Indonesia,21.0,AS,AS
+Jordan,Indonesia,188.0,AS,AS
+Lebanon,Indonesia,68.0,AS,AS
+Lebanon,Indonesia,24.0,AS,AS
+Myanmar,Indonesia,45869.0,AS,AS
+Oman,Indonesia,5.0,AS,AS
+Oman,Indonesia,3.0,AS,AS
+Philippines,Indonesia,38741.0,AS,AS
+Philippines,Indonesia,67054.0,AS,AS
+Saudi Arabia,Indonesia,3018.0,AS,AS
+Singapore,Indonesia,181361.0,AS,AS
+Singapore,Indonesia,686889.0,AS,AS
+Syrian Arab Republic,Indonesia,26.0,AS,AS
+Uzbekistan,Indonesia,939.0,AS,AS
+Israel,Indonesia,174.0,AS,AS
+Israel,Indonesia,42.0,AS,AS
+Bangladesh,Indonesia,685.0,AS,AS
+Turkmenistan,Indonesia,144.0,AS,AS
+Bahrain,Indonesia,1281.0,AS,AS
+Timor-Leste,Indonesia,1391.0,AS,AS
+Yemen,Indonesia,431.0,AS,AS
+Mongolia,Indonesia,1.0,AS,AS
+Maldives,Indonesia,1.0,AS,AS
+Brunei Darussalam,Indonesia,9.0,AS,AS
+India,Ireland,31291.0,AS,EU
+India,Ireland,20446.0,AS,EU
+Kazakhstan,Ireland,5.0,AS,EU
+Kyrgyzstan,Ireland,1.0,AS,EU
+Pakistan,Ireland,2207.0,AS,EU
+Pakistan,Ireland,1653.0,AS,EU
+Turkey,Ireland,10384.0,AS,EU
+Turkey,Ireland,11390.0,AS,EU
+United Arab Emirates,Ireland,442.0,AS,EU
+United Arab Emirates,Ireland,1512.0,AS,EU
+Cyprus,Ireland,1234.0,AS,EU
+Cyprus,Ireland,1533.0,AS,EU
+Indonesia,Ireland,12364.0,AS,EU
+Indonesia,Ireland,5940.0,AS,EU
+Malaysia,Ireland,56189.0,AS,EU
+Malaysia,Ireland,4580.0,AS,EU
+Sri Lanka,Ireland,15740.0,AS,EU
+Sri Lanka,Ireland,16313.0,AS,EU
+Thailand,Ireland,42883.0,AS,EU
+Thailand,Ireland,49286.0,AS,EU
+Viet Nam,Ireland,3468.0,AS,EU
+Azerbaijan,Ireland,3.0,AS,EU
+Cambodia,Ireland,169.0,AS,EU
+Cambodia,Ireland,128.0,AS,EU
+Georgia,Ireland,5.0,AS,EU
+Iraq,Ireland,1.0,AS,EU
+Japan,Ireland,2161.0,AS,EU
+Japan,Ireland,850.0,AS,EU
+Jordan,Ireland,1.0,AS,EU
+Lebanon,Ireland,123.0,AS,EU
+Lebanon,Ireland,95.0,AS,EU
+Myanmar,Ireland,183.0,AS,EU
+Oman,Ireland,1.0,AS,EU
+Philippines,Ireland,1604.0,AS,EU
+Philippines,Ireland,3608.0,AS,EU
+Saudi Arabia,Ireland,11.0,AS,EU
+Singapore,Ireland,3877.0,AS,EU
+Singapore,Ireland,4014.0,AS,EU
+Uzbekistan,Ireland,4.0,AS,EU
+Israel,Ireland,7913.0,AS,EU
+Israel,Ireland,7348.0,AS,EU
+Bangladesh,Ireland,96.0,AS,EU
+Bangladesh,Ireland,9.0,AS,EU
+Kuwait,Ireland,1150.0,AS,EU
+Kuwait,Ireland,1.0,AS,EU
+Armenia,Ireland,3.0,AS,EU
+Armenia,Ireland,10.0,AS,EU
+Bahrain,Ireland,81.0,AS,EU
+Bahrain,Ireland,11.0,AS,EU
+Nepal,Ireland,9.0,AS,EU
+Qatar,Ireland,198.0,AS,EU
+Qatar,Ireland,140.0,AS,EU
+India,Israel,51632.0,AS,AS
+India,Israel,73829.0,AS,AS
+Kazakhstan,Israel,1.0,AS,AS
+Kyrgyzstan,Israel,6.0,AS,AS
+Kyrgyzstan,Israel,5.0,AS,AS
+Pakistan,Israel,50.0,AS,AS
+Turkey,Israel,290930.0,AS,AS
+Turkey,Israel,258051.0,AS,AS
+Cyprus,Israel,9708.0,AS,AS
+Cyprus,Israel,475.0,AS,AS
+Indonesia,Israel,9806.0,AS,AS
+Indonesia,Israel,50897.0,AS,AS
+Malaysia,Israel,2087.0,AS,AS
+Sri Lanka,Israel,4000.0,AS,AS
+Sri Lanka,Israel,11487.0,AS,AS
+Thailand,Israel,75849.0,AS,AS
+Thailand,Israel,81808.0,AS,AS
+Viet Nam,Israel,41422.0,AS,AS
+Azerbaijan,Israel,113.0,AS,AS
+Cambodia,Israel,52.0,AS,AS
+Georgia,Israel,2389.0,AS,AS
+Georgia,Israel,2968.0,AS,AS
+Japan,Israel,6123.0,AS,AS
+Japan,Israel,3694.0,AS,AS
+Jordan,Israel,47419.0,AS,AS
+Jordan,Israel,19444.0,AS,AS
+Philippines,Israel,7372.0,AS,AS
+Philippines,Israel,8292.0,AS,AS
+Singapore,Israel,89213.0,AS,AS
+Singapore,Israel,18420.0,AS,AS
+Uzbekistan,Israel,140.0,AS,AS
+Armenia,Israel,372.0,AS,AS
+Armenia,Israel,462.0,AS,AS
+Nepal,Israel,73.0,AS,AS
+India,Italy,318409.0,AS,EU
+India,Italy,312853.0,AS,EU
+Kazakhstan,Italy,33471.0,AS,EU
+Kazakhstan,Italy,42827.0,AS,EU
+Kyrgyzstan,Italy,590.0,AS,EU
+Kyrgyzstan,Italy,2.0,AS,EU
+Pakistan,Italy,35640.0,AS,EU
+Pakistan,Italy,29823.0,AS,EU
+Turkey,Italy,565143.0,AS,EU
+Turkey,Italy,707487.0,AS,EU
+United Arab Emirates,Italy,2846.0,AS,EU
+United Arab Emirates,Italy,5029.0,AS,EU
+Cyprus,Italy,24786.0,AS,EU
+Cyprus,Italy,5495.0,AS,EU
+Indonesia,Italy,804065.0,AS,EU
+Indonesia,Italy,704497.0,AS,EU
+Malaysia,Italy,363534.0,AS,EU
+Malaysia,Italy,310475.0,AS,EU
+Sri Lanka,Italy,17114.0,AS,EU
+Sri Lanka,Italy,22757.0,AS,EU
+Thailand,Italy,217699.0,AS,EU
+Thailand,Italy,208934.0,AS,EU
+Viet Nam,Italy,324625.0,AS,EU
+Afghanistan,Italy,88.0,AS,EU
+Azerbaijan,Italy,25593.0,AS,EU
+Cambodia,Italy,11110.0,AS,EU
+Cambodia,Italy,10917.0,AS,EU
+Georgia,Italy,44185.0,AS,EU
+Georgia,Italy,45942.0,AS,EU
+Iraq,Italy,5680.0,AS,EU
+Japan,Italy,14703.0,AS,EU
+Japan,Italy,19528.0,AS,EU
+Jordan,Italy,711.0,AS,EU
+Jordan,Italy,384.0,AS,EU
+Lebanon,Italy,1951.0,AS,EU
+Lebanon,Italy,1430.0,AS,EU
+Myanmar,Italy,1247.0,AS,EU
+Oman,Italy,19.0,AS,EU
+Philippines,Italy,49827.0,AS,EU
+Philippines,Italy,45314.0,AS,EU
+Saudi Arabia,Italy,3788.0,AS,EU
+Singapore,Italy,2255.0,AS,EU
+Singapore,Italy,6809.0,AS,EU
+Syrian Arab Republic,Italy,2507.0,AS,EU
+Tajikistan,Italy,405.0,AS,EU
+Uzbekistan,Italy,1641.0,AS,EU
+Israel,Italy,41582.0,AS,EU
+Israel,Italy,42219.0,AS,EU
+Bangladesh,Italy,4772.0,AS,EU
+Bangladesh,Italy,663.0,AS,EU
+Turkmenistan,Italy,180.0,AS,EU
+Armenia,Italy,106.0,AS,EU
+Armenia,Italy,827.0,AS,EU
+Bahrain,Italy,1.0,AS,EU
+Bahrain,Italy,1.0,AS,EU
+Nepal,Italy,175.0,AS,EU
+Qatar,Italy,23.0,AS,EU
+Qatar,Italy,112.0,AS,EU
+Yemen,Italy,1369.0,AS,EU
+Mongolia,Italy,3950.0,AS,EU
+Mongolia,Italy,2266.0,AS,EU
+Brunei Darussalam,Italy,55.0,AS,EU
+India,Jamaica,1796.0,AS,
+India,Jamaica,1808.0,AS,
+Pakistan,Jamaica,226.0,AS,
+Pakistan,Jamaica,231.0,AS,
+Turkey,Jamaica,2821.0,AS,
+Turkey,Jamaica,2458.0,AS,
+United Arab Emirates,Jamaica,225.0,AS,
+United Arab Emirates,Jamaica,205.0,AS,
+Cyprus,Jamaica,53.0,AS,
+Indonesia,Jamaica,3596.0,AS,
+Indonesia,Jamaica,5553.0,AS,
+Malaysia,Jamaica,3153.0,AS,
+Malaysia,Jamaica,4181.0,AS,
+Sri Lanka,Jamaica,29.0,AS,
+Sri Lanka,Jamaica,2104.0,AS,
+Thailand,Jamaica,3638.0,AS,
+Thailand,Jamaica,4716.0,AS,
+Viet Nam,Jamaica,997.0,AS,
+Japan,Jamaica,8.0,AS,
+Lebanon,Jamaica,49.0,AS,
+Philippines,Jamaica,12.0,AS,
+Philippines,Jamaica,232.0,AS,
+Saudi Arabia,Jamaica,6.0,AS,
+Singapore,Jamaica,4.0,AS,
+Bangladesh,Jamaica,22.0,AS,
+India,Japan,331121.0,AS,AS
+India,Japan,305153.0,AS,AS
+Kazakhstan,Japan,411.0,AS,AS
+Kazakhstan,Japan,10.0,AS,AS
+Kyrgyzstan,Japan,246.0,AS,AS
+Kyrgyzstan,Japan,182.0,AS,AS
+Pakistan,Japan,14721.0,AS,AS
+Pakistan,Japan,9517.0,AS,AS
+Turkey,Japan,157968.0,AS,AS
+Turkey,Japan,122122.0,AS,AS
+United Arab Emirates,Japan,3550.0,AS,AS
+United Arab Emirates,Japan,8635.0,AS,AS
+Cyprus,Japan,90.0,AS,AS
+Cyprus,Japan,56.0,AS,AS
+Indonesia,Japan,1120296.0,AS,AS
+Indonesia,Japan,1040160.0,AS,AS
+Malaysia,Japan,931103.0,AS,AS
+Malaysia,Japan,798074.0,AS,AS
+Sri Lanka,Japan,87156.0,AS,AS
+Sri Lanka,Japan,65292.0,AS,AS
+Thailand,Japan,3382480.0,AS,AS
+Thailand,Japan,3219135.0,AS,AS
+Viet Nam,Japan,507947.0,AS,AS
+Afghanistan,Japan,203.0,AS,AS
+Azerbaijan,Japan,874.0,AS,AS
+Cambodia,Japan,7130.0,AS,AS
+Cambodia,Japan,455.0,AS,AS
+Georgia,Japan,798.0,AS,AS
+Georgia,Japan,891.0,AS,AS
+Jordan,Japan,115.0,AS,AS
+Jordan,Japan,44.0,AS,AS
+Lebanon,Japan,212.0,AS,AS
+Lebanon,Japan,192.0,AS,AS
+Myanmar,Japan,55108.0,AS,AS
+Oman,Japan,5548.0,AS,AS
+Oman,Japan,5421.0,AS,AS
+Philippines,Japan,1035761.0,AS,AS
+Philippines,Japan,455040.0,AS,AS
+Saudi Arabia,Japan,162.0,AS,AS
+Singapore,Japan,485471.0,AS,AS
+Singapore,Japan,920815.0,AS,AS
+Syrian Arab Republic,Japan,15.0,AS,AS
+Tajikistan,Japan,1156.0,AS,AS
+Uzbekistan,Japan,451.0,AS,AS
+Israel,Japan,66454.0,AS,AS
+Israel,Japan,64023.0,AS,AS
+Bangladesh,Japan,6422.0,AS,AS
+Bangladesh,Japan,5.0,AS,AS
+Turkmenistan,Japan,25.0,AS,AS
+Armenia,Japan,186.0,AS,AS
+Armenia,Japan,258.0,AS,AS
+Nepal,Japan,2006.0,AS,AS
+Timor-Leste,Japan,1026.0,AS,AS
+Yemen,Japan,2873.0,AS,AS
+Mongolia,Japan,2887.0,AS,AS
+Mongolia,Japan,2577.0,AS,AS
+Brunei Darussalam,Japan,145.0,AS,AS
+Bhutan,Japan,208.0,AS,AS
+India,Jordan,155376.0,AS,AS
+India,Jordan,104160.0,AS,AS
+Kazakhstan,Jordan,92.0,AS,AS
+Kyrgyzstan,Jordan,477.0,AS,AS
+Kyrgyzstan,Jordan,1.0,AS,AS
+Pakistan,Jordan,4390.0,AS,AS
+Pakistan,Jordan,5170.0,AS,AS
+Turkey,Jordan,94769.0,AS,AS
+Turkey,Jordan,83377.0,AS,AS
+United Arab Emirates,Jordan,182263.0,AS,AS
+United Arab Emirates,Jordan,76604.0,AS,AS
+Cyprus,Jordan,2516.0,AS,AS
+Cyprus,Jordan,1024.0,AS,AS
+Indonesia,Jordan,18372.0,AS,AS
+Indonesia,Jordan,19619.0,AS,AS
+Malaysia,Jordan,31708.0,AS,AS
+Malaysia,Jordan,33859.0,AS,AS
+Sri Lanka,Jordan,25726.0,AS,AS
+Sri Lanka,Jordan,25492.0,AS,AS
+Thailand,Jordan,31523.0,AS,AS
+Thailand,Jordan,16610.0,AS,AS
+Viet Nam,Jordan,10397.0,AS,AS
+Afghanistan,Jordan,15.0,AS,AS
+Georgia,Jordan,1237.0,AS,AS
+Georgia,Jordan,286.0,AS,AS
+Iraq,Jordan,1533.0,AS,AS
+Japan,Jordan,408.0,AS,AS
+Japan,Jordan,632.0,AS,AS
+Lebanon,Jordan,42876.0,AS,AS
+Lebanon,Jordan,30541.0,AS,AS
+Myanmar,Jordan,131.0,AS,AS
+Oman,Jordan,6682.0,AS,AS
+Oman,Jordan,8741.0,AS,AS
+Philippines,Jordan,1810.0,AS,AS
+Philippines,Jordan,484.0,AS,AS
+Saudi Arabia,Jordan,353846.0,AS,AS
+Singapore,Jordan,1974.0,AS,AS
+Singapore,Jordan,2680.0,AS,AS
+Syrian Arab Republic,Jordan,64607.0,AS,AS
+Tajikistan,Jordan,7.0,AS,AS
+Uzbekistan,Jordan,181.0,AS,AS
+Israel,Jordan,9357.0,AS,AS
+Israel,Jordan,9281.0,AS,AS
+Bangladesh,Jordan,955.0,AS,AS
+Bangladesh,Jordan,116.0,AS,AS
+Kuwait,Jordan,12354.0,AS,AS
+Kuwait,Jordan,19982.0,AS,AS
+Armenia,Jordan,8.0,AS,AS
+Bahrain,Jordan,4051.0,AS,AS
+Bahrain,Jordan,4271.0,AS,AS
+Qatar,Jordan,398.0,AS,AS
+Qatar,Jordan,416.0,AS,AS
+Yemen,Jordan,1594.0,AS,AS
+India,Kazakhstan,49397.0,AS,AS
+India,Kazakhstan,33687.0,AS,AS
+Kyrgyzstan,Kazakhstan,25174.0,AS,AS
+Kyrgyzstan,Kazakhstan,33936.0,AS,AS
+Pakistan,Kazakhstan,12143.0,AS,AS
+Pakistan,Kazakhstan,20286.0,AS,AS
+Turkey,Kazakhstan,48444.0,AS,AS
+Turkey,Kazakhstan,51185.0,AS,AS
+United Arab Emirates,Kazakhstan,1721.0,AS,AS
+United Arab Emirates,Kazakhstan,4301.0,AS,AS
+Cyprus,Kazakhstan,17.0,AS,AS
+Cyprus,Kazakhstan,2.0,AS,AS
+Indonesia,Kazakhstan,2936.0,AS,AS
+Indonesia,Kazakhstan,1442.0,AS,AS
+Malaysia,Kazakhstan,21864.0,AS,AS
+Malaysia,Kazakhstan,22530.0,AS,AS
+Sri Lanka,Kazakhstan,3016.0,AS,AS
+Sri Lanka,Kazakhstan,2172.0,AS,AS
+Thailand,Kazakhstan,1346.0,AS,AS
+Thailand,Kazakhstan,384.0,AS,AS
+Viet Nam,Kazakhstan,6681.0,AS,AS
+Afghanistan,Kazakhstan,2479.0,AS,AS
+Azerbaijan,Kazakhstan,12722.0,AS,AS
+Georgia,Kazakhstan,17878.0,AS,AS
+Georgia,Kazakhstan,26486.0,AS,AS
+Japan,Kazakhstan,164.0,AS,AS
+Japan,Kazakhstan,34.0,AS,AS
+Jordan,Kazakhstan,14.0,AS,AS
+Jordan,Kazakhstan,9.0,AS,AS
+Lebanon,Kazakhstan,269.0,AS,AS
+Lebanon,Kazakhstan,111.0,AS,AS
+Philippines,Kazakhstan,248.0,AS,AS
+Saudi Arabia,Kazakhstan,17.0,AS,AS
+Singapore,Kazakhstan,129.0,AS,AS
+Singapore,Kazakhstan,768.0,AS,AS
+Syrian Arab Republic,Kazakhstan,48.0,AS,AS
+Tajikistan,Kazakhstan,21903.0,AS,AS
+Uzbekistan,Kazakhstan,316872.0,AS,AS
+Israel,Kazakhstan,3344.0,AS,AS
+Israel,Kazakhstan,2467.0,AS,AS
+Bangladesh,Kazakhstan,201.0,AS,AS
+Turkmenistan,Kazakhstan,2284.0,AS,AS
+Armenia,Kazakhstan,1814.0,AS,AS
+Armenia,Kazakhstan,1973.0,AS,AS
+Mongolia,Kazakhstan,208.0,AS,AS
+Mongolia,Kazakhstan,238.0,AS,AS
+India,Kenya,5793.0,AS,AF
+India,Kenya,97071.0,AS,AF
+Pakistan,Kenya,214392.0,AS,AF
+Pakistan,Kenya,194115.0,AS,AF
+Turkey,Kenya,15984.0,AS,AF
+United Arab Emirates,Kenya,2977.0,AS,AF
+United Arab Emirates,Kenya,47958.0,AS,AF
+Cyprus,Kenya,170.0,AS,AF
+Indonesia,Kenya,123381.0,AS,AF
+Malaysia,Kenya,94283.0,AS,AF
+Sri Lanka,Kenya,667.0,AS,AF
+Thailand,Kenya,28302.0,AS,AF
+Thailand,Kenya,36718.0,AS,AF
+Cambodia,Kenya,41.0,AS,AF
+Cambodia,Kenya,37.0,AS,AF
+Japan,Kenya,72.0,AS,AF
+Jordan,Kenya,482.0,AS,AF
+Lebanon,Kenya,1.0,AS,AF
+Lebanon,Kenya,33.0,AS,AF
+Oman,Kenya,5188.0,AS,AF
+Philippines,Kenya,229.0,AS,AF
+Singapore,Kenya,1380.0,AS,AF
+Israel,Kenya,1719.0,AS,AF
+India,Kiribati,25.0,AS,OC
+India,Kiribati,260.0,AS,OC
+Turkey,Kiribati,10.0,AS,OC
+Turkey,Kiribati,20.0,AS,OC
+Indonesia,Kiribati,602.0,AS,OC
+Indonesia,Kiribati,708.0,AS,OC
+Malaysia,Kiribati,450.0,AS,OC
+Malaysia,Kiribati,678.0,AS,OC
+Sri Lanka,Kiribati,72.0,AS,OC
+Thailand,Kiribati,465.0,AS,OC
+Thailand,Kiribati,2076.0,AS,OC
+Viet Nam,Kiribati,3798.0,AS,OC
+Japan,Kiribati,11.0,AS,OC
+Japan,Kiribati,7.0,AS,OC
+Philippines,Kiribati,230.0,AS,OC
+Philippines,Kiribati,33.0,AS,OC
+Singapore,Kiribati,733.0,AS,OC
+Singapore,Kiribati,458.0,AS,OC
+India,Kuwait,441385.0,AS,AS
+India,Kuwait,324447.0,AS,AS
+Kazakhstan,Kuwait,53.0,AS,AS
+Kazakhstan,Kuwait,2.0,AS,AS
+Kyrgyzstan,Kuwait,10.0,AS,AS
+Kyrgyzstan,Kuwait,6.0,AS,AS
+Pakistan,Kuwait,76051.0,AS,AS
+Pakistan,Kuwait,51916.0,AS,AS
+Turkey,Kuwait,140222.0,AS,AS
+Turkey,Kuwait,72609.0,AS,AS
+United Arab Emirates,Kuwait,307959.0,AS,AS
+United Arab Emirates,Kuwait,121325.0,AS,AS
+Cyprus,Kuwait,12245.0,AS,AS
+Cyprus,Kuwait,2819.0,AS,AS
+Indonesia,Kuwait,10901.0,AS,AS
+Indonesia,Kuwait,6115.0,AS,AS
+Malaysia,Kuwait,57780.0,AS,AS
+Malaysia,Kuwait,44818.0,AS,AS
+Sri Lanka,Kuwait,17048.0,AS,AS
+Sri Lanka,Kuwait,23605.0,AS,AS
+Thailand,Kuwait,32768.0,AS,AS
+Thailand,Kuwait,24546.0,AS,AS
+Viet Nam,Kuwait,10816.0,AS,AS
+Afghanistan,Kuwait,88.0,AS,AS
+Azerbaijan,Kuwait,29.0,AS,AS
+Cambodia,Kuwait,73.0,AS,AS
+Georgia,Kuwait,2979.0,AS,AS
+Georgia,Kuwait,312.0,AS,AS
+Iraq,Kuwait,4.0,AS,AS
+Japan,Kuwait,1514.0,AS,AS
+Japan,Kuwait,906.0,AS,AS
+Jordan,Kuwait,79376.0,AS,AS
+Jordan,Kuwait,212315.0,AS,AS
+Lebanon,Kuwait,68053.0,AS,AS
+Lebanon,Kuwait,35289.0,AS,AS
+Myanmar,Kuwait,300.0,AS,AS
+Oman,Kuwait,28486.0,AS,AS
+Oman,Kuwait,64685.0,AS,AS
+Philippines,Kuwait,64590.0,AS,AS
+Philippines,Kuwait,28038.0,AS,AS
+Saudi Arabia,Kuwait,431327.0,AS,AS
+Singapore,Kuwait,14059.0,AS,AS
+Singapore,Kuwait,21343.0,AS,AS
+Syrian Arab Republic,Kuwait,9795.0,AS,AS
+Uzbekistan,Kuwait,46.0,AS,AS
+Bangladesh,Kuwait,9286.0,AS,AS
+Bangladesh,Kuwait,4.0,AS,AS
+Armenia,Kuwait,619.0,AS,AS
+Armenia,Kuwait,15.0,AS,AS
+Bahrain,Kuwait,42530.0,AS,AS
+Bahrain,Kuwait,32893.0,AS,AS
+Nepal,Kuwait,69.0,AS,AS
+Qatar,Kuwait,7805.0,AS,AS
+Qatar,Kuwait,4051.0,AS,AS
+Yemen,Kuwait,3748.0,AS,AS
+Mongolia,Kuwait,133.0,AS,AS
+India,Kyrgyzstan,792.0,AS,AS
+India,Kyrgyzstan,896.0,AS,AS
+Kazakhstan,Kyrgyzstan,156845.0,AS,AS
+Kazakhstan,Kyrgyzstan,151897.0,AS,AS
+Pakistan,Kyrgyzstan,436.0,AS,AS
+Pakistan,Kyrgyzstan,2.0,AS,AS
+Turkey,Kyrgyzstan,7038.0,AS,AS
+Turkey,Kyrgyzstan,10529.0,AS,AS
+United Arab Emirates,Kyrgyzstan,1121.0,AS,AS
+United Arab Emirates,Kyrgyzstan,410.0,AS,AS
+Indonesia,Kyrgyzstan,1261.0,AS,AS
+Indonesia,Kyrgyzstan,1077.0,AS,AS
+Malaysia,Kyrgyzstan,2558.0,AS,AS
+Malaysia,Kyrgyzstan,1639.0,AS,AS
+Sri Lanka,Kyrgyzstan,1756.0,AS,AS
+Sri Lanka,Kyrgyzstan,3859.0,AS,AS
+Thailand,Kyrgyzstan,118.0,AS,AS
+Thailand,Kyrgyzstan,32.0,AS,AS
+Viet Nam,Kyrgyzstan,362.0,AS,AS
+Afghanistan,Kyrgyzstan,38.0,AS,AS
+Afghanistan,Kyrgyzstan,21.0,AS,AS
+Azerbaijan,Kyrgyzstan,4508.0,AS,AS
+Georgia,Kyrgyzstan,1656.0,AS,AS
+Georgia,Kyrgyzstan,3055.0,AS,AS
+Japan,Kyrgyzstan,7.0,AS,AS
+Jordan,Kyrgyzstan,160.0,AS,AS
+Jordan,Kyrgyzstan,114.0,AS,AS
+Saudi Arabia,Kyrgyzstan,17.0,AS,AS
+Syrian Arab Republic,Kyrgyzstan,25.0,AS,AS
+Tajikistan,Kyrgyzstan,4102.0,AS,AS
+Uzbekistan,Kyrgyzstan,8377.0,AS,AS
+Israel,Kyrgyzstan,127.0,AS,AS
+Israel,Kyrgyzstan,228.0,AS,AS
+Turkmenistan,Kyrgyzstan,869.0,AS,AS
+Armenia,Kyrgyzstan,73.0,AS,AS
+Mongolia,Kyrgyzstan,36.0,AS,AS
+Mongolia,Kyrgyzstan,37.0,AS,AS
+India,Latvia,4812.0,AS,EU
+India,Latvia,6391.0,AS,EU
+Kazakhstan,Latvia,5182.0,AS,EU
+Kazakhstan,Latvia,45083.0,AS,EU
+Kyrgyzstan,Latvia,95.0,AS,EU
+Kyrgyzstan,Latvia,1419.0,AS,EU
+Pakistan,Latvia,614.0,AS,EU
+Pakistan,Latvia,665.0,AS,EU
+Turkey,Latvia,15144.0,AS,EU
+Turkey,Latvia,12948.0,AS,EU
+United Arab Emirates,Latvia,738.0,AS,EU
+United Arab Emirates,Latvia,852.0,AS,EU
+Cyprus,Latvia,1036.0,AS,EU
+Cyprus,Latvia,98.0,AS,EU
+Indonesia,Latvia,702.0,AS,EU
+Indonesia,Latvia,39587.0,AS,EU
+Malaysia,Latvia,357.0,AS,EU
+Malaysia,Latvia,25192.0,AS,EU
+Sri Lanka,Latvia,1160.0,AS,EU
+Sri Lanka,Latvia,960.0,AS,EU
+Thailand,Latvia,1268.0,AS,EU
+Thailand,Latvia,12460.0,AS,EU
+Viet Nam,Latvia,3754.0,AS,EU
+Azerbaijan,Latvia,1187.0,AS,EU
+Cambodia,Latvia,1415.0,AS,EU
+Cambodia,Latvia,1061.0,AS,EU
+Georgia,Latvia,4600.0,AS,EU
+Georgia,Latvia,4563.0,AS,EU
+Japan,Latvia,257.0,AS,EU
+Japan,Latvia,1241.0,AS,EU
+Jordan,Latvia,21.0,AS,EU
+Jordan,Latvia,13.0,AS,EU
+Myanmar,Latvia,24.0,AS,EU
+Philippines,Latvia,66.0,AS,EU
+Philippines,Latvia,609.0,AS,EU
+Singapore,Latvia,122.0,AS,EU
+Singapore,Latvia,513.0,AS,EU
+Syrian Arab Republic,Latvia,16.0,AS,EU
+Uzbekistan,Latvia,5868.0,AS,EU
+Israel,Latvia,2645.0,AS,EU
+Israel,Latvia,3929.0,AS,EU
+Armenia,Latvia,1194.0,AS,EU
+Armenia,Latvia,1238.0,AS,EU
+Nepal,Latvia,1.0,AS,EU
+India,Lebanon,45188.0,AS,AS
+India,Lebanon,27165.0,AS,AS
+Kazakhstan,Lebanon,700.0,AS,AS
+Kazakhstan,Lebanon,36.0,AS,AS
+Kyrgyzstan,Lebanon,56.0,AS,AS
+Pakistan,Lebanon,1475.0,AS,AS
+Pakistan,Lebanon,1823.0,AS,AS
+Turkey,Lebanon,180834.0,AS,AS
+Turkey,Lebanon,165634.0,AS,AS
+United Arab Emirates,Lebanon,51861.0,AS,AS
+United Arab Emirates,Lebanon,43933.0,AS,AS
+Cyprus,Lebanon,1546.0,AS,AS
+Cyprus,Lebanon,1616.0,AS,AS
+Indonesia,Lebanon,13791.0,AS,AS
+Indonesia,Lebanon,14053.0,AS,AS
+Malaysia,Lebanon,23706.0,AS,AS
+Malaysia,Lebanon,21940.0,AS,AS
+Sri Lanka,Lebanon,17566.0,AS,AS
+Sri Lanka,Lebanon,19561.0,AS,AS
+Thailand,Lebanon,27071.0,AS,AS
+Thailand,Lebanon,21805.0,AS,AS
+Viet Nam,Lebanon,33194.0,AS,AS
+Afghanistan,Lebanon,4.0,AS,AS
+Cambodia,Lebanon,21.0,AS,AS
+Cambodia,Lebanon,20.0,AS,AS
+Georgia,Lebanon,573.0,AS,AS
+Georgia,Lebanon,805.0,AS,AS
+Iraq,Lebanon,3686.0,AS,AS
+Japan,Lebanon,2465.0,AS,AS
+Japan,Lebanon,1568.0,AS,AS
+Jordan,Lebanon,17769.0,AS,AS
+Jordan,Lebanon,15353.0,AS,AS
+Myanmar,Lebanon,598.0,AS,AS
+Oman,Lebanon,3308.0,AS,AS
+Oman,Lebanon,2348.0,AS,AS
+Philippines,Lebanon,6003.0,AS,AS
+Philippines,Lebanon,3836.0,AS,AS
+Saudi Arabia,Lebanon,93576.0,AS,AS
+Singapore,Lebanon,9403.0,AS,AS
+Singapore,Lebanon,11813.0,AS,AS
+Syrian Arab Republic,Lebanon,61826.0,AS,AS
+Uzbekistan,Lebanon,405.0,AS,AS
+Bangladesh,Lebanon,389.0,AS,AS
+Bangladesh,Lebanon,26.0,AS,AS
+Kuwait,Lebanon,1121.0,AS,AS
+Kuwait,Lebanon,1425.0,AS,AS
+Armenia,Lebanon,91.0,AS,AS
+Armenia,Lebanon,93.0,AS,AS
+Bahrain,Lebanon,959.0,AS,AS
+Bahrain,Lebanon,1387.0,AS,AS
+Qatar,Lebanon,18.0,AS,AS
+Qatar,Lebanon,53.0,AS,AS
+Yemen,Lebanon,320.0,AS,AS
+India,Lithuania,10613.0,AS,EU
+India,Lithuania,12622.0,AS,EU
+Kazakhstan,Lithuania,93.0,AS,EU
+Kazakhstan,Lithuania,97.0,AS,EU
+Kyrgyzstan,Lithuania,63.0,AS,EU
+Kyrgyzstan,Lithuania,69.0,AS,EU
+Pakistan,Lithuania,1316.0,AS,EU
+Pakistan,Lithuania,4492.0,AS,EU
+Turkey,Lithuania,22255.0,AS,EU
+Turkey,Lithuania,25860.0,AS,EU
+United Arab Emirates,Lithuania,102.0,AS,EU
+United Arab Emirates,Lithuania,763.0,AS,EU
+Cyprus,Lithuania,900.0,AS,EU
+Cyprus,Lithuania,1121.0,AS,EU
+Indonesia,Lithuania,15205.0,AS,EU
+Indonesia,Lithuania,16785.0,AS,EU
+Malaysia,Lithuania,2090.0,AS,EU
+Malaysia,Lithuania,11445.0,AS,EU
+Sri Lanka,Lithuania,3445.0,AS,EU
+Sri Lanka,Lithuania,3254.0,AS,EU
+Thailand,Lithuania,2956.0,AS,EU
+Thailand,Lithuania,3684.0,AS,EU
+Viet Nam,Lithuania,10083.0,AS,EU
+Azerbaijan,Lithuania,711.0,AS,EU
+Cambodia,Lithuania,2006.0,AS,EU
+Cambodia,Lithuania,1594.0,AS,EU
+Georgia,Lithuania,17170.0,AS,EU
+Georgia,Lithuania,17301.0,AS,EU
+Japan,Lithuania,244.0,AS,EU
+Japan,Lithuania,1158.0,AS,EU
+Jordan,Lithuania,127.0,AS,EU
+Jordan,Lithuania,130.0,AS,EU
+Lebanon,Lithuania,386.0,AS,EU
+Myanmar,Lithuania,1168.0,AS,EU
+Oman,Lithuania,1.0,AS,EU
+Philippines,Lithuania,976.0,AS,EU
+Philippines,Lithuania,2151.0,AS,EU
+Saudi Arabia,Lithuania,1076.0,AS,EU
+Singapore,Lithuania,56.0,AS,EU
+Singapore,Lithuania,16.0,AS,EU
+Uzbekistan,Lithuania,349.0,AS,EU
+Israel,Lithuania,1496.0,AS,EU
+Israel,Lithuania,1770.0,AS,EU
+Bangladesh,Lithuania,311.0,AS,EU
+Turkmenistan,Lithuania,32.0,AS,EU
+Armenia,Lithuania,1840.0,AS,EU
+Armenia,Lithuania,1785.0,AS,EU
+Nepal,Lithuania,7.0,AS,EU
+India,Luxembourg,35.0,AS,EU
+India,Luxembourg,17.0,AS,EU
+Turkey,Luxembourg,16.0,AS,EU
+Turkey,Luxembourg,6.0,AS,EU
+United Arab Emirates,Luxembourg,143.0,AS,EU
+United Arab Emirates,Luxembourg,1.0,AS,EU
+Indonesia,Luxembourg,1724.0,AS,EU
+Thailand,Luxembourg,41.0,AS,EU
+Thailand,Luxembourg,119.0,AS,EU
+Georgia,Luxembourg,41.0,AS,EU
+Georgia,Luxembourg,41.0,AS,EU
+Japan,Luxembourg,23.0,AS,EU
+Japan,Luxembourg,18.0,AS,EU
+Jordan,Luxembourg,2011.0,AS,EU
+Lebanon,Luxembourg,15.0,AS,EU
+Lebanon,Luxembourg,12.0,AS,EU
+Saudi Arabia,Luxembourg,2.0,AS,EU
+Singapore,Luxembourg,312.0,AS,EU
+Israel,Luxembourg,31.0,AS,EU
+Israel,Luxembourg,36.0,AS,EU
+Armenia,Luxembourg,888.0,AS,EU
+Armenia,Luxembourg,1081.0,AS,EU
+Bahrain,Luxembourg,1.0,AS,EU
+India,Madagascar,51654.0,AS,AF
+India,Madagascar,47416.0,AS,AF
+Pakistan,Madagascar,46595.0,AS,AF
+Pakistan,Madagascar,34961.0,AS,AF
+Turkey,Madagascar,31559.0,AS,AF
+Turkey,Madagascar,31383.0,AS,AF
+United Arab Emirates,Madagascar,5811.0,AS,AF
+United Arab Emirates,Madagascar,6616.0,AS,AF
+Cyprus,Madagascar,49.0,AS,AF
+Indonesia,Madagascar,25167.0,AS,AF
+Indonesia,Madagascar,26748.0,AS,AF
+Malaysia,Madagascar,45623.0,AS,AF
+Malaysia,Madagascar,54756.0,AS,AF
+Sri Lanka,Madagascar,11.0,AS,AF
+Thailand,Madagascar,7082.0,AS,AF
+Thailand,Madagascar,5966.0,AS,AF
+Viet Nam,Madagascar,981.0,AS,AF
+Japan,Madagascar,20.0,AS,AF
+Myanmar,Madagascar,436.0,AS,AF
+Oman,Madagascar,1.0,AS,AF
+Oman,Madagascar,15.0,AS,AF
+Philippines,Madagascar,48.0,AS,AF
+Saudi Arabia,Madagascar,3.0,AS,AF
+Singapore,Madagascar,299.0,AS,AF
+Singapore,Madagascar,167.0,AS,AF
+Israel,Madagascar,124.0,AS,AF
+Israel,Madagascar,82.0,AS,AF
+Bangladesh,Madagascar,165.0,AS,AF
+Qatar,Madagascar,5.0,AS,AF
+India,Malawi,104.0,AS,AF
+India,Malawi,1922.0,AS,AF
+Pakistan,Malawi,2.0,AS,AF
+Pakistan,Malawi,16.0,AS,AF
+Turkey,Malawi,421.0,AS,AF
+United Arab Emirates,Malawi,573.0,AS,AF
+Indonesia,Malawi,1960.0,AS,AF
+Malaysia,Malawi,2703.0,AS,AF
+Singapore,Malawi,43.0,AS,AF
+India,Malaysia,860108.0,AS,AS
+India,Malaysia,490502.0,AS,AS
+Kazakhstan,Malaysia,42.0,AS,AS
+Kazakhstan,Malaysia,69.0,AS,AS
+Kyrgyzstan,Malaysia,74.0,AS,AS
+Pakistan,Malaysia,76192.0,AS,AS
+Pakistan,Malaysia,68296.0,AS,AS
+Turkey,Malaysia,46771.0,AS,AS
+Turkey,Malaysia,37815.0,AS,AS
+United Arab Emirates,Malaysia,45112.0,AS,AS
+United Arab Emirates,Malaysia,20582.0,AS,AS
+Cyprus,Malaysia,1157.0,AS,AS
+Cyprus,Malaysia,835.0,AS,AS
+Indonesia,Malaysia,1893473.0,AS,AS
+Indonesia,Malaysia,1890444.0,AS,AS
+Malaysia,Malaysia,2106.0,AS,AS
+Sri Lanka,Malaysia,20119.0,AS,AS
+Sri Lanka,Malaysia,17329.0,AS,AS
+Thailand,Malaysia,1674712.0,AS,AS
+Thailand,Malaysia,1442533.0,AS,AS
+Viet Nam,Malaysia,522179.0,AS,AS
+Afghanistan,Malaysia,142.0,AS,AS
+Azerbaijan,Malaysia,229.0,AS,AS
+Cambodia,Malaysia,68177.0,AS,AS
+Cambodia,Malaysia,61371.0,AS,AS
+Georgia,Malaysia,2162.0,AS,AS
+Iraq,Malaysia,87.0,AS,AS
+Japan,Malaysia,80168.0,AS,AS
+Japan,Malaysia,43809.0,AS,AS
+Jordan,Malaysia,504.0,AS,AS
+Jordan,Malaysia,514.0,AS,AS
+Lebanon,Malaysia,7875.0,AS,AS
+Lebanon,Malaysia,1522.0,AS,AS
+Myanmar,Malaysia,82397.0,AS,AS
+Oman,Malaysia,1883.0,AS,AS
+Oman,Malaysia,1503.0,AS,AS
+Philippines,Malaysia,208573.0,AS,AS
+Philippines,Malaysia,160212.0,AS,AS
+Saudi Arabia,Malaysia,10002.0,AS,AS
+Singapore,Malaysia,541262.0,AS,AS
+Singapore,Malaysia,1041364.0,AS,AS
+Syrian Arab Republic,Malaysia,175.0,AS,AS
+Uzbekistan,Malaysia,986.0,AS,AS
+Israel,Malaysia,777.0,AS,AS
+Bangladesh,Malaysia,23306.0,AS,AS
+Bangladesh,Malaysia,291.0,AS,AS
+Kuwait,Malaysia,8.0,AS,AS
+Turkmenistan,Malaysia,677.0,AS,AS
+Armenia,Malaysia,8.0,AS,AS
+Armenia,Malaysia,30.0,AS,AS
+Bahrain,Malaysia,63.0,AS,AS
+Bahrain,Malaysia,3.0,AS,AS
+Nepal,Malaysia,345.0,AS,AS
+Qatar,Malaysia,4.0,AS,AS
+Qatar,Malaysia,21.0,AS,AS
+Timor-Leste,Malaysia,16.0,AS,AS
+Yemen,Malaysia,6543.0,AS,AS
+Mongolia,Malaysia,2.0,AS,AS
+Brunei Darussalam,Malaysia,234.0,AS,AS
+Bhutan,Malaysia,2.0,AS,AS
+India,Maldives,69166.0,AS,AS
+India,Maldives,39441.0,AS,AS
+Pakistan,Maldives,3869.0,AS,AS
+Pakistan,Maldives,4188.0,AS,AS
+Turkey,Maldives,8898.0,AS,AS
+Turkey,Maldives,7560.0,AS,AS
+United Arab Emirates,Maldives,63132.0,AS,AS
+United Arab Emirates,Maldives,38876.0,AS,AS
+Cyprus,Maldives,406.0,AS,AS
+Cyprus,Maldives,33.0,AS,AS
+Indonesia,Maldives,6164.0,AS,AS
+Indonesia,Maldives,5613.0,AS,AS
+Malaysia,Maldives,24390.0,AS,AS
+Malaysia,Maldives,26838.0,AS,AS
+Sri Lanka,Maldives,45300.0,AS,AS
+Sri Lanka,Maldives,29887.0,AS,AS
+Thailand,Maldives,15634.0,AS,AS
+Thailand,Maldives,13164.0,AS,AS
+Viet Nam,Maldives,3179.0,AS,AS
+Cambodia,Maldives,91.0,AS,AS
+Cambodia,Maldives,43.0,AS,AS
+Japan,Maldives,127.0,AS,AS
+Japan,Maldives,48.0,AS,AS
+Jordan,Maldives,22.0,AS,AS
+Jordan,Maldives,12.0,AS,AS
+Lebanon,Maldives,30.0,AS,AS
+Lebanon,Maldives,24.0,AS,AS
+Myanmar,Maldives,186.0,AS,AS
+Oman,Maldives,6051.0,AS,AS
+Oman,Maldives,7506.0,AS,AS
+Philippines,Maldives,250.0,AS,AS
+Philippines,Maldives,1254.0,AS,AS
+Saudi Arabia,Maldives,542.0,AS,AS
+Singapore,Maldives,44812.0,AS,AS
+Singapore,Maldives,31630.0,AS,AS
+Bangladesh,Maldives,2073.0,AS,AS
+Bangladesh,Maldives,80.0,AS,AS
+Armenia,Maldives,6.0,AS,AS
+Bahrain,Maldives,9.0,AS,AS
+Bahrain,Maldives,45.0,AS,AS
+Qatar,Maldives,192.0,AS,AS
+India,Mali,42748.0,AS,AF
+India,Mali,5117.0,AS,AF
+Pakistan,Mali,19573.0,AS,AF
+Turkey,Mali,4155.0,AS,AF
+Turkey,Mali,9049.0,AS,AF
+United Arab Emirates,Mali,2177.0,AS,AF
+United Arab Emirates,Mali,665.0,AS,AF
+Cyprus,Mali,9.0,AS,AF
+Indonesia,Mali,2485.0,AS,AF
+Indonesia,Mali,1158.0,AS,AF
+Malaysia,Mali,1362.0,AS,AF
+Malaysia,Mali,585.0,AS,AF
+Sri Lanka,Mali,397.0,AS,AF
+Sri Lanka,Mali,305.0,AS,AF
+Thailand,Mali,18833.0,AS,AF
+Thailand,Mali,3081.0,AS,AF
+Viet Nam,Mali,1399.0,AS,AF
+Azerbaijan,Mali,60.0,AS,AF
+Cambodia,Mali,7.0,AS,AF
+Japan,Mali,16.0,AS,AF
+Jordan,Mali,53.0,AS,AF
+Jordan,Mali,601.0,AS,AF
+Lebanon,Mali,439.0,AS,AF
+Lebanon,Mali,1478.0,AS,AF
+Saudi Arabia,Mali,48.0,AS,AF
+Singapore,Mali,129.0,AS,AF
+Syrian Arab Republic,Mali,3.0,AS,AF
+Israel,Mali,1.0,AS,AF
+Bangladesh,Mali,185.0,AS,AF
+India,Malta,623.0,AS,EU
+India,Malta,520.0,AS,EU
+Pakistan,Malta,97.0,AS,EU
+Pakistan,Malta,99.0,AS,EU
+Turkey,Malta,2361.0,AS,EU
+Turkey,Malta,5414.0,AS,EU
+United Arab Emirates,Malta,128.0,AS,EU
+United Arab Emirates,Malta,520.0,AS,EU
+Cyprus,Malta,2019.0,AS,EU
+Cyprus,Malta,1785.0,AS,EU
+Indonesia,Malta,851.0,AS,EU
+Indonesia,Malta,752.0,AS,EU
+Malaysia,Malta,98.0,AS,EU
+Malaysia,Malta,188.0,AS,EU
+Sri Lanka,Malta,253.0,AS,EU
+Sri Lanka,Malta,166.0,AS,EU
+Thailand,Malta,3332.0,AS,EU
+Thailand,Malta,2149.0,AS,EU
+Viet Nam,Malta,471.0,AS,EU
+Cambodia,Malta,19.0,AS,EU
+Cambodia,Malta,72.0,AS,EU
+Georgia,Malta,500.0,AS,EU
+Japan,Malta,2.0,AS,EU
+Lebanon,Malta,20.0,AS,EU
+Lebanon,Malta,35.0,AS,EU
+Philippines,Malta,157.0,AS,EU
+Philippines,Malta,73.0,AS,EU
+Saudi Arabia,Malta,47.0,AS,EU
+Singapore,Malta,79.0,AS,EU
+Singapore,Malta,101.0,AS,EU
+Israel,Malta,241.0,AS,EU
+Israel,Malta,231.0,AS,EU
+Bahrain,Malta,1.0,AS,EU
+Bahrain,Malta,72.0,AS,EU
+India,Mauritania,3697.0,AS,AF
+India,Mauritania,6837.0,AS,AF
+Pakistan,Mauritania,6932.0,AS,AF
+Pakistan,Mauritania,5081.0,AS,AF
+Turkey,Mauritania,10788.0,AS,AF
+Turkey,Mauritania,13561.0,AS,AF
+United Arab Emirates,Mauritania,2572.0,AS,AF
+United Arab Emirates,Mauritania,5530.0,AS,AF
+Indonesia,Mauritania,12374.0,AS,AF
+Indonesia,Mauritania,50146.0,AS,AF
+Malaysia,Mauritania,13482.0,AS,AF
+Malaysia,Mauritania,47052.0,AS,AF
+Sri Lanka,Mauritania,149.0,AS,AF
+Sri Lanka,Mauritania,862.0,AS,AF
+Thailand,Mauritania,17005.0,AS,AF
+Thailand,Mauritania,15283.0,AS,AF
+Viet Nam,Mauritania,1902.0,AS,AF
+Cambodia,Mauritania,13.0,AS,AF
+Cambodia,Mauritania,39.0,AS,AF
+Georgia,Mauritania,25.0,AS,AF
+Japan,Mauritania,16.0,AS,AF
+Japan,Mauritania,1488.0,AS,AF
+Jordan,Mauritania,7.0,AS,AF
+Jordan,Mauritania,99.0,AS,AF
+Lebanon,Mauritania,6.0,AS,AF
+Lebanon,Mauritania,96.0,AS,AF
+Oman,Mauritania,246.0,AS,AF
+Oman,Mauritania,257.0,AS,AF
+Saudi Arabia,Mauritania,2592.0,AS,AF
+Saudi Arabia,Mauritania,9.0,AS,AF
+Singapore,Mauritania,19201.0,AS,AF
+Singapore,Mauritania,1438.0,AS,AF
+Bangladesh,Mauritania,70.0,AS,AF
+Kuwait,Mauritania,30.0,AS,AF
+Kuwait,Mauritania,33.0,AS,AF
+Bahrain,Mauritania,36.0,AS,AF
+Bahrain,Mauritania,122.0,AS,AF
+Qatar,Mauritania,149.0,AS,AF
+India,Mauritius,67806.0,AS,AF
+India,Mauritius,51328.0,AS,AF
+Pakistan,Mauritius,9932.0,AS,AF
+Pakistan,Mauritius,9825.0,AS,AF
+Turkey,Mauritius,6119.0,AS,AF
+Turkey,Mauritius,4843.0,AS,AF
+United Arab Emirates,Mauritius,3894.0,AS,AF
+United Arab Emirates,Mauritius,4611.0,AS,AF
+Cyprus,Mauritius,462.0,AS,AF
+Cyprus,Mauritius,182.0,AS,AF
+Indonesia,Mauritius,15222.0,AS,AF
+Indonesia,Mauritius,3799.0,AS,AF
+Malaysia,Mauritius,28468.0,AS,AF
+Malaysia,Mauritius,29480.0,AS,AF
+Sri Lanka,Mauritius,624.0,AS,AF
+Sri Lanka,Mauritius,1617.0,AS,AF
+Thailand,Mauritius,11193.0,AS,AF
+Thailand,Mauritius,9008.0,AS,AF
+Viet Nam,Mauritius,1086.0,AS,AF
+Georgia,Mauritius,9.0,AS,AF
+Japan,Mauritius,518.0,AS,AF
+Japan,Mauritius,214.0,AS,AF
+Jordan,Mauritius,383.0,AS,AF
+Jordan,Mauritius,228.0,AS,AF
+Lebanon,Mauritius,150.0,AS,AF
+Lebanon,Mauritius,27.0,AS,AF
+Myanmar,Mauritius,99.0,AS,AF
+Oman,Mauritius,614.0,AS,AF
+Oman,Mauritius,590.0,AS,AF
+Philippines,Mauritius,529.0,AS,AF
+Philippines,Mauritius,319.0,AS,AF
+Saudi Arabia,Mauritius,941.0,AS,AF
+Singapore,Mauritius,3214.0,AS,AF
+Singapore,Mauritius,8358.0,AS,AF
+Syrian Arab Republic,Mauritius,3.0,AS,AF
+Israel,Mauritius,131.0,AS,AF
+Israel,Mauritius,93.0,AS,AF
+Bangladesh,Mauritius,550.0,AS,AF
+Bangladesh,Mauritius,22.0,AS,AF
+Bahrain,Mauritius,572.0,AS,AF
+Bahrain,Mauritius,514.0,AS,AF
+India,Mexico,67992.0,AS,
+India,Mexico,59077.0,AS,
+Kyrgyzstan,Mexico,19.0,AS,
+Pakistan,Mexico,1762.0,AS,
+Pakistan,Mexico,2057.0,AS,
+Turkey,Mexico,26651.0,AS,
+Turkey,Mexico,26482.0,AS,
+United Arab Emirates,Mexico,95.0,AS,
+United Arab Emirates,Mexico,16.0,AS,
+Cyprus,Mexico,1102.0,AS,
+Indonesia,Mexico,122776.0,AS,
+Indonesia,Mexico,103705.0,AS,
+Malaysia,Mexico,73334.0,AS,
+Malaysia,Mexico,70629.0,AS,
+Sri Lanka,Mexico,85791.0,AS,
+Sri Lanka,Mexico,72602.0,AS,
+Thailand,Mexico,39481.0,AS,
+Thailand,Mexico,26393.0,AS,
+Viet Nam,Mexico,60587.0,AS,
+Cambodia,Mexico,91.0,AS,
+Georgia,Mexico,169.0,AS,
+Georgia,Mexico,425.0,AS,
+Japan,Mexico,11461.0,AS,
+Japan,Mexico,5803.0,AS,
+Jordan,Mexico,12.0,AS,
+Jordan,Mexico,125.0,AS,
+Lebanon,Mexico,193.0,AS,
+Lebanon,Mexico,208.0,AS,
+Oman,Mexico,11.0,AS,
+Philippines,Mexico,22916.0,AS,
+Philippines,Mexico,12117.0,AS,
+Saudi Arabia,Mexico,13.0,AS,
+Singapore,Mexico,10568.0,AS,
+Singapore,Mexico,12970.0,AS,
+Syrian Arab Republic,Mexico,642.0,AS,
+Israel,Mexico,2179.0,AS,
+Israel,Mexico,952.0,AS,
+Bangladesh,Mexico,4.0,AS,
+Armenia,Mexico,17.0,AS,
+Armenia,Mexico,13.0,AS,
+Nepal,Mexico,1.0,AS,
+Mongolia,Mexico,19.0,AS,
+India,Mongolia,8430.0,AS,AS
+India,Mongolia,383.0,AS,AS
+Kazakhstan,Mongolia,28587.0,AS,AS
+Kazakhstan,Mongolia,41317.0,AS,AS
+Kyrgyzstan,Mongolia,244.0,AS,AS
+Kyrgyzstan,Mongolia,969.0,AS,AS
+Pakistan,Mongolia,33.0,AS,AS
+Turkey,Mongolia,4465.0,AS,AS
+Turkey,Mongolia,4396.0,AS,AS
+United Arab Emirates,Mongolia,642.0,AS,AS
+United Arab Emirates,Mongolia,184.0,AS,AS
+Cyprus,Mongolia,25.0,AS,AS
+Indonesia,Mongolia,2039.0,AS,AS
+Indonesia,Mongolia,372.0,AS,AS
+Malaysia,Mongolia,15136.0,AS,AS
+Malaysia,Mongolia,4132.0,AS,AS
+Sri Lanka,Mongolia,930.0,AS,AS
+Sri Lanka,Mongolia,1030.0,AS,AS
+Thailand,Mongolia,11104.0,AS,AS
+Thailand,Mongolia,1263.0,AS,AS
+Viet Nam,Mongolia,12289.0,AS,AS
+Afghanistan,Mongolia,2.0,AS,AS
+Azerbaijan,Mongolia,126.0,AS,AS
+Cambodia,Mongolia,5.0,AS,AS
+Georgia,Mongolia,968.0,AS,AS
+Georgia,Mongolia,749.0,AS,AS
+Japan,Mongolia,3035.0,AS,AS
+Japan,Mongolia,4790.0,AS,AS
+Philippines,Mongolia,2047.0,AS,AS
+Philippines,Mongolia,1909.0,AS,AS
+Saudi Arabia,Mongolia,40.0,AS,AS
+Singapore,Mongolia,1605.0,AS,AS
+Singapore,Mongolia,3994.0,AS,AS
+Uzbekistan,Mongolia,185.0,AS,AS
+Israel,Mongolia,82.0,AS,AS
+Israel,Mongolia,35.0,AS,AS
+Kuwait,Mongolia,16.0,AS,AS
+Armenia,Mongolia,3.0,AS,AS
+India,Montenegro,945.0,AS,EU
+India,Montenegro,3534.0,AS,EU
+Kazakhstan,Montenegro,2.0,AS,EU
+Kyrgyzstan,Montenegro,762.0,AS,EU
+Kyrgyzstan,Montenegro,599.0,AS,EU
+Pakistan,Montenegro,45.0,AS,EU
+Turkey,Montenegro,3692.0,AS,EU
+Turkey,Montenegro,2852.0,AS,EU
+United Arab Emirates,Montenegro,11.0,AS,EU
+United Arab Emirates,Montenegro,160.0,AS,EU
+Cyprus,Montenegro,47.0,AS,EU
+Cyprus,Montenegro,473.0,AS,EU
+Indonesia,Montenegro,403.0,AS,EU
+Indonesia,Montenegro,928.0,AS,EU
+Malaysia,Montenegro,78.0,AS,EU
+Malaysia,Montenegro,323.0,AS,EU
+Sri Lanka,Montenegro,82.0,AS,EU
+Sri Lanka,Montenegro,74.0,AS,EU
+Thailand,Montenegro,98.0,AS,EU
+Thailand,Montenegro,43.0,AS,EU
+Viet Nam,Montenegro,321.0,AS,EU
+Japan,Montenegro,26.0,AS,EU
+Jordan,Montenegro,20.0,AS,EU
+Lebanon,Montenegro,27.0,AS,EU
+Lebanon,Montenegro,21.0,AS,EU
+Philippines,Montenegro,29.0,AS,EU
+Saudi Arabia,Montenegro,14.0,AS,EU
+Singapore,Montenegro,2.0,AS,EU
+Singapore,Montenegro,135.0,AS,EU
+Israel,Montenegro,48.0,AS,EU
+Israel,Montenegro,16.0,AS,EU
+Bangladesh,Montenegro,4.0,AS,EU
+India,Morocco,33357.0,AS,AF
+India,Morocco,28933.0,AS,AF
+Kazakhstan,Morocco,49.0,AS,AF
+Kyrgyzstan,Morocco,42.0,AS,AF
+Pakistan,Morocco,767.0,AS,AF
+Pakistan,Morocco,656.0,AS,AF
+Turkey,Morocco,63404.0,AS,AF
+Turkey,Morocco,49735.0,AS,AF
+United Arab Emirates,Morocco,36249.0,AS,AF
+United Arab Emirates,Morocco,26379.0,AS,AF
+Cyprus,Morocco,235.0,AS,AF
+Indonesia,Morocco,35576.0,AS,AF
+Indonesia,Morocco,35484.0,AS,AF
+Malaysia,Morocco,20810.0,AS,AF
+Malaysia,Morocco,17735.0,AS,AF
+Sri Lanka,Morocco,1708.0,AS,AF
+Sri Lanka,Morocco,648.0,AS,AF
+Thailand,Morocco,3742.0,AS,AF
+Thailand,Morocco,2256.0,AS,AF
+Viet Nam,Morocco,16498.0,AS,AF
+Georgia,Morocco,24.0,AS,AF
+Iraq,Morocco,598.0,AS,AF
+Japan,Morocco,278.0,AS,AF
+Japan,Morocco,2.0,AS,AF
+Jordan,Morocco,2880.0,AS,AF
+Jordan,Morocco,3141.0,AS,AF
+Lebanon,Morocco,486.0,AS,AF
+Lebanon,Morocco,732.0,AS,AF
+Myanmar,Morocco,27.0,AS,AF
+Oman,Morocco,55.0,AS,AF
+Oman,Morocco,528.0,AS,AF
+Philippines,Morocco,920.0,AS,AF
+Philippines,Morocco,1275.0,AS,AF
+Saudi Arabia,Morocco,3301.0,AS,AF
+Singapore,Morocco,527.0,AS,AF
+Singapore,Morocco,1029.0,AS,AF
+Syrian Arab Republic,Morocco,10348.0,AS,AF
+Tajikistan,Morocco,10.0,AS,AF
+Uzbekistan,Morocco,68.0,AS,AF
+Kuwait,Morocco,1.0,AS,AF
+Turkmenistan,Morocco,10.0,AS,AF
+Nepal,Morocco,2.0,AS,AF
+India,Namibia,11715.0,AS,AF
+India,Namibia,9093.0,AS,AF
+Turkey,Namibia,76.0,AS,AF
+Turkey,Namibia,56.0,AS,AF
+United Arab Emirates,Namibia,175.0,AS,AF
+United Arab Emirates,Namibia,234.0,AS,AF
+Indonesia,Namibia,95.0,AS,AF
+Indonesia,Namibia,18.0,AS,AF
+Malaysia,Namibia,433.0,AS,AF
+Malaysia,Namibia,1137.0,AS,AF
+Thailand,Namibia,681.0,AS,AF
+Thailand,Namibia,512.0,AS,AF
+Viet Nam,Namibia,38.0,AS,AF
+Cambodia,Namibia,21.0,AS,AF
+Cambodia,Namibia,73.0,AS,AF
+Japan,Namibia,15.0,AS,AF
+Lebanon,Namibia,25.0,AS,AF
+Saudi Arabia,Namibia,66.0,AS,AF
+Singapore,Namibia,992.0,AS,AF
+Singapore,Namibia,518.0,AS,AF
+Israel,Namibia,126.0,AS,AF
+Israel,Namibia,20.0,AS,AF
+India,Nepal,193582.0,AS,AS
+India,Nepal,699713.0,AS,AS
+Pakistan,Nepal,47.0,AS,AS
+Turkey,Nepal,2514.0,AS,AS
+United Arab Emirates,Nepal,426.0,AS,AS
+Indonesia,Nepal,1254.0,AS,AS
+Malaysia,Nepal,8474.0,AS,AS
+Sri Lanka,Nepal,261.0,AS,AS
+Thailand,Nepal,39.0,AS,AS
+Thailand,Nepal,15797.0,AS,AS
+Japan,Nepal,67.0,AS,AS
+Jordan,Nepal,85.0,AS,AS
+Lebanon,Nepal,8.0,AS,AS
+Oman,Nepal,25.0,AS,AS
+Philippines,Nepal,750.0,AS,AS
+Singapore,Nepal,7854.0,AS,AS
+Israel,Nepal,1000.0,AS,AS
+India,Netherlands,512105.0,AS,EU
+India,Netherlands,522668.0,AS,EU
+Kazakhstan,Netherlands,1705.0,AS,EU
+Kazakhstan,Netherlands,3752.0,AS,EU
+Kyrgyzstan,Netherlands,246.0,AS,EU
+Kyrgyzstan,Netherlands,149.0,AS,EU
+Pakistan,Netherlands,25030.0,AS,EU
+Pakistan,Netherlands,25913.0,AS,EU
+Turkey,Netherlands,465126.0,AS,EU
+Turkey,Netherlands,383876.0,AS,EU
+United Arab Emirates,Netherlands,21550.0,AS,EU
+United Arab Emirates,Netherlands,11305.0,AS,EU
+Cyprus,Netherlands,12229.0,AS,EU
+Cyprus,Netherlands,3301.0,AS,EU
+Indonesia,Netherlands,1130084.0,AS,EU
+Indonesia,Netherlands,1601763.0,AS,EU
+Malaysia,Netherlands,676615.0,AS,EU
+Malaysia,Netherlands,1000672.0,AS,EU
+Sri Lanka,Netherlands,56010.0,AS,EU
+Sri Lanka,Netherlands,55605.0,AS,EU
+Thailand,Netherlands,578119.0,AS,EU
+Thailand,Netherlands,518248.0,AS,EU
+Viet Nam,Netherlands,442779.0,AS,EU
+Afghanistan,Netherlands,91.0,AS,EU
+Azerbaijan,Netherlands,819.0,AS,EU
+Cambodia,Netherlands,21252.0,AS,EU
+Cambodia,Netherlands,20666.0,AS,EU
+Georgia,Netherlands,6287.0,AS,EU
+Georgia,Netherlands,12573.0,AS,EU
+Iraq,Netherlands,58.0,AS,EU
+Japan,Netherlands,75462.0,AS,EU
+Japan,Netherlands,66011.0,AS,EU
+Jordan,Netherlands,7105.0,AS,EU
+Jordan,Netherlands,3896.0,AS,EU
+Lebanon,Netherlands,15845.0,AS,EU
+Lebanon,Netherlands,17028.0,AS,EU
+Myanmar,Netherlands,9770.0,AS,EU
+Oman,Netherlands,846.0,AS,EU
+Oman,Netherlands,966.0,AS,EU
+Philippines,Netherlands,446283.0,AS,EU
+Philippines,Netherlands,509327.0,AS,EU
+Saudi Arabia,Netherlands,41469.0,AS,EU
+Singapore,Netherlands,44044.0,AS,EU
+Singapore,Netherlands,78249.0,AS,EU
+Syrian Arab Republic,Netherlands,6002.0,AS,EU
+Uzbekistan,Netherlands,583.0,AS,EU
+Israel,Netherlands,263407.0,AS,EU
+Israel,Netherlands,196623.0,AS,EU
+Bangladesh,Netherlands,4860.0,AS,EU
+Kuwait,Netherlands,3279.0,AS,EU
+Kuwait,Netherlands,1404.0,AS,EU
+Armenia,Netherlands,601.0,AS,EU
+Armenia,Netherlands,453.0,AS,EU
+Bahrain,Netherlands,1133.0,AS,EU
+Bahrain,Netherlands,336.0,AS,EU
+Nepal,Netherlands,236.0,AS,EU
+Qatar,Netherlands,1168.0,AS,EU
+Qatar,Netherlands,702.0,AS,EU
+Yemen,Netherlands,671.0,AS,EU
+Mongolia,Netherlands,4.0,AS,EU
+India,New Zealand,46358.0,AS,OC
+India,New Zealand,39104.0,AS,OC
+Kazakhstan,New Zealand,4.0,AS,OC
+Pakistan,New Zealand,4205.0,AS,OC
+Pakistan,New Zealand,3554.0,AS,OC
+Turkey,New Zealand,23375.0,AS,OC
+Turkey,New Zealand,17747.0,AS,OC
+United Arab Emirates,New Zealand,3314.0,AS,OC
+United Arab Emirates,New Zealand,3428.0,AS,OC
+Cyprus,New Zealand,58.0,AS,OC
+Cyprus,New Zealand,217.0,AS,OC
+Indonesia,New Zealand,155301.0,AS,OC
+Indonesia,New Zealand,126686.0,AS,OC
+Malaysia,New Zealand,195568.0,AS,OC
+Malaysia,New Zealand,131997.0,AS,OC
+Sri Lanka,New Zealand,18521.0,AS,OC
+Sri Lanka,New Zealand,10462.0,AS,OC
+Thailand,New Zealand,106165.0,AS,OC
+Thailand,New Zealand,88045.0,AS,OC
+Viet Nam,New Zealand,36564.0,AS,OC
+Afghanistan,New Zealand,8.0,AS,OC
+Azerbaijan,New Zealand,774.0,AS,OC
+Cambodia,New Zealand,808.0,AS,OC
+Cambodia,New Zealand,591.0,AS,OC
+Georgia,New Zealand,1.0,AS,OC
+Iraq,New Zealand,1.0,AS,OC
+Japan,New Zealand,22085.0,AS,OC
+Japan,New Zealand,14976.0,AS,OC
+Jordan,New Zealand,128.0,AS,OC
+Jordan,New Zealand,142.0,AS,OC
+Lebanon,New Zealand,407.0,AS,OC
+Lebanon,New Zealand,351.0,AS,OC
+Myanmar,New Zealand,723.0,AS,OC
+Oman,New Zealand,692.0,AS,OC
+Oman,New Zealand,950.0,AS,OC
+Philippines,New Zealand,34839.0,AS,OC
+Philippines,New Zealand,22067.0,AS,OC
+Saudi Arabia,New Zealand,56.0,AS,OC
+Saudi Arabia,New Zealand,4.0,AS,OC
+Singapore,New Zealand,201302.0,AS,OC
+Singapore,New Zealand,154109.0,AS,OC
+Syrian Arab Republic,New Zealand,5.0,AS,OC
+Uzbekistan,New Zealand,24.0,AS,OC
+Israel,New Zealand,2069.0,AS,OC
+Israel,New Zealand,1679.0,AS,OC
+Bangladesh,New Zealand,779.0,AS,OC
+Bangladesh,New Zealand,9.0,AS,OC
+Bahrain,New Zealand,1.0,AS,OC
+Nepal,New Zealand,2.0,AS,OC
+Timor-Leste,New Zealand,187.0,AS,OC
+Yemen,New Zealand,2.0,AS,OC
+Mongolia,New Zealand,422.0,AS,OC
+India,Niger,24333.0,AS,AF
+India,Niger,32842.0,AS,AF
+Pakistan,Niger,9690.0,AS,AF
+Turkey,Niger,8787.0,AS,AF
+Turkey,Niger,13679.0,AS,AF
+United Arab Emirates,Niger,3831.0,AS,AF
+United Arab Emirates,Niger,4306.0,AS,AF
+Cyprus,Niger,28.0,AS,AF
+Indonesia,Niger,2788.0,AS,AF
+Indonesia,Niger,8998.0,AS,AF
+Malaysia,Niger,53128.0,AS,AF
+Malaysia,Niger,3323.0,AS,AF
+Sri Lanka,Niger,42.0,AS,AF
+Sri Lanka,Niger,373.0,AS,AF
+Thailand,Niger,104497.0,AS,AF
+Thailand,Niger,20410.0,AS,AF
+Viet Nam,Niger,1890.0,AS,AF
+Azerbaijan,Niger,2.0,AS,AF
+Cambodia,Niger,5.0,AS,AF
+Japan,Niger,1678.0,AS,AF
+Japan,Niger,730.0,AS,AF
+Jordan,Niger,24.0,AS,AF
+Lebanon,Niger,139.0,AS,AF
+Lebanon,Niger,159.0,AS,AF
+Saudi Arabia,Niger,283.0,AS,AF
+Saudi Arabia,Niger,22.0,AS,AF
+Singapore,Niger,1042.0,AS,AF
+Singapore,Niger,892.0,AS,AF
+Syrian Arab Republic,Niger,34.0,AS,AF
+Israel,Niger,1.0,AS,AF
+Bangladesh,Niger,1.0,AS,AF
+Kuwait,Niger,12.0,AS,AF
+India,Nigeria,14134.0,AS,AF
+India,Nigeria,77208.0,AS,AF
+Pakistan,Nigeria,457.0,AS,AF
+Turkey,Nigeria,20849.0,AS,AF
+United Arab Emirates,Nigeria,74.0,AS,AF
+United Arab Emirates,Nigeria,3484.0,AS,AF
+Cyprus,Nigeria,1.0,AS,AF
+Indonesia,Nigeria,98857.0,AS,AF
+Malaysia,Nigeria,156191.0,AS,AF
+Sri Lanka,Nigeria,3234.0,AS,AF
+Thailand,Nigeria,24902.0,AS,AF
+Thailand,Nigeria,36285.0,AS,AF
+Georgia,Nigeria,31.0,AS,AF
+Japan,Nigeria,27.0,AS,AF
+Lebanon,Nigeria,84.0,AS,AF
+Lebanon,Nigeria,3442.0,AS,AF
+Oman,Nigeria,2370.0,AS,AF
+Philippines,Nigeria,1695.0,AS,AF
+Singapore,Nigeria,31.0,AS,AF
+Singapore,Nigeria,7859.0,AS,AF
+Israel,Nigeria,2545.0,AS,AF
+India,Norway,60785.0,AS,EU
+India,Norway,38225.0,AS,EU
+Kazakhstan,Norway,9901.0,AS,EU
+Kazakhstan,Norway,5504.0,AS,EU
+Kyrgyzstan,Norway,23.0,AS,EU
+Pakistan,Norway,4679.0,AS,EU
+Pakistan,Norway,3606.0,AS,EU
+Turkey,Norway,46040.0,AS,EU
+Turkey,Norway,32831.0,AS,EU
+United Arab Emirates,Norway,459.0,AS,EU
+United Arab Emirates,Norway,677.0,AS,EU
+Cyprus,Norway,1343.0,AS,EU
+Cyprus,Norway,964.0,AS,EU
+Indonesia,Norway,8546.0,AS,EU
+Indonesia,Norway,11736.0,AS,EU
+Malaysia,Norway,1620.0,AS,EU
+Malaysia,Norway,610.0,AS,EU
+Sri Lanka,Norway,3622.0,AS,EU
+Sri Lanka,Norway,1859.0,AS,EU
+Thailand,Norway,51053.0,AS,EU
+Thailand,Norway,30482.0,AS,EU
+Viet Nam,Norway,19127.0,AS,EU
+Afghanistan,Norway,5.0,AS,EU
+Azerbaijan,Norway,22.0,AS,EU
+Cambodia,Norway,3578.0,AS,EU
+Cambodia,Norway,10.0,AS,EU
+Georgia,Norway,142.0,AS,EU
+Georgia,Norway,49.0,AS,EU
+Japan,Norway,7034.0,AS,EU
+Japan,Norway,3950.0,AS,EU
+Jordan,Norway,406.0,AS,EU
+Jordan,Norway,337.0,AS,EU
+Lebanon,Norway,1202.0,AS,EU
+Lebanon,Norway,428.0,AS,EU
+Myanmar,Norway,61.0,AS,EU
+Philippines,Norway,3968.0,AS,EU
+Philippines,Norway,1976.0,AS,EU
+Saudi Arabia,Norway,77.0,AS,EU
+Singapore,Norway,2217.0,AS,EU
+Singapore,Norway,2087.0,AS,EU
+Syrian Arab Republic,Norway,140.0,AS,EU
+Uzbekistan,Norway,15.0,AS,EU
+Israel,Norway,24778.0,AS,EU
+Israel,Norway,13303.0,AS,EU
+Bangladesh,Norway,10.0,AS,EU
+Bahrain,Norway,33.0,AS,EU
+Nepal,Norway,78.0,AS,EU
+India,Oman,162891.0,AS,AS
+India,Oman,239323.0,AS,AS
+Kazakhstan,Oman,124.0,AS,AS
+Pakistan,Oman,61157.0,AS,AS
+Pakistan,Oman,79773.0,AS,AS
+Turkey,Oman,16626.0,AS,AS
+Turkey,Oman,29657.0,AS,AS
+United Arab Emirates,Oman,1724293.0,AS,AS
+United Arab Emirates,Oman,907622.0,AS,AS
+Cyprus,Oman,90.0,AS,AS
+Cyprus,Oman,1552.0,AS,AS
+Indonesia,Oman,83799.0,AS,AS
+Indonesia,Oman,109749.0,AS,AS
+Malaysia,Oman,22180.0,AS,AS
+Malaysia,Oman,25554.0,AS,AS
+Sri Lanka,Oman,7902.0,AS,AS
+Sri Lanka,Oman,3367.0,AS,AS
+Thailand,Oman,6250.0,AS,AS
+Thailand,Oman,12563.0,AS,AS
+Viet Nam,Oman,1995.0,AS,AS
+Japan,Oman,3321.0,AS,AS
+Japan,Oman,4721.0,AS,AS
+Jordan,Oman,23682.0,AS,AS
+Jordan,Oman,32822.0,AS,AS
+Lebanon,Oman,9944.0,AS,AS
+Lebanon,Oman,14875.0,AS,AS
+Philippines,Oman,1284.0,AS,AS
+Philippines,Oman,2405.0,AS,AS
+Saudi Arabia,Oman,208222.0,AS,AS
+Saudi Arabia,Oman,20.0,AS,AS
+Singapore,Oman,221080.0,AS,AS
+Singapore,Oman,11048.0,AS,AS
+Syrian Arab Republic,Oman,1172.0,AS,AS
+Bangladesh,Oman,810.0,AS,AS
+Kuwait,Oman,7206.0,AS,AS
+Kuwait,Oman,5678.0,AS,AS
+Bahrain,Oman,15798.0,AS,AS
+Bahrain,Oman,7395.0,AS,AS
+Qatar,Oman,696.0,AS,AS
+Qatar,Oman,1000.0,AS,AS
+Yemen,Oman,9119.0,AS,AS
+Yemen,Oman,11.0,AS,AS
+India,Pakistan,469214.0,AS,AS
+India,Pakistan,515686.0,AS,AS
+Kazakhstan,Pakistan,768.0,AS,AS
+Kazakhstan,Pakistan,864.0,AS,AS
+Kyrgyzstan,Pakistan,16.0,AS,AS
+Kyrgyzstan,Pakistan,143.0,AS,AS
+Turkey,Pakistan,36688.0,AS,AS
+Turkey,Pakistan,31035.0,AS,AS
+United Arab Emirates,Pakistan,20939.0,AS,AS
+United Arab Emirates,Pakistan,154830.0,AS,AS
+Cyprus,Pakistan,37.0,AS,AS
+Cyprus,Pakistan,72.0,AS,AS
+Indonesia,Pakistan,1440965.0,AS,AS
+Indonesia,Pakistan,1388650.0,AS,AS
+Malaysia,Pakistan,454349.0,AS,AS
+Malaysia,Pakistan,643346.0,AS,AS
+Sri Lanka,Pakistan,49639.0,AS,AS
+Sri Lanka,Pakistan,39836.0,AS,AS
+Thailand,Pakistan,63291.0,AS,AS
+Thailand,Pakistan,68886.0,AS,AS
+Viet Nam,Pakistan,65554.0,AS,AS
+Afghanistan,Pakistan,230311.0,AS,AS
+Afghanistan,Pakistan,33.0,AS,AS
+Azerbaijan,Pakistan,71.0,AS,AS
+Cambodia,Pakistan,233.0,AS,AS
+Georgia,Pakistan,49.0,AS,AS
+Iraq,Pakistan,3609.0,AS,AS
+Japan,Pakistan,9119.0,AS,AS
+Japan,Pakistan,8038.0,AS,AS
+Jordan,Pakistan,747.0,AS,AS
+Jordan,Pakistan,654.0,AS,AS
+Lebanon,Pakistan,507.0,AS,AS
+Lebanon,Pakistan,201.0,AS,AS
+Myanmar,Pakistan,6471.0,AS,AS
+Oman,Pakistan,2695.0,AS,AS
+Oman,Pakistan,3785.0,AS,AS
+Philippines,Pakistan,12694.0,AS,AS
+Philippines,Pakistan,15340.0,AS,AS
+Saudi Arabia,Pakistan,11680.0,AS,AS
+Singapore,Pakistan,19412.0,AS,AS
+Singapore,Pakistan,32364.0,AS,AS
+Syrian Arab Republic,Pakistan,1062.0,AS,AS
+Tajikistan,Pakistan,18917.0,AS,AS
+Uzbekistan,Pakistan,1751.0,AS,AS
+Bangladesh,Pakistan,39065.0,AS,AS
+Kuwait,Pakistan,774.0,AS,AS
+Kuwait,Pakistan,237.0,AS,AS
+Turkmenistan,Pakistan,23084.0,AS,AS
+Armenia,Pakistan,300.0,AS,AS
+Armenia,Pakistan,18.0,AS,AS
+Bahrain,Pakistan,987.0,AS,AS
+Bahrain,Pakistan,2464.0,AS,AS
+Nepal,Pakistan,79.0,AS,AS
+Qatar,Pakistan,1.0,AS,AS
+Yemen,Pakistan,10.0,AS,AS
+India,Papua New Guinea,2.0,AS,OC
+India,Papua New Guinea,284.0,AS,OC
+Turkey,Papua New Guinea,1047.0,AS,OC
+United Arab Emirates,Papua New Guinea,160.0,AS,OC
+Indonesia,Papua New Guinea,1.0,AS,OC
+Indonesia,Papua New Guinea,71742.0,AS,OC
+Malaysia,Papua New Guinea,84405.0,AS,OC
+Sri Lanka,Papua New Guinea,325.0,AS,OC
+Thailand,Papua New Guinea,62601.0,AS,OC
+Thailand,Papua New Guinea,65297.0,AS,OC
+Japan,Papua New Guinea,5.0,AS,OC
+Oman,Papua New Guinea,154.0,AS,OC
+Philippines,Papua New Guinea,4697.0,AS,OC
+Singapore,Papua New Guinea,67122.0,AS,OC
+Israel,Papua New Guinea,4.0,AS,OC
+India,Paraguay,11344.0,AS,SA
+India,Paraguay,13176.0,AS,SA
+Pakistan,Paraguay,2124.0,AS,SA
+Pakistan,Paraguay,1703.0,AS,SA
+Turkey,Paraguay,462.0,AS,SA
+Turkey,Paraguay,745.0,AS,SA
+United Arab Emirates,Paraguay,34.0,AS,SA
+United Arab Emirates,Paraguay,293.0,AS,SA
+Indonesia,Paraguay,2001.0,AS,SA
+Indonesia,Paraguay,10970.0,AS,SA
+Malaysia,Paraguay,950.0,AS,SA
+Malaysia,Paraguay,1476.0,AS,SA
+Sri Lanka,Paraguay,26.0,AS,SA
+Thailand,Paraguay,94.0,AS,SA
+Thailand,Paraguay,112.0,AS,SA
+Viet Nam,Paraguay,224.0,AS,SA
+Iraq,Paraguay,126.0,AS,SA
+Japan,Paraguay,30.0,AS,SA
+Japan,Paraguay,210.0,AS,SA
+Jordan,Paraguay,596.0,AS,SA
+Jordan,Paraguay,467.0,AS,SA
+Lebanon,Paraguay,141.0,AS,SA
+Lebanon,Paraguay,317.0,AS,SA
+Philippines,Paraguay,174.0,AS,SA
+Philippines,Paraguay,133.0,AS,SA
+Singapore,Paraguay,254.0,AS,SA
+Singapore,Paraguay,4.0,AS,SA
+Syrian Arab Republic,Paraguay,378.0,AS,SA
+Israel,Paraguay,1195.0,AS,SA
+India,Peru,9395.0,AS,SA
+India,Peru,5095.0,AS,SA
+Pakistan,Peru,15.0,AS,SA
+Pakistan,Peru,5.0,AS,SA
+Turkey,Peru,4073.0,AS,SA
+Turkey,Peru,3381.0,AS,SA
+United Arab Emirates,Peru,357.0,AS,SA
+Indonesia,Peru,10654.0,AS,SA
+Indonesia,Peru,10512.0,AS,SA
+Malaysia,Peru,19274.0,AS,SA
+Malaysia,Peru,17814.0,AS,SA
+Sri Lanka,Peru,14422.0,AS,SA
+Sri Lanka,Peru,14362.0,AS,SA
+Thailand,Peru,20713.0,AS,SA
+Thailand,Peru,14369.0,AS,SA
+Viet Nam,Peru,4413.0,AS,SA
+Japan,Peru,390.0,AS,SA
+Japan,Peru,45.0,AS,SA
+Jordan,Peru,3.0,AS,SA
+Jordan,Peru,3.0,AS,SA
+Lebanon,Peru,2.0,AS,SA
+Philippines,Peru,645.0,AS,SA
+Philippines,Peru,349.0,AS,SA
+Singapore,Peru,15892.0,AS,SA
+Singapore,Peru,15169.0,AS,SA
+Israel,Peru,625.0,AS,SA
+Israel,Peru,416.0,AS,SA
+Maldives,Peru,135.0,AS,SA
+India,Philippines,215873.0,AS,AS
+India,Philippines,166713.0,AS,AS
+Kyrgyzstan,Philippines,525.0,AS,AS
+Kyrgyzstan,Philippines,479.0,AS,AS
+Pakistan,Philippines,12686.0,AS,AS
+Pakistan,Philippines,10513.0,AS,AS
+Turkey,Philippines,34811.0,AS,AS
+Turkey,Philippines,48101.0,AS,AS
+United Arab Emirates,Philippines,15731.0,AS,AS
+United Arab Emirates,Philippines,18150.0,AS,AS
+Cyprus,Philippines,1089.0,AS,AS
+Cyprus,Philippines,48.0,AS,AS
+Indonesia,Philippines,823371.0,AS,AS
+Indonesia,Philippines,835103.0,AS,AS
+Malaysia,Philippines,719358.0,AS,AS
+Malaysia,Philippines,766272.0,AS,AS
+Sri Lanka,Philippines,2222.0,AS,AS
+Sri Lanka,Philippines,2655.0,AS,AS
+Thailand,Philippines,736078.0,AS,AS
+Thailand,Philippines,783201.0,AS,AS
+Viet Nam,Philippines,387989.0,AS,AS
+Georgia,Philippines,302.0,AS,AS
+Georgia,Philippines,139.0,AS,AS
+Japan,Philippines,17829.0,AS,AS
+Japan,Philippines,35010.0,AS,AS
+Jordan,Philippines,22.0,AS,AS
+Jordan,Philippines,159.0,AS,AS
+Lebanon,Philippines,108.0,AS,AS
+Myanmar,Philippines,11054.0,AS,AS
+Oman,Philippines,2.0,AS,AS
+Saudi Arabia,Philippines,319.0,AS,AS
+Singapore,Philippines,419763.0,AS,AS
+Singapore,Philippines,526281.0,AS,AS
+Israel,Philippines,4464.0,AS,AS
+Israel,Philippines,4923.0,AS,AS
+Bangladesh,Philippines,2689.0,AS,AS
+Kuwait,Philippines,20.0,AS,AS
+Nepal,Philippines,13.0,AS,AS
+Mongolia,Philippines,1.0,AS,AS
+India,Poland,108935.0,AS,EU
+India,Poland,89184.0,AS,EU
+Kazakhstan,Poland,17342.0,AS,EU
+Kazakhstan,Poland,15358.0,AS,EU
+Kyrgyzstan,Poland,500.0,AS,EU
+Kyrgyzstan,Poland,457.0,AS,EU
+Pakistan,Poland,4185.0,AS,EU
+Pakistan,Poland,5642.0,AS,EU
+Turkey,Poland,177118.0,AS,EU
+Turkey,Poland,201050.0,AS,EU
+United Arab Emirates,Poland,3746.0,AS,EU
+United Arab Emirates,Poland,4661.0,AS,EU
+Cyprus,Poland,9854.0,AS,EU
+Cyprus,Poland,4535.0,AS,EU
+Indonesia,Poland,52702.0,AS,EU
+Indonesia,Poland,38066.0,AS,EU
+Malaysia,Poland,6004.0,AS,EU
+Malaysia,Poland,8062.0,AS,EU
+Sri Lanka,Poland,16313.0,AS,EU
+Sri Lanka,Poland,19788.0,AS,EU
+Thailand,Poland,49259.0,AS,EU
+Thailand,Poland,51764.0,AS,EU
+Viet Nam,Poland,56694.0,AS,EU
+Afghanistan,Poland,16.0,AS,EU
+Azerbaijan,Poland,3608.0,AS,EU
+Cambodia,Poland,1821.0,AS,EU
+Cambodia,Poland,26599.0,AS,EU
+Georgia,Poland,6243.0,AS,EU
+Georgia,Poland,7237.0,AS,EU
+Iraq,Poland,94.0,AS,EU
+Japan,Poland,845.0,AS,EU
+Japan,Poland,1221.0,AS,EU
+Jordan,Poland,273.0,AS,EU
+Jordan,Poland,210.0,AS,EU
+Lebanon,Poland,331.0,AS,EU
+Lebanon,Poland,205.0,AS,EU
+Myanmar,Poland,659.0,AS,EU
+Philippines,Poland,9587.0,AS,EU
+Philippines,Poland,9108.0,AS,EU
+Saudi Arabia,Poland,3.0,AS,EU
+Singapore,Poland,176.0,AS,EU
+Singapore,Poland,1467.0,AS,EU
+Syrian Arab Republic,Poland,140.0,AS,EU
+Tajikistan,Poland,38.0,AS,EU
+Uzbekistan,Poland,878.0,AS,EU
+Israel,Poland,12699.0,AS,EU
+Israel,Poland,15264.0,AS,EU
+Bangladesh,Poland,2008.0,AS,EU
+Turkmenistan,Poland,57.0,AS,EU
+Armenia,Poland,584.0,AS,EU
+Armenia,Poland,605.0,AS,EU
+Nepal,Poland,14.0,AS,EU
+Qatar,Poland,48.0,AS,EU
+Mongolia,Poland,115.0,AS,EU
+Mongolia,Poland,3.0,AS,EU
+India,Portugal,23003.0,AS,EU
+India,Portugal,19845.0,AS,EU
+Kazakhstan,Portugal,64.0,AS,EU
+Kyrgyzstan,Portugal,95.0,AS,EU
+Pakistan,Portugal,3138.0,AS,EU
+Pakistan,Portugal,3783.0,AS,EU
+Turkey,Portugal,22209.0,AS,EU
+Turkey,Portugal,14043.0,AS,EU
+United Arab Emirates,Portugal,256.0,AS,EU
+United Arab Emirates,Portugal,564.0,AS,EU
+Cyprus,Portugal,734.0,AS,EU
+Cyprus,Portugal,402.0,AS,EU
+Indonesia,Portugal,31737.0,AS,EU
+Indonesia,Portugal,25370.0,AS,EU
+Malaysia,Portugal,16458.0,AS,EU
+Malaysia,Portugal,15144.0,AS,EU
+Sri Lanka,Portugal,2886.0,AS,EU
+Sri Lanka,Portugal,2860.0,AS,EU
+Thailand,Portugal,8589.0,AS,EU
+Thailand,Portugal,7783.0,AS,EU
+Viet Nam,Portugal,30333.0,AS,EU
+Cambodia,Portugal,5909.0,AS,EU
+Cambodia,Portugal,6291.0,AS,EU
+Georgia,Portugal,19.0,AS,EU
+Georgia,Portugal,18.0,AS,EU
+Iraq,Portugal,11.0,AS,EU
+Japan,Portugal,5449.0,AS,EU
+Japan,Portugal,4833.0,AS,EU
+Jordan,Portugal,3.0,AS,EU
+Jordan,Portugal,60.0,AS,EU
+Lebanon,Portugal,1670.0,AS,EU
+Lebanon,Portugal,833.0,AS,EU
+Myanmar,Portugal,1497.0,AS,EU
+Philippines,Portugal,2889.0,AS,EU
+Philippines,Portugal,2345.0,AS,EU
+Saudi Arabia,Portugal,176.0,AS,EU
+Singapore,Portugal,909.0,AS,EU
+Singapore,Portugal,1188.0,AS,EU
+Syrian Arab Republic,Portugal,873.0,AS,EU
+Tajikistan,Portugal,2.0,AS,EU
+Uzbekistan,Portugal,322.0,AS,EU
+Israel,Portugal,7220.0,AS,EU
+Israel,Portugal,7167.0,AS,EU
+Bangladesh,Portugal,32.0,AS,EU
+Bangladesh,Portugal,1.0,AS,EU
+Kuwait,Portugal,181.0,AS,EU
+Kuwait,Portugal,93.0,AS,EU
+Turkmenistan,Portugal,691.0,AS,EU
+Nepal,Portugal,1.0,AS,EU
+India,Qatar,275931.0,AS,AS
+India,Qatar,221701.0,AS,AS
+Kazakhstan,Qatar,34.0,AS,AS
+Kyrgyzstan,Qatar,10.0,AS,AS
+Pakistan,Qatar,44210.0,AS,AS
+Pakistan,Qatar,37768.0,AS,AS
+Turkey,Qatar,66401.0,AS,AS
+Turkey,Qatar,40111.0,AS,AS
+United Arab Emirates,Qatar,324836.0,AS,AS
+United Arab Emirates,Qatar,133743.0,AS,AS
+Cyprus,Qatar,2970.0,AS,AS
+Cyprus,Qatar,1362.0,AS,AS
+Indonesia,Qatar,6139.0,AS,AS
+Indonesia,Qatar,3643.0,AS,AS
+Malaysia,Qatar,20455.0,AS,AS
+Malaysia,Qatar,19958.0,AS,AS
+Sri Lanka,Qatar,11373.0,AS,AS
+Sri Lanka,Qatar,11436.0,AS,AS
+Thailand,Qatar,27287.0,AS,AS
+Thailand,Qatar,17967.0,AS,AS
+Viet Nam,Qatar,11804.0,AS,AS
+Azerbaijan,Qatar,33.0,AS,AS
+Georgia,Qatar,19.0,AS,AS
+Georgia,Qatar,409.0,AS,AS
+Iraq,Qatar,243.0,AS,AS
+Japan,Qatar,3149.0,AS,AS
+Japan,Qatar,1617.0,AS,AS
+Jordan,Qatar,73074.0,AS,AS
+Jordan,Qatar,117702.0,AS,AS
+Lebanon,Qatar,45978.0,AS,AS
+Lebanon,Qatar,34198.0,AS,AS
+Myanmar,Qatar,453.0,AS,AS
+Oman,Qatar,37970.0,AS,AS
+Oman,Qatar,48465.0,AS,AS
+Philippines,Qatar,37619.0,AS,AS
+Philippines,Qatar,15863.0,AS,AS
+Saudi Arabia,Qatar,347603.0,AS,AS
+Singapore,Qatar,14475.0,AS,AS
+Singapore,Qatar,18477.0,AS,AS
+Syrian Arab Republic,Qatar,3558.0,AS,AS
+Bangladesh,Qatar,8698.0,AS,AS
+Bangladesh,Qatar,13.0,AS,AS
+Kuwait,Qatar,28983.0,AS,AS
+Kuwait,Qatar,30721.0,AS,AS
+Bahrain,Qatar,38457.0,AS,AS
+Bahrain,Qatar,35901.0,AS,AS
+Yemen,Qatar,2039.0,AS,AS
+Mongolia,Qatar,265.0,AS,AS
+Maldives,Qatar,3.0,AS,AS
+India,Romania,27246.0,AS,EU
+India,Romania,16945.0,AS,EU
+Kazakhstan,Romania,76.0,AS,EU
+Kazakhstan,Romania,28.0,AS,EU
+Kyrgyzstan,Romania,337.0,AS,EU
+Kyrgyzstan,Romania,191.0,AS,EU
+Pakistan,Romania,3900.0,AS,EU
+Pakistan,Romania,3719.0,AS,EU
+Turkey,Romania,228566.0,AS,EU
+Turkey,Romania,201647.0,AS,EU
+United Arab Emirates,Romania,63.0,AS,EU
+United Arab Emirates,Romania,189.0,AS,EU
+Cyprus,Romania,6242.0,AS,EU
+Cyprus,Romania,749.0,AS,EU
+Indonesia,Romania,35177.0,AS,EU
+Indonesia,Romania,32319.0,AS,EU
+Malaysia,Romania,16503.0,AS,EU
+Malaysia,Romania,15658.0,AS,EU
+Sri Lanka,Romania,847.0,AS,EU
+Sri Lanka,Romania,765.0,AS,EU
+Thailand,Romania,19845.0,AS,EU
+Thailand,Romania,15894.0,AS,EU
+Viet Nam,Romania,18952.0,AS,EU
+Afghanistan,Romania,155.0,AS,EU
+Cambodia,Romania,2535.0,AS,EU
+Cambodia,Romania,2198.0,AS,EU
+Georgia,Romania,163.0,AS,EU
+Georgia,Romania,175.0,AS,EU
+Japan,Romania,396.0,AS,EU
+Japan,Romania,532.0,AS,EU
+Jordan,Romania,622.0,AS,EU
+Jordan,Romania,666.0,AS,EU
+Lebanon,Romania,931.0,AS,EU
+Lebanon,Romania,623.0,AS,EU
+Myanmar,Romania,338.0,AS,EU
+Philippines,Romania,1374.0,AS,EU
+Philippines,Romania,1476.0,AS,EU
+Saudi Arabia,Romania,54.0,AS,EU
+Singapore,Romania,2650.0,AS,EU
+Syrian Arab Republic,Romania,80.0,AS,EU
+Tajikistan,Romania,33.0,AS,EU
+Uzbekistan,Romania,92.0,AS,EU
+Israel,Romania,6887.0,AS,EU
+Israel,Romania,6851.0,AS,EU
+Bangladesh,Romania,620.0,AS,EU
+Armenia,Romania,3.0,AS,EU
+India,Russian Federation,554554.0,AS,EU
+India,Russian Federation,398138.0,AS,EU
+Kazakhstan,Russian Federation,298008.0,AS,EU
+Kazakhstan,Russian Federation,273723.0,AS,EU
+Kyrgyzstan,Russian Federation,33084.0,AS,EU
+Kyrgyzstan,Russian Federation,40176.0,AS,EU
+Pakistan,Russian Federation,106454.0,AS,EU
+Pakistan,Russian Federation,65143.0,AS,EU
+Turkey,Russian Federation,589724.0,AS,EU
+Turkey,Russian Federation,462539.0,AS,EU
+United Arab Emirates,Russian Federation,33208.0,AS,EU
+United Arab Emirates,Russian Federation,27326.0,AS,EU
+Cyprus,Russian Federation,1246.0,AS,EU
+Cyprus,Russian Federation,998.0,AS,EU
+Indonesia,Russian Federation,900327.0,AS,EU
+Indonesia,Russian Federation,625796.0,AS,EU
+Malaysia,Russian Federation,198193.0,AS,EU
+Malaysia,Russian Federation,124407.0,AS,EU
+Sri Lanka,Russian Federation,163862.0,AS,EU
+Sri Lanka,Russian Federation,144161.0,AS,EU
+Thailand,Russian Federation,114885.0,AS,EU
+Thailand,Russian Federation,72079.0,AS,EU
+Viet Nam,Russian Federation,281689.0,AS,EU
+Afghanistan,Russian Federation,6239.0,AS,EU
+Azerbaijan,Russian Federation,323663.0,AS,EU
+Cambodia,Russian Federation,1557.0,AS,EU
+Cambodia,Russian Federation,1132.0,AS,EU
+Georgia,Russian Federation,197435.0,AS,EU
+Georgia,Russian Federation,140732.0,AS,EU
+Japan,Russian Federation,17076.0,AS,EU
+Japan,Russian Federation,18019.0,AS,EU
+Jordan,Russian Federation,3281.0,AS,EU
+Jordan,Russian Federation,3566.0,AS,EU
+Lebanon,Russian Federation,6463.0,AS,EU
+Lebanon,Russian Federation,812.0,AS,EU
+Myanmar,Russian Federation,902.0,AS,EU
+Philippines,Russian Federation,27474.0,AS,EU
+Philippines,Russian Federation,13351.0,AS,EU
+Saudi Arabia,Russian Federation,237.0,AS,EU
+Singapore,Russian Federation,21349.0,AS,EU
+Singapore,Russian Federation,22377.0,AS,EU
+Syrian Arab Republic,Russian Federation,10790.0,AS,EU
+Tajikistan,Russian Federation,22146.0,AS,EU
+Uzbekistan,Russian Federation,124980.0,AS,EU
+Israel,Russian Federation,261516.0,AS,EU
+Israel,Russian Federation,229539.0,AS,EU
+Bangladesh,Russian Federation,17153.0,AS,EU
+Kuwait,Russian Federation,1.0,AS,EU
+Turkmenistan,Russian Federation,6932.0,AS,EU
+Armenia,Russian Federation,219886.0,AS,EU
+Armenia,Russian Federation,164107.0,AS,EU
+Nepal,Russian Federation,215.0,AS,EU
+Yemen,Russian Federation,172.0,AS,EU
+Mongolia,Russian Federation,6435.0,AS,EU
+Mongolia,Russian Federation,5946.0,AS,EU
+India,Rwanda,50.0,AS,AF
+India,Rwanda,3128.0,AS,AF
+Turkey,Rwanda,5255.0,AS,AF
+United Arab Emirates,Rwanda,6.0,AS,AF
+United Arab Emirates,Rwanda,341.0,AS,AF
+Indonesia,Rwanda,5526.0,AS,AF
+Malaysia,Rwanda,1286.0,AS,AF
+Thailand,Rwanda,100.0,AS,AF
+Thailand,Rwanda,93.0,AS,AF
+Japan,Rwanda,16.0,AS,AF
+Lebanon,Rwanda,4.0,AS,AF
+India,Saint Lucia,19.0,AS,
+India,Saint Lucia,6.0,AS,
+Pakistan,Saint Lucia,2.0,AS,
+Turkey,Saint Lucia,31.0,AS,
+Turkey,Saint Lucia,36.0,AS,
+United Arab Emirates,Saint Lucia,31.0,AS,
+United Arab Emirates,Saint Lucia,50.0,AS,
+Cyprus,Saint Lucia,13.0,AS,
+Cyprus,Saint Lucia,1.0,AS,
+Indonesia,Saint Lucia,54.0,AS,
+Indonesia,Saint Lucia,68.0,AS,
+Malaysia,Saint Lucia,46.0,AS,
+Malaysia,Saint Lucia,192.0,AS,
+Thailand,Saint Lucia,26.0,AS,
+Thailand,Saint Lucia,5.0,AS,
+Oman,Saint Lucia,76.0,AS,
+Singapore,Saint Lucia,238.0,AS,
+India,Sao Tome and Principe,240.0,AS,AF
+India,Sao Tome and Principe,214.0,AS,AF
+Pakistan,Sao Tome and Principe,5.0,AS,AF
+Turkey,Sao Tome and Principe,128.0,AS,AF
+Turkey,Sao Tome and Principe,456.0,AS,AF
+United Arab Emirates,Sao Tome and Principe,137.0,AS,AF
+United Arab Emirates,Sao Tome and Principe,47.0,AS,AF
+Cyprus,Sao Tome and Principe,14.0,AS,AF
+Cyprus,Sao Tome and Principe,10.0,AS,AF
+Indonesia,Sao Tome and Principe,587.0,AS,AF
+Indonesia,Sao Tome and Principe,232.0,AS,AF
+Malaysia,Sao Tome and Principe,123.0,AS,AF
+Thailand,Sao Tome and Principe,324.0,AS,AF
+Thailand,Sao Tome and Principe,433.0,AS,AF
+Japan,Sao Tome and Principe,1930.0,AS,AF
+Japan,Sao Tome and Principe,444.0,AS,AF
+Jordan,Sao Tome and Principe,27.0,AS,AF
+Lebanon,Sao Tome and Principe,468.0,AS,AF
+Lebanon,Sao Tome and Principe,181.0,AS,AF
+Saudi Arabia,Sao Tome and Principe,93.0,AS,AF
+Saudi Arabia,Sao Tome and Principe,4.0,AS,AF
+Singapore,Sao Tome and Principe,63.0,AS,AF
+India,Saudi Arabia,788018.0,AS,AS
+India,Saudi Arabia,1235463.0,AS,AS
+Kazakhstan,Saudi Arabia,9.0,AS,AS
+Kyrgyzstan,Saudi Arabia,261.0,AS,AS
+Pakistan,Saudi Arabia,69179.0,AS,AS
+Pakistan,Saudi Arabia,191696.0,AS,AS
+Turkey,Saudi Arabia,354.0,AS,AS
+Turkey,Saudi Arabia,513639.0,AS,AS
+United Arab Emirates,Saudi Arabia,610.0,AS,AS
+United Arab Emirates,Saudi Arabia,337219.0,AS,AS
+Cyprus,Saudi Arabia,7679.0,AS,AS
+Indonesia,Saudi Arabia,302238.0,AS,AS
+Malaysia,Saudi Arabia,249678.0,AS,AS
+Sri Lanka,Saudi Arabia,190.0,AS,AS
+Sri Lanka,Saudi Arabia,48817.0,AS,AS
+Thailand,Saudi Arabia,47673.0,AS,AS
+Thailand,Saudi Arabia,126132.0,AS,AS
+Cambodia,Saudi Arabia,166.0,AS,AS
+Cambodia,Saudi Arabia,148.0,AS,AS
+Georgia,Saudi Arabia,7698.0,AS,AS
+Japan,Saudi Arabia,10758.0,AS,AS
+Jordan,Saudi Arabia,663.0,AS,AS
+Jordan,Saudi Arabia,322268.0,AS,AS
+Lebanon,Saudi Arabia,3.0,AS,AS
+Lebanon,Saudi Arabia,89287.0,AS,AS
+Oman,Saudi Arabia,191593.0,AS,AS
+Philippines,Saudi Arabia,112.0,AS,AS
+Philippines,Saudi Arabia,55265.0,AS,AS
+Singapore,Saudi Arabia,70621.0,AS,AS
+Kuwait,Saudi Arabia,463.0,AS,AS
+Kuwait,Saudi Arabia,199918.0,AS,AS
+Bahrain,Saudi Arabia,347.0,AS,AS
+Bahrain,Saudi Arabia,126837.0,AS,AS
+Qatar,Saudi Arabia,23096.0,AS,AS
+Mongolia,Saudi Arabia,265.0,AS,AS
+India,Senegal,185522.0,AS,AF
+India,Senegal,169811.0,AS,AF
+Pakistan,Senegal,17242.0,AS,AF
+Pakistan,Senegal,16572.0,AS,AF
+Turkey,Senegal,18769.0,AS,AF
+Turkey,Senegal,32514.0,AS,AF
+United Arab Emirates,Senegal,14547.0,AS,AF
+United Arab Emirates,Senegal,29996.0,AS,AF
+Cyprus,Senegal,13.0,AS,AF
+Indonesia,Senegal,6757.0,AS,AF
+Indonesia,Senegal,26368.0,AS,AF
+Malaysia,Senegal,13758.0,AS,AF
+Malaysia,Senegal,46253.0,AS,AF
+Sri Lanka,Senegal,4649.0,AS,AF
+Thailand,Senegal,81245.0,AS,AF
+Thailand,Senegal,89443.0,AS,AF
+Viet Nam,Senegal,1090.0,AS,AF
+Afghanistan,Senegal,356.0,AS,AF
+Azerbaijan,Senegal,116.0,AS,AF
+Cambodia,Senegal,56.0,AS,AF
+Cambodia,Senegal,34.0,AS,AF
+Iraq,Senegal,12.0,AS,AF
+Japan,Senegal,19.0,AS,AF
+Jordan,Senegal,75.0,AS,AF
+Jordan,Senegal,77.0,AS,AF
+Lebanon,Senegal,452.0,AS,AF
+Lebanon,Senegal,1367.0,AS,AF
+Oman,Senegal,154.0,AS,AF
+Saudi Arabia,Senegal,1441.0,AS,AF
+Singapore,Senegal,463.0,AS,AF
+Singapore,Senegal,1991.0,AS,AF
+Bangladesh,Senegal,42.0,AS,AF
+Kuwait,Senegal,54.0,AS,AF
+Bahrain,Senegal,1.0,AS,AF
+Brunei Darussalam,Senegal,56.0,AS,AF
+India,Serbia,12408.0,AS,EU
+India,Serbia,2728.0,AS,EU
+Kazakhstan,Serbia,34.0,AS,EU
+Kazakhstan,Serbia,26.0,AS,EU
+Kyrgyzstan,Serbia,3219.0,AS,EU
+Kyrgyzstan,Serbia,4169.0,AS,EU
+Pakistan,Serbia,626.0,AS,EU
+Pakistan,Serbia,19.0,AS,EU
+Turkey,Serbia,37177.0,AS,EU
+Turkey,Serbia,76707.0,AS,EU
+United Arab Emirates,Serbia,595.0,AS,EU
+United Arab Emirates,Serbia,2685.0,AS,EU
+Cyprus,Serbia,1376.0,AS,EU
+Cyprus,Serbia,794.0,AS,EU
+Indonesia,Serbia,13907.0,AS,EU
+Indonesia,Serbia,88.0,AS,EU
+Malaysia,Serbia,11855.0,AS,EU
+Malaysia,Serbia,3232.0,AS,EU
+Sri Lanka,Serbia,624.0,AS,EU
+Sri Lanka,Serbia,308.0,AS,EU
+Thailand,Serbia,13765.0,AS,EU
+Thailand,Serbia,2089.0,AS,EU
+Viet Nam,Serbia,15858.0,AS,EU
+Georgia,Serbia,15.0,AS,EU
+Georgia,Serbia,58.0,AS,EU
+Japan,Serbia,204.0,AS,EU
+Japan,Serbia,102.0,AS,EU
+Jordan,Serbia,66.0,AS,EU
+Jordan,Serbia,49.0,AS,EU
+Lebanon,Serbia,167.0,AS,EU
+Myanmar,Serbia,14.0,AS,EU
+Philippines,Serbia,807.0,AS,EU
+Philippines,Serbia,40.0,AS,EU
+Saudi Arabia,Serbia,518.0,AS,EU
+Singapore,Serbia,204.0,AS,EU
+Singapore,Serbia,38.0,AS,EU
+Syrian Arab Republic,Serbia,2.0,AS,EU
+Uzbekistan,Serbia,52.0,AS,EU
+Israel,Serbia,1621.0,AS,EU
+Israel,Serbia,801.0,AS,EU
+Bangladesh,Serbia,90.0,AS,EU
+Turkmenistan,Serbia,154.0,AS,EU
+Yemen,Serbia,3.0,AS,EU
+India,Seychelles,9755.0,AS,AF
+India,Seychelles,6439.0,AS,AF
+Kazakhstan,Seychelles,6.0,AS,AF
+Pakistan,Seychelles,1248.0,AS,AF
+Pakistan,Seychelles,904.0,AS,AF
+Turkey,Seychelles,2533.0,AS,AF
+Turkey,Seychelles,1769.0,AS,AF
+United Arab Emirates,Seychelles,17695.0,AS,AF
+United Arab Emirates,Seychelles,14665.0,AS,AF
+Cyprus,Seychelles,459.0,AS,AF
+Cyprus,Seychelles,120.0,AS,AF
+Indonesia,Seychelles,588.0,AS,AF
+Indonesia,Seychelles,560.0,AS,AF
+Malaysia,Seychelles,2775.0,AS,AF
+Malaysia,Seychelles,2980.0,AS,AF
+Sri Lanka,Seychelles,1227.0,AS,AF
+Sri Lanka,Seychelles,755.0,AS,AF
+Thailand,Seychelles,2221.0,AS,AF
+Thailand,Seychelles,1613.0,AS,AF
+Viet Nam,Seychelles,427.0,AS,AF
+Afghanistan,Seychelles,6.0,AS,AF
+Japan,Seychelles,144.0,AS,AF
+Japan,Seychelles,5.0,AS,AF
+Lebanon,Seychelles,134.0,AS,AF
+Lebanon,Seychelles,18.0,AS,AF
+Oman,Seychelles,147.0,AS,AF
+Oman,Seychelles,183.0,AS,AF
+Philippines,Seychelles,118.0,AS,AF
+Saudi Arabia,Seychelles,231.0,AS,AF
+Singapore,Seychelles,4368.0,AS,AF
+Singapore,Seychelles,2941.0,AS,AF
+Israel,Seychelles,137.0,AS,AF
+Israel,Seychelles,11.0,AS,AF
+Bahrain,Seychelles,3.0,AS,AF
+Maldives,Seychelles,4.0,AS,AF
+Maldives,Seychelles,3.0,AS,AF
+India,Sierra Leone,17388.0,AS,AF
+India,Sierra Leone,19934.0,AS,AF
+Pakistan,Sierra Leone,27221.0,AS,AF
+Pakistan,Sierra Leone,24307.0,AS,AF
+Turkey,Sierra Leone,7959.0,AS,AF
+United Arab Emirates,Sierra Leone,2.0,AS,AF
+United Arab Emirates,Sierra Leone,2678.0,AS,AF
+Indonesia,Sierra Leone,18609.0,AS,AF
+Malaysia,Sierra Leone,6727.0,AS,AF
+Sri Lanka,Sierra Leone,1113.0,AS,AF
+Thailand,Sierra Leone,8316.0,AS,AF
+Thailand,Sierra Leone,7556.0,AS,AF
+Georgia,Sierra Leone,11.0,AS,AF
+Jordan,Sierra Leone,232.0,AS,AF
+Lebanon,Sierra Leone,9.0,AS,AF
+Lebanon,Sierra Leone,1830.0,AS,AF
+Oman,Sierra Leone,53.0,AS,AF
+India,Singapore,259149.0,AS,AS
+India,Singapore,242093.0,AS,AS
+Pakistan,Singapore,8268.0,AS,AS
+Pakistan,Singapore,7265.0,AS,AS
+Turkey,Singapore,20981.0,AS,AS
+Turkey,Singapore,19767.0,AS,AS
+United Arab Emirates,Singapore,30718.0,AS,AS
+United Arab Emirates,Singapore,15200.0,AS,AS
+Cyprus,Singapore,4454.0,AS,AS
+Cyprus,Singapore,2327.0,AS,AS
+Indonesia,Singapore,1050148.0,AS,AS
+Indonesia,Singapore,1207670.0,AS,AS
+Malaysia,Singapore,1902906.0,AS,AS
+Malaysia,Singapore,2135700.0,AS,AS
+Sri Lanka,Singapore,13080.0,AS,AS
+Sri Lanka,Singapore,14977.0,AS,AS
+Thailand,Singapore,531772.0,AS,AS
+Thailand,Singapore,472033.0,AS,AS
+Viet Nam,Singapore,223155.0,AS,AS
+Afghanistan,Singapore,3.0,AS,AS
+Azerbaijan,Singapore,11.0,AS,AS
+Cambodia,Singapore,5094.0,AS,AS
+Cambodia,Singapore,16220.0,AS,AS
+Georgia,Singapore,316.0,AS,AS
+Georgia,Singapore,9215.0,AS,AS
+Japan,Singapore,208302.0,AS,AS
+Japan,Singapore,163172.0,AS,AS
+Jordan,Singapore,130.0,AS,AS
+Jordan,Singapore,41.0,AS,AS
+Lebanon,Singapore,54.0,AS,AS
+Lebanon,Singapore,501.0,AS,AS
+Myanmar,Singapore,19415.0,AS,AS
+Oman,Singapore,994.0,AS,AS
+Oman,Singapore,888.0,AS,AS
+Philippines,Singapore,92011.0,AS,AS
+Philippines,Singapore,58425.0,AS,AS
+Saudi Arabia,Singapore,2052.0,AS,AS
+Syrian Arab Republic,Singapore,62.0,AS,AS
+Uzbekistan,Singapore,86.0,AS,AS
+Israel,Singapore,7718.0,AS,AS
+Israel,Singapore,6015.0,AS,AS
+Bangladesh,Singapore,5639.0,AS,AS
+Bangladesh,Singapore,162.0,AS,AS
+Kuwait,Singapore,404.0,AS,AS
+Kuwait,Singapore,16.0,AS,AS
+Turkmenistan,Singapore,499.0,AS,AS
+Armenia,Singapore,25.0,AS,AS
+Armenia,Singapore,11.0,AS,AS
+Bahrain,Singapore,4092.0,AS,AS
+Bahrain,Singapore,664.0,AS,AS
+Nepal,Singapore,1045.0,AS,AS
+Qatar,Singapore,2.0,AS,AS
+Qatar,Singapore,47.0,AS,AS
+Timor-Leste,Singapore,84.0,AS,AS
+Yemen,Singapore,112.0,AS,AS
+Mongolia,Singapore,16.0,AS,AS
+Brunei Darussalam,Singapore,58.0,AS,AS
+Bhutan,Singapore,73.0,AS,AS
+India,Slovakia,1792.0,AS,EU
+India,Slovakia,1420.0,AS,EU
+Kazakhstan,Slovakia,28.0,AS,EU
+Kazakhstan,Slovakia,587.0,AS,EU
+Kyrgyzstan,Slovakia,11.0,AS,EU
+Pakistan,Slovakia,38.0,AS,EU
+Pakistan,Slovakia,25.0,AS,EU
+Turkey,Slovakia,17550.0,AS,EU
+Turkey,Slovakia,17408.0,AS,EU
+United Arab Emirates,Slovakia,1.0,AS,EU
+United Arab Emirates,Slovakia,1.0,AS,EU
+Cyprus,Slovakia,2610.0,AS,EU
+Cyprus,Slovakia,689.0,AS,EU
+Indonesia,Slovakia,10053.0,AS,EU
+Indonesia,Slovakia,292.0,AS,EU
+Malaysia,Slovakia,13249.0,AS,EU
+Malaysia,Slovakia,160.0,AS,EU
+Sri Lanka,Slovakia,400.0,AS,EU
+Sri Lanka,Slovakia,1943.0,AS,EU
+Thailand,Slovakia,13707.0,AS,EU
+Thailand,Slovakia,3240.0,AS,EU
+Viet Nam,Slovakia,4100.0,AS,EU
+Azerbaijan,Slovakia,36.0,AS,EU
+Cambodia,Slovakia,29.0,AS,EU
+Georgia,Slovakia,1449.0,AS,EU
+Georgia,Slovakia,6159.0,AS,EU
+Japan,Slovakia,71.0,AS,EU
+Japan,Slovakia,734.0,AS,EU
+Jordan,Slovakia,1.0,AS,EU
+Jordan,Slovakia,1.0,AS,EU
+Myanmar,Slovakia,193.0,AS,EU
+Philippines,Slovakia,309.0,AS,EU
+Philippines,Slovakia,82.0,AS,EU
+Tajikistan,Slovakia,4.0,AS,EU
+Uzbekistan,Slovakia,12.0,AS,EU
+Israel,Slovakia,184.0,AS,EU
+Israel,Slovakia,339.0,AS,EU
+Armenia,Slovakia,37.0,AS,EU
+Armenia,Slovakia,51.0,AS,EU
+Nepal,Slovakia,4.0,AS,EU
+India,Slovenia,9079.0,AS,EU
+India,Slovenia,25292.0,AS,EU
+Kazakhstan,Slovenia,148.0,AS,EU
+Kazakhstan,Slovenia,500.0,AS,EU
+Kyrgyzstan,Slovenia,179.0,AS,EU
+Kyrgyzstan,Slovenia,57.0,AS,EU
+Pakistan,Slovenia,16.0,AS,EU
+Pakistan,Slovenia,59.0,AS,EU
+Turkey,Slovenia,20844.0,AS,EU
+Turkey,Slovenia,9279.0,AS,EU
+United Arab Emirates,Slovenia,201.0,AS,EU
+United Arab Emirates,Slovenia,256.0,AS,EU
+Cyprus,Slovenia,695.0,AS,EU
+Cyprus,Slovenia,472.0,AS,EU
+Indonesia,Slovenia,10182.0,AS,EU
+Indonesia,Slovenia,46759.0,AS,EU
+Malaysia,Slovenia,328.0,AS,EU
+Malaysia,Slovenia,1586.0,AS,EU
+Sri Lanka,Slovenia,1010.0,AS,EU
+Sri Lanka,Slovenia,576.0,AS,EU
+Thailand,Slovenia,2259.0,AS,EU
+Thailand,Slovenia,12435.0,AS,EU
+Viet Nam,Slovenia,3070.0,AS,EU
+Cambodia,Slovenia,4980.0,AS,EU
+Cambodia,Slovenia,794.0,AS,EU
+Georgia,Slovenia,14.0,AS,EU
+Georgia,Slovenia,12.0,AS,EU
+Japan,Slovenia,55.0,AS,EU
+Japan,Slovenia,33.0,AS,EU
+Jordan,Slovenia,753.0,AS,EU
+Jordan,Slovenia,761.0,AS,EU
+Lebanon,Slovenia,177.0,AS,EU
+Lebanon,Slovenia,174.0,AS,EU
+Myanmar,Slovenia,1431.0,AS,EU
+Philippines,Slovenia,61.0,AS,EU
+Philippines,Slovenia,215.0,AS,EU
+Singapore,Slovenia,215.0,AS,EU
+Singapore,Slovenia,715.0,AS,EU
+Uzbekistan,Slovenia,151.0,AS,EU
+Israel,Slovenia,78694.0,AS,EU
+Israel,Slovenia,58100.0,AS,EU
+Bangladesh,Slovenia,213.0,AS,EU
+Armenia,Slovenia,3.0,AS,EU
+India,South Africa,210999.0,AS,AF
+India,South Africa,201055.0,AS,AF
+Kazakhstan,South Africa,19.0,AS,AF
+Kyrgyzstan,South Africa,8.0,AS,AF
+Pakistan,South Africa,12834.0,AS,AF
+Pakistan,South Africa,10634.0,AS,AF
+Turkey,South Africa,20280.0,AS,AF
+Turkey,South Africa,28819.0,AS,AF
+United Arab Emirates,South Africa,50691.0,AS,AF
+United Arab Emirates,South Africa,26904.0,AS,AF
+Cyprus,South Africa,105.0,AS,AF
+Cyprus,South Africa,275.0,AS,AF
+Indonesia,South Africa,279224.0,AS,AF
+Indonesia,South Africa,275000.0,AS,AF
+Malaysia,South Africa,193385.0,AS,AF
+Malaysia,South Africa,170237.0,AS,AF
+Sri Lanka,South Africa,11958.0,AS,AF
+Sri Lanka,South Africa,12262.0,AS,AF
+Thailand,South Africa,258123.0,AS,AF
+Thailand,South Africa,263885.0,AS,AF
+Viet Nam,South Africa,72223.0,AS,AF
+Cambodia,South Africa,50.0,AS,AF
+Georgia,South Africa,37.0,AS,AF
+Iraq,South Africa,13.0,AS,AF
+Japan,South Africa,3246.0,AS,AF
+Japan,South Africa,2918.0,AS,AF
+Jordan,South Africa,173.0,AS,AF
+Jordan,South Africa,844.0,AS,AF
+Lebanon,South Africa,1366.0,AS,AF
+Lebanon,South Africa,1239.0,AS,AF
+Myanmar,South Africa,336.0,AS,AF
+Oman,South Africa,980.0,AS,AF
+Oman,South Africa,963.0,AS,AF
+Philippines,South Africa,11073.0,AS,AF
+Philippines,South Africa,6889.0,AS,AF
+Saudi Arabia,South Africa,6195.0,AS,AF
+Singapore,South Africa,18987.0,AS,AF
+Singapore,South Africa,27863.0,AS,AF
+Syrian Arab Republic,South Africa,167.0,AS,AF
+Israel,South Africa,6967.0,AS,AF
+Israel,South Africa,7244.0,AS,AF
+Bangladesh,South Africa,815.0,AS,AF
+Bangladesh,South Africa,50.0,AS,AF
+Kuwait,South Africa,7.0,AS,AF
+Kuwait,South Africa,7.0,AS,AF
+Bahrain,South Africa,33.0,AS,AF
+Nepal,South Africa,1.0,AS,AF
+Qatar,South Africa,1.0,AS,AF
+Qatar,South Africa,147.0,AS,AF
+Timor-Leste,South Africa,34.0,AS,AF
+Maldives,South Africa,430.0,AS,AF
+Brunei Darussalam,South Africa,204.0,AS,AF
+India,Spain,109720.0,AS,EU
+India,Spain,137696.0,AS,EU
+Kazakhstan,Spain,19.0,AS,EU
+Kazakhstan,Spain,16.0,AS,EU
+Kyrgyzstan,Spain,4.0,AS,EU
+Kyrgyzstan,Spain,44.0,AS,EU
+Pakistan,Spain,15855.0,AS,EU
+Pakistan,Spain,19478.0,AS,EU
+Turkey,Spain,121150.0,AS,EU
+Turkey,Spain,134553.0,AS,EU
+United Arab Emirates,Spain,3412.0,AS,EU
+United Arab Emirates,Spain,3005.0,AS,EU
+Cyprus,Spain,6270.0,AS,EU
+Cyprus,Spain,1598.0,AS,EU
+Indonesia,Spain,960629.0,AS,EU
+Indonesia,Spain,889622.0,AS,EU
+Malaysia,Spain,204712.0,AS,EU
+Malaysia,Spain,195597.0,AS,EU
+Sri Lanka,Spain,16334.0,AS,EU
+Sri Lanka,Spain,14728.0,AS,EU
+Thailand,Spain,111014.0,AS,EU
+Thailand,Spain,111394.0,AS,EU
+Viet Nam,Spain,291660.0,AS,EU
+Azerbaijan,Spain,406.0,AS,EU
+Cambodia,Spain,5837.0,AS,EU
+Cambodia,Spain,4849.0,AS,EU
+Georgia,Spain,8183.0,AS,EU
+Georgia,Spain,9187.0,AS,EU
+Iraq,Spain,312.0,AS,EU
+Japan,Spain,8022.0,AS,EU
+Japan,Spain,7662.0,AS,EU
+Jordan,Spain,1905.0,AS,EU
+Jordan,Spain,903.0,AS,EU
+Lebanon,Spain,1308.0,AS,EU
+Lebanon,Spain,1556.0,AS,EU
+Myanmar,Spain,6315.0,AS,EU
+Oman,Spain,78.0,AS,EU
+Oman,Spain,63.0,AS,EU
+Philippines,Spain,60685.0,AS,EU
+Philippines,Spain,40773.0,AS,EU
+Saudi Arabia,Spain,489.0,AS,EU
+Singapore,Spain,8906.0,AS,EU
+Singapore,Spain,12033.0,AS,EU
+Syrian Arab Republic,Spain,23719.0,AS,EU
+Uzbekistan,Spain,1245.0,AS,EU
+Israel,Spain,30350.0,AS,EU
+Israel,Spain,40299.0,AS,EU
+Bangladesh,Spain,3048.0,AS,EU
+Kuwait,Spain,80.0,AS,EU
+Kuwait,Spain,222.0,AS,EU
+Turkmenistan,Spain,46.0,AS,EU
+Armenia,Spain,9.0,AS,EU
+Armenia,Spain,7.0,AS,EU
+Bahrain,Spain,8.0,AS,EU
+Nepal,Spain,4.0,AS,EU
+Qatar,Spain,107.0,AS,EU
+Qatar,Spain,175.0,AS,EU
+Mongolia,Spain,43.0,AS,EU
+Mongolia,Spain,48.0,AS,EU
+India,Sri Lanka,394036.0,AS,AS
+India,Sri Lanka,371343.0,AS,AS
+Kazakhstan,Sri Lanka,452.0,AS,AS
+Kazakhstan,Sri Lanka,1210.0,AS,AS
+Pakistan,Sri Lanka,40942.0,AS,AS
+Pakistan,Sri Lanka,37466.0,AS,AS
+Turkey,Sri Lanka,13883.0,AS,AS
+Turkey,Sri Lanka,9230.0,AS,AS
+United Arab Emirates,Sri Lanka,29796.0,AS,AS
+United Arab Emirates,Sri Lanka,36793.0,AS,AS
+Cyprus,Sri Lanka,472.0,AS,AS
+Cyprus,Sri Lanka,106.0,AS,AS
+Indonesia,Sri Lanka,97644.0,AS,AS
+Indonesia,Sri Lanka,74754.0,AS,AS
+Malaysia,Sri Lanka,132853.0,AS,AS
+Malaysia,Sri Lanka,124914.0,AS,AS
+Thailand,Sri Lanka,89165.0,AS,AS
+Thailand,Sri Lanka,59261.0,AS,AS
+Viet Nam,Sri Lanka,59760.0,AS,AS
+Afghanistan,Sri Lanka,1.0,AS,AS
+Cambodia,Sri Lanka,5927.0,AS,AS
+Cambodia,Sri Lanka,5000.0,AS,AS
+Georgia,Sri Lanka,18.0,AS,AS
+Iraq,Sri Lanka,539.0,AS,AS
+Japan,Sri Lanka,813.0,AS,AS
+Japan,Sri Lanka,191.0,AS,AS
+Jordan,Sri Lanka,19.0,AS,AS
+Jordan,Sri Lanka,5.0,AS,AS
+Lebanon,Sri Lanka,18.0,AS,AS
+Myanmar,Sri Lanka,25653.0,AS,AS
+Oman,Sri Lanka,715.0,AS,AS
+Oman,Sri Lanka,450.0,AS,AS
+Philippines,Sri Lanka,8802.0,AS,AS
+Philippines,Sri Lanka,8727.0,AS,AS
+Saudi Arabia,Sri Lanka,663.0,AS,AS
+Singapore,Sri Lanka,25637.0,AS,AS
+Singapore,Sri Lanka,53257.0,AS,AS
+Syrian Arab Republic,Sri Lanka,413.0,AS,AS
+Israel,Sri Lanka,1624.0,AS,AS
+Israel,Sri Lanka,1230.0,AS,AS
+Bangladesh,Sri Lanka,2259.0,AS,AS
+Kuwait,Sri Lanka,5.0,AS,AS
+Kuwait,Sri Lanka,14.0,AS,AS
+Armenia,Sri Lanka,1.0,AS,AS
+Bahrain,Sri Lanka,79.0,AS,AS
+Bahrain,Sri Lanka,144.0,AS,AS
+Nepal,Sri Lanka,10.0,AS,AS
+Qatar,Sri Lanka,3.0,AS,AS
+Qatar,Sri Lanka,25.0,AS,AS
+Mongolia,Sri Lanka,1.0,AS,AS
+Maldives,Sri Lanka,58.0,AS,AS
+India,Suriname,21.0,AS,SA
+India,Suriname,511.0,AS,SA
+Turkey,Suriname,1.0,AS,SA
+Turkey,Suriname,625.0,AS,SA
+United Arab Emirates,Suriname,160.0,AS,SA
+Indonesia,Suriname,668.0,AS,SA
+Malaysia,Suriname,1749.0,AS,SA
+Sri Lanka,Suriname,241.0,AS,SA
+Thailand,Suriname,152.0,AS,SA
+Thailand,Suriname,1678.0,AS,SA
+Philippines,Suriname,26.0,AS,SA
+Singapore,Suriname,188.0,AS,SA
+Israel,Suriname,1.0,AS,SA
+India,Sweden,50416.0,AS,EU
+India,Sweden,46679.0,AS,EU
+Kazakhstan,Sweden,8710.0,AS,EU
+Kazakhstan,Sweden,16393.0,AS,EU
+Kyrgyzstan,Sweden,277.0,AS,EU
+Pakistan,Sweden,6327.0,AS,EU
+Pakistan,Sweden,5543.0,AS,EU
+Turkey,Sweden,79048.0,AS,EU
+Turkey,Sweden,74616.0,AS,EU
+United Arab Emirates,Sweden,2475.0,AS,EU
+United Arab Emirates,Sweden,2966.0,AS,EU
+Cyprus,Sweden,21661.0,AS,EU
+Cyprus,Sweden,19292.0,AS,EU
+Indonesia,Sweden,20806.0,AS,EU
+Indonesia,Sweden,15184.0,AS,EU
+Malaysia,Sweden,90791.0,AS,EU
+Malaysia,Sweden,52331.0,AS,EU
+Sri Lanka,Sweden,8887.0,AS,EU
+Sri Lanka,Sweden,8748.0,AS,EU
+Thailand,Sweden,84953.0,AS,EU
+Thailand,Sweden,74235.0,AS,EU
+Viet Nam,Sweden,25635.0,AS,EU
+Afghanistan,Sweden,51.0,AS,EU
+Azerbaijan,Sweden,56.0,AS,EU
+Cambodia,Sweden,4864.0,AS,EU
+Cambodia,Sweden,4190.0,AS,EU
+Georgia,Sweden,4.0,AS,EU
+Georgia,Sweden,4.0,AS,EU
+Iraq,Sweden,23.0,AS,EU
+Japan,Sweden,4970.0,AS,EU
+Japan,Sweden,4063.0,AS,EU
+Jordan,Sweden,3279.0,AS,EU
+Jordan,Sweden,2835.0,AS,EU
+Lebanon,Sweden,14936.0,AS,EU
+Lebanon,Sweden,15198.0,AS,EU
+Oman,Sweden,7.0,AS,EU
+Philippines,Sweden,11736.0,AS,EU
+Philippines,Sweden,4433.0,AS,EU
+Saudi Arabia,Sweden,1441.0,AS,EU
+Singapore,Sweden,1664.0,AS,EU
+Singapore,Sweden,2633.0,AS,EU
+Syrian Arab Republic,Sweden,3138.0,AS,EU
+Uzbekistan,Sweden,117.0,AS,EU
+Israel,Sweden,14847.0,AS,EU
+Israel,Sweden,13996.0,AS,EU
+Bangladesh,Sweden,172.0,AS,EU
+Bangladesh,Sweden,5.0,AS,EU
+Kuwait,Sweden,13.0,AS,EU
+Kuwait,Sweden,19.0,AS,EU
+Armenia,Sweden,179.0,AS,EU
+Armenia,Sweden,113.0,AS,EU
+Bahrain,Sweden,3.0,AS,EU
+Nepal,Sweden,75.0,AS,EU
+Qatar,Sweden,8.0,AS,EU
+Qatar,Sweden,31.0,AS,EU
+Mongolia,Sweden,4.0,AS,EU
+Mongolia,Sweden,1.0,AS,EU
+India,Switzerland,120538.0,AS,EU
+India,Switzerland,35097.0,AS,EU
+Kazakhstan,Switzerland,724.0,AS,EU
+Kazakhstan,Switzerland,265.0,AS,EU
+Kyrgyzstan,Switzerland,24.0,AS,EU
+Pakistan,Switzerland,5387.0,AS,EU
+Pakistan,Switzerland,1113.0,AS,EU
+Turkey,Switzerland,155415.0,AS,EU
+Turkey,Switzerland,132849.0,AS,EU
+United Arab Emirates,Switzerland,2604.0,AS,EU
+United Arab Emirates,Switzerland,11547.0,AS,EU
+Cyprus,Switzerland,1917.0,AS,EU
+Cyprus,Switzerland,12648.0,AS,EU
+Indonesia,Switzerland,49121.0,AS,EU
+Indonesia,Switzerland,12954.0,AS,EU
+Malaysia,Switzerland,21743.0,AS,EU
+Malaysia,Switzerland,4020.0,AS,EU
+Sri Lanka,Switzerland,11527.0,AS,EU
+Sri Lanka,Switzerland,8942.0,AS,EU
+Thailand,Switzerland,102706.0,AS,EU
+Thailand,Switzerland,38683.0,AS,EU
+Viet Nam,Switzerland,63012.0,AS,EU
+Afghanistan,Switzerland,45.0,AS,EU
+Azerbaijan,Switzerland,370.0,AS,EU
+Cambodia,Switzerland,7442.0,AS,EU
+Cambodia,Switzerland,3610.0,AS,EU
+Georgia,Switzerland,815.0,AS,EU
+Georgia,Switzerland,841.0,AS,EU
+Japan,Switzerland,15476.0,AS,EU
+Japan,Switzerland,9568.0,AS,EU
+Jordan,Switzerland,222.0,AS,EU
+Jordan,Switzerland,674.0,AS,EU
+Lebanon,Switzerland,2756.0,AS,EU
+Lebanon,Switzerland,1481.0,AS,EU
+Myanmar,Switzerland,899.0,AS,EU
+Oman,Switzerland,57.0,AS,EU
+Oman,Switzerland,42.0,AS,EU
+Philippines,Switzerland,5355.0,AS,EU
+Philippines,Switzerland,1472.0,AS,EU
+Saudi Arabia,Switzerland,521.0,AS,EU
+Saudi Arabia,Switzerland,1.0,AS,EU
+Singapore,Switzerland,2867.0,AS,EU
+Singapore,Switzerland,2425.0,AS,EU
+Syrian Arab Republic,Switzerland,175.0,AS,EU
+Tajikistan,Switzerland,12.0,AS,EU
+Uzbekistan,Switzerland,190.0,AS,EU
+Israel,Switzerland,34148.0,AS,EU
+Israel,Switzerland,14418.0,AS,EU
+Bangladesh,Switzerland,341.0,AS,EU
+Bangladesh,Switzerland,4.0,AS,EU
+Kuwait,Switzerland,67.0,AS,EU
+Armenia,Switzerland,145.0,AS,EU
+Armenia,Switzerland,198.0,AS,EU
+Bahrain,Switzerland,495.0,AS,EU
+Bahrain,Switzerland,4.0,AS,EU
+Nepal,Switzerland,399.0,AS,EU
+Qatar,Switzerland,28.0,AS,EU
+Qatar,Switzerland,281.0,AS,EU
+Yemen,Switzerland,9.0,AS,EU
+Mongolia,Switzerland,1761.0,AS,EU
+Mongolia,Switzerland,648.0,AS,EU
+Maldives,Switzerland,5.0,AS,EU
+Brunei Darussalam,Switzerland,7.0,AS,EU
+Bhutan,Switzerland,4.0,AS,EU
+India,Syrian Arab Republic,20313.0,AS,AS
+India,Syrian Arab Republic,30106.0,AS,AS
+Kazakhstan,Syrian Arab Republic,323.0,AS,AS
+Pakistan,Syrian Arab Republic,1293.0,AS,AS
+Pakistan,Syrian Arab Republic,1434.0,AS,AS
+Turkey,Syrian Arab Republic,6068.0,AS,AS
+Turkey,Syrian Arab Republic,583044.0,AS,AS
+United Arab Emirates,Syrian Arab Republic,68.0,AS,AS
+United Arab Emirates,Syrian Arab Republic,50923.0,AS,AS
+Cyprus,Syrian Arab Republic,618.0,AS,AS
+Indonesia,Syrian Arab Republic,6249.0,AS,AS
+Malaysia,Syrian Arab Republic,14033.0,AS,AS
+Sri Lanka,Syrian Arab Republic,54567.0,AS,AS
+Thailand,Syrian Arab Republic,6712.0,AS,AS
+Thailand,Syrian Arab Republic,7269.0,AS,AS
+Georgia,Syrian Arab Republic,20.0,AS,AS
+Georgia,Syrian Arab Republic,563.0,AS,AS
+Jordan,Syrian Arab Republic,1021.0,AS,AS
+Jordan,Syrian Arab Republic,27267.0,AS,AS
+Lebanon,Syrian Arab Republic,446.0,AS,AS
+Lebanon,Syrian Arab Republic,97692.0,AS,AS
+Oman,Syrian Arab Republic,3749.0,AS,AS
+Philippines,Syrian Arab Republic,24.0,AS,AS
+Singapore,Syrian Arab Republic,4589.0,AS,AS
+Armenia,Syrian Arab Republic,27563.0,AS,AS
+India,Thailand,228986.0,AS,AS
+India,Thailand,316507.0,AS,AS
+Kazakhstan,Thailand,518.0,AS,AS
+Pakistan,Thailand,5609.0,AS,AS
+Pakistan,Thailand,7088.0,AS,AS
+Turkey,Thailand,26064.0,AS,AS
+Turkey,Thailand,23392.0,AS,AS
+United Arab Emirates,Thailand,37416.0,AS,AS
+United Arab Emirates,Thailand,26597.0,AS,AS
+Cyprus,Thailand,117.0,AS,AS
+Cyprus,Thailand,35.0,AS,AS
+Indonesia,Thailand,417041.0,AS,AS
+Indonesia,Thailand,332090.0,AS,AS
+Malaysia,Thailand,405590.0,AS,AS
+Malaysia,Thailand,631040.0,AS,AS
+Sri Lanka,Thailand,8039.0,AS,AS
+Sri Lanka,Thailand,8118.0,AS,AS
+Thailand,Thailand,22905.0,AS,AS
+Viet Nam,Thailand,360371.0,AS,AS
+Afghanistan,Thailand,24.0,AS,AS
+Azerbaijan,Thailand,15.0,AS,AS
+Cambodia,Thailand,290958.0,AS,AS
+Cambodia,Thailand,18232.0,AS,AS
+Japan,Thailand,126785.0,AS,AS
+Japan,Thailand,103512.0,AS,AS
+Jordan,Thailand,34.0,AS,AS
+Jordan,Thailand,51.0,AS,AS
+Lebanon,Thailand,7.0,AS,AS
+Lebanon,Thailand,25.0,AS,AS
+Myanmar,Thailand,134109.0,AS,AS
+Oman,Thailand,3.0,AS,AS
+Oman,Thailand,86.0,AS,AS
+Philippines,Thailand,105684.0,AS,AS
+Philippines,Thailand,127817.0,AS,AS
+Saudi Arabia,Thailand,222.0,AS,AS
+Singapore,Thailand,333723.0,AS,AS
+Singapore,Thailand,700363.0,AS,AS
+Syrian Arab Republic,Thailand,902.0,AS,AS
+Uzbekistan,Thailand,52.0,AS,AS
+Israel,Thailand,23551.0,AS,AS
+Israel,Thailand,25023.0,AS,AS
+Bangladesh,Thailand,2097.0,AS,AS
+Kuwait,Thailand,2.0,AS,AS
+Kuwait,Thailand,1.0,AS,AS
+Turkmenistan,Thailand,2686.0,AS,AS
+Bahrain,Thailand,469.0,AS,AS
+Bahrain,Thailand,111.0,AS,AS
+Nepal,Thailand,35.0,AS,AS
+Qatar,Thailand,28.0,AS,AS
+Qatar,Thailand,74.0,AS,AS
+Yemen,Thailand,1.0,AS,AS
+India,Togo,6462.0,AS,AF
+India,Togo,39807.0,AS,AF
+Pakistan,Togo,2618.0,AS,AF
+Pakistan,Togo,11061.0,AS,AF
+Turkey,Togo,8278.0,AS,AF
+Turkey,Togo,19657.0,AS,AF
+United Arab Emirates,Togo,1575.0,AS,AF
+United Arab Emirates,Togo,1745.0,AS,AF
+Indonesia,Togo,8474.0,AS,AF
+Indonesia,Togo,30087.0,AS,AF
+Malaysia,Togo,10437.0,AS,AF
+Malaysia,Togo,42163.0,AS,AF
+Sri Lanka,Togo,47.0,AS,AF
+Sri Lanka,Togo,1362.0,AS,AF
+Thailand,Togo,8297.0,AS,AF
+Thailand,Togo,23194.0,AS,AF
+Viet Nam,Togo,833.0,AS,AF
+Japan,Togo,3.0,AS,AF
+Lebanon,Togo,573.0,AS,AF
+Lebanon,Togo,1707.0,AS,AF
+Oman,Togo,36.0,AS,AF
+Oman,Togo,15.0,AS,AF
+Philippines,Togo,364.0,AS,AF
+Saudi Arabia,Togo,52.0,AS,AF
+Singapore,Togo,201.0,AS,AF
+Singapore,Togo,842.0,AS,AF
+Syrian Arab Republic,Togo,1.0,AS,AF
+Israel,Togo,242.0,AS,AF
+Bangladesh,Togo,23.0,AS,AF
+India,Trinidad and Tobago,423.0,AS,
+India,Trinidad and Tobago,12376.0,AS,
+Pakistan,Trinidad and Tobago,219.0,AS,
+Pakistan,Trinidad and Tobago,211.0,AS,
+Turkey,Trinidad and Tobago,3519.0,AS,
+United Arab Emirates,Trinidad and Tobago,660.0,AS,
+Indonesia,Trinidad and Tobago,3053.0,AS,
+Malaysia,Trinidad and Tobago,11554.0,AS,
+Sri Lanka,Trinidad and Tobago,1499.0,AS,
+Thailand,Trinidad and Tobago,458.0,AS,
+Thailand,Trinidad and Tobago,3138.0,AS,
+Japan,Trinidad and Tobago,12.0,AS,
+Lebanon,Trinidad and Tobago,35.0,AS,
+Philippines,Trinidad and Tobago,273.0,AS,
+Singapore,Trinidad and Tobago,2138.0,AS,
+India,Tunisia,40723.0,AS,AF
+India,Tunisia,41147.0,AS,AF
+Kazakhstan,Tunisia,1268.0,AS,AF
+Kazakhstan,Tunisia,1563.0,AS,AF
+Kyrgyzstan,Tunisia,1395.0,AS,AF
+Pakistan,Tunisia,1620.0,AS,AF
+Pakistan,Tunisia,2611.0,AS,AF
+Turkey,Tunisia,38084.0,AS,AF
+Turkey,Tunisia,54109.0,AS,AF
+United Arab Emirates,Tunisia,4297.0,AS,AF
+United Arab Emirates,Tunisia,5525.0,AS,AF
+Cyprus,Tunisia,45.0,AS,AF
+Cyprus,Tunisia,1822.0,AS,AF
+Indonesia,Tunisia,33994.0,AS,AF
+Indonesia,Tunisia,28682.0,AS,AF
+Malaysia,Tunisia,7480.0,AS,AF
+Malaysia,Tunisia,9271.0,AS,AF
+Sri Lanka,Tunisia,67.0,AS,AF
+Sri Lanka,Tunisia,940.0,AS,AF
+Thailand,Tunisia,746.0,AS,AF
+Thailand,Tunisia,1351.0,AS,AF
+Viet Nam,Tunisia,20282.0,AS,AF
+Afghanistan,Tunisia,91.0,AS,AF
+Azerbaijan,Tunisia,40.0,AS,AF
+Georgia,Tunisia,652.0,AS,AF
+Georgia,Tunisia,4228.0,AS,AF
+Iraq,Tunisia,11.0,AS,AF
+Japan,Tunisia,233.0,AS,AF
+Japan,Tunisia,61.0,AS,AF
+Jordan,Tunisia,482.0,AS,AF
+Jordan,Tunisia,216.0,AS,AF
+Lebanon,Tunisia,4170.0,AS,AF
+Lebanon,Tunisia,4010.0,AS,AF
+Myanmar,Tunisia,12.0,AS,AF
+Oman,Tunisia,297.0,AS,AF
+Oman,Tunisia,386.0,AS,AF
+Philippines,Tunisia,217.0,AS,AF
+Philippines,Tunisia,285.0,AS,AF
+Saudi Arabia,Tunisia,910.0,AS,AF
+Singapore,Tunisia,570.0,AS,AF
+Singapore,Tunisia,209.0,AS,AF
+Syrian Arab Republic,Tunisia,9559.0,AS,AF
+Uzbekistan,Tunisia,1.0,AS,AF
+Bangladesh,Tunisia,2629.0,AS,AF
+India,Turkey,194821.0,AS,AS
+India,Turkey,263662.0,AS,AS
+Kazakhstan,Turkey,37185.0,AS,AS
+Kazakhstan,Turkey,49539.0,AS,AS
+Kyrgyzstan,Turkey,25777.0,AS,AS
+Kyrgyzstan,Turkey,42586.0,AS,AS
+Pakistan,Turkey,5344.0,AS,AS
+Pakistan,Turkey,13168.0,AS,AS
+United Arab Emirates,Turkey,7769.0,AS,AS
+United Arab Emirates,Turkey,17707.0,AS,AS
+Cyprus,Turkey,1.0,AS,AS
+Indonesia,Turkey,175488.0,AS,AS
+Indonesia,Turkey,160693.0,AS,AS
+Malaysia,Turkey,573907.0,AS,AS
+Malaysia,Turkey,514058.0,AS,AS
+Sri Lanka,Turkey,35646.0,AS,AS
+Sri Lanka,Turkey,109284.0,AS,AS
+Thailand,Turkey,103562.0,AS,AS
+Thailand,Turkey,112642.0,AS,AS
+Viet Nam,Turkey,44244.0,AS,AS
+Afghanistan,Turkey,7778.0,AS,AS
+Azerbaijan,Turkey,11446.0,AS,AS
+Cambodia,Turkey,323.0,AS,AS
+Cambodia,Turkey,198.0,AS,AS
+Georgia,Turkey,3942.0,AS,AS
+Georgia,Turkey,7248.0,AS,AS
+Iraq,Turkey,8429.0,AS,AS
+Japan,Turkey,2961.0,AS,AS
+Japan,Turkey,1725.0,AS,AS
+Jordan,Turkey,1333.0,AS,AS
+Jordan,Turkey,6375.0,AS,AS
+Lebanon,Turkey,7436.0,AS,AS
+Lebanon,Turkey,17014.0,AS,AS
+Myanmar,Turkey,334.0,AS,AS
+Oman,Turkey,291.0,AS,AS
+Oman,Turkey,1351.0,AS,AS
+Philippines,Turkey,16565.0,AS,AS
+Philippines,Turkey,7573.0,AS,AS
+Saudi Arabia,Turkey,13471.0,AS,AS
+Singapore,Turkey,2510.0,AS,AS
+Singapore,Turkey,6669.0,AS,AS
+Syrian Arab Republic,Turkey,48384.0,AS,AS
+Tajikistan,Turkey,24433.0,AS,AS
+Uzbekistan,Turkey,62521.0,AS,AS
+Israel,Turkey,21142.0,AS,AS
+Israel,Turkey,24991.0,AS,AS
+Bangladesh,Turkey,4324.0,AS,AS
+Kuwait,Turkey,32.0,AS,AS
+Kuwait,Turkey,1143.0,AS,AS
+Turkmenistan,Turkey,182046.0,AS,AS
+Armenia,Turkey,526.0,AS,AS
+Bahrain,Turkey,374.0,AS,AS
+Bahrain,Turkey,840.0,AS,AS
+Qatar,Turkey,4149.0,AS,AS
+Qatar,Turkey,921.0,AS,AS
+Mongolia,Turkey,2.0,AS,AS
+Maldives,Turkey,501.0,AS,AS
+India,Uganda,518.0,AS,AF
+India,Uganda,15611.0,AS,AF
+Pakistan,Uganda,182.0,AS,AF
+Pakistan,Uganda,181.0,AS,AF
+Turkey,Uganda,2603.0,AS,AF
+United Arab Emirates,Uganda,33.0,AS,AF
+United Arab Emirates,Uganda,1572.0,AS,AF
+Indonesia,Uganda,3667.0,AS,AF
+Malaysia,Uganda,595.0,AS,AF
+Sri Lanka,Uganda,9.0,AS,AF
+Thailand,Uganda,133.0,AS,AF
+Thailand,Uganda,604.0,AS,AF
+Japan,Uganda,43.0,AS,AF
+Jordan,Uganda,3.0,AS,AF
+Lebanon,Uganda,2.0,AS,AF
+Philippines,Uganda,271.0,AS,AF
+Singapore,Uganda,98.0,AS,AF
+Israel,Uganda,30.0,AS,AF
+India,Ukraine,9615.0,AS,EU
+India,Ukraine,60819.0,AS,EU
+Kazakhstan,Ukraine,805.0,AS,EU
+Kazakhstan,Ukraine,23052.0,AS,EU
+Kyrgyzstan,Ukraine,172.0,AS,EU
+Pakistan,Ukraine,7648.0,AS,EU
+Pakistan,Ukraine,10111.0,AS,EU
+Turkey,Ukraine,205743.0,AS,EU
+United Arab Emirates,Ukraine,6047.0,AS,EU
+Cyprus,Ukraine,18.0,AS,EU
+Indonesia,Ukraine,266543.0,AS,EU
+Malaysia,Ukraine,36730.0,AS,EU
+Sri Lanka,Ukraine,25381.0,AS,EU
+Thailand,Ukraine,1079.0,AS,EU
+Thailand,Ukraine,9023.0,AS,EU
+Cambodia,Ukraine,26.0,AS,EU
+Cambodia,Ukraine,23.0,AS,EU
+Georgia,Ukraine,54071.0,AS,EU
+Japan,Ukraine,1150.0,AS,EU
+Jordan,Ukraine,166.0,AS,EU
+Lebanon,Ukraine,17.0,AS,EU
+Philippines,Ukraine,645.0,AS,EU
+Singapore,Ukraine,976.0,AS,EU
+Israel,Ukraine,7700.0,AS,EU
+Armenia,Ukraine,5348.0,AS,EU
+India,United Arab Emirates,1806546.0,AS,AS
+India,United Arab Emirates,1888635.0,AS,AS
+Kazakhstan,United Arab Emirates,4504.0,AS,AS
+Kazakhstan,United Arab Emirates,2569.0,AS,AS
+Kyrgyzstan,United Arab Emirates,102.0,AS,AS
+Kyrgyzstan,United Arab Emirates,91.0,AS,AS
+Pakistan,United Arab Emirates,336118.0,AS,AS
+Pakistan,United Arab Emirates,337795.0,AS,AS
+Turkey,United Arab Emirates,269030.0,AS,AS
+Turkey,United Arab Emirates,238913.0,AS,AS
+Cyprus,United Arab Emirates,12868.0,AS,AS
+Cyprus,United Arab Emirates,9738.0,AS,AS
+Indonesia,United Arab Emirates,237991.0,AS,AS
+Indonesia,United Arab Emirates,248363.0,AS,AS
+Malaysia,United Arab Emirates,206583.0,AS,AS
+Malaysia,United Arab Emirates,237298.0,AS,AS
+Sri Lanka,United Arab Emirates,79515.0,AS,AS
+Sri Lanka,United Arab Emirates,158881.0,AS,AS
+Thailand,United Arab Emirates,187914.0,AS,AS
+Thailand,United Arab Emirates,179748.0,AS,AS
+Viet Nam,United Arab Emirates,177783.0,AS,AS
+Afghanistan,United Arab Emirates,6024.0,AS,AS
+Azerbaijan,United Arab Emirates,1165.0,AS,AS
+Cambodia,United Arab Emirates,52.0,AS,AS
+Cambodia,United Arab Emirates,140.0,AS,AS
+Georgia,United Arab Emirates,1903.0,AS,AS
+Georgia,United Arab Emirates,1783.0,AS,AS
+Iraq,United Arab Emirates,52076.0,AS,AS
+Japan,United Arab Emirates,54373.0,AS,AS
+Japan,United Arab Emirates,45625.0,AS,AS
+Jordan,United Arab Emirates,131171.0,AS,AS
+Jordan,United Arab Emirates,150557.0,AS,AS
+Lebanon,United Arab Emirates,59040.0,AS,AS
+Lebanon,United Arab Emirates,52454.0,AS,AS
+Myanmar,United Arab Emirates,10117.0,AS,AS
+Oman,United Arab Emirates,494258.0,AS,AS
+Oman,United Arab Emirates,367734.0,AS,AS
+Philippines,United Arab Emirates,173942.0,AS,AS
+Philippines,United Arab Emirates,114316.0,AS,AS
+Saudi Arabia,United Arab Emirates,747800.0,AS,AS
+Singapore,United Arab Emirates,74567.0,AS,AS
+Singapore,United Arab Emirates,147357.0,AS,AS
+Syrian Arab Republic,United Arab Emirates,29073.0,AS,AS
+Tajikistan,United Arab Emirates,311.0,AS,AS
+Uzbekistan,United Arab Emirates,5772.0,AS,AS
+Bangladesh,United Arab Emirates,14431.0,AS,AS
+Bangladesh,United Arab Emirates,174.0,AS,AS
+Kuwait,United Arab Emirates,27133.0,AS,AS
+Kuwait,United Arab Emirates,38121.0,AS,AS
+Turkmenistan,United Arab Emirates,3809.0,AS,AS
+Armenia,United Arab Emirates,945.0,AS,AS
+Armenia,United Arab Emirates,28016.0,AS,AS
+Bahrain,United Arab Emirates,58526.0,AS,AS
+Bahrain,United Arab Emirates,49768.0,AS,AS
+Nepal,United Arab Emirates,65.0,AS,AS
+Qatar,United Arab Emirates,8383.0,AS,AS
+Qatar,United Arab Emirates,17578.0,AS,AS
+Yemen,United Arab Emirates,4952.0,AS,AS
+Mongolia,United Arab Emirates,772.0,AS,AS
+Maldives,United Arab Emirates,51.0,AS,AS
+Maldives,United Arab Emirates,1.0,AS,AS
+Brunei Darussalam,United Arab Emirates,16.0,AS,AS
+Bhutan,United Arab Emirates,1.0,AS,AS
+India,United Kingdom,609316.0,AS,EU
+India,United Kingdom,587655.0,AS,EU
+Kazakhstan,United Kingdom,7019.0,AS,EU
+Kazakhstan,United Kingdom,966.0,AS,EU
+Kyrgyzstan,United Kingdom,8.0,AS,EU
+Pakistan,United Kingdom,85458.0,AS,EU
+Pakistan,United Kingdom,78342.0,AS,EU
+Turkey,United Kingdom,484145.0,AS,EU
+Turkey,United Kingdom,419716.0,AS,EU
+United Arab Emirates,United Kingdom,30143.0,AS,EU
+United Arab Emirates,United Kingdom,20305.0,AS,EU
+Cyprus,United Kingdom,88738.0,AS,EU
+Cyprus,United Kingdom,90205.0,AS,EU
+Indonesia,United Kingdom,239153.0,AS,EU
+Indonesia,United Kingdom,175325.0,AS,EU
+Malaysia,United Kingdom,167162.0,AS,EU
+Malaysia,United Kingdom,90341.0,AS,EU
+Sri Lanka,United Kingdom,52887.0,AS,EU
+Sri Lanka,United Kingdom,52670.0,AS,EU
+Thailand,United Kingdom,874571.0,AS,EU
+Thailand,United Kingdom,845669.0,AS,EU
+Viet Nam,United Kingdom,249412.0,AS,EU
+Afghanistan,United Kingdom,198.0,AS,EU
+Cambodia,United Kingdom,11692.0,AS,EU
+Cambodia,United Kingdom,10229.0,AS,EU
+Georgia,United Kingdom,3511.0,AS,EU
+Georgia,United Kingdom,7145.0,AS,EU
+Iraq,United Kingdom,942.0,AS,EU
+Japan,United Kingdom,50433.0,AS,EU
+Japan,United Kingdom,46050.0,AS,EU
+Jordan,United Kingdom,12194.0,AS,EU
+Jordan,United Kingdom,10577.0,AS,EU
+Lebanon,United Kingdom,11670.0,AS,EU
+Lebanon,United Kingdom,13754.0,AS,EU
+Myanmar,United Kingdom,17748.0,AS,EU
+Oman,United Kingdom,1076.0,AS,EU
+Oman,United Kingdom,636.0,AS,EU
+Philippines,United Kingdom,71004.0,AS,EU
+Philippines,United Kingdom,51824.0,AS,EU
+Saudi Arabia,United Kingdom,6004.0,AS,EU
+Saudi Arabia,United Kingdom,4.0,AS,EU
+Singapore,United Kingdom,40188.0,AS,EU
+Singapore,United Kingdom,62868.0,AS,EU
+Syrian Arab Republic,United Kingdom,3833.0,AS,EU
+Uzbekistan,United Kingdom,225.0,AS,EU
+Israel,United Kingdom,145033.0,AS,EU
+Israel,United Kingdom,143295.0,AS,EU
+Bangladesh,United Kingdom,18666.0,AS,EU
+Bangladesh,United Kingdom,193.0,AS,EU
+Kuwait,United Kingdom,946.0,AS,EU
+Kuwait,United Kingdom,640.0,AS,EU
+Turkmenistan,United Kingdom,1.0,AS,EU
+Armenia,United Kingdom,34.0,AS,EU
+Armenia,United Kingdom,50.0,AS,EU
+Bahrain,United Kingdom,43.0,AS,EU
+Bahrain,United Kingdom,102.0,AS,EU
+Nepal,United Kingdom,817.0,AS,EU
+Nepal,United Kingdom,170.0,AS,EU
+Qatar,United Kingdom,101.0,AS,EU
+Qatar,United Kingdom,5469.0,AS,EU
+Yemen,United Kingdom,419.0,AS,EU
+Mongolia,United Kingdom,3.0,AS,EU
+Mongolia,United Kingdom,35.0,AS,EU
+India,Uruguay,1685.0,AS,SA
+India,Uruguay,1318.0,AS,SA
+Pakistan,Uruguay,194.0,AS,SA
+Pakistan,Uruguay,192.0,AS,SA
+Turkey,Uruguay,968.0,AS,SA
+Turkey,Uruguay,2308.0,AS,SA
+United Arab Emirates,Uruguay,65.0,AS,SA
+Indonesia,Uruguay,5855.0,AS,SA
+Indonesia,Uruguay,9668.0,AS,SA
+Malaysia,Uruguay,1874.0,AS,SA
+Malaysia,Uruguay,1969.0,AS,SA
+Sri Lanka,Uruguay,915.0,AS,SA
+Sri Lanka,Uruguay,701.0,AS,SA
+Thailand,Uruguay,1623.0,AS,SA
+Thailand,Uruguay,1346.0,AS,SA
+Viet Nam,Uruguay,817.0,AS,SA
+Japan,Uruguay,77.0,AS,SA
+Japan,Uruguay,28.0,AS,SA
+Lebanon,Uruguay,589.0,AS,SA
+Lebanon,Uruguay,617.0,AS,SA
+Philippines,Uruguay,824.0,AS,SA
+Philippines,Uruguay,1290.0,AS,SA
+Singapore,Uruguay,2.0,AS,SA
+Singapore,Uruguay,892.0,AS,SA
+Syrian Arab Republic,Uruguay,36.0,AS,SA
+Israel,Uruguay,616.0,AS,SA
+Israel,Uruguay,553.0,AS,SA
+Bangladesh,Uruguay,29.0,AS,SA
+India,Yemen,159023.0,AS,AS
+India,Yemen,204479.0,AS,AS
+Pakistan,Yemen,54027.0,AS,AS
+Pakistan,Yemen,53320.0,AS,AS
+Turkey,Yemen,94938.0,AS,AS
+United Arab Emirates,Yemen,3062.0,AS,AS
+United Arab Emirates,Yemen,87857.0,AS,AS
+Cyprus,Yemen,30.0,AS,AS
+Indonesia,Yemen,83852.0,AS,AS
+Malaysia,Yemen,35247.0,AS,AS
+Sri Lanka,Yemen,788.0,AS,AS
+Thailand,Yemen,24476.0,AS,AS
+Thailand,Yemen,35229.0,AS,AS
+Jordan,Yemen,12798.0,AS,AS
+Lebanon,Yemen,2920.0,AS,AS
+Oman,Yemen,16319.0,AS,AS
+Oman,Yemen,107979.0,AS,AS
+Philippines,Yemen,2044.0,AS,AS
+Singapore,Yemen,2402.0,AS,AS
+Kuwait,Yemen,31.0,AS,AS
+Kuwait,Yemen,1965.0,AS,AS
+Bahrain,Yemen,140.0,AS,AS
+Bahrain,Yemen,23598.0,AS,AS
+Qatar,Yemen,59.0,AS,AS
+India,Zambia,230.0,AS,AF
+India,Zambia,3017.0,AS,AF
+Turkey,Zambia,300.0,AS,AF
+United Arab Emirates,Zambia,242.0,AS,AF
+Cyprus,Zambia,34.0,AS,AF
+Indonesia,Zambia,164.0,AS,AF
+Malaysia,Zambia,272.0,AS,AF
+Sri Lanka,Zambia,60.0,AS,AF
+Thailand,Zambia,19.0,AS,AF
+Lebanon,Zambia,541.0,AS,AF
+Israel,Zambia,5.0,AS,AF
+India,Zimbabwe,6008.0,AS,AF
+India,Zimbabwe,3598.0,AS,AF
+Pakistan,Zimbabwe,14151.0,AS,AF
+Pakistan,Zimbabwe,7508.0,AS,AF
+Turkey,Zimbabwe,85.0,AS,AF
+Turkey,Zimbabwe,387.0,AS,AF
+United Arab Emirates,Zimbabwe,14241.0,AS,AF
+United Arab Emirates,Zimbabwe,2.0,AS,AF
+Indonesia,Zimbabwe,56.0,AS,AF
+Indonesia,Zimbabwe,303.0,AS,AF
+Malaysia,Zimbabwe,419.0,AS,AF
+Malaysia,Zimbabwe,883.0,AS,AF
+Sri Lanka,Zimbabwe,82.0,AS,AF
+Sri Lanka,Zimbabwe,13.0,AS,AF
+Thailand,Zimbabwe,32539.0,AS,AF
+Thailand,Zimbabwe,3060.0,AS,AF
+Japan,Zimbabwe,4.0,AS,AF
+Saudi Arabia,Zimbabwe,136.0,AS,AF
+Saudi Arabia,Zimbabwe,121.0,AS,AF
+Singapore,Zimbabwe,136.0,AS,AF
+Israel,Zimbabwe,9.0,AS,AF
+Israel,Zimbabwe,6.0,AS,AF
+Kuwait,Zimbabwe,3.0,AS,AF
+Kuwait,Zimbabwe,1.0,AS,AF
+India,American Samoa,6.0,AS,OC
+Turkey,American Samoa,45.0,AS,OC
+Indonesia,American Samoa,552.0,AS,OC
+Malaysia,American Samoa,369.0,AS,OC
+Sri Lanka,American Samoa,30.0,AS,OC
+Thailand,American Samoa,143.0,AS,OC
+Philippines,American Samoa,1200.0,AS,OC
+Singapore,American Samoa,38.0,AS,OC
+India,Angola,32916.0,AS,AF
+Pakistan,Angola,15434.0,AS,AF
+Turkey,Angola,89923.0,AS,AF
+United Arab Emirates,Angola,5665.0,AS,AF
+Cyprus,Angola,55.0,AS,AF
+Indonesia,Angola,28542.0,AS,AF
+Malaysia,Angola,93788.0,AS,AF
+Sri Lanka,Angola,3558.0,AS,AF
+Thailand,Angola,125766.0,AS,AF
+Cambodia,Angola,258.0,AS,AF
+Georgia,Angola,2076.0,AS,AF
+Lebanon,Angola,435.0,AS,AF
+Oman,Angola,4766.0,AS,AF
+Singapore,Angola,18779.0,AS,AF
+Israel,Angola,1978.0,AS,AF
+Qatar,Angola,39.0,AS,AF
+India,Aruba,182.0,AS,
+Pakistan,Aruba,11.0,AS,
+Turkey,Aruba,42.0,AS,
+United Arab Emirates,Aruba,117.0,AS,
+Indonesia,Aruba,28.0,AS,
+Malaysia,Aruba,26.0,AS,
+Thailand,Aruba,523.0,AS,
+Jordan,Aruba,6.0,AS,
+Lebanon,Aruba,14.0,AS,
+Philippines,Aruba,111.0,AS,
+Israel,Aruba,12.0,AS,
+India,Bahamas,213.0,AS,
+Pakistan,Bahamas,26.0,AS,
+Turkey,Bahamas,365.0,AS,
+United Arab Emirates,Bahamas,154.0,AS,
+Indonesia,Bahamas,40.0,AS,
+Malaysia,Bahamas,309.0,AS,
+Sri Lanka,Bahamas,3.0,AS,
+Thailand,Bahamas,50.0,AS,
+Thailand,Bahamas,1064.0,AS,
+Philippines,Bahamas,143.0,AS,
+Bahrain,Bahamas,1.0,AS,
+Bahrain,Bahamas,15.0,AS,
+India,Belize,6442.0,AS,
+United Arab Emirates,Belize,10.0,AS,
+Indonesia,Belize,296.0,AS,
+Malaysia,Belize,637.0,AS,
+Sri Lanka,Belize,290.0,AS,
+Thailand,Belize,20.0,AS,
+Thailand,Belize,505.0,AS,
+Cambodia,Belize,49.0,AS,
+Japan,Belize,14.0,AS,
+Philippines,Belize,123.0,AS,
+Singapore,Belize,346.0,AS,
+India,Cayman Islands,20.0,AS,
+United Arab Emirates,Cayman Islands,47.0,AS,
+Malaysia,Cayman Islands,256.0,AS,
+Thailand,Cayman Islands,119.0,AS,
+Philippines,Cayman Islands,79.0,AS,
+Singapore,Cayman Islands,1.0,AS,
+Bahrain,Cayman Islands,6.0,AS,
+India,Chad,132.0,AS,AF
+Turkey,Chad,11158.0,AS,AF
+United Arab Emirates,Chad,1928.0,AS,AF
+Indonesia,Chad,68.0,AS,AF
+Jordan,Chad,55.0,AS,AF
+Lebanon,Chad,293.0,AS,AF
+India,Cuba,3825.0,AS,
+Pakistan,Cuba,213.0,AS,
+Turkey,Cuba,2988.0,AS,
+Indonesia,Cuba,566.0,AS,
+Malaysia,Cuba,914.0,AS,
+Thailand,Cuba,126.0,AS,
+Philippines,Cuba,855.0,AS,
+Singapore,Cuba,12.0,AS,
+Israel,Cuba,23.0,AS,
+India,Dominica,306.0,AS,
+Turkey,Dominica,246.0,AS,
+United Arab Emirates,Dominica,114.0,AS,
+Cyprus,Dominica,26.0,AS,
+Indonesia,Dominica,157.0,AS,
+Malaysia,Dominica,437.0,AS,
+Sri Lanka,Dominica,67.0,AS,
+Thailand,Dominica,11.0,AS,
+Thailand,Dominica,56.0,AS,
+India,Dominican Republic,14306.0,AS,
+Pakistan,Dominican Republic,507.0,AS,
+Turkey,Dominican Republic,4807.0,AS,
+United Arab Emirates,Dominican Republic,10.0,AS,
+Indonesia,Dominican Republic,12106.0,AS,
+Malaysia,Dominican Republic,1388.0,AS,
+Sri Lanka,Dominican Republic,364.0,AS,
+Thailand,Dominican Republic,1122.0,AS,
+Japan,Dominican Republic,23.0,AS,
+Lebanon,Dominican Republic,46.0,AS,
+Philippines,Dominican Republic,4953.0,AS,
+Singapore,Dominican Republic,3590.0,AS,
+Israel,Dominican Republic,78.0,AS,
+India,Equatorial Guinea,1018.0,AS,AF
+Pakistan,Equatorial Guinea,44.0,AS,AF
+Turkey,Equatorial Guinea,6310.0,AS,AF
+United Arab Emirates,Equatorial Guinea,1039.0,AS,AF
+Indonesia,Equatorial Guinea,853.0,AS,AF
+Malaysia,Equatorial Guinea,8079.0,AS,AF
+Thailand,Equatorial Guinea,8938.0,AS,AF
+Lebanon,Equatorial Guinea,133.0,AS,AF
+Singapore,Equatorial Guinea,187.0,AS,AF
+Israel,Equatorial Guinea,263.0,AS,AF
+India,Eritrea,447.0,AS,AF
+Turkey,Eritrea,12097.0,AS,AF
+United Arab Emirates,Eritrea,5980.0,AS,AF
+Indonesia,Eritrea,79.0,AS,AF
+Malaysia,Eritrea,6143.0,AS,AF
+India,French Polynesia,490.0,AS,OC
+Turkey,French Polynesia,35.0,AS,OC
+Indonesia,French Polynesia,224.0,AS,OC
+Malaysia,French Polynesia,1649.0,AS,OC
+Sri Lanka,French Polynesia,9.0,AS,OC
+Thailand,French Polynesia,2475.0,AS,OC
+Thailand,French Polynesia,5469.0,AS,OC
+Japan,French Polynesia,1738.0,AS,OC
+Philippines,French Polynesia,1432.0,AS,OC
+Singapore,French Polynesia,5851.0,AS,OC
+India,Grenada,3.0,AS,
+Turkey,Grenada,71.0,AS,
+Indonesia,Grenada,340.0,AS,
+Malaysia,Grenada,496.0,AS,
+India,Guatemala,3878.0,AS,
+Pakistan,Guatemala,273.0,AS,
+Turkey,Guatemala,2595.0,AS,
+United Arab Emirates,Guatemala,77.0,AS,
+Indonesia,Guatemala,483.0,AS,
+Malaysia,Guatemala,1558.0,AS,
+Sri Lanka,Guatemala,4302.0,AS,
+Thailand,Guatemala,491.0,AS,
+Japan,Guatemala,14.0,AS,
+Philippines,Guatemala,181.0,AS,
+Singapore,Guatemala,10683.0,AS,
+Israel,Guatemala,1010.0,AS,
+India,Guinea-Bissau,2095.0,AS,AF
+Pakistan,Guinea-Bissau,16006.0,AS,AF
+Turkey,Guinea-Bissau,1033.0,AS,AF
+United Arab Emirates,Guinea-Bissau,168.0,AS,AF
+Indonesia,Guinea-Bissau,743.0,AS,AF
+Malaysia,Guinea-Bissau,3395.0,AS,AF
+Sri Lanka,Guinea-Bissau,97.0,AS,AF
+Thailand,Guinea-Bissau,491.0,AS,AF
+Lebanon,Guinea-Bissau,14.0,AS,AF
+Oman,Guinea-Bissau,25.0,AS,AF
+Singapore,Guinea-Bissau,6.0,AS,AF
+Israel,Guinea-Bissau,1.0,AS,AF
+India,Haiti,17662.0,AS,
+Pakistan,Haiti,1746.0,AS,
+Turkey,Haiti,11841.0,AS,
+United Arab Emirates,Haiti,188.0,AS,
+Cyprus,Haiti,8.0,AS,
+Indonesia,Haiti,95947.0,AS,
+Malaysia,Haiti,6716.0,AS,
+Sri Lanka,Haiti,1.0,AS,
+Thailand,Haiti,71.0,AS,
+Cambodia,Haiti,216.0,AS,
+Japan,Haiti,2.0,AS,
+Singapore,Haiti,310.0,AS,
+Israel,Haiti,236.0,AS,
+India,Iraq,462122.0,AS,AS
+Kazakhstan,Iraq,428.0,AS,AS
+Kyrgyzstan,Iraq,3482.0,AS,AS
+Pakistan,Iraq,5319.0,AS,AS
+Turkey,Iraq,2896840.0,AS,AS
+United Arab Emirates,Iraq,630141.0,AS,AS
+Cyprus,Iraq,38.0,AS,AS
+Indonesia,Iraq,11239.0,AS,AS
+Malaysia,Iraq,43600.0,AS,AS
+Sri Lanka,Iraq,110532.0,AS,AS
+Thailand,Iraq,10265.0,AS,AS
+Cambodia,Iraq,440.0,AS,AS
+Georgia,Iraq,36864.0,AS,AS
+Japan,Iraq,4.0,AS,AS
+Jordan,Iraq,96041.0,AS,AS
+Lebanon,Iraq,40739.0,AS,AS
+Oman,Iraq,55610.0,AS,AS
+Philippines,Iraq,3965.0,AS,AS
+Singapore,Iraq,7756.0,AS,AS
+Kuwait,Iraq,151240.0,AS,AS
+Armenia,Iraq,138488.0,AS,AS
+Bahrain,Iraq,28332.0,AS,AS
+India,Lesotho,3.0,AS,AF
+United Arab Emirates,Lesotho,250.0,AS,AF
+India,Liberia,69342.0,AS,AF
+Pakistan,Liberia,25.0,AS,AF
+Turkey,Liberia,3695.0,AS,AF
+United Arab Emirates,Liberia,3511.0,AS,AF
+Cyprus,Liberia,9.0,AS,AF
+Indonesia,Liberia,14583.0,AS,AF
+Malaysia,Liberia,11950.0,AS,AF
+Sri Lanka,Liberia,486.0,AS,AF
+Thailand,Liberia,701.0,AS,AF
+Jordan,Liberia,567.0,AS,AF
+Lebanon,Liberia,3733.0,AS,AF
+Oman,Liberia,577.0,AS,AF
+Singapore,Liberia,424.0,AS,AF
+Israel,Liberia,1.0,AS,AF
+Kuwait,Liberia,274.0,AS,AF
+Bahrain,Liberia,250.0,AS,AF
+India,Marshall Islands,17.0,AS,OC
+Turkey,Marshall Islands,121.0,AS,OC
+Indonesia,Marshall Islands,150.0,AS,OC
+Malaysia,Marshall Islands,159.0,AS,OC
+Thailand,Marshall Islands,342.0,AS,OC
+Japan,Marshall Islands,530.0,AS,OC
+Philippines,Marshall Islands,1001.0,AS,OC
+Singapore,Marshall Islands,157.0,AS,OC
+Bahrain,Marshall Islands,116.0,AS,OC
+India,Mozambique,18586.0,AS,AF
+Pakistan,Mozambique,83207.0,AS,AF
+Turkey,Mozambique,1510.0,AS,AF
+United Arab Emirates,Mozambique,1778.0,AS,AF
+Cyprus,Mozambique,1.0,AS,AF
+Indonesia,Mozambique,15623.0,AS,AF
+Malaysia,Mozambique,126095.0,AS,AF
+Thailand,Mozambique,117030.0,AS,AF
+Lebanon,Mozambique,54.0,AS,AF
+Singapore,Mozambique,109.0,AS,AF
+India,Myanmar,576458.0,AS,AS
+Pakistan,Myanmar,1186.0,AS,AS
+Turkey,Myanmar,4800.0,AS,AS
+United Arab Emirates,Myanmar,77270.0,AS,AS
+Cyprus,Myanmar,7.0,AS,AS
+Indonesia,Myanmar,402754.0,AS,AS
+Malaysia,Myanmar,247741.0,AS,AS
+Sri Lanka,Myanmar,398.0,AS,AS
+Thailand,Myanmar,1178921.0,AS,AS
+Cambodia,Myanmar,14.0,AS,AS
+Japan,Myanmar,1926.0,AS,AS
+Oman,Myanmar,737.0,AS,AS
+Philippines,Myanmar,1458.0,AS,AS
+Singapore,Myanmar,140065.0,AS,AS
+Israel,Myanmar,25.0,AS,AS
+India,Nauru,3.0,AS,OC
+Indonesia,Nauru,228.0,AS,OC
+Malaysia,Nauru,321.0,AS,OC
+Thailand,Nauru,118.0,AS,OC
+Singapore,Nauru,419.0,AS,OC
+India,New Caledonia,949.0,AS,OC
+Turkey,New Caledonia,65.0,AS,OC
+United Arab Emirates,New Caledonia,61.0,AS,OC
+Indonesia,New Caledonia,430.0,AS,OC
+Malaysia,New Caledonia,3401.0,AS,OC
+Thailand,New Caledonia,4849.0,AS,OC
+Thailand,New Caledonia,7195.0,AS,OC
+Japan,New Caledonia,24.0,AS,OC
+Philippines,New Caledonia,380.0,AS,OC
+Singapore,New Caledonia,2885.0,AS,OC
+Israel,New Caledonia,1.0,AS,OC
+India,Nicaragua,515.0,AS,
+Turkey,Nicaragua,413.0,AS,
+Indonesia,Nicaragua,3918.0,AS,
+Malaysia,Nicaragua,228.0,AS,
+Sri Lanka,Nicaragua,1911.0,AS,
+Thailand,Nicaragua,12.0,AS,
+Japan,Nicaragua,4.0,AS,
+India,Northern Mariana Islands,1.0,AS,OC
+Indonesia,Northern Mariana Islands,157.0,AS,OC
+Malaysia,Northern Mariana Islands,38.0,AS,OC
+Thailand,Northern Mariana Islands,547.0,AS,OC
+Japan,Northern Mariana Islands,1800.0,AS,OC
+Philippines,Northern Mariana Islands,1589.0,AS,OC
+Singapore,Northern Mariana Islands,422.0,AS,OC
+India,Panama,6194.0,AS,
+Pakistan,Panama,18.0,AS,
+Turkey,Panama,4093.0,AS,
+United Arab Emirates,Panama,122.0,AS,
+Indonesia,Panama,3434.0,AS,
+Malaysia,Panama,3245.0,AS,
+Sri Lanka,Panama,321.0,AS,
+Thailand,Panama,1595.0,AS,
+Cambodia,Panama,156.0,AS,
+Georgia,Panama,273.0,AS,
+Japan,Panama,5.0,AS,
+Japan,Panama,148.0,AS,
+Jordan,Panama,23.0,AS,
+Lebanon,Panama,3.0,AS,
+Lebanon,Panama,334.0,AS,
+Philippines,Panama,76.0,AS,
+Singapore,Panama,4286.0,AS,
+Israel,Panama,713.0,AS,
+Bahrain,Panama,2.0,AS,
+Bahrain,Panama,78.0,AS,
+India,Saint Vincent and the Grenadines,37.0,AS,
+Turkey,Saint Vincent and the Grenadines,184.0,AS,
+United Arab Emirates,Saint Vincent and the Grenadines,62.0,AS,
+Indonesia,Saint Vincent and the Grenadines,35.0,AS,
+Malaysia,Saint Vincent and the Grenadines,621.0,AS,
+Thailand,Saint Vincent and the Grenadines,23.0,AS,
+Bahrain,Saint Vincent and the Grenadines,1.0,AS,
+India,Samoa,343.0,AS,OC
+Turkey,Samoa,314.0,AS,OC
+Indonesia,Samoa,3092.0,AS,OC
+Malaysia,Samoa,2455.0,AS,OC
+Sri Lanka,Samoa,25.0,AS,OC
+Thailand,Samoa,3461.0,AS,OC
+Japan,Samoa,10.0,AS,OC
+Oman,Samoa,27.0,AS,OC
+Philippines,Samoa,623.0,AS,OC
+Singapore,Samoa,607.0,AS,OC
+India,San Marino,5.0,AS,EU
+Indonesia,San Marino,18.0,AS,EU
+Israel,San Marino,2.0,AS,EU
+India,Solomon Islands,559.0,AS,OC
+Turkey,Solomon Islands,14.0,AS,OC
+Indonesia,Solomon Islands,6272.0,AS,OC
+Malaysia,Solomon Islands,6433.0,AS,OC
+Sri Lanka,Solomon Islands,6.0,AS,OC
+Thailand,Solomon Islands,1219.0,AS,OC
+Japan,Solomon Islands,4.0,AS,OC
+Philippines,Solomon Islands,400.0,AS,OC
+Singapore,Solomon Islands,712.0,AS,OC
+India,Somalia,315971.0,AS,AF
+Pakistan,Somalia,18857.0,AS,AF
+Turkey,Somalia,74424.0,AS,AF
+United Arab Emirates,Somalia,167211.0,AS,AF
+Cyprus,Somalia,28.0,AS,AF
+Indonesia,Somalia,13174.0,AS,AF
+Malaysia,Somalia,77315.0,AS,AF
+Sri Lanka,Somalia,40.0,AS,AF
+Thailand,Somalia,1972.0,AS,AF
+Jordan,Somalia,836.0,AS,AF
+Lebanon,Somalia,78.0,AS,AF
+Oman,Somalia,99126.0,AS,AF
+Philippines,Somalia,258.0,AS,AF
+Singapore,Somalia,59.0,AS,AF
+Kuwait,Somalia,6.0,AS,AF
+Bahrain,Somalia,82.0,AS,AF
+India,Tajikistan,1308.0,AS,AS
+Kazakhstan,Tajikistan,228390.0,AS,AS
+Kyrgyzstan,Tajikistan,2312.0,AS,AS
+Pakistan,Tajikistan,2678.0,AS,AS
+Turkey,Tajikistan,13497.0,AS,AS
+United Arab Emirates,Tajikistan,1402.0,AS,AS
+Malaysia,Tajikistan,88.0,AS,AS
+Sri Lanka,Tajikistan,463.0,AS,AS
+Thailand,Tajikistan,64.0,AS,AS
+Georgia,Tajikistan,3555.0,AS,AS
+Japan,Tajikistan,1512.0,AS,AS
+India,Timor-Leste,140.0,AS,AS
+Pakistan,Timor-Leste,3334.0,AS,AS
+Turkey,Timor-Leste,42.0,AS,AS
+United Arab Emirates,Timor-Leste,2466.0,AS,AS
+Indonesia,Timor-Leste,100412.0,AS,AS
+Malaysia,Timor-Leste,3628.0,AS,AS
+Thailand,Timor-Leste,8839.0,AS,AS
+Cambodia,Timor-Leste,17.0,AS,AS
+Philippines,Timor-Leste,138.0,AS,AS
+Singapore,Timor-Leste,9566.0,AS,AS
+India,Tonga,179.0,AS,OC
+Turkey,Tonga,72.0,AS,OC
+United Arab Emirates,Tonga,155.0,AS,OC
+Indonesia,Tonga,2187.0,AS,OC
+Malaysia,Tonga,1291.0,AS,OC
+Thailand,Tonga,504.0,AS,OC
+Philippines,Tonga,195.0,AS,OC
+Singapore,Tonga,202.0,AS,OC
+India,Turkmenistan,1555.0,AS,AS
+Kazakhstan,Turkmenistan,30055.0,AS,AS
+Kyrgyzstan,Turkmenistan,1002.0,AS,AS
+Pakistan,Turkmenistan,548.0,AS,AS
+Turkey,Turkmenistan,51683.0,AS,AS
+United Arab Emirates,Turkmenistan,6746.0,AS,AS
+Indonesia,Turkmenistan,1651.0,AS,AS
+Malaysia,Turkmenistan,5758.0,AS,AS
+Sri Lanka,Turkmenistan,655.0,AS,AS
+Thailand,Turkmenistan,34.0,AS,AS
+Georgia,Turkmenistan,3997.0,AS,AS
+Armenia,Turkmenistan,340.0,AS,AS
+Qatar,Turkmenistan,40.0,AS,AS
+India,Tuvalu,42.0,AS,OC
+Indonesia,Tuvalu,39.0,AS,OC
+Malaysia,Tuvalu,85.0,AS,OC
+Thailand,Tuvalu,75.0,AS,OC
+Philippines,Tuvalu,21.0,AS,OC
+Singapore,Tuvalu,118.0,AS,OC
+Bahrain,Tuvalu,14.0,AS,OC
+India,Uzbekistan,4849.0,AS,AS
+Kazakhstan,Uzbekistan,426234.0,AS,AS
+Kyrgyzstan,Uzbekistan,4293.0,AS,AS
+Pakistan,Uzbekistan,12.0,AS,AS
+Turkey,Uzbekistan,19795.0,AS,AS
+United Arab Emirates,Uzbekistan,5377.0,AS,AS
+Indonesia,Uzbekistan,317.0,AS,AS
+Malaysia,Uzbekistan,13788.0,AS,AS
+Sri Lanka,Uzbekistan,5491.0,AS,AS
+Thailand,Uzbekistan,290.0,AS,AS
+Georgia,Uzbekistan,2231.0,AS,AS
+Japan,Uzbekistan,9.0,AS,AS
+Philippines,Uzbekistan,950.0,AS,AS
+Singapore,Uzbekistan,33.0,AS,AS
+Israel,Uzbekistan,2092.0,AS,AS
+Mongolia,Uzbekistan,4.0,AS,AS
+India,Vanuatu,36.0,AS,OC
+Turkey,Vanuatu,29.0,AS,OC
+United Arab Emirates,Vanuatu,21.0,AS,OC
+Indonesia,Vanuatu,1547.0,AS,OC
+Malaysia,Vanuatu,564.0,AS,OC
+Thailand,Vanuatu,54.0,AS,OC
+Thailand,Vanuatu,1328.0,AS,OC
+Japan,Vanuatu,4.0,AS,OC
+Philippines,Vanuatu,196.0,AS,OC
+Singapore,Vanuatu,2278.0,AS,OC
+Bahrain,Vanuatu,5.0,AS,OC
+Bahrain,Vanuatu,119.0,AS,OC
+India,Viet Nam,889464.0,AS,AS
+Kazakhstan,Viet Nam,49.0,AS,AS
+Kyrgyzstan,Viet Nam,170.0,AS,AS
+Pakistan,Viet Nam,53781.0,AS,AS
+Turkey,Viet Nam,69816.0,AS,AS
+United Arab Emirates,Viet Nam,144129.0,AS,AS
+Cyprus,Viet Nam,389.0,AS,AS
+Indonesia,Viet Nam,733649.0,AS,AS
+Malaysia,Viet Nam,750062.0,AS,AS
+Sri Lanka,Viet Nam,14788.0,AS,AS
+Thailand,Viet Nam,1358200.0,AS,AS
+Cambodia,Viet Nam,152755.0,AS,AS
+Georgia,Viet Nam,560.0,AS,AS
+Japan,Viet Nam,122639.0,AS,AS
+Jordan,Viet Nam,229.0,AS,AS
+Lebanon,Viet Nam,7.0,AS,AS
+Oman,Viet Nam,2153.0,AS,AS
+Philippines,Viet Nam,59255.0,AS,AS
+Singapore,Viet Nam,1326450.0,AS,AS
+Israel,Viet Nam,4458.0,AS,AS
+Kuwait,Viet Nam,119.0,AS,AS
+Armenia,Viet Nam,22.0,AS,AS
+Mongolia,Viet Nam,378.0,AS,AS
+Kazakhstan,India,1098.0,AS,AS
+Kazakhstan,India,213.0,AS,AS
+Kyrgyzstan,India,1332.0,AS,AS
+Kyrgyzstan,India,148.0,AS,AS
+Pakistan,India,141331.0,AS,AS
+Pakistan,India,118748.0,AS,AS
+Turkey,India,76975.0,AS,AS
+Turkey,India,83660.0,AS,AS
+United Arab Emirates,India,359256.0,AS,AS
+United Arab Emirates,India,134059.0,AS,AS
+Cyprus,India,64.0,AS,AS
+Cyprus,India,38.0,AS,AS
+Indonesia,India,4501018.0,AS,AS
+Indonesia,India,4188799.0,AS,AS
+Malaysia,India,2165178.0,AS,AS
+Malaysia,India,1886485.0,AS,AS
+Sri Lanka,India,152332.0,AS,AS
+Sri Lanka,India,163872.0,AS,AS
+Thailand,India,209360.0,AS,AS
+Thailand,India,210185.0,AS,AS
+Viet Nam,India,456003.0,AS,AS
+Afghanistan,India,206713.0,AS,AS
+Azerbaijan,India,350.0,AS,AS
+Cambodia,India,10480.0,AS,AS
+Cambodia,India,8197.0,AS,AS
+Georgia,India,244.0,AS,AS
+Georgia,India,10.0,AS,AS
+Iraq,India,58622.0,AS,AS
+Japan,India,5966.0,AS,AS
+Japan,India,4891.0,AS,AS
+Jordan,India,670.0,AS,AS
+Jordan,India,262.0,AS,AS
+Lebanon,India,885.0,AS,AS
+Lebanon,India,237.0,AS,AS
+Myanmar,India,601126.0,AS,AS
+Oman,India,11516.0,AS,AS
+Oman,India,12971.0,AS,AS
+Philippines,India,41359.0,AS,AS
+Philippines,India,44183.0,AS,AS
+Saudi Arabia,India,19359.0,AS,AS
+Singapore,India,69895.0,AS,AS
+Singapore,India,150140.0,AS,AS
+Syrian Arab Republic,India,26041.0,AS,AS
+Uzbekistan,India,21682.0,AS,AS
+Israel,India,18892.0,AS,AS
+Israel,India,21423.0,AS,AS
+Bangladesh,India,139768.0,AS,AS
+Kuwait,India,1702.0,AS,AS
+Kuwait,India,871.0,AS,AS
+Turkmenistan,India,18154.0,AS,AS
+Armenia,India,63.0,AS,AS
+Bahrain,India,1081.0,AS,AS
+Bahrain,India,1520.0,AS,AS
+Nepal,India,173188.0,AS,AS
+Nepal,India,23.0,AS,AS
+Qatar,India,533.0,AS,AS
+Qatar,India,27.0,AS,AS
+Timor-Leste,India,31.0,AS,AS
+Yemen,India,1098.0,AS,AS
+Mongolia,India,1979.0,AS,AS
+Mongolia,India,1428.0,AS,AS
+Maldives,India,10.0,AS,AS
+Brunei Darussalam,India,33.0,AS,AS
+Bhutan,India,4129.0,AS,AS
+Indonesia,Cook Islands,82.0,AS,OC
+Malaysia,Cook Islands,59.0,AS,OC
+Thailand,Cook Islands,41.0,AS,OC
+Singapore,Cook Islands,215.0,AS,OC
+Turkey,Guam,847.0,AS,OC
+Indonesia,Guam,68.0,AS,OC
+Malaysia,Guam,329.0,AS,OC
+Thailand,Guam,4469.0,AS,OC
+Japan,Guam,6994.0,AS,OC
+Philippines,Guam,10522.0,AS,OC
+Singapore,Guam,7305.0,AS,OC
+United Arab Emirates,Montserrat,1.0,AS,
+Singapore,Niue,26.0,AS,OC
+United Arab Emirates,Saint Kitts and Nevis,18.0,AS,
+Cyprus,Saint Kitts and Nevis,55.0,AS,
+Indonesia,Saint Kitts and Nevis,10.0,AS,
+Thailand,Saint Kitts and Nevis,2.0,AS,
+Israel,Turks and Caicos Islands,171.0,AS,
+United Arab Emirates,Gibraltar,20.0,AS,EU
+Malaysia,Gibraltar,2.0,AS,EU
+Thailand,Gibraltar,67.0,AS,EU
+Israel,Gibraltar,9.0,AS,EU
+Bahrain,Gibraltar,1.0,AS,EU
+Indonesia,Anguilla,37.0,AS,
+Malaysia,Anguilla,4.0,AS,
+Japan,Anguilla,46.0,AS,
+Indonesia,Palau,12.0,AS,OC
+Malaysia,Palau,14.0,AS,OC
+Thailand,Palau,267.0,AS,OC
+Japan,Palau,1081.0,AS,OC
+Philippines,Palau,1107.0,AS,OC
+Singapore,Palau,1168.0,AS,OC
+Malaysia,Andorra,23.0,AS,EU
+Thailand,Andorra,2.0,AS,EU
+Lebanon,Andorra,4.0,AS,EU
+Philippines,Andorra,1.0,AS,EU
+Bahrain,Tokelau,159.0,AS,OC

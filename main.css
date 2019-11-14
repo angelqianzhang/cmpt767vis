@@ -16,7 +16,13 @@ body {
     margin: auto;
     padding: 0;
 
-    max-width: 1440px;
+    max-width: 4060px;
+    max-height: 3060px;
+}
+
+#chart {
+    width: 2900px;
+    height: 1900px;
 }
 
 h1 {
@@ -50,13 +56,13 @@ h2 {
   	pointer-events: all;
   	cursor: ew-resize;
 }
-
+/*
 .large-vis {
-    width: 2580px;
-    height: 1380px;
-    min-width: 1000px;
-    margin: 15px 0 0 15px;
-}
+    width: 3660px;
+    height: 1560px;
+    /*min-width: 1000px;*/
+   /* margin: 0 0 0 15px;
+}*/
 
 .line {
   fill: none;
@@ -112,4 +118,38 @@ h2 {
   margin: -2px 0 0 0;
   top: 100%;
   left: 0;
+}
+
+path.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+path.link.twofive {
+  opacity: 0.25;
+}
+
+path.link.fivezero {
+  opacity: 0.50;
+}
+
+path.link.sevenfive {
+  opacity: 0.75;
+}
+
+path.link.onezerozero {
+  opacity: 1.0;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  fill: #000;
+  font: 10px sans-serif;
+  pointer-events: none;
 }

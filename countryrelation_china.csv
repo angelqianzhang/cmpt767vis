@@ -1,0 +1,606 @@
+source,target,value
+"China, mainland",Albania,1346.0
+"China, mainland",Algeria,129269.0
+"China, mainland",Antigua and Barbuda,251.0
+"China, mainland",Argentina,48404.0
+"China, mainland",Armenia,3597.0
+"China, mainland",Aruba,409.0
+"China, mainland",Australia,666209.0
+"China, mainland",Austria,52588.0
+"China, mainland",Bahrain,29381.0
+"China, mainland",Bangladesh,1597.0
+"China, mainland",Barbados,1235.0
+"China, mainland",Belarus,82047.0
+"China, mainland",Belgium,246325.0
+"China, mainland",Benin,16128.0
+"China, mainland",Bermuda,93.0
+"China, mainland",Bosnia and Herzegovina,5050.0
+"China, mainland",Botswana,53.0
+"China, mainland",Brazil,491341.0
+"China, mainland",Bulgaria,34036.0
+"China, mainland",Burkina Faso,7377.0
+"China, mainland",Burundi,407.0
+"China, mainland",Cabo Verde,1042.0
+"China, mainland",Cambodia,24435.0
+"China, mainland",Cameroon,5.0
+"China, mainland",Canada,677180.0
+"China, mainland",Chile,97960.0
+"China, mainland","China, Hong Kong SAR",4709001.0
+"China, mainland","China, Macao SAR",396967.0
+"China, mainland","China, Taiwan Province of",528860.0
+Afghanistan,"China, mainland",549.0
+Albania,"China, mainland",371.0
+Algeria,"China, mainland",567.0
+Angola,"China, mainland",286.0
+Argentina,"China, mainland",3915707.0
+Armenia,"China, mainland",580.0
+Australia,"China, mainland",4962432.0
+Austria,"China, mainland",71918.0
+Azerbaijan,"China, mainland",702.0
+Bahamas,"China, mainland",49.0
+Bahrain,"China, mainland",220.0
+Bangladesh,"China, mainland",27819.0
+Barbados,"China, mainland",32.0
+Belarus,"China, mainland",24045.0
+Belgium,"China, mainland",336410.0
+Benin,"China, mainland",15757.0
+Bermuda,"China, mainland",63.0
+Bhutan,"China, mainland",1.0
+Bolivia (Plurinational State of),"China, mainland",3055.0
+Bosnia and Herzegovina,"China, mainland",240.0
+Brazil,"China, mainland",19002837.0
+Bulgaria,"China, mainland",10764.0
+Burkina Faso,"China, mainland",5125.0
+Burundi,"China, mainland",1273.0
+Cambodia,"China, mainland",117162.0
+Cameroon,"China, mainland",62336.0
+Canada,"China, mainland",4578466.0
+Central African Republic,"China, mainland",776.0
+Chad,"China, mainland",770.0
+Chile,"China, mainland",1766355.0
+"China, Hong Kong SAR","China, mainland",285330.0
+"China, Macao SAR","China, mainland",14028.0
+"China, Taiwan Province of","China, mainland",610503.0
+Colombia,"China, mainland",14940.0
+Comoros,"China, mainland",13.0
+Congo,"China, mainland",10.0
+Cook Islands,"China, mainland",79.0
+Costa Rica,"China, mainland",47431.0
+Croatia,"China, mainland",6763.0
+Cuba,"China, mainland",180079.0
+Cyprus,"China, mainland",9086.0
+Czechia,"China, mainland",32837.0
+Côte d'Ivoire,"China, mainland",84082.0
+Democratic People's Republic of Korea,"China, mainland",73376.0
+Democratic Republic of the Congo,"China, mainland",295.0
+Denmark,"China, mainland",1061968.0
+Djibouti,"China, mainland",18.0
+Dominica,"China, mainland",66.0
+Dominican Republic,"China, mainland",4337.0
+Ecuador,"China, mainland",157077.0
+Egypt,"China, mainland",40678.0
+El Salvador,"China, mainland",206.0
+Estonia,"China, mainland",782.0
+Ethiopia,"China, mainland",337537.0
+Fiji,"China, mainland",4558.0
+Finland,"China, mainland",51471.0
+France,"China, mainland",3175445.0
+French Polynesia,"China, mainland",3112.0
+Gabon,"China, mainland",69.0
+Georgia,"China, mainland",12574.0
+Germany,"China, mainland",2225541.0
+Ghana,"China, mainland",39682.0
+Greece,"China, mainland",34974.0
+Greenland,"China, mainland",268.0
+Guatemala,"China, mainland",15173.0
+Guinea,"China, mainland",8.0
+Guyana,"China, mainland",581.0
+Haiti,"China, mainland",127.0
+Honduras,"China, mainland",1425.0
+Hungary,"China, mainland",83769.0
+Iceland,"China, mainland",1002.0
+India,"China, mainland",698701.0
+Indonesia,"China, mainland",4082994.0
+Iran (Islamic Republic of),"China, mainland",27811.0
+Iraq,"China, mainland",2104.0
+Ireland,"China, mainland",816298.0
+Israel,"China, mainland",63931.0
+Italy,"China, mainland",531983.0
+Jamaica,"China, mainland",844.0
+Japan,"China, mainland",366835.0
+Jordan,"China, mainland",1486.0
+Kazakhstan,"China, mainland",140612.0
+Kenya,"China, mainland",5920.0
+Kuwait,"China, mainland",44.0
+Kyrgyzstan,"China, mainland",13685.0
+Lao People's Democratic Republic,"China, mainland",204503.0
+Latvia,"China, mainland",10675.0
+Lebanon,"China, mainland",213.0
+Lesotho,"China, mainland",99.0
+Liberia,"China, mainland",1096.0
+Lithuania,"China, mainland",4425.0
+Luxembourg,"China, mainland",1183.0
+Madagascar,"China, mainland",3015.0
+Malawi,"China, mainland",24533.0
+Malaysia,"China, mainland",2563187.0
+Mali,"China, mainland",93332.0
+Malta,"China, mainland",82.0
+Mauritius,"China, mainland",1215.0
+Mexico,"China, mainland",138947.0
+Mongolia,"China, mainland",266275.0
+Montenegro,"China, mainland",1149.0
+Morocco,"China, mainland",9552.0
+Mozambique,"China, mainland",38957.0
+Myanmar,"China, mainland",240162.0
+Namibia,"China, mainland",120.0
+Nepal,"China, mainland",86.0
+Netherlands,"China, mainland",2047813.0
+New Zealand,"China, mainland",3751641.0
+Nicaragua,"China, mainland",4244.0
+Niger,"China, mainland",123438.0
+Nigeria,"China, mainland",21642.0
+North Macedonia,"China, mainland",1729.0
+Norway,"China, mainland",8080.0
+Oman,"China, mainland",62.0
+Pakistan,"China, mainland",313911.0
+Panama,"China, mainland",1639.0
+Papua New Guinea,"China, mainland",5925.0
+Paraguay,"China, mainland",5053.0
+Peru,"China, mainland",234118.0
+Philippines,"China, mainland",585882.0
+Poland,"China, mainland",129125.0
+Portugal,"China, mainland",66184.0
+Republic of Korea,"China, mainland",816191.0
+Republic of Moldova,"China, mainland",8692.0
+Romania,"China, mainland",22174.0
+Russian Federation,"China, mainland",527397.0
+Rwanda,"China, mainland",296.0
+Samoa,"China, mainland",136.0
+Saudi Arabia,"China, mainland",3614.0
+Senegal,"China, mainland",129401.0
+Serbia,"China, mainland",73380.0
+Singapore,"China, mainland",416822.0
+Slovakia,"China, mainland",1504.0
+Slovenia,"China, mainland",5472.0
+Solomon Islands,"China, mainland",17.0
+Somalia,"China, mainland",5044.0
+South Africa,"China, mainland",306745.0
+Spain,"China, mainland",1378667.0
+Sri Lanka,"China, mainland",48266.0
+Sudan,"China, mainland",159842.0
+Suriname,"China, mainland",103.0
+Sweden,"China, mainland",77611.0
+Switzerland,"China, mainland",154383.0
+Syrian Arab Republic,"China, mainland",2310.0
+Tajikistan,"China, mainland",2710.0
+Thailand,"China, mainland",5843891.0
+Timor-Leste,"China, mainland",226.0
+Togo,"China, mainland",102710.0
+Tonga,"China, mainland",24.0
+Trinidad and Tobago,"China, mainland",21.0
+Tunisia,"China, mainland",2354.0
+Turkey,"China, mainland",138781.0
+Turkmenistan,"China, mainland",37651.0
+Uganda,"China, mainland",16211.0
+Ukraine,"China, mainland",1269371.0
+United Arab Emirates,"China, mainland",12440.0
+United Kingdom,"China, mainland",511517.0
+United Republic of Tanzania,"China, mainland",128299.0
+United States of America,"China, mainland",21792263.0
+Unspecified Area,"China, mainland",389580.0
+Uruguay,"China, mainland",1377327.0
+Uzbekistan,"China, mainland",216669.0
+Vanuatu,"China, mainland",271.0
+Venezuela (Bolivarian Republic of),"China, mainland",69.0
+Viet Nam,"China, mainland",2739226.0
+Yemen,"China, mainland",22.0
+Zambia,"China, mainland",62285.0
+Zimbabwe,"China, mainland",589703.0
+"China, mainland",Colombia,94821.0
+"China, mainland",Costa Rica,43798.0
+"China, mainland",Croatia,9017.0
+"China, mainland",Cyprus,3671.0
+"China, mainland",Czechia,65632.0
+"China, mainland",Côte d'Ivoire,20692.0
+"China, mainland",Democratic Republic of the Congo,44.0
+"China, mainland",Denmark,92580.0
+"China, mainland",Ecuador,24459.0
+"China, mainland",Egypt,1268.0
+"China, mainland",El Salvador,7121.0
+"China, mainland",Estonia,2979.0
+"China, mainland",Ethiopia,18579.0
+"China, mainland",Fiji,13721.0
+"China, mainland",Finland,18065.0
+"China, mainland",France,335011.0
+"China, mainland",Gambia,3523.0
+"China, mainland",Georgia,18506.0
+"China, mainland",Germany,1272802.0
+"China, mainland",Ghana,77647.0
+"China, mainland",Greece,36374.0
+"China, mainland",Greenland,285.0
+"China, mainland",Guyana,6152.0
+"China, mainland",Honduras,9156.0
+"China, mainland",Hungary,19973.0
+"China, mainland",Iceland,3365.0
+"China, mainland",India,534250.0
+"China, mainland",Indonesia,1739016.0
+"China, mainland",Iran (Islamic Republic of),62.0
+"China, mainland",Ireland,34090.0
+"China, mainland",Israel,88911.0
+"China, mainland",Italy,440782.0
+"China, mainland",Jamaica,5202.0
+"China, mainland",Japan,5955147.0
+"China, mainland",Jordan,43716.0
+"China, mainland",Kazakhstan,112533.0
+"China, mainland",Kiribati,2807.0
+"China, mainland",Kuwait,41714.0
+"China, mainland",Kyrgyzstan,40127.0
+"China, mainland",Latvia,6756.0
+"China, mainland",Lebanon,49704.0
+"China, mainland",Lithuania,14914.0
+"China, mainland",Luxembourg,165.0
+"China, mainland",Madagascar,5525.0
+"China, mainland",Malawi,5583.0
+"China, mainland",Malaysia,1369871.0
+"China, mainland",Maldives,5166.0
+"China, mainland",Mali,37682.0
+"China, mainland",Malta,2159.0
+"China, mainland",Mauritania,22638.0
+"China, mainland",Mauritius,24086.0
+"China, mainland",Mexico,166505.0
+"China, mainland",Mongolia,85175.0
+"China, mainland",Montenegro,1101.0
+"China, mainland",Morocco,227692.0
+"China, mainland",Namibia,7412.0
+"China, mainland",Nepal,208.0
+"China, mainland",Netherlands,915078.0
+"China, mainland",New Zealand,146782.0
+"China, mainland",Niger,22312.0
+"China, mainland",North Macedonia,5746.0
+"China, mainland",Norway,133319.0
+"China, mainland",Oman,16657.0
+"China, mainland",Pakistan,259401.0
+"China, mainland",Paraguay,10023.0
+"China, mainland",Peru,43586.0
+"China, mainland",Philippines,792442.0
+"China, mainland",Poland,139207.0
+"China, mainland",Portugal,33702.0
+"China, mainland",Qatar,30401.0
+"China, mainland",Republic of Korea,2360868.0
+"China, mainland",Republic of Moldova,6093.0
+"China, mainland",Romania,113579.0
+"China, mainland",Russian Federation,1265574.0
+"China, mainland",Saint Lucia,87.0
+"China, mainland",Sao Tome and Principe,72.0
+"China, mainland",Saudi Arabia,46.0
+"China, mainland",Senegal,36225.0
+"China, mainland",Serbia,11134.0
+"China, mainland",Seychelles,3709.0
+"China, mainland",Sierra Leone,45.0
+"China, mainland",Singapore,900197.0
+"China, mainland",Slovakia,8032.0
+"China, mainland",Slovenia,11497.0
+"China, mainland",South Africa,173076.0
+"China, mainland",Spain,430546.0
+"China, mainland",Sri Lanka,112036.0
+"China, mainland",Sweden,65410.0
+"China, mainland",Switzerland,118171.0
+"China, mainland",Syrian Arab Republic,410.0
+"China, mainland",Thailand,1295405.0
+"China, mainland",Togo,15410.0
+"China, mainland",Tunisia,11494.0
+"China, mainland",Turkey,106610.0
+"China, mainland",Tuvalu,23.0
+"China, mainland",Uganda,3783.0
+"China, mainland",United Arab Emirates,381755.0
+"China, mainland",United Kingdom,710262.0
+"China, mainland",United Republic of Tanzania,5043.0
+"China, mainland",United States of America,4037335.0
+"China, mainland",Uruguay,9374.0
+"China, mainland",Zimbabwe,16874.0
+Albania,"China, mainland",138.0
+Algeria,"China, mainland",317.0
+Argentina,"China, mainland",3445766.0
+Armenia,"China, mainland",328.0
+Aruba,"China, mainland",263.0
+Australia,"China, mainland",4443422.0
+Austria,"China, mainland",50719.0
+Bahrain,"China, mainland",165.0
+Belarus,"China, mainland",16914.0
+Belgium,"China, mainland",402330.0
+Benin,"China, mainland",15610.0
+Bosnia and Herzegovina,"China, mainland",269.0
+Botswana,"China, mainland",1205.0
+Brazil,"China, mainland",17745987.0
+Bulgaria,"China, mainland",9997.0
+Burkina Faso,"China, mainland",38738.0
+Cambodia,"China, mainland",105331.0
+Canada,"China, mainland",4436073.0
+Chile,"China, mainland",1653629.0
+"China, Hong Kong SAR","China, mainland",4812623.0
+"China, Macao SAR","China, mainland",1143.0
+"China, Taiwan Province of","China, mainland",626529.0
+"China, mainland",Afghanistan,20360.0
+"China, mainland",Albania,6233.0
+"China, mainland",Algeria,115431.0
+"China, mainland",Angola,21904.0
+"China, mainland",Antigua and Barbuda,38.0
+"China, mainland",Argentina,41928.0
+"China, mainland",Armenia,1596.0
+"China, mainland",Aruba,93.0
+"China, mainland",Australia,609463.0
+"China, mainland",Austria,23076.0
+"China, mainland",Azerbaijan,2731.0
+"China, mainland",Bahamas,314.0
+"China, mainland",Bahrain,30892.0
+"China, mainland",Bangladesh,318666.0
+"China, mainland",Barbados,720.0
+"China, mainland",Belarus,7601.0
+"China, mainland",Belgium,392106.0
+"China, mainland",Belize,9302.0
+"China, mainland",Benin,116658.0
+"China, mainland",Bermuda,38.0
+"China, mainland",Bhutan,409.0
+"China, mainland",Bolivia (Plurinational State of),9772.0
+"China, mainland",Bosnia and Herzegovina,541.0
+"China, mainland",Botswana,49.0
+"China, mainland",Brazil,490990.0
+"China, mainland",British Virgin Islands,14.0
+"China, mainland",Brunei Darussalam,11289.0
+"China, mainland",Bulgaria,22485.0
+"China, mainland",Burkina Faso,5267.0
+"China, mainland",Burundi,5144.0
+"China, mainland",Cabo Verde,2031.0
+"China, mainland",Cambodia,37766.0
+"China, mainland",Cameroon,22225.0
+"China, mainland",Canada,566907.0
+"China, mainland",Central African Republic,204.0
+"China, mainland",Chad,4326.0
+"China, mainland",Chile,124069.0
+"China, mainland","China, Hong Kong SAR",7245673.0
+"China, mainland","China, Macao SAR",322973.0
+"China, mainland","China, Taiwan Province of",654660.0
+"China, mainland",Colombia,91856.0
+"China, mainland",Comoros,832.0
+"China, mainland",Congo,6541.0
+"China, mainland",Costa Rica,38039.0
+"China, mainland",Croatia,14863.0
+"China, mainland",Cuba,43223.0
+"China, mainland",Cyprus,4349.0
+"China, mainland",Czechia,45922.0
+"China, mainland",Côte d'Ivoire,55774.0
+"China, mainland",Democratic People's Republic of Korea,281516.0
+"China, mainland",Democratic Republic of the Congo,26593.0
+"China, mainland",Denmark,96280.0
+"China, mainland",Djibouti,6975.0
+"China, mainland",Dominica,194.0
+"China, mainland",Dominican Republic,29802.0
+"China, mainland",Ecuador,26799.0
+"China, mainland",Egypt,134517.0
+"China, mainland",El Salvador,8342.0
+"China, mainland",Equatorial Guinea,591.0
+"China, mainland",Eritrea,24.0
+"China, mainland",Estonia,14883.0
+"China, mainland",Eswatini,326.0
+"China, mainland",Ethiopia,11923.0
+"China, mainland",Fiji,11975.0
+"China, mainland",Finland,25295.0
+"China, mainland",France,310736.0
+"China, mainland",French Polynesia,1782.0
+"China, mainland",Gabon,3159.0
+"China, mainland",Gambia,20227.0
+"China, mainland",Georgia,25644.0
+"China, mainland",Germany,1372910.0
+"China, mainland",Ghana,191043.0
+"China, mainland",Gibraltar,21.0
+"China, mainland",Greece,44766.0
+"China, mainland",Grenada,34.0
+"China, mainland",Guatemala,27640.0
+"China, mainland",Guinea,33963.0
+"China, mainland",Guinea-Bissau,364.0
+"China, mainland",Guyana,5114.0
+"China, mainland",Haiti,28189.0
+"China, mainland",Honduras,11060.0
+"China, mainland",Hungary,14174.0
+"China, mainland",Iceland,529.0
+"China, mainland",India,567857.0
+"China, mainland",Indonesia,1843674.0
+"China, mainland",Iran (Islamic Republic of),296624.0
+"China, mainland",Iraq,117994.0
+"China, mainland",Ireland,37720.0
+"China, mainland",Israel,120302.0
+"China, mainland",Italy,401000.0
+"China, mainland",Jamaica,6231.0
+"China, mainland",Japan,5933614.0
+"China, mainland",Jordan,48737.0
+"China, mainland",Kazakhstan,198992.0
+"China, mainland",Kenya,21924.0
+"China, mainland",Kiribati,2296.0
+"China, mainland",Kuwait,34485.0
+"China, mainland",Kyrgyzstan,100721.0
+"China, mainland",Lao People's Democratic Republic,25007.0
+"China, mainland",Latvia,16166.0
+"China, mainland",Lebanon,62034.0
+"China, mainland",Lesotho,2006.0
+"China, mainland",Liberia,21392.0
+"China, mainland",Libya,17854.0
+"China, mainland",Lithuania,35074.0
+"China, mainland",Luxembourg,186.0
+"China, mainland",Madagascar,3686.0
+"China, mainland",Malawi,5125.0
+"China, mainland",Malaysia,1811684.0
+"China, mainland",Maldives,4622.0
+"China, mainland",Mali,31933.0
+"China, mainland",Malta,3114.0
+"China, mainland",Marshall Islands,479.0
+"China, mainland",Mauritania,67081.0
+"China, mainland",Mauritius,19223.0
+"China, mainland",Mexico,195160.0
+"China, mainland",Micronesia (Federated States of),1285.0
+"China, mainland",Mongolia,94762.0
+"China, mainland",Montenegro,3536.0
+"China, mainland",Morocco,259805.0
+"China, mainland",Mozambique,15503.0
+"China, mainland",Myanmar,377645.0
+"China, mainland",Namibia,12108.0
+"China, mainland",Nauru,39.0
+"China, mainland",Nepal,72293.0
+"China, mainland",Netherlands,1100434.0
+"China, mainland",New Caledonia,1078.0
+"China, mainland",New Zealand,123223.0
+"China, mainland",Nicaragua,5641.0
+"China, mainland",Niger,16266.0
+"China, mainland",Nigeria,160922.0
+"China, mainland",North Macedonia,1797.0
+"China, mainland",Norway,41127.0
+"China, mainland",Oman,22206.0
+"China, mainland",Pakistan,318163.0
+"China, mainland",Palau,796.0
+"China, mainland",Palestine,3115.0
+"China, mainland",Panama,65035.0
+"China, mainland",Papua New Guinea,24629.0
+"China, mainland",Paraguay,12238.0
+"China, mainland",Peru,61244.0
+"China, mainland",Philippines,1266371.0
+"China, mainland",Poland,168446.0
+"China, mainland",Portugal,34346.0
+"China, mainland",Qatar,17991.0
+"China, mainland",Republic of Korea,2761213.0
+"China, mainland",Republic of Moldova,961.0
+"China, mainland",Romania,109556.0
+"China, mainland",Russian Federation,1326907.0
+"China, mainland",Rwanda,78.0
+"China, mainland",Saint Lucia,14.0
+"China, mainland",Saint Vincent and the Grenadines,6.0
+"China, mainland",Samoa,1657.0
+"China, mainland",Sao Tome and Principe,128.0
+"China, mainland",Saudi Arabia,270745.0
+"China, mainland",Senegal,116492.0
+"China, mainland",Serbia,4349.0
+"China, mainland",Seychelles,3346.0
+"China, mainland",Sierra Leone,12338.0
+"China, mainland",Singapore,564361.0
+"China, mainland",Slovakia,5203.0
+"China, mainland",Slovenia,21483.0
+"China, mainland",Solomon Islands,5795.0
+"China, mainland",Somalia,3226.0
+"China, mainland",South Africa,184828.0
+"China, mainland",South Sudan,2148.0
+"China, mainland",Spain,464567.0
+"China, mainland",Sri Lanka,106046.0
+"China, mainland",Sudan,40522.0
+"China, mainland",Suriname,4134.0
+"China, mainland",Sweden,70368.0
+"China, mainland",Switzerland,39592.0
+"China, mainland",Syrian Arab Republic,15008.0
+"China, mainland",Tajikistan,12692.0
+"China, mainland",Thailand,2136532.0
+"China, mainland",Timor-Leste,2983.0
+"China, mainland",Togo,88507.0
+"China, mainland",Tonga,625.0
+"China, mainland",Trinidad and Tobago,11234.0
+"China, mainland",Tunisia,29136.0
+"China, mainland",Turkey,122404.0
+"China, mainland",Turkmenistan,15912.0
+"China, mainland",Turks and Caicos Islands,1.0
+"China, mainland",Tuvalu,66.0
+"China, mainland",Uganda,6697.0
+"China, mainland",Ukraine,60008.0
+"China, mainland",United Arab Emirates,479859.0
+"China, mainland",United Kingdom,673702.0
+"China, mainland",United Republic of Tanzania,12894.0
+"China, mainland",United States of America,3920183.0
+"China, mainland",Unspecified Area,97.0
+"China, mainland",Uruguay,13011.0
+"China, mainland",Uzbekistan,45753.0
+"China, mainland",Vanuatu,778.0
+"China, mainland",Venezuela (Bolivarian Republic of),18790.0
+"China, mainland",Viet Nam,2899995.0
+"China, mainland",Wallis and Futuna Islands,68.0
+"China, mainland",Yemen,93948.0
+"China, mainland",Zambia,544.0
+"China, mainland",Zimbabwe,14943.0
+Colombia,"China, mainland",9140.0
+Costa Rica,"China, mainland",19015.0
+Croatia,"China, mainland",6113.0
+Cyprus,"China, mainland",3956.0
+Czechia,"China, mainland",33160.0
+Denmark,"China, mainland",850009.0
+Ecuador,"China, mainland",114485.0
+El Salvador,"China, mainland",397.0
+Estonia,"China, mainland",7159.0
+Ethiopia,"China, mainland",7657.0
+Fiji,"China, mainland",3142.0
+Finland,"China, mainland",46898.0
+France,"China, mainland",2412631.0
+Gambia,"China, mainland",16.0
+Georgia,"China, mainland",15479.0
+Germany,"China, mainland",1910136.0
+Ghana,"China, mainland",34301.0
+Greece,"China, mainland",38164.0
+Guyana,"China, mainland",292.0
+Honduras,"China, mainland",1150.0
+Hungary,"China, mainland",81395.0
+Iceland,"China, mainland",864.0
+India,"China, mainland",810369.0
+Indonesia,"China, mainland",4032961.0
+Ireland,"China, mainland",798090.0
+Israel,"China, mainland",62702.0
+Italy,"China, mainland",399278.0
+Jamaica,"China, mainland",564.0
+Japan,"China, mainland",302119.0
+Jordan,"China, mainland",569.0
+Kazakhstan,"China, mainland",122863.0
+Kuwait,"China, mainland",138.0
+Kyrgyzstan,"China, mainland",14367.0
+Latvia,"China, mainland",9881.0
+Lebanon,"China, mainland",289.0
+Lithuania,"China, mainland",12627.0
+Luxembourg,"China, mainland",844.0
+Madagascar,"China, mainland",3839.0
+Malaysia,"China, mainland",2106458.0
+Mali,"China, mainland",8518.0
+Malta,"China, mainland",1893.0
+Mauritania,"China, mainland",22.0
+Mauritius,"China, mainland",3594.0
+Mexico,"China, mainland",117825.0
+Mongolia,"China, mainland",303642.0
+Montenegro,"China, mainland",1481.0
+Morocco,"China, mainland",5607.0
+Namibia,"China, mainland",226.0
+Netherlands,"China, mainland",2173312.0
+New Zealand,"China, mainland",3607650.0
+Niger,"China, mainland",15506.0
+North Macedonia,"China, mainland",1778.0
+Norway,"China, mainland",9190.0
+Oman,"China, mainland",1472.0
+Pakistan,"China, mainland",262907.0
+Paraguay,"China, mainland",4315.0
+Peru,"China, mainland",92816.0
+Philippines,"China, mainland",284952.0
+Poland,"China, mainland",112796.0
+Portugal,"China, mainland",71232.0
+Republic of Korea,"China, mainland",973288.0
+Republic of Moldova,"China, mainland",10333.0
+Romania,"China, mainland",21220.0
+Russian Federation,"China, mainland",547749.0
+Senegal,"China, mainland",71326.0
+Serbia,"China, mainland",1642.0
+Seychelles,"China, mainland",2.0
+Singapore,"China, mainland",613546.0
+Slovakia,"China, mainland",1245.0
+Slovenia,"China, mainland",3935.0
+South Africa,"China, mainland",169400.0
+Spain,"China, mainland",1348312.0
+Sri Lanka,"China, mainland",38573.0
+Sweden,"China, mainland",48547.0
+Switzerland,"China, mainland",137200.0
+Thailand,"China, mainland",5277507.0
+Togo,"China, mainland",7980.0
+Tunisia,"China, mainland",1959.0
+Turkey,"China, mainland",142692.0
+United Arab Emirates,"China, mainland",19027.0
+United Kingdom,"China, mainland",569878.0
+United Republic of Tanzania,"China, mainland",137181.0
+United States of America,"China, mainland",20905913.0
+Uruguay,"China, mainland",777066.0
