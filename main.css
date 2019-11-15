@@ -123,24 +123,24 @@ h2 {
 path.link {
   fill: none;
   stroke: #666;
-  stroke-width: 1.5px;
+  /*stroke-width: 1.5px;*/
+}
+/*
+path.link.1 {
+  opacity: 0.1;
 }
 
-path.link.twofive {
-  opacity: 0.25;
+path.link.2 {
+  opacity: 0.2;
 }
 
-path.link.fivezero {
-  opacity: 0.50;
+path.link.3 {
+  opacity: 0.3;
 }
 
-path.link.sevenfive {
-  opacity: 0.75;
-}
-
-path.link.onezerozero {
+path.link.4 {
   opacity: 1.0;
-}
+}*/
 
 circle {
   fill: #ccc;

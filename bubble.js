@@ -430,10 +430,10 @@ var balloonVis = function(nations){
 //                    .charge(-300)
             .force("link", d3.forceLink().id(function(d) { console.log(d); return d.target; }))
             .force("charge", d3.forceManyBody())
-            .force("link", d3.forceLink().distance(500))
+            .force("link", d3.forceLink().distance(300))
             .force("center", d3.forceCenter(width / 2, height / 2));
 
-        d3.csv("countryrelation_china.csv", function(links) {
+        d3.csv("countryrelation_top1.csv", function(links) {
 
         var nodes = {};
 
@@ -455,14 +455,26 @@ var balloonVis = function(nations){
 
         // asign a type per value to encode opacity
         links.forEach(function(link) {
-            if (v(link.value) <= 25) {
-                link.type = "twofive";
-            } else if (v(link.value) <= 50 && v(link.value) > 25) {
-                link.type = "fivezero";
-            } else if (v(link.value) <= 75 && v(link.value) > 50) {
-                link.type = "sevenfive";
-            } else if (v(link.value) <= 100 && v(link.value) > 75) {
-                link.type = "onezerozero";
+            if (v(link.value) <= 10) {
+                link.type = 1;
+            } else if (v(link.value) <= 20 && v(link.value) > 10) {
+                link.type = 2;
+            } else if (v(link.value) <= 30 && v(link.value) > 20) {
+                link.type = 3;
+            } else if (v(link.value) <= 40 && v(link.value) > 30) {
+                link.type = 4;
+            } else if (v(link.value) <= 50 && v(link.value) > 40) {
+                link.type = 5;
+            } else if (v(link.value) <= 60 && v(link.value) > 50) {
+                link.type = 6;
+            } else if (v(link.value) <= 70 && v(link.value) > 60) {
+                link.type = 7;
+            } else if (v(link.value) <= 80 && v(link.value) > 70) {
+                link.type = 8;
+            } else if (v(link.value) <= 90 && v(link.value) > 80) {
+                link.type = 9;
+            } else if (v(link.value) <= 100 && v(link.value) > 90) {
+                link.type = 10;
             }
         });
 
@@ -480,8 +492,7 @@ var balloonVis = function(nations){
             .enter().append("path")
             .attr("class", function(d) { return "link " + d.type; })
             .attr("marker-end", "url(#end)")
-            .attr("stroke-width", function(d) {console.log(d.value); return Math.sqrt(d.value); });
-        console.log(force.nodes());
+            .attr("stroke-width", function(d) { return d.type; });
 
         // define the nodes
         var node = svg.selectAll(".node")
