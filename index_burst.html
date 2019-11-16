@@ -14,6 +14,7 @@
     <script src="https://d3js.org/d3.v4.js"></script>
 	<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.3/d3-tip.js"></script>-->
 	<script type="text/javascript" src="js/d3-tip_u.js"></script>
+	<script type="text/javascript" src="skill.js"></script>
 	<link rel="stylesheet" type="text/css" href="main.css">
 
 <!--<div id="cont" class="container-fluid text-center">-->
@@ -24,17 +25,31 @@
 		<svg class="large-vis" id="chart" style="float:left"></svg>
 	</div>
 	<div style="float:right">
-		<svg class="small-vis" width="600" height="950" id="pie1"></svg>
-		<svg class="small-vis" width="600" height="950" id="pie2"></svg>
+		<svg class="small-vis" width="700" height="950" id="pie1"></svg>
+		<!--<svg class="small-vis" width="580" height="950" id="pie2"></svg>-->
 	</div>
 </div>
-<div>
-
-
+<div position:relative id="force" width="5060" max-height = "1900">
+	<div style="float:left">
+		<svg class="large-vis" width="2900" height = "1900" id="net" style="float:left"></svg>
+	</div>
+	<div style="float:right">
+		<svg class="small-vis" width="760" height="950" id="pie2"></svg>
+	</div>
+</div>
+<div id="main">
+	<div id="sequence"></div>
+	<div id="sunb">
+		<div id="explanation" style="visibility: hidden;">
+			<span id="percentage"></span><br/>
+			of visits begin with this sequence of pages
+		</div>
+	</div>
+</div>
+<div id="sidebar">
+	<input type="checkbox" id="togglelegend"> Legend<br/>
+	<div id="legend" style="visibility: hidden;"></div>
 </div>
 <div id="buttonHide"><button>Hide</button></div>
-<div >
-	<svg class="large-vis" width="4060" height = "1900" id="net" style="float:left"></svg>
-</div>
-
+</html>
 

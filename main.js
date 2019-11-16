@@ -32,6 +32,8 @@ function loadData(path){
 
         balloon.PhraseNet();
 
+        balloon.sunBurst();
+
          
     });
 }
