@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bb545ad-f65f-4738-9b0d-3755d0b534ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Population.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bubble.js" beforeDir="false" afterPath="$PROJECT_DIR$/bubble.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_AF.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_AS.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_EU.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_NA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_OC.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_SA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_china.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_top1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/countryrelation_top2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flare.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/force.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/graph1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bubble.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locations.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nations.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nations1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/skillsdata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trade_exports_value.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trade_exports_value_u.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trade_imports_value.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/visit-sequences.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/world.topojson" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/world_countries.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/world_population.tsv" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +51,7 @@
           <entry key="css" value="244" />
           <entry key="csv" value="2" />
           <entry key="html" value="4669" />
-          <entry key="js" value="4765" />
+          <entry key="js" value="4808" />
           <entry key="json" value="615" />
         </counts>
       </usages-collector>
@@ -92,7 +60,7 @@
           <entry key="CSS" value="244" />
           <entry key="HTML" value="4669" />
           <entry key="JSON" value="615" />
-          <entry key="JavaScript" value="4765" />
+          <entry key="JavaScript" value="4808" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
@@ -104,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="640">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -121,9 +89,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bubble.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="609" lean-forward="true" selection-start-line="609" selection-end-line="609" />
+            <state relative-caret-position="314">
+              <caret line="576" column="12" selection-start-line="576" selection-start-column="12" selection-end-line="576" selection-end-column="12" />
               <folding>
+                <element signature="e#0#34890#0" />
                 <element signature="e#0#34890#0" />
               </folding>
             </state>
@@ -197,11 +166,11 @@
       <find>console.</find>
       <find>d.ancestors</find>
       <find>json</find>
-      <find>csv</find>
       <find>content</find>
       <find>test</find>
       <find>da</find>
       <find>toolTip</find>
+      <find>csv</find>
     </findStrings>
     <replaceStrings>
       <replace>size</replace>
@@ -224,9 +193,9 @@
         <option value="$PROJECT_DIR$/skillsdata.json" />
         <option value="$PROJECT_DIR$/index_forceok.html" />
         <option value="$PROJECT_DIR$/skill.js" />
-        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/main.js" />
         <option value="$PROJECT_DIR$/bubble.js" />
       </list>
     </option>
@@ -461,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -500,11 +462,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bubble.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="609" lean-forward="true" selection-start-line="609" selection-end-line="609" />
+        <state relative-caret-position="314">
+          <caret line="576" column="12" selection-start-line="576" selection-start-column="12" selection-end-line="576" selection-end-column="12" />
           <folding>
+            <element signature="e#0#34890#0" />
             <element signature="e#0#34890#0" />
           </folding>
         </state>

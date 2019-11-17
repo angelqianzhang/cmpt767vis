@@ -33,7 +33,7 @@ function loadData(path){
         balloon.PhraseNet();
 
         //balloon.sunBurst();
-        balloon.load_home();
+        //balloon.load_home();
          
     });
 }

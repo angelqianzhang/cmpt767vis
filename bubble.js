@@ -19,7 +19,6 @@ var balloonVis = function(nations){
 
     //this.mobileScreen = ($( window ).innerWidth() < 500 ? true : false);
 
-
     this.createBalloon = function(){
 
 
@@ -413,6 +412,7 @@ var balloonVis = function(nations){
     }
     this.PhraseNet = function(){
                 // get the data
+
         var width = this.width,
         height = this.height
         color = d3.scaleOrdinal(d3.schemeCategory20);
@@ -434,6 +434,10 @@ var balloonVis = function(nations){
             .force("center", d3.forceCenter(width / 2, height / 2));
 
         d3.csv("data/countryrelation_top1.csv", function(links) {
+
+        var load_home = function(){
+                      document.getElementById("content").innerHTML='<object type="text/html" data="index_chord.html" style="width:100%; height:100%;  border:none;" scrolling="no"  seamless="seamless""></object>';
+                };
 
         var nodes = {};
 
@@ -553,6 +557,8 @@ var balloonVis = function(nations){
             node
                 .attr("transform", function(d) {
                     return "translate(" + d.x + "," + d.y + ")"; });
+
+
         }
 
         // action to take on mouse click
@@ -568,6 +574,7 @@ var balloonVis = function(nations){
                 .duration(750)
                 .attr("r", 50)
                 .style("fill", "lightsteelblue");
+            load_home();
         }
 
         // action to take on mouse double click
@@ -922,8 +929,6 @@ var balloonVis = function(nations){
         };
     };
 
-    this.load_home = function(){
-          document.getElementById("content").innerHTML='<object type="text/html" data="index_chord.html" style="width:100%; height:100%;  border:none;" scrolling="no"  seamless="seamless""></object>';
-    };
+
 
 }
