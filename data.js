@@ -5,8 +5,9 @@
  *
  */
 
-function fetchData() {
-    d3.csv("data/ustrade_2000-2013.csv", function(csv) {
+function fetchData(myCountry) {
+    var filename = "data/ustrade_2000-2013-"+myCountry+".csv"
+    d3.csv(filename, function(csv) {
 
         var normalized=[];
 

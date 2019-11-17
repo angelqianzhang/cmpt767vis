@@ -10,12 +10,10 @@ var balloonVis = function(nations){
     this.height;
     this.margin;
     this.svgContainer;
-    this.myCont;
-    this.myPie1;
-    this.myPie2;
+//    this.myCont;
+//    this.myPie1;
+//    this.myPie2;
     this.myNet;
-    this.path;
-    this.node;
 
     //this.mobileScreen = ($( window ).innerWidth() < 500 ? true : false);
 
@@ -42,7 +40,7 @@ var balloonVis = function(nations){
 //        var radiusScale = d3.scale.sqrt().domain([0, 5e8]).range([0, this.width * 0.05]);
 //        var colorScale = d3.scale.category10();
 
-        var xScale = d3.scaleLinear().domain([0, 138000000]).range([40, this.width]);
+        var xScale = d3.scaleLinear().domain([0, 138000000]).range([110, this.width]);
         var yScale = d3.scaleLinear().domain([0, 150000000]).range([this.height, 0]);
         var radiusScale = d3.scaleSqrt().domain([0, 5e8]).range([0, this.width * 0.05]);
 
@@ -69,7 +67,7 @@ var balloonVis = function(nations){
         // Add the y-axis.
         svg.append("g")
             .attr("class", "y axis")
-            .attr("transform", "translate(40," + this.margin.left +")")
+            .attr("transform", "translate(100," + this.margin.left +")")
             .call(yAxis);
         // Add an x-axis label.
         svg.append("text")
@@ -83,7 +81,7 @@ var balloonVis = function(nations){
         svg.append("text")
             .attr("class", "y label")
             .attr("text-anchor", "end")
-            .attr("y", 50)
+            .attr("y", 110)
             .attr("x", -150)
             .attr("dy", "0.75em")
             .attr("transform", "rotate(-90)")
@@ -107,16 +105,16 @@ var balloonVis = function(nations){
             });
 
 
-        var circletip = this.myPie1.append("svg")
-                                .attr("id", "mytip")
-                                .attr("width", this.myPie1.width)
-                                .attr("height", this.myPie1.height);
+//        var circletip = this.myPie1.append("svg")
+//                                .attr("id", "mytip")
+//                                .attr("width", this.myPie1.width)
+//                                .attr("height", this.myPie1.height);
         var mousedown = function(d) {
             var countryname = d.name;
             var file1 ="data/graph.json";
             var vis = "#mytip";
             var selColor = d3.select(this).style('fill');
-            drawNestCircle(circletip, countryname, file1, selColor);
+//            drawNestCircle(circletip, countryname, file1, selColor);
             //drawPie(circletip);
             var countryClass = d3.select(this).classed();
             //d3.selectAll("circle").transition().duration(100).style("opacity", 0.25);
@@ -161,9 +159,9 @@ var balloonVis = function(nations){
             .call(position)
             .sort(order);
 
-        this.myCont.on("click", function() {
-        	d3.select("#mytip").transition().duration(100).style("opacity", 0);
-        });
+//        this.myCont.on("click", function() {
+//        	d3.select("#mytip").transition().duration(100).style("opacity", 0);
+//        });
 
 
 //        function position(dot) {
@@ -435,8 +433,12 @@ var balloonVis = function(nations){
 
         d3.csv("data/countryrelation_top1.csv", function(links) {
 
-        var load_home = function(){
-                      document.getElementById("content").innerHTML='<object type="text/html" data="index_chord.html" style="width:100%; height:100%;  border:none;" scrolling="no"  seamless="seamless""></object>';
+        var load_home = function(country){
+
+                document.getElementById("content")
+                .innerHTML='<object type="text/html" data="index_chord.html?country='
+                    + country
+                    + '" style="width:100%; height:100%;  border:none;" scrolling="no"  seamless="seamless"></object>';
                 };
 
         var nodes = {};
@@ -562,6 +564,7 @@ var balloonVis = function(nations){
         }
 
         // action to take on mouse click
+        var globalCount = 0;
         function click() {
             d3.select(this).select("text").transition()
                 .duration(750)
@@ -574,7 +577,19 @@ var balloonVis = function(nations){
                 .duration(750)
                 .attr("r", 50)
                 .style("fill", "lightsteelblue");
-            load_home();
+
+
+            var country = d3.select(this).text();
+
+            globalCount = globalCount +1;
+            if (globalCount%2 == 0 ) {
+                country = "even";
+            }
+            else {
+                country = "odd";
+            }
+            alert("The country is " + country);
+            load_home(country);
         }
 
         // action to take on mouse double click

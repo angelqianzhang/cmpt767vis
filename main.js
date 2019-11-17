@@ -23,9 +23,9 @@ function loadData(path){
         balloon.width = $("#chart").width() - balloon.margin.left - balloon.margin.right;
         balloon.height = $("#chart").height() - balloon.margin.left - balloon.margin.bottom;
         balloon.svgContainer = d3.select("#chart");
-        balloon.myPie1 = d3.select("#pie1");
-        balloon.myPie2 = d3.select("#pie2");
-        balloon.myCont = d3.select("#buttonHide");
+//        balloon.myPie1 = d3.select("#pie1");
+//        balloon.myPie2 = d3.select("#pie2");
+//        balloon.myCont = d3.select("#buttonHide");
         balloon.createBalloon();
 
         balloon.myNet = d3.select("#net");
