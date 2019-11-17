@@ -1,0 +1,2002 @@
+source,target,value,sourcecont,targetcont
+Argentina,Afghanistan,1647.0,SA,AS
+Brazil,Afghanistan,8546.0,SA,AS
+Paraguay,Afghanistan,226.0,SA,AS
+Uruguay,Afghanistan,700.0,SA,AS
+Argentina,Albania,5715.0,SA,EU
+Argentina,Albania,4792.0,SA,EU
+Brazil,Albania,40626.0,SA,EU
+Brazil,Albania,38404.0,SA,EU
+Chile,Albania,17.0,SA,EU
+Colombia,Albania,2409.0,SA,EU
+Colombia,Albania,731.0,SA,EU
+Ecuador,Albania,13020.0,SA,EU
+Ecuador,Albania,8287.0,SA,EU
+Paraguay,Albania,319.0,SA,EU
+Paraguay,Albania,478.0,SA,EU
+Uruguay,Albania,173.0,SA,EU
+Argentina,Algeria,1321972.0,SA,AF
+Argentina,Algeria,1145110.0,SA,AF
+Brazil,Algeria,1102820.0,SA,AF
+Brazil,Algeria,988952.0,SA,AF
+Chile,Algeria,3570.0,SA,AF
+Chile,Algeria,2274.0,SA,AF
+Colombia,Algeria,5576.0,SA,AF
+Colombia,Algeria,267.0,SA,AF
+Ecuador,Algeria,138010.0,SA,AF
+Ecuador,Algeria,12578.0,SA,AF
+Paraguay,Algeria,28149.0,SA,AF
+Paraguay,Algeria,12982.0,SA,AF
+Peru,Algeria,7.0,SA,AF
+Peru,Algeria,10.0,SA,AF
+Uruguay,Algeria,56749.0,SA,AF
+Uruguay,Algeria,42244.0,SA,AF
+Argentina,Antigua and Barbuda,144.0,SA,
+Argentina,Antigua and Barbuda,270.0,SA,
+Brazil,Antigua and Barbuda,3873.0,SA,
+Brazil,Antigua and Barbuda,5015.0,SA,
+Chile,Antigua and Barbuda,1057.0,SA,
+Chile,Antigua and Barbuda,896.0,SA,
+Colombia,Antigua and Barbuda,241.0,SA,
+Colombia,Antigua and Barbuda,343.0,SA,
+Ecuador,Antigua and Barbuda,24.0,SA,
+Ecuador,Antigua and Barbuda,19.0,SA,
+Peru,Antigua and Barbuda,453.0,SA,
+Peru,Antigua and Barbuda,436.0,SA,
+Uruguay,Antigua and Barbuda,120.0,SA,
+Uruguay,Antigua and Barbuda,89.0,SA,
+Guyana,Antigua and Barbuda,1869.0,SA,
+Guyana,Antigua and Barbuda,1930.0,SA,
+Argentina,Argentina,10569.0,SA,SA
+Brazil,Argentina,547487.0,SA,SA
+Brazil,Argentina,528053.0,SA,SA
+Chile,Argentina,146814.0,SA,SA
+Chile,Argentina,142376.0,SA,SA
+Colombia,Argentina,19393.0,SA,SA
+Colombia,Argentina,16312.0,SA,SA
+Ecuador,Argentina,199975.0,SA,SA
+Ecuador,Argentina,144334.0,SA,SA
+Paraguay,Argentina,283265.0,SA,SA
+Paraguay,Argentina,320861.0,SA,SA
+Peru,Argentina,12854.0,SA,SA
+Peru,Argentina,12946.0,SA,SA
+Uruguay,Argentina,95590.0,SA,SA
+Uruguay,Argentina,71826.0,SA,SA
+Argentina,Armenia,8413.0,SA,AS
+Argentina,Armenia,8010.0,SA,AS
+Brazil,Armenia,31021.0,SA,AS
+Brazil,Armenia,37504.0,SA,AS
+Chile,Armenia,250.0,SA,AS
+Chile,Armenia,272.0,SA,AS
+Colombia,Armenia,3.0,SA,AS
+Colombia,Armenia,58.0,SA,AS
+Ecuador,Armenia,318.0,SA,AS
+Ecuador,Armenia,114.0,SA,AS
+Paraguay,Armenia,152.0,SA,AS
+Peru,Armenia,9.0,SA,AS
+Argentina,Australia,325051.0,SA,OC
+Argentina,Australia,316854.0,SA,OC
+Brazil,Australia,137581.0,SA,OC
+Brazil,Australia,127690.0,SA,OC
+Chile,Australia,82476.0,SA,OC
+Chile,Australia,81700.0,SA,OC
+Colombia,Australia,44965.0,SA,OC
+Colombia,Australia,41882.0,SA,OC
+Ecuador,Australia,11580.0,SA,OC
+Ecuador,Australia,9828.0,SA,OC
+Paraguay,Australia,2719.0,SA,OC
+Paraguay,Australia,2517.0,SA,OC
+Peru,Australia,30052.0,SA,OC
+Peru,Australia,28248.0,SA,OC
+Uruguay,Australia,12312.0,SA,OC
+Uruguay,Australia,113.0,SA,OC
+Guyana,Australia,111.0,SA,OC
+Guyana,Australia,110.0,SA,OC
+Suriname,Australia,21.0,SA,OC
+Argentina,Austria,5555.0,SA,EU
+Argentina,Austria,3643.0,SA,EU
+Brazil,Austria,13440.0,SA,EU
+Brazil,Austria,16562.0,SA,EU
+Chile,Austria,13400.0,SA,EU
+Chile,Austria,5114.0,SA,EU
+Colombia,Austria,1132.0,SA,EU
+Colombia,Austria,516.0,SA,EU
+Ecuador,Austria,428.0,SA,EU
+Ecuador,Austria,617.0,SA,EU
+Paraguay,Austria,914.0,SA,EU
+Paraguay,Austria,765.0,SA,EU
+Peru,Austria,2247.0,SA,EU
+Peru,Austria,507.0,SA,EU
+Uruguay,Austria,92.0,SA,EU
+Guyana,Austria,3.0,SA,EU
+Guyana,Austria,1.0,SA,EU
+Suriname,Austria,10.0,SA,EU
+Argentina,Azerbaijan,220.0,SA,AS
+Brazil,Azerbaijan,10422.0,SA,AS
+Chile,Azerbaijan,22.0,SA,AS
+Colombia,Azerbaijan,26.0,SA,AS
+Ecuador,Azerbaijan,5492.0,SA,AS
+Paraguay,Azerbaijan,204.0,SA,AS
+Argentina,Bahrain,8790.0,SA,AS
+Argentina,Bahrain,3551.0,SA,AS
+Brazil,Bahrain,83337.0,SA,AS
+Brazil,Bahrain,87898.0,SA,AS
+Chile,Bahrain,4531.0,SA,AS
+Chile,Bahrain,2155.0,SA,AS
+Colombia,Bahrain,1324.0,SA,AS
+Colombia,Bahrain,704.0,SA,AS
+Ecuador,Bahrain,1395.0,SA,AS
+Ecuador,Bahrain,967.0,SA,AS
+Paraguay,Bahrain,3184.0,SA,AS
+Paraguay,Bahrain,2953.0,SA,AS
+Peru,Bahrain,1152.0,SA,AS
+Peru,Bahrain,453.0,SA,AS
+Uruguay,Bahrain,419.0,SA,AS
+Uruguay,Bahrain,365.0,SA,AS
+Guyana,Bahrain,38.0,SA,AS
+Suriname,Bahrain,3.0,SA,AS
+Argentina,Bangladesh,484268.0,SA,AS
+Brazil,Bangladesh,1029276.0,SA,AS
+Chile,Bangladesh,574.0,SA,AS
+Colombia,Bangladesh,101.0,SA,AS
+Ecuador,Bangladesh,24.0,SA,AS
+Paraguay,Bangladesh,136904.0,SA,AS
+Peru,Bangladesh,418.0,SA,AS
+Uruguay,Bangladesh,8923.0,SA,AS
+Guyana,Bangladesh,59.0,SA,AS
+Argentina,Barbados,847.0,SA,
+Argentina,Barbados,648.0,SA,
+Brazil,Barbados,4381.0,SA,
+Brazil,Barbados,3128.0,SA,
+Chile,Barbados,2984.0,SA,
+Chile,Barbados,1470.0,SA,
+Colombia,Barbados,660.0,SA,
+Colombia,Barbados,579.0,SA,
+Ecuador,Barbados,314.0,SA,
+Ecuador,Barbados,249.0,SA,
+Paraguay,Barbados,121.0,SA,
+Peru,Barbados,337.0,SA,
+Peru,Barbados,97.0,SA,
+Uruguay,Barbados,3603.0,SA,
+Uruguay,Barbados,3316.0,SA,
+Guyana,Barbados,10106.0,SA,
+Guyana,Barbados,11836.0,SA,
+Suriname,Barbados,837.0,SA,
+Argentina,Belarus,49729.0,SA,EU
+Argentina,Belarus,17366.0,SA,EU
+Brazil,Belarus,57344.0,SA,EU
+Brazil,Belarus,7254.0,SA,EU
+Chile,Belarus,8110.0,SA,EU
+Chile,Belarus,2779.0,SA,EU
+Colombia,Belarus,13182.0,SA,EU
+Colombia,Belarus,395.0,SA,EU
+Ecuador,Belarus,43176.0,SA,EU
+Ecuador,Belarus,2465.0,SA,EU
+Paraguay,Belarus,117.0,SA,EU
+Paraguay,Belarus,158.0,SA,EU
+Peru,Belarus,1654.0,SA,EU
+Uruguay,Belarus,1372.0,SA,EU
+Uruguay,Belarus,45.0,SA,EU
+Guyana,Belarus,5.0,SA,EU
+Suriname,Belarus,511.0,SA,EU
+Argentina,Belgium,179807.0,SA,EU
+Argentina,Belgium,170297.0,SA,EU
+Brazil,Belgium,994002.0,SA,EU
+Brazil,Belgium,1676967.0,SA,EU
+Chile,Belgium,67889.0,SA,EU
+Chile,Belgium,57026.0,SA,EU
+Colombia,Belgium,477331.0,SA,EU
+Colombia,Belgium,420804.0,SA,EU
+Ecuador,Belgium,230719.0,SA,EU
+Ecuador,Belgium,134183.0,SA,EU
+Paraguay,Belgium,4739.0,SA,EU
+Paraguay,Belgium,6537.0,SA,EU
+Peru,Belgium,175790.0,SA,EU
+Peru,Belgium,152237.0,SA,EU
+Uruguay,Belgium,10765.0,SA,EU
+Uruguay,Belgium,23128.0,SA,EU
+Guyana,Belgium,1695.0,SA,EU
+Guyana,Belgium,1213.0,SA,EU
+Suriname,Belgium,46366.0,SA,EU
+Argentina,Benin,444.0,SA,AF
+Argentina,Benin,547.0,SA,AF
+Brazil,Benin,51159.0,SA,AF
+Brazil,Benin,69372.0,SA,AF
+Chile,Benin,49.0,SA,AF
+Chile,Benin,570.0,SA,AF
+Colombia,Benin,65.0,SA,AF
+Colombia,Benin,580.0,SA,AF
+Ecuador,Benin,36.0,SA,AF
+Paraguay,Benin,34.0,SA,AF
+Peru,Benin,331.0,SA,AF
+Argentina,Bermuda,486.0,SA,
+Brazil,Bermuda,582.0,SA,
+Brazil,Bermuda,1302.0,SA,
+Chile,Bermuda,384.0,SA,
+Chile,Bermuda,312.0,SA,
+Colombia,Bermuda,31.0,SA,
+Ecuador,Bermuda,2.0,SA,
+Peru,Bermuda,117.0,SA,
+Uruguay,Bermuda,1.0,SA,
+Guyana,Bermuda,620.0,SA,
+Guyana,Bermuda,632.0,SA,
+Argentina,Bosnia and Herzegovina,6313.0,SA,EU
+Argentina,Bosnia and Herzegovina,1663.0,SA,EU
+Brazil,Bosnia and Herzegovina,113209.0,SA,EU
+Brazil,Bosnia and Herzegovina,141.0,SA,EU
+Chile,Bosnia and Herzegovina,643.0,SA,EU
+Chile,Bosnia and Herzegovina,49.0,SA,EU
+Colombia,Bosnia and Herzegovina,8871.0,SA,EU
+Ecuador,Bosnia and Herzegovina,12860.0,SA,EU
+Paraguay,Bosnia and Herzegovina,9.0,SA,EU
+Peru,Bosnia and Herzegovina,278.0,SA,EU
+Uruguay,Bosnia and Herzegovina,125.0,SA,EU
+Uruguay,Bosnia and Herzegovina,116.0,SA,EU
+Guyana,Bosnia and Herzegovina,1.0,SA,EU
+Guyana,Bosnia and Herzegovina,19.0,SA,EU
+Argentina,Botswana,28.0,SA,AF
+Brazil,Botswana,101.0,SA,AF
+Brazil,Botswana,493.0,SA,AF
+Argentina,Brazil,3014915.0,SA,SA
+Argentina,Brazil,2982387.0,SA,SA
+Chile,Brazil,440578.0,SA,SA
+Chile,Brazil,441975.0,SA,SA
+Colombia,Brazil,32818.0,SA,SA
+Colombia,Brazil,34041.0,SA,SA
+Ecuador,Brazil,40682.0,SA,SA
+Ecuador,Brazil,39107.0,SA,SA
+Paraguay,Brazil,869587.0,SA,SA
+Paraguay,Brazil,898764.0,SA,SA
+Peru,Brazil,54971.0,SA,SA
+Peru,Brazil,59094.0,SA,SA
+Uruguay,Brazil,855559.0,SA,SA
+Uruguay,Brazil,773082.0,SA,SA
+Guyana,Brazil,5954.0,SA,SA
+Guyana,Brazil,6325.0,SA,SA
+Falkland Islands (Malvinas),Brazil,101.0,SA,SA
+Argentina,Brunei Darussalam,6975.0,SA,AS
+Brazil,Brunei Darussalam,263.0,SA,AS
+Uruguay,Brunei Darussalam,98.0,SA,AS
+Argentina,Bulgaria,9675.0,SA,EU
+Argentina,Bulgaria,4847.0,SA,EU
+Brazil,Bulgaria,24832.0,SA,EU
+Brazil,Bulgaria,24406.0,SA,EU
+Chile,Bulgaria,1571.0,SA,EU
+Chile,Bulgaria,1464.0,SA,EU
+Colombia,Bulgaria,2206.0,SA,EU
+Colombia,Bulgaria,634.0,SA,EU
+Ecuador,Bulgaria,14828.0,SA,EU
+Ecuador,Bulgaria,11278.0,SA,EU
+Paraguay,Bulgaria,276.0,SA,EU
+Paraguay,Bulgaria,214.0,SA,EU
+Peru,Bulgaria,7106.0,SA,EU
+Peru,Bulgaria,884.0,SA,EU
+Uruguay,Bulgaria,2349.0,SA,EU
+Uruguay,Bulgaria,1009.0,SA,EU
+Argentina,Burkina Faso,387.0,SA,AF
+Argentina,Burkina Faso,930.0,SA,AF
+Brazil,Burkina Faso,6774.0,SA,AF
+Brazil,Burkina Faso,105.0,SA,AF
+Chile,Burkina Faso,33.0,SA,AF
+Chile,Burkina Faso,127.0,SA,AF
+Colombia,Burkina Faso,10.0,SA,AF
+Colombia,Burkina Faso,264.0,SA,AF
+Peru,Burkina Faso,36.0,SA,AF
+Uruguay,Burkina Faso,72.0,SA,AF
+Uruguay,Burkina Faso,290.0,SA,AF
+Argentina,Burundi,356.0,SA,AF
+Argentina,Cambodia,9702.0,SA,AS
+Argentina,Cambodia,353.0,SA,AS
+Brazil,Cambodia,2242.0,SA,AS
+Brazil,Cambodia,1189.0,SA,AS
+Chile,Cambodia,608.0,SA,AS
+Chile,Cambodia,1184.0,SA,AS
+Colombia,Cambodia,24.0,SA,AS
+Colombia,Cambodia,380.0,SA,AS
+Peru,Cambodia,1.0,SA,AS
+Argentina,Cameroon,15599.0,SA,AF
+Brazil,Cameroon,3.0,SA,AF
+Brazil,Cameroon,15182.0,SA,AF
+Chile,Cameroon,213.0,SA,AF
+Ecuador,Cameroon,1.0,SA,AF
+Peru,Cameroon,112.0,SA,AF
+Uruguay,Cameroon,36.0,SA,AF
+Argentina,Canada,186132.0,SA,
+Argentina,Canada,136080.0,SA,
+Brazil,Canada,746855.0,SA,
+Brazil,Canada,513530.0,SA,
+Chile,Canada,472707.0,SA,
+Chile,Canada,296110.0,SA,
+Colombia,Canada,332264.0,SA,
+Colombia,Canada,242568.0,SA,
+Ecuador,Canada,168439.0,SA,
+Ecuador,Canada,53588.0,SA,
+Paraguay,Canada,9569.0,SA,
+Paraguay,Canada,2336.0,SA,
+Peru,Canada,221330.0,SA,
+Peru,Canada,135789.0,SA,
+Uruguay,Canada,68821.0,SA,
+Uruguay,Canada,71874.0,SA,
+Guyana,Canada,5528.0,SA,
+Guyana,Canada,12136.0,SA,
+Suriname,Canada,37.0,SA,
+Falkland Islands (Malvinas),Canada,3.0,SA,
+Argentina,Central African Republic,695.0,SA,AF
+Brazil,Central African Republic,706.0,SA,AF
+Uruguay,Central African Republic,30.0,SA,AF
+Argentina,Chile,1213667.0,SA,SA
+Argentina,Chile,1162981.0,SA,SA
+Brazil,Chile,805692.0,SA,SA
+Brazil,Chile,720051.0,SA,SA
+Chile,Chile,5587.0,SA,SA
+Colombia,Chile,80312.0,SA,SA
+Colombia,Chile,82939.0,SA,SA
+Ecuador,Chile,117883.0,SA,SA
+Ecuador,Chile,118682.0,SA,SA
+Paraguay,Chile,535253.0,SA,SA
+Paraguay,Chile,495117.0,SA,SA
+Peru,Chile,130871.0,SA,SA
+Peru,Chile,137391.0,SA,SA
+Uruguay,Chile,74799.0,SA,SA
+Uruguay,Chile,49031.0,SA,SA
+Guyana,Chile,26.0,SA,SA
+Guyana,Chile,12.0,SA,SA
+Argentina,Colombia,226479.0,SA,SA
+Argentina,Colombia,212029.0,SA,SA
+Brazil,Colombia,240364.0,SA,SA
+Brazil,Colombia,207115.0,SA,SA
+Chile,Colombia,325812.0,SA,SA
+Chile,Colombia,300002.0,SA,SA
+Ecuador,Colombia,241108.0,SA,SA
+Ecuador,Colombia,245788.0,SA,SA
+Paraguay,Colombia,22392.0,SA,SA
+Paraguay,Colombia,16977.0,SA,SA
+Peru,Colombia,160008.0,SA,SA
+Peru,Colombia,149039.0,SA,SA
+Uruguay,Colombia,53454.0,SA,SA
+Uruguay,Colombia,34634.0,SA,SA
+Guyana,Colombia,618.0,SA,SA
+Guyana,Colombia,239.0,SA,SA
+Suriname,Colombia,69.0,SA,SA
+Argentina,Comoros,2096.0,SA,AF
+Brazil,Comoros,1898.0,SA,AF
+Colombia,Comoros,324.0,SA,AF
+Paraguay,Comoros,190.0,SA,AF
+Argentina,Congo,9691.0,SA,AF
+Brazil,Congo,24655.0,SA,AF
+Chile,Congo,82.0,SA,AF
+Colombia,Congo,1092.0,SA,AF
+Ecuador,Congo,26.0,SA,AF
+Paraguay,Congo,1584.0,SA,AF
+Peru,Congo,42.0,SA,AF
+Uruguay,Congo,367.0,SA,AF
+Argentina,Costa Rica,24352.0,SA,
+Argentina,Costa Rica,24281.0,SA,
+Brazil,Costa Rica,33343.0,SA,
+Brazil,Costa Rica,23274.0,SA,
+Chile,Costa Rica,88688.0,SA,
+Chile,Costa Rica,82474.0,SA,
+Colombia,Costa Rica,18853.0,SA,
+Colombia,Costa Rica,15246.0,SA,
+Ecuador,Costa Rica,2833.0,SA,
+Ecuador,Costa Rica,2560.0,SA,
+Paraguay,Costa Rica,20393.0,SA,
+Paraguay,Costa Rica,6752.0,SA,
+Peru,Costa Rica,22817.0,SA,
+Peru,Costa Rica,19167.0,SA,
+Uruguay,Costa Rica,24338.0,SA,
+Uruguay,Costa Rica,15390.0,SA,
+Guyana,Costa Rica,11.0,SA,
+Guyana,Costa Rica,10.0,SA,
+Argentina,Croatia,3221.0,SA,EU
+Argentina,Croatia,4326.0,SA,EU
+Brazil,Croatia,60437.0,SA,EU
+Brazil,Croatia,74611.0,SA,EU
+Chile,Croatia,816.0,SA,EU
+Chile,Croatia,677.0,SA,EU
+Colombia,Croatia,805.0,SA,EU
+Colombia,Croatia,393.0,SA,EU
+Ecuador,Croatia,16685.0,SA,EU
+Ecuador,Croatia,21406.0,SA,EU
+Peru,Croatia,222.0,SA,EU
+Peru,Croatia,60.0,SA,EU
+Guyana,Croatia,1.0,SA,EU
+Argentina,Cyprus,28488.0,SA,AS
+Argentina,Cyprus,28954.0,SA,AS
+Brazil,Cyprus,16485.0,SA,AS
+Brazil,Cyprus,12306.0,SA,AS
+Chile,Cyprus,1834.0,SA,AS
+Chile,Cyprus,2055.0,SA,AS
+Colombia,Cyprus,192.0,SA,AS
+Colombia,Cyprus,8.0,SA,AS
+Ecuador,Cyprus,2521.0,SA,AS
+Ecuador,Cyprus,1004.0,SA,AS
+Paraguay,Cyprus,166.0,SA,AS
+Paraguay,Cyprus,257.0,SA,AS
+Peru,Cyprus,188.0,SA,AS
+Peru,Cyprus,180.0,SA,AS
+Uruguay,Cyprus,911.0,SA,AS
+Uruguay,Cyprus,882.0,SA,AS
+Argentina,Denmark,257796.0,SA,EU
+Argentina,Denmark,228864.0,SA,EU
+Brazil,Denmark,77047.0,SA,EU
+Brazil,Denmark,32643.0,SA,EU
+Chile,Denmark,93418.0,SA,EU
+Chile,Denmark,84966.0,SA,EU
+Colombia,Denmark,8714.0,SA,EU
+Colombia,Denmark,8669.0,SA,EU
+Ecuador,Denmark,38.0,SA,EU
+Ecuador,Denmark,34.0,SA,EU
+Paraguay,Denmark,50252.0,SA,EU
+Paraguay,Denmark,47907.0,SA,EU
+Peru,Denmark,10322.0,SA,EU
+Peru,Denmark,9754.0,SA,EU
+Uruguay,Denmark,4118.0,SA,EU
+Uruguay,Denmark,4276.0,SA,EU
+Guyana,Denmark,4.0,SA,EU
+Guyana,Denmark,15.0,SA,EU
+Falkland Islands (Malvinas),Denmark,196.0,SA,EU
+Argentina,Djibouti,378.0,SA,AF
+Brazil,Djibouti,88615.0,SA,AF
+Chile,Djibouti,27.0,SA,AF
+Argentina,Ecuador,154088.0,SA,SA
+Argentina,Ecuador,150767.0,SA,SA
+Brazil,Ecuador,56286.0,SA,SA
+Brazil,Ecuador,49567.0,SA,SA
+Chile,Ecuador,181738.0,SA,SA
+Chile,Ecuador,183081.0,SA,SA
+Colombia,Ecuador,110356.0,SA,SA
+Colombia,Ecuador,106252.0,SA,SA
+Paraguay,Ecuador,25410.0,SA,SA
+Paraguay,Ecuador,31945.0,SA,SA
+Peru,Ecuador,220681.0,SA,SA
+Peru,Ecuador,89588.0,SA,SA
+Uruguay,Ecuador,7909.0,SA,SA
+Uruguay,Ecuador,996.0,SA,SA
+Argentina,Egypt,1772388.0,SA,AF
+Brazil,Egypt,1361173.0,SA,AF
+Chile,Egypt,3184.0,SA,AF
+Colombia,Egypt,1362.0,SA,AF
+Ecuador,Egypt,9219.0,SA,AF
+Paraguay,Egypt,31731.0,SA,AF
+Peru,Egypt,2874.0,SA,AF
+Uruguay,Egypt,12476.0,SA,AF
+Argentina,El Salvador,5368.0,SA,
+Argentina,El Salvador,4445.0,SA,
+Brazil,El Salvador,16950.0,SA,
+Brazil,El Salvador,7060.0,SA,
+Chile,El Salvador,29032.0,SA,
+Chile,El Salvador,25355.0,SA,
+Colombia,El Salvador,8814.0,SA,
+Colombia,El Salvador,7988.0,SA,
+Ecuador,El Salvador,710.0,SA,
+Ecuador,El Salvador,2099.0,SA,
+Peru,El Salvador,6161.0,SA,
+Peru,El Salvador,6258.0,SA,
+Uruguay,El Salvador,23250.0,SA,
+Uruguay,El Salvador,388.0,SA,
+Guyana,El Salvador,6.0,SA,
+Argentina,Estonia,2179.0,SA,EU
+Argentina,Estonia,2417.0,SA,EU
+Brazil,Estonia,587.0,SA,EU
+Brazil,Estonia,38694.0,SA,EU
+Chile,Estonia,6269.0,SA,EU
+Chile,Estonia,5566.0,SA,EU
+Colombia,Estonia,264.0,SA,EU
+Colombia,Estonia,2982.0,SA,EU
+Ecuador,Estonia,1001.0,SA,EU
+Ecuador,Estonia,4382.0,SA,EU
+Paraguay,Estonia,206.0,SA,EU
+Paraguay,Estonia,113.0,SA,EU
+Peru,Estonia,609.0,SA,EU
+Peru,Estonia,6937.0,SA,EU
+Argentina,Ethiopia,4532.0,SA,AF
+Argentina,Ethiopia,1241.0,SA,AF
+Brazil,Ethiopia,42427.0,SA,AF
+Brazil,Ethiopia,5109.0,SA,AF
+Chile,Ethiopia,648.0,SA,AF
+Chile,Ethiopia,250.0,SA,AF
+Colombia,Ethiopia,56.0,SA,AF
+Colombia,Ethiopia,35.0,SA,AF
+Ecuador,Ethiopia,822.0,SA,AF
+Ecuador,Ethiopia,54.0,SA,AF
+Peru,Ethiopia,7.0,SA,AF
+Argentina,Fiji,411.0,SA,OC
+Argentina,Fiji,339.0,SA,OC
+Brazil,Fiji,292.0,SA,OC
+Brazil,Fiji,372.0,SA,OC
+Chile,Fiji,311.0,SA,OC
+Chile,Fiji,447.0,SA,OC
+Colombia,Fiji,269.0,SA,OC
+Colombia,Fiji,184.0,SA,OC
+Argentina,Finland,9308.0,SA,EU
+Argentina,Finland,7533.0,SA,EU
+Brazil,Finland,152051.0,SA,EU
+Brazil,Finland,114075.0,SA,EU
+Chile,Finland,38336.0,SA,EU
+Chile,Finland,32274.0,SA,EU
+Colombia,Finland,60765.0,SA,EU
+Colombia,Finland,63106.0,SA,EU
+Ecuador,Finland,14465.0,SA,EU
+Ecuador,Finland,9394.0,SA,EU
+Peru,Finland,2889.0,SA,EU
+Peru,Finland,8366.0,SA,EU
+Uruguay,Finland,15177.0,SA,EU
+Uruguay,Finland,2528.0,SA,EU
+Argentina,France,276118.0,SA,EU
+Argentina,France,256985.0,SA,EU
+Brazil,France,1043813.0,SA,EU
+Brazil,France,928218.0,SA,EU
+Chile,France,155394.0,SA,EU
+Chile,France,128024.0,SA,EU
+Colombia,France,54343.0,SA,EU
+Colombia,France,50249.0,SA,EU
+Ecuador,France,42901.0,SA,EU
+Ecuador,France,38699.0,SA,EU
+Paraguay,France,25564.0,SA,EU
+Paraguay,France,5680.0,SA,EU
+Peru,France,149141.0,SA,EU
+Peru,France,98116.0,SA,EU
+Uruguay,France,22794.0,SA,EU
+Uruguay,France,20083.0,SA,EU
+Guyana,France,5894.0,SA,EU
+Guyana,France,3136.0,SA,EU
+Suriname,France,4745.0,SA,EU
+Suriname,France,2448.0,SA,EU
+Argentina,Gabon,2805.0,SA,AF
+Brazil,Gabon,24130.0,SA,AF
+Chile,Gabon,366.0,SA,AF
+Colombia,Gabon,995.0,SA,AF
+Paraguay,Gabon,5395.0,SA,AF
+Peru,Gabon,142.0,SA,AF
+Uruguay,Gabon,68.0,SA,AF
+Argentina,Gambia,14.0,SA,AF
+Argentina,Gambia,2739.0,SA,AF
+Brazil,Gambia,43622.0,SA,AF
+Brazil,Gambia,79003.0,SA,AF
+Ecuador,Gambia,36.0,SA,AF
+Paraguay,Gambia,2387.0,SA,AF
+Paraguay,Gambia,3683.0,SA,AF
+Peru,Gambia,224.0,SA,AF
+Peru,Gambia,4427.0,SA,AF
+Uruguay,Gambia,53.0,SA,AF
+Argentina,Georgia,845.0,SA,AS
+Argentina,Georgia,873.0,SA,AS
+Brazil,Georgia,50519.0,SA,AS
+Brazil,Georgia,202989.0,SA,AS
+Chile,Georgia,120.0,SA,AS
+Colombia,Georgia,17.0,SA,AS
+Colombia,Georgia,182.0,SA,AS
+Ecuador,Georgia,15328.0,SA,AS
+Ecuador,Georgia,17175.0,SA,AS
+Paraguay,Georgia,51.0,SA,AS
+Paraguay,Georgia,2747.0,SA,AS
+Uruguay,Georgia,744.0,SA,AS
+Uruguay,Georgia,816.0,SA,AS
+Argentina,Germany,583680.0,SA,EU
+Argentina,Germany,611149.0,SA,EU
+Brazil,Germany,2404553.0,SA,EU
+Brazil,Germany,2309987.0,SA,EU
+Chile,Germany,198026.0,SA,EU
+Chile,Germany,206475.0,SA,EU
+Colombia,Germany,320479.0,SA,EU
+Colombia,Germany,352361.0,SA,EU
+Ecuador,Germany,322833.0,SA,EU
+Ecuador,Germany,457625.0,SA,EU
+Paraguay,Germany,73550.0,SA,EU
+Paraguay,Germany,163502.0,SA,EU
+Peru,Germany,295997.0,SA,EU
+Peru,Germany,289482.0,SA,EU
+Uruguay,Germany,188842.0,SA,EU
+Uruguay,Germany,113927.0,SA,EU
+Guyana,Germany,3144.0,SA,EU
+Guyana,Germany,2990.0,SA,EU
+Suriname,Germany,37.0,SA,EU
+Argentina,Ghana,25945.0,SA,AF
+Argentina,Ghana,20015.0,SA,AF
+Brazil,Ghana,66447.0,SA,AF
+Brazil,Ghana,68825.0,SA,AF
+Chile,Ghana,573.0,SA,AF
+Chile,Ghana,216.0,SA,AF
+Colombia,Ghana,100.0,SA,AF
+Colombia,Ghana,291.0,SA,AF
+Ecuador,Ghana,7.0,SA,AF
+Ecuador,Ghana,158.0,SA,AF
+Paraguay,Ghana,168.0,SA,AF
+Paraguay,Ghana,542.0,SA,AF
+Peru,Ghana,45.0,SA,AF
+Peru,Ghana,231.0,SA,AF
+Uruguay,Ghana,205.0,SA,AF
+Uruguay,Ghana,145.0,SA,AF
+Guyana,Ghana,12.0,SA,AF
+Argentina,Greece,122724.0,SA,EU
+Argentina,Greece,110615.0,SA,EU
+Brazil,Greece,99121.0,SA,EU
+Brazil,Greece,93278.0,SA,EU
+Chile,Greece,3546.0,SA,EU
+Chile,Greece,3312.0,SA,EU
+Colombia,Greece,21916.0,SA,EU
+Colombia,Greece,17025.0,SA,EU
+Ecuador,Greece,84905.0,SA,EU
+Ecuador,Greece,46199.0,SA,EU
+Paraguay,Greece,37015.0,SA,EU
+Paraguay,Greece,28039.0,SA,EU
+Peru,Greece,644.0,SA,EU
+Peru,Greece,5293.0,SA,EU
+Uruguay,Greece,14307.0,SA,EU
+Uruguay,Greece,12994.0,SA,EU
+Guyana,Greece,1983.0,SA,EU
+Argentina,Greenland,86.0,SA,
+Brazil,Greenland,468.0,SA,
+Chile,Greenland,847.0,SA,
+Colombia,Greenland,7.0,SA,
+Ecuador,Greenland,1.0,SA,
+Peru,Greenland,37.0,SA,
+Uruguay,Greenland,64.0,SA,
+Guyana,Greenland,3.0,SA,
+Argentina,Guinea,689.0,SA,AF
+Brazil,Guinea,31702.0,SA,AF
+Chile,Guinea,107.0,SA,AF
+Colombia,Guinea,5115.0,SA,AF
+Paraguay,Guinea,29.0,SA,AF
+Paraguay,Guinea,26.0,SA,AF
+Peru,Guinea,25.0,SA,AF
+Uruguay,Guinea,133.0,SA,AF
+Argentina,Guyana,597.0,SA,SA
+Argentina,Guyana,2267.0,SA,SA
+Brazil,Guyana,5336.0,SA,SA
+Brazil,Guyana,5216.0,SA,SA
+Chile,Guyana,1906.0,SA,SA
+Chile,Guyana,1220.0,SA,SA
+Colombia,Guyana,3710.0,SA,SA
+Colombia,Guyana,2921.0,SA,SA
+Ecuador,Guyana,16.0,SA,SA
+Peru,Guyana,1384.0,SA,SA
+Peru,Guyana,1960.0,SA,SA
+Uruguay,Guyana,130.0,SA,SA
+Suriname,Guyana,8890.0,SA,SA
+Argentina,Honduras,6647.0,SA,
+Argentina,Honduras,5841.0,SA,
+Brazil,Honduras,12024.0,SA,
+Brazil,Honduras,8192.0,SA,
+Chile,Honduras,28552.0,SA,
+Chile,Honduras,28456.0,SA,
+Colombia,Honduras,9985.0,SA,
+Colombia,Honduras,10814.0,SA,
+Ecuador,Honduras,9474.0,SA,
+Ecuador,Honduras,2043.0,SA,
+Paraguay,Honduras,140.0,SA,
+Paraguay,Honduras,478.0,SA,
+Peru,Honduras,12949.0,SA,
+Peru,Honduras,2399.0,SA,
+Uruguay,Honduras,12942.0,SA,
+Uruguay,Honduras,1008.0,SA,
+Guyana,Honduras,33.0,SA,
+Suriname,Honduras,2.0,SA,
+Argentina,Hungary,9155.0,SA,EU
+Argentina,Hungary,1648.0,SA,EU
+Brazil,Hungary,23881.0,SA,EU
+Brazil,Hungary,18920.0,SA,EU
+Chile,Hungary,2873.0,SA,EU
+Chile,Hungary,2013.0,SA,EU
+Colombia,Hungary,563.0,SA,EU
+Colombia,Hungary,716.0,SA,EU
+Ecuador,Hungary,3.0,SA,EU
+Ecuador,Hungary,475.0,SA,EU
+Peru,Hungary,86.0,SA,EU
+Peru,Hungary,66.0,SA,EU
+Argentina,Iceland,1591.0,SA,EU
+Argentina,Iceland,1134.0,SA,EU
+Brazil,Iceland,3878.0,SA,EU
+Brazil,Iceland,300.0,SA,EU
+Chile,Iceland,4986.0,SA,EU
+Chile,Iceland,2837.0,SA,EU
+Colombia,Iceland,1803.0,SA,EU
+Colombia,Iceland,459.0,SA,EU
+Ecuador,Iceland,3898.0,SA,EU
+Paraguay,Iceland,50.0,SA,EU
+Paraguay,Iceland,7.0,SA,EU
+Peru,Iceland,1653.0,SA,EU
+Peru,Iceland,231.0,SA,EU
+Uruguay,Iceland,54.0,SA,EU
+Uruguay,Iceland,13.0,SA,EU
+Argentina,Indonesia,1331526.0,SA,AS
+Argentina,Indonesia,1216823.0,SA,AS
+Brazil,Indonesia,1691907.0,SA,AS
+Brazil,Indonesia,1613982.0,SA,AS
+Chile,Indonesia,13678.0,SA,AS
+Chile,Indonesia,10817.0,SA,AS
+Colombia,Indonesia,3336.0,SA,AS
+Colombia,Indonesia,567.0,SA,AS
+Ecuador,Indonesia,45651.0,SA,AS
+Ecuador,Indonesia,50138.0,SA,AS
+Paraguay,Indonesia,62774.0,SA,AS
+Paraguay,Indonesia,45711.0,SA,AS
+Peru,Indonesia,30839.0,SA,AS
+Peru,Indonesia,13762.0,SA,AS
+Uruguay,Indonesia,16590.0,SA,AS
+Uruguay,Indonesia,1995.0,SA,AS
+Guyana,Indonesia,3.0,SA,AS
+Guyana,Indonesia,1.0,SA,AS
+Argentina,Ireland,241700.0,SA,EU
+Argentina,Ireland,227959.0,SA,EU
+Brazil,Ireland,62129.0,SA,EU
+Brazil,Ireland,58296.0,SA,EU
+Chile,Ireland,55489.0,SA,EU
+Chile,Ireland,53039.0,SA,EU
+Colombia,Ireland,2482.0,SA,EU
+Colombia,Ireland,2030.0,SA,EU
+Ecuador,Ireland,4274.0,SA,EU
+Ecuador,Ireland,2960.0,SA,EU
+Paraguay,Ireland,3984.0,SA,EU
+Paraguay,Ireland,97.0,SA,EU
+Peru,Ireland,8786.0,SA,EU
+Peru,Ireland,8043.0,SA,EU
+Uruguay,Ireland,3470.0,SA,EU
+Uruguay,Ireland,483.0,SA,EU
+Guyana,Ireland,1.0,SA,EU
+Argentina,Israel,123762.0,SA,AS
+Argentina,Israel,174087.0,SA,AS
+Brazil,Israel,102520.0,SA,AS
+Brazil,Israel,242336.0,SA,AS
+Chile,Israel,8540.0,SA,AS
+Chile,Israel,7083.0,SA,AS
+Colombia,Israel,3205.0,SA,AS
+Colombia,Israel,16755.0,SA,AS
+Ecuador,Israel,4781.0,SA,AS
+Ecuador,Israel,4433.0,SA,AS
+Paraguay,Israel,100656.0,SA,AS
+Paraguay,Israel,155410.0,SA,AS
+Peru,Israel,2197.0,SA,AS
+Peru,Israel,3299.0,SA,AS
+Uruguay,Israel,154891.0,SA,AS
+Uruguay,Israel,121560.0,SA,AS
+Argentina,Italy,820568.0,SA,EU
+Argentina,Italy,742355.0,SA,EU
+Brazil,Italy,1087561.0,SA,EU
+Brazil,Italy,1037351.0,SA,EU
+Chile,Italy,206415.0,SA,EU
+Chile,Italy,173122.0,SA,EU
+Colombia,Italy,216524.0,SA,EU
+Colombia,Italy,233006.0,SA,EU
+Ecuador,Italy,132629.0,SA,EU
+Ecuador,Italy,227186.0,SA,EU
+Paraguay,Italy,210155.0,SA,EU
+Paraguay,Italy,198425.0,SA,EU
+Peru,Italy,69466.0,SA,EU
+Peru,Italy,64941.0,SA,EU
+Uruguay,Italy,65185.0,SA,EU
+Uruguay,Italy,61183.0,SA,EU
+Guyana,Italy,26025.0,SA,EU
+Guyana,Italy,22692.0,SA,EU
+Suriname,Italy,1649.0,SA,EU
+Suriname,Italy,1472.0,SA,EU
+Argentina,Jamaica,3745.0,SA,
+Argentina,Jamaica,4165.0,SA,
+Brazil,Jamaica,11655.0,SA,
+Brazil,Jamaica,11919.0,SA,
+Chile,Jamaica,4904.0,SA,
+Chile,Jamaica,4556.0,SA,
+Colombia,Jamaica,9699.0,SA,
+Colombia,Jamaica,9351.0,SA,
+Ecuador,Jamaica,797.0,SA,
+Ecuador,Jamaica,781.0,SA,
+Peru,Jamaica,1019.0,SA,
+Peru,Jamaica,740.0,SA,
+Uruguay,Jamaica,362.0,SA,
+Uruguay,Jamaica,186.0,SA,
+Guyana,Jamaica,22560.0,SA,
+Guyana,Jamaica,22618.0,SA,
+Suriname,Jamaica,16851.0,SA,
+Suriname,Jamaica,14494.0,SA,
+Argentina,Japan,270732.0,SA,AS
+Argentina,Japan,225485.0,SA,AS
+Brazil,Japan,2730131.0,SA,AS
+Brazil,Japan,2137613.0,SA,AS
+Chile,Japan,495594.0,SA,AS
+Chile,Japan,460467.0,SA,AS
+Colombia,Japan,335457.0,SA,AS
+Colombia,Japan,312818.0,SA,AS
+Ecuador,Japan,233332.0,SA,AS
+Ecuador,Japan,148055.0,SA,AS
+Paraguay,Japan,34481.0,SA,AS
+Paraguay,Japan,38579.0,SA,AS
+Peru,Japan,68801.0,SA,AS
+Peru,Japan,52447.0,SA,AS
+Uruguay,Japan,3723.0,SA,AS
+Uruguay,Japan,2732.0,SA,AS
+Guyana,Japan,102.0,SA,AS
+Guyana,Japan,30.0,SA,AS
+Suriname,Japan,7.0,SA,AS
+Argentina,Jordan,279633.0,SA,AS
+Argentina,Jordan,215806.0,SA,AS
+Brazil,Jordan,196735.0,SA,AS
+Brazil,Jordan,156159.0,SA,AS
+Chile,Jordan,2101.0,SA,AS
+Chile,Jordan,1556.0,SA,AS
+Colombia,Jordan,32896.0,SA,AS
+Colombia,Jordan,24423.0,SA,AS
+Ecuador,Jordan,8387.0,SA,AS
+Ecuador,Jordan,4871.0,SA,AS
+Paraguay,Jordan,1568.0,SA,AS
+Paraguay,Jordan,1590.0,SA,AS
+Peru,Jordan,738.0,SA,AS
+Peru,Jordan,442.0,SA,AS
+Uruguay,Jordan,111.0,SA,AS
+Uruguay,Jordan,508.0,SA,AS
+Guyana,Jordan,53.0,SA,AS
+Argentina,Kazakhstan,4646.0,SA,AS
+Argentina,Kazakhstan,3660.0,SA,AS
+Brazil,Kazakhstan,143602.0,SA,AS
+Brazil,Kazakhstan,729.0,SA,AS
+Chile,Kazakhstan,3506.0,SA,AS
+Chile,Kazakhstan,1151.0,SA,AS
+Colombia,Kazakhstan,3695.0,SA,AS
+Colombia,Kazakhstan,671.0,SA,AS
+Ecuador,Kazakhstan,29632.0,SA,AS
+Ecuador,Kazakhstan,19471.0,SA,AS
+Paraguay,Kazakhstan,1957.0,SA,AS
+Paraguay,Kazakhstan,4700.0,SA,AS
+Peru,Kazakhstan,334.0,SA,AS
+Uruguay,Kazakhstan,499.0,SA,AS
+Uruguay,Kazakhstan,251.0,SA,AS
+Guyana,Kazakhstan,2.0,SA,AS
+Argentina,Kenya,19071.0,SA,AF
+Brazil,Kenya,21905.0,SA,AF
+Chile,Kenya,1166.0,SA,AF
+Colombia,Kenya,250.0,SA,AF
+Ecuador,Kenya,316.0,SA,AF
+Peru,Kenya,9.0,SA,AF
+Uruguay,Kenya,15.0,SA,AF
+Brazil,Kiribati,98.0,SA,OC
+Brazil,Kiribati,174.0,SA,OC
+Argentina,Kuwait,16309.0,SA,AS
+Argentina,Kuwait,20679.0,SA,AS
+Brazil,Kuwait,247665.0,SA,AS
+Brazil,Kuwait,181834.0,SA,AS
+Chile,Kuwait,6555.0,SA,AS
+Chile,Kuwait,3763.0,SA,AS
+Colombia,Kuwait,2583.0,SA,AS
+Colombia,Kuwait,1619.0,SA,AS
+Ecuador,Kuwait,14391.0,SA,AS
+Ecuador,Kuwait,36512.0,SA,AS
+Paraguay,Kuwait,18985.0,SA,AS
+Paraguay,Kuwait,14894.0,SA,AS
+Peru,Kuwait,1794.0,SA,AS
+Peru,Kuwait,1111.0,SA,AS
+Uruguay,Kuwait,4136.0,SA,AS
+Uruguay,Kuwait,4014.0,SA,AS
+Guyana,Kuwait,7.0,SA,AS
+Argentina,Kyrgyzstan,45.0,SA,AS
+Brazil,Kyrgyzstan,13784.0,SA,AS
+Brazil,Kyrgyzstan,2268.0,SA,AS
+Chile,Kyrgyzstan,103.0,SA,AS
+Chile,Kyrgyzstan,52.0,SA,AS
+Colombia,Kyrgyzstan,88.0,SA,AS
+Colombia,Kyrgyzstan,10.0,SA,AS
+Ecuador,Kyrgyzstan,1093.0,SA,AS
+Ecuador,Kyrgyzstan,2405.0,SA,AS
+Peru,Kyrgyzstan,2.0,SA,AS
+Peru,Kyrgyzstan,2.0,SA,AS
+Guyana,Kyrgyzstan,1.0,SA,AS
+Argentina,Latvia,7229.0,SA,EU
+Argentina,Latvia,77287.0,SA,EU
+Brazil,Latvia,1527.0,SA,EU
+Brazil,Latvia,3893.0,SA,EU
+Chile,Latvia,3622.0,SA,EU
+Chile,Latvia,7267.0,SA,EU
+Colombia,Latvia,22.0,SA,EU
+Colombia,Latvia,723.0,SA,EU
+Ecuador,Latvia,49.0,SA,EU
+Ecuador,Latvia,4331.0,SA,EU
+Peru,Latvia,68.0,SA,EU
+Peru,Latvia,266.0,SA,EU
+Uruguay,Latvia,5.0,SA,EU
+Uruguay,Latvia,47.0,SA,EU
+Argentina,Lebanon,85355.0,SA,AS
+Argentina,Lebanon,81906.0,SA,AS
+Brazil,Lebanon,282621.0,SA,AS
+Brazil,Lebanon,264243.0,SA,AS
+Chile,Lebanon,1900.0,SA,AS
+Chile,Lebanon,1904.0,SA,AS
+Colombia,Lebanon,28294.0,SA,AS
+Colombia,Lebanon,15481.0,SA,AS
+Ecuador,Lebanon,1130.0,SA,AS
+Ecuador,Lebanon,828.0,SA,AS
+Paraguay,Lebanon,23639.0,SA,AS
+Paraguay,Lebanon,20906.0,SA,AS
+Peru,Lebanon,3238.0,SA,AS
+Peru,Lebanon,2313.0,SA,AS
+Uruguay,Lebanon,5661.0,SA,AS
+Uruguay,Lebanon,2868.0,SA,AS
+Guyana,Lebanon,118.0,SA,AS
+Guyana,Lebanon,88.0,SA,AS
+Argentina,Lithuania,23026.0,SA,EU
+Argentina,Lithuania,38954.0,SA,EU
+Brazil,Lithuania,16363.0,SA,EU
+Brazil,Lithuania,23319.0,SA,EU
+Chile,Lithuania,9666.0,SA,EU
+Chile,Lithuania,12726.0,SA,EU
+Colombia,Lithuania,1442.0,SA,EU
+Colombia,Lithuania,976.0,SA,EU
+Ecuador,Lithuania,6126.0,SA,EU
+Ecuador,Lithuania,10294.0,SA,EU
+Peru,Lithuania,921.0,SA,EU
+Peru,Lithuania,1886.0,SA,EU
+Uruguay,Lithuania,6.0,SA,EU
+Argentina,Luxembourg,1956.0,SA,EU
+Argentina,Luxembourg,699.0,SA,EU
+Brazil,Luxembourg,2028.0,SA,EU
+Brazil,Luxembourg,1320.0,SA,EU
+Chile,Luxembourg,132.0,SA,EU
+Chile,Luxembourg,499.0,SA,EU
+Colombia,Luxembourg,157.0,SA,EU
+Ecuador,Luxembourg,990.0,SA,EU
+Peru,Luxembourg,9.0,SA,EU
+Peru,Luxembourg,17.0,SA,EU
+Guyana,Luxembourg,1.0,SA,EU
+Argentina,Madagascar,22177.0,SA,AF
+Argentina,Madagascar,13635.0,SA,AF
+Brazil,Madagascar,29328.0,SA,AF
+Brazil,Madagascar,28992.0,SA,AF
+Chile,Madagascar,95.0,SA,AF
+Chile,Madagascar,26.0,SA,AF
+Colombia,Madagascar,134.0,SA,AF
+Colombia,Madagascar,245.0,SA,AF
+Ecuador,Madagascar,652.0,SA,AF
+Ecuador,Madagascar,348.0,SA,AF
+Paraguay,Madagascar,4.0,SA,AF
+Paraguay,Madagascar,124.0,SA,AF
+Peru,Madagascar,32.0,SA,AF
+Peru,Madagascar,78.0,SA,AF
+Uruguay,Madagascar,63.0,SA,AF
+Uruguay,Madagascar,45.0,SA,AF
+Suriname,Madagascar,3.0,SA,AF
+Argentina,Malawi,5162.0,SA,AF
+Argentina,Malaysia,984998.0,SA,AS
+Argentina,Malaysia,893979.0,SA,AS
+Brazil,Malaysia,1141123.0,SA,AS
+Brazil,Malaysia,993036.0,SA,AS
+Chile,Malaysia,20636.0,SA,AS
+Chile,Malaysia,14685.0,SA,AS
+Colombia,Malaysia,23273.0,SA,AS
+Colombia,Malaysia,22985.0,SA,AS
+Ecuador,Malaysia,61618.0,SA,AS
+Ecuador,Malaysia,69130.0,SA,AS
+Paraguay,Malaysia,13822.0,SA,AS
+Paraguay,Malaysia,14154.0,SA,AS
+Peru,Malaysia,8205.0,SA,AS
+Peru,Malaysia,10368.0,SA,AS
+Uruguay,Malaysia,10473.0,SA,AS
+Uruguay,Malaysia,5206.0,SA,AS
+Guyana,Malaysia,60.0,SA,AS
+Guyana,Malaysia,78.0,SA,AS
+Argentina,Maldives,589.0,SA,AS
+Argentina,Maldives,564.0,SA,AS
+Brazil,Maldives,16126.0,SA,AS
+Brazil,Maldives,14193.0,SA,AS
+Chile,Maldives,258.0,SA,AS
+Chile,Maldives,278.0,SA,AS
+Ecuador,Maldives,37.0,SA,AS
+Ecuador,Maldives,137.0,SA,AS
+Paraguay,Maldives,80.0,SA,AS
+Peru,Maldives,7.0,SA,AS
+Uruguay,Maldives,212.0,SA,AS
+Argentina,Mali,550.0,SA,AF
+Argentina,Mali,792.0,SA,AF
+Brazil,Mali,39854.0,SA,AF
+Brazil,Mali,683.0,SA,AF
+Chile,Mali,59.0,SA,AF
+Colombia,Mali,426.0,SA,AF
+Colombia,Mali,152.0,SA,AF
+Peru,Mali,13.0,SA,AF
+Uruguay,Mali,319.0,SA,AF
+Uruguay,Mali,547.0,SA,AF
+Suriname,Mali,28.0,SA,AF
+Argentina,Malta,3515.0,SA,EU
+Argentina,Malta,1005.0,SA,EU
+Brazil,Malta,12612.0,SA,EU
+Brazil,Malta,10336.0,SA,EU
+Chile,Malta,1783.0,SA,EU
+Chile,Malta,2162.0,SA,EU
+Colombia,Malta,2887.0,SA,EU
+Colombia,Malta,630.0,SA,EU
+Ecuador,Malta,2087.0,SA,EU
+Ecuador,Malta,1067.0,SA,EU
+Peru,Malta,175.0,SA,EU
+Peru,Malta,171.0,SA,EU
+Uruguay,Malta,190.0,SA,EU
+Uruguay,Malta,3.0,SA,EU
+Argentina,Mauritania,10.0,SA,AF
+Argentina,Mauritania,4941.0,SA,AF
+Brazil,Mauritania,30891.0,SA,AF
+Brazil,Mauritania,112541.0,SA,AF
+Chile,Mauritania,43.0,SA,AF
+Peru,Mauritania,580.0,SA,AF
+Peru,Mauritania,1209.0,SA,AF
+Uruguay,Mauritania,193.0,SA,AF
+Uruguay,Mauritania,529.0,SA,AF
+Suriname,Mauritania,1291.0,SA,AF
+Argentina,Mauritius,57970.0,SA,AF
+Argentina,Mauritius,48883.0,SA,AF
+Brazil,Mauritius,40722.0,SA,AF
+Brazil,Mauritius,29288.0,SA,AF
+Chile,Mauritius,457.0,SA,AF
+Chile,Mauritius,371.0,SA,AF
+Colombia,Mauritius,111.0,SA,AF
+Colombia,Mauritius,121.0,SA,AF
+Ecuador,Mauritius,31.0,SA,AF
+Paraguay,Mauritius,88.0,SA,AF
+Paraguay,Mauritius,2854.0,SA,AF
+Peru,Mauritius,37.0,SA,AF
+Peru,Mauritius,1.0,SA,AF
+Uruguay,Mauritius,155.0,SA,AF
+Uruguay,Mauritius,27.0,SA,AF
+Argentina,Mexico,152462.0,SA,
+Argentina,Mexico,127783.0,SA,
+Brazil,Mexico,294065.0,SA,
+Brazil,Mexico,267378.0,SA,
+Chile,Mexico,410723.0,SA,
+Chile,Mexico,385315.0,SA,
+Colombia,Mexico,97653.0,SA,
+Colombia,Mexico,86175.0,SA,
+Ecuador,Mexico,117047.0,SA,
+Ecuador,Mexico,107334.0,SA,
+Paraguay,Mexico,119063.0,SA,
+Paraguay,Mexico,99744.0,SA,
+Peru,Mexico,80691.0,SA,
+Peru,Mexico,86681.0,SA,
+Uruguay,Mexico,120314.0,SA,
+Uruguay,Mexico,68328.0,SA,
+Guyana,Mexico,6718.0,SA,
+Guyana,Mexico,5931.0,SA,
+Argentina,Mongolia,1135.0,SA,AS
+Argentina,Mongolia,714.0,SA,AS
+Brazil,Mongolia,3225.0,SA,AS
+Brazil,Mongolia,1579.0,SA,AS
+Chile,Mongolia,635.0,SA,AS
+Chile,Mongolia,137.0,SA,AS
+Colombia,Mongolia,30.0,SA,AS
+Ecuador,Mongolia,507.0,SA,AS
+Ecuador,Mongolia,48.0,SA,AS
+Peru,Mongolia,33.0,SA,AS
+Uruguay,Mongolia,2.0,SA,AS
+Uruguay,Mongolia,1.0,SA,AS
+Argentina,Montenegro,1232.0,SA,EU
+Argentina,Montenegro,889.0,SA,EU
+Brazil,Montenegro,12584.0,SA,EU
+Brazil,Montenegro,16711.0,SA,EU
+Chile,Montenegro,134.0,SA,EU
+Colombia,Montenegro,744.0,SA,EU
+Colombia,Montenegro,45.0,SA,EU
+Ecuador,Montenegro,5220.0,SA,EU
+Ecuador,Montenegro,10194.0,SA,EU
+Paraguay,Montenegro,146.0,SA,EU
+Paraguay,Montenegro,257.0,SA,EU
+Peru,Montenegro,92.0,SA,EU
+Argentina,Morocco,428576.0,SA,AF
+Argentina,Morocco,361190.0,SA,AF
+Brazil,Morocco,529566.0,SA,AF
+Brazil,Morocco,399849.0,SA,AF
+Chile,Morocco,3919.0,SA,AF
+Chile,Morocco,3044.0,SA,AF
+Colombia,Morocco,2634.0,SA,AF
+Colombia,Morocco,1531.0,SA,AF
+Ecuador,Morocco,6022.0,SA,AF
+Ecuador,Morocco,4307.0,SA,AF
+Paraguay,Morocco,10901.0,SA,AF
+Paraguay,Morocco,4536.0,SA,AF
+Peru,Morocco,3482.0,SA,AF
+Peru,Morocco,556.0,SA,AF
+Uruguay,Morocco,11037.0,SA,AF
+Uruguay,Morocco,5015.0,SA,AF
+Guyana,Morocco,1.0,SA,AF
+Argentina,Namibia,6156.0,SA,AF
+Argentina,Namibia,6333.0,SA,AF
+Brazil,Namibia,1808.0,SA,AF
+Brazil,Namibia,1939.0,SA,AF
+Ecuador,Namibia,1.0,SA,AF
+Argentina,Nepal,5988.0,SA,AS
+Brazil,Nepal,697.0,SA,AS
+Chile,Nepal,208.0,SA,AS
+Paraguay,Nepal,5801.0,SA,AS
+Uruguay,Nepal,394.0,SA,AS
+Guyana,Nepal,4.0,SA,AS
+Argentina,Netherlands,1307122.0,SA,EU
+Argentina,Netherlands,949145.0,SA,EU
+Brazil,Netherlands,3557025.0,SA,EU
+Brazil,Netherlands,3607011.0,SA,EU
+Chile,Netherlands,788763.0,SA,EU
+Chile,Netherlands,578178.0,SA,EU
+Colombia,Netherlands,457347.0,SA,EU
+Colombia,Netherlands,347084.0,SA,EU
+Ecuador,Netherlands,425142.0,SA,EU
+Ecuador,Netherlands,314418.0,SA,EU
+Paraguay,Netherlands,45965.0,SA,EU
+Paraguay,Netherlands,74605.0,SA,EU
+Peru,Netherlands,745030.0,SA,EU
+Peru,Netherlands,636013.0,SA,EU
+Uruguay,Netherlands,397864.0,SA,EU
+Uruguay,Netherlands,226688.0,SA,EU
+Guyana,Netherlands,13373.0,SA,EU
+Guyana,Netherlands,9616.0,SA,EU
+Suriname,Netherlands,6973.0,SA,EU
+Suriname,Netherlands,551.0,SA,EU
+Falkland Islands (Malvinas),Netherlands,188.0,SA,EU
+Argentina,New Zealand,108363.0,SA,OC
+Argentina,New Zealand,79359.0,SA,OC
+Brazil,New Zealand,88587.0,SA,OC
+Brazil,New Zealand,66152.0,SA,OC
+Chile,New Zealand,24157.0,SA,OC
+Chile,New Zealand,27427.0,SA,OC
+Colombia,New Zealand,11934.0,SA,OC
+Colombia,New Zealand,11366.0,SA,OC
+Ecuador,New Zealand,56549.0,SA,OC
+Ecuador,New Zealand,33198.0,SA,OC
+Paraguay,New Zealand,211.0,SA,OC
+Paraguay,New Zealand,272.0,SA,OC
+Peru,New Zealand,8435.0,SA,OC
+Peru,New Zealand,6583.0,SA,OC
+Uruguay,New Zealand,4780.0,SA,OC
+Uruguay,New Zealand,2824.0,SA,OC
+Guyana,New Zealand,63.0,SA,OC
+Argentina,Niger,4369.0,SA,AF
+Argentina,Niger,4861.0,SA,AF
+Brazil,Niger,15442.0,SA,AF
+Brazil,Niger,285.0,SA,AF
+Chile,Niger,2.0,SA,AF
+Chile,Niger,36.0,SA,AF
+Colombia,Niger,137.0,SA,AF
+Peru,Niger,191.0,SA,AF
+Guyana,Niger,7.0,SA,AF
+Argentina,Nigeria,29637.0,SA,AF
+Brazil,Nigeria,303.0,SA,AF
+Brazil,Nigeria,588171.0,SA,AF
+Chile,Nigeria,1185.0,SA,AF
+Colombia,Nigeria,2065.0,SA,AF
+Ecuador,Nigeria,128.0,SA,AF
+Peru,Nigeria,949.0,SA,AF
+Uruguay,Nigeria,2199.0,SA,AF
+Argentina,Norway,20452.0,SA,EU
+Argentina,Norway,6830.0,SA,EU
+Brazil,Norway,471597.0,SA,EU
+Brazil,Norway,148046.0,SA,EU
+Chile,Norway,60463.0,SA,EU
+Chile,Norway,22952.0,SA,EU
+Colombia,Norway,45997.0,SA,EU
+Colombia,Norway,36871.0,SA,EU
+Ecuador,Norway,28475.0,SA,EU
+Ecuador,Norway,10998.0,SA,EU
+Paraguay,Norway,395.0,SA,EU
+Peru,Norway,48293.0,SA,EU
+Peru,Norway,3610.0,SA,EU
+Uruguay,Norway,14741.0,SA,EU
+Uruguay,Norway,10946.0,SA,EU
+Guyana,Norway,8.0,SA,EU
+Guyana,Norway,59.0,SA,EU
+Suriname,Norway,4.0,SA,EU
+Argentina,Oman,44627.0,SA,AS
+Argentina,Oman,39298.0,SA,AS
+Brazil,Oman,36110.0,SA,AS
+Brazil,Oman,149223.0,SA,AS
+Chile,Oman,598.0,SA,AS
+Chile,Oman,1872.0,SA,AS
+Colombia,Oman,77.0,SA,AS
+Colombia,Oman,90.0,SA,AS
+Ecuador,Oman,19.0,SA,AS
+Ecuador,Oman,192.0,SA,AS
+Paraguay,Oman,406.0,SA,AS
+Paraguay,Oman,8707.0,SA,AS
+Peru,Oman,58.0,SA,AS
+Peru,Oman,1056.0,SA,AS
+Uruguay,Oman,3.0,SA,AS
+Uruguay,Oman,790.0,SA,AS
+Suriname,Oman,80.0,SA,AS
+Argentina,Pakistan,290019.0,SA,AS
+Argentina,Pakistan,232697.0,SA,AS
+Brazil,Pakistan,336474.0,SA,AS
+Brazil,Pakistan,324241.0,SA,AS
+Chile,Pakistan,266.0,SA,AS
+Chile,Pakistan,250.0,SA,AS
+Colombia,Pakistan,145.0,SA,AS
+Colombia,Pakistan,31.0,SA,AS
+Ecuador,Pakistan,88.0,SA,AS
+Paraguay,Pakistan,6466.0,SA,AS
+Paraguay,Pakistan,7303.0,SA,AS
+Peru,Pakistan,59.0,SA,AS
+Peru,Pakistan,685.0,SA,AS
+Uruguay,Pakistan,636.0,SA,AS
+Uruguay,Pakistan,347.0,SA,AS
+Guyana,Pakistan,48.0,SA,AS
+Suriname,Pakistan,32.0,SA,AS
+Brazil,Papua New Guinea,46.0,SA,OC
+Chile,Papua New Guinea,66.0,SA,OC
+Argentina,Paraguay,258360.0,SA,SA
+Argentina,Paraguay,231236.0,SA,SA
+Brazil,Paraguay,393813.0,SA,SA
+Brazil,Paraguay,366803.0,SA,SA
+Chile,Paraguay,62810.0,SA,SA
+Chile,Paraguay,56618.0,SA,SA
+Colombia,Paraguay,1553.0,SA,SA
+Colombia,Paraguay,1121.0,SA,SA
+Ecuador,Paraguay,1706.0,SA,SA
+Ecuador,Paraguay,1162.0,SA,SA
+Peru,Paraguay,1187.0,SA,SA
+Peru,Paraguay,936.0,SA,SA
+Uruguay,Paraguay,33967.0,SA,SA
+Uruguay,Paraguay,46580.0,SA,SA
+Argentina,Peru,426457.0,SA,SA
+Argentina,Peru,391909.0,SA,SA
+Brazil,Peru,180240.0,SA,SA
+Brazil,Peru,159400.0,SA,SA
+Chile,Peru,286886.0,SA,SA
+Chile,Peru,316992.0,SA,SA
+Colombia,Peru,156432.0,SA,SA
+Colombia,Peru,143010.0,SA,SA
+Ecuador,Peru,37034.0,SA,SA
+Ecuador,Peru,58855.0,SA,SA
+Paraguay,Peru,107963.0,SA,SA
+Paraguay,Peru,90312.0,SA,SA
+Uruguay,Peru,125530.0,SA,SA
+Uruguay,Peru,115976.0,SA,SA
+Guyana,Peru,3.0,SA,SA
+Argentina,Philippines,309110.0,SA,AS
+Argentina,Philippines,347953.0,SA,AS
+Brazil,Philippines,203346.0,SA,AS
+Brazil,Philippines,152221.0,SA,AS
+Chile,Philippines,9117.0,SA,AS
+Chile,Philippines,10565.0,SA,AS
+Colombia,Philippines,244.0,SA,AS
+Ecuador,Philippines,5887.0,SA,AS
+Ecuador,Philippines,2581.0,SA,AS
+Paraguay,Philippines,7403.0,SA,AS
+Paraguay,Philippines,191.0,SA,AS
+Peru,Philippines,173.0,SA,AS
+Peru,Philippines,97.0,SA,AS
+Uruguay,Philippines,9122.0,SA,AS
+Uruguay,Philippines,6813.0,SA,AS
+Guyana,Philippines,312.0,SA,AS
+Guyana,Philippines,670.0,SA,AS
+Argentina,Poland,601512.0,SA,EU
+Argentina,Poland,579976.0,SA,EU
+Brazil,Poland,123762.0,SA,EU
+Brazil,Poland,85979.0,SA,EU
+Chile,Poland,35562.0,SA,EU
+Chile,Poland,35443.0,SA,EU
+Colombia,Poland,17593.0,SA,EU
+Colombia,Poland,20539.0,SA,EU
+Ecuador,Poland,95030.0,SA,EU
+Ecuador,Poland,25857.0,SA,EU
+Paraguay,Poland,180620.0,SA,EU
+Paraguay,Poland,151494.0,SA,EU
+Peru,Poland,5344.0,SA,EU
+Peru,Poland,4568.0,SA,EU
+Uruguay,Poland,174.0,SA,EU
+Uruguay,Poland,412.0,SA,EU
+Guyana,Poland,108.0,SA,EU
+Guyana,Poland,265.0,SA,EU
+Suriname,Poland,5.0,SA,EU
+Argentina,Portugal,93067.0,SA,EU
+Argentina,Portugal,93589.0,SA,EU
+Brazil,Portugal,250677.0,SA,EU
+Brazil,Portugal,194982.0,SA,EU
+Chile,Portugal,36499.0,SA,EU
+Chile,Portugal,21935.0,SA,EU
+Colombia,Portugal,16707.0,SA,EU
+Colombia,Portugal,7558.0,SA,EU
+Ecuador,Portugal,4228.0,SA,EU
+Ecuador,Portugal,7200.0,SA,EU
+Paraguay,Portugal,97012.0,SA,EU
+Paraguay,Portugal,69542.0,SA,EU
+Peru,Portugal,5549.0,SA,EU
+Peru,Portugal,3418.0,SA,EU
+Uruguay,Portugal,9480.0,SA,EU
+Uruguay,Portugal,8261.0,SA,EU
+Guyana,Portugal,51671.0,SA,EU
+Guyana,Portugal,21708.0,SA,EU
+Suriname,Portugal,3817.0,SA,EU
+Suriname,Portugal,3408.0,SA,EU
+Argentina,Qatar,12157.0,SA,AS
+Argentina,Qatar,7349.0,SA,AS
+Brazil,Qatar,157306.0,SA,AS
+Brazil,Qatar,117790.0,SA,AS
+Chile,Qatar,7401.0,SA,AS
+Chile,Qatar,4872.0,SA,AS
+Colombia,Qatar,1375.0,SA,AS
+Colombia,Qatar,376.0,SA,AS
+Ecuador,Qatar,7479.0,SA,AS
+Ecuador,Qatar,6250.0,SA,AS
+Paraguay,Qatar,1717.0,SA,AS
+Peru,Qatar,1681.0,SA,AS
+Peru,Qatar,228.0,SA,AS
+Uruguay,Qatar,1533.0,SA,AS
+Uruguay,Qatar,1105.0,SA,AS
+Argentina,Romania,57788.0,SA,EU
+Argentina,Romania,54564.0,SA,EU
+Brazil,Romania,189242.0,SA,EU
+Brazil,Romania,141595.0,SA,EU
+Chile,Romania,580.0,SA,EU
+Chile,Romania,500.0,SA,EU
+Colombia,Romania,8396.0,SA,EU
+Colombia,Romania,7779.0,SA,EU
+Ecuador,Romania,1146.0,SA,EU
+Ecuador,Romania,3984.0,SA,EU
+Paraguay,Romania,160.0,SA,EU
+Paraguay,Romania,266.0,SA,EU
+Peru,Romania,357.0,SA,EU
+Peru,Romania,444.0,SA,EU
+Uruguay,Romania,126.0,SA,EU
+Uruguay,Romania,124.0,SA,EU
+Argentina,Russian Federation,578703.0,SA,EU
+Argentina,Russian Federation,400888.0,SA,EU
+Brazil,Russian Federation,2185924.0,SA,EU
+Brazil,Russian Federation,2058821.0,SA,EU
+Chile,Russian Federation,199438.0,SA,EU
+Chile,Russian Federation,158926.0,SA,EU
+Colombia,Russian Federation,90966.0,SA,EU
+Colombia,Russian Federation,67853.0,SA,EU
+Ecuador,Russian Federation,1176288.0,SA,EU
+Ecuador,Russian Federation,732445.0,SA,EU
+Paraguay,Russian Federation,696839.0,SA,EU
+Paraguay,Russian Federation,655203.0,SA,EU
+Peru,Russian Federation,54467.0,SA,EU
+Peru,Russian Federation,29896.0,SA,EU
+Uruguay,Russian Federation,102733.0,SA,EU
+Uruguay,Russian Federation,94048.0,SA,EU
+Guyana,Russian Federation,419.0,SA,EU
+Guyana,Russian Federation,1.0,SA,EU
+Suriname,Russian Federation,86.0,SA,EU
+Argentina,Rwanda,1478.0,SA,AF
+Brazil,Rwanda,178.0,SA,AF
+Argentina,Saint Lucia,775.0,SA,
+Argentina,Saint Lucia,705.0,SA,
+Brazil,Saint Lucia,272.0,SA,
+Brazil,Saint Lucia,384.0,SA,
+Chile,Saint Lucia,326.0,SA,
+Chile,Saint Lucia,709.0,SA,
+Colombia,Saint Lucia,336.0,SA,
+Colombia,Saint Lucia,340.0,SA,
+Peru,Saint Lucia,2369.0,SA,
+Peru,Saint Lucia,1935.0,SA,
+Uruguay,Saint Lucia,91.0,SA,
+Guyana,Saint Lucia,3351.0,SA,
+Guyana,Saint Lucia,6293.0,SA,
+Brazil,Sao Tome and Principe,591.0,SA,AF
+Brazil,Sao Tome and Principe,817.0,SA,AF
+Argentina,Saudi Arabia,614769.0,SA,AS
+Brazil,Saudi Arabia,3536.0,SA,AS
+Brazil,Saudi Arabia,2075053.0,SA,AS
+Chile,Saudi Arabia,73045.0,SA,AS
+Colombia,Saudi Arabia,4074.0,SA,AS
+Ecuador,Saudi Arabia,75931.0,SA,AS
+Paraguay,Saudi Arabia,48.0,SA,AS
+Peru,Saudi Arabia,4720.0,SA,AS
+Uruguay,Saudi Arabia,6681.0,SA,AS
+Guyana,Saudi Arabia,29.0,SA,AS
+Argentina,Senegal,46151.0,SA,AF
+Argentina,Senegal,48940.0,SA,AF
+Brazil,Senegal,86008.0,SA,AF
+Brazil,Senegal,70197.0,SA,AF
+Chile,Senegal,110.0,SA,AF
+Chile,Senegal,64.0,SA,AF
+Colombia,Senegal,36.0,SA,AF
+Colombia,Senegal,88.0,SA,AF
+Ecuador,Senegal,40.0,SA,AF
+Ecuador,Senegal,339.0,SA,AF
+Paraguay,Senegal,3211.0,SA,AF
+Paraguay,Senegal,214.0,SA,AF
+Peru,Senegal,453.0,SA,AF
+Uruguay,Senegal,4000.0,SA,AF
+Uruguay,Senegal,3627.0,SA,AF
+Argentina,Serbia,9270.0,SA,EU
+Argentina,Serbia,11453.0,SA,EU
+Brazil,Serbia,50151.0,SA,EU
+Brazil,Serbia,34502.0,SA,EU
+Chile,Serbia,568.0,SA,EU
+Chile,Serbia,65.0,SA,EU
+Colombia,Serbia,11482.0,SA,EU
+Colombia,Serbia,72.0,SA,EU
+Ecuador,Serbia,23960.0,SA,EU
+Ecuador,Serbia,695.0,SA,EU
+Paraguay,Serbia,3537.0,SA,EU
+Peru,Serbia,755.0,SA,EU
+Peru,Serbia,2.0,SA,EU
+Uruguay,Serbia,10.0,SA,EU
+Uruguay,Serbia,50.0,SA,EU
+Guyana,Serbia,1.0,SA,EU
+Suriname,Serbia,36.0,SA,EU
+Suriname,Serbia,32.0,SA,EU
+Argentina,Seychelles,191.0,SA,AF
+Argentina,Seychelles,346.0,SA,AF
+Brazil,Seychelles,3923.0,SA,AF
+Brazil,Seychelles,4066.0,SA,AF
+Chile,Seychelles,588.0,SA,AF
+Chile,Seychelles,153.0,SA,AF
+Colombia,Seychelles,10.0,SA,AF
+Ecuador,Seychelles,15.0,SA,AF
+Paraguay,Seychelles,71.0,SA,AF
+Paraguay,Seychelles,57.0,SA,AF
+Peru,Seychelles,1.0,SA,AF
+Uruguay,Seychelles,18.0,SA,AF
+Guyana,Seychelles,1.0,SA,AF
+Suriname,Seychelles,14.0,SA,AF
+Argentina,Sierra Leone,1011.0,SA,AF
+Brazil,Sierra Leone,6672.0,SA,AF
+Brazil,Sierra Leone,21251.0,SA,AF
+Chile,Sierra Leone,255.0,SA,AF
+Colombia,Sierra Leone,453.0,SA,AF
+Paraguay,Sierra Leone,2489.0,SA,AF
+Paraguay,Sierra Leone,2283.0,SA,AF
+Peru,Sierra Leone,742.0,SA,AF
+Uruguay,Sierra Leone,15902.0,SA,AF
+Uruguay,Sierra Leone,14198.0,SA,AF
+Argentina,Singapore,27271.0,SA,AS
+Argentina,Singapore,17298.0,SA,AS
+Brazil,Singapore,417707.0,SA,AS
+Brazil,Singapore,396946.0,SA,AS
+Chile,Singapore,11642.0,SA,AS
+Chile,Singapore,15353.0,SA,AS
+Colombia,Singapore,2801.0,SA,AS
+Colombia,Singapore,2282.0,SA,AS
+Ecuador,Singapore,6399.0,SA,AS
+Ecuador,Singapore,4395.0,SA,AS
+Paraguay,Singapore,1774.0,SA,AS
+Paraguay,Singapore,1894.0,SA,AS
+Peru,Singapore,4729.0,SA,AS
+Peru,Singapore,4215.0,SA,AS
+Uruguay,Singapore,5207.0,SA,AS
+Uruguay,Singapore,4649.0,SA,AS
+Guyana,Singapore,426.0,SA,AS
+Guyana,Singapore,265.0,SA,AS
+Suriname,Singapore,82.0,SA,AS
+Argentina,Slovakia,2851.0,SA,EU
+Argentina,Slovakia,617.0,SA,EU
+Brazil,Slovakia,464.0,SA,EU
+Brazil,Slovakia,822.0,SA,EU
+Chile,Slovakia,383.0,SA,EU
+Chile,Slovakia,1417.0,SA,EU
+Colombia,Slovakia,11.0,SA,EU
+Colombia,Slovakia,632.0,SA,EU
+Ecuador,Slovakia,630.0,SA,EU
+Ecuador,Slovakia,254.0,SA,EU
+Paraguay,Slovakia,85.0,SA,EU
+Peru,Slovakia,60.0,SA,EU
+Peru,Slovakia,2.0,SA,EU
+Uruguay,Slovakia,61.0,SA,EU
+Argentina,Slovenia,43070.0,SA,EU
+Argentina,Slovenia,1446.0,SA,EU
+Brazil,Slovenia,291642.0,SA,EU
+Brazil,Slovenia,386661.0,SA,EU
+Chile,Slovenia,1468.0,SA,EU
+Chile,Slovenia,1516.0,SA,EU
+Colombia,Slovenia,12151.0,SA,EU
+Colombia,Slovenia,8724.0,SA,EU
+Ecuador,Slovenia,23962.0,SA,EU
+Ecuador,Slovenia,24773.0,SA,EU
+Paraguay,Slovenia,1.0,SA,EU
+Peru,Slovenia,308.0,SA,EU
+Peru,Slovenia,336.0,SA,EU
+Uruguay,Slovenia,243.0,SA,EU
+Uruguay,Slovenia,124.0,SA,EU
+Suriname,Slovenia,183.0,SA,EU
+Suriname,Slovenia,163.0,SA,EU
+Argentina,South Africa,709851.0,SA,AF
+Argentina,South Africa,656433.0,SA,AF
+Brazil,South Africa,315041.0,SA,AF
+Brazil,South Africa,355490.0,SA,AF
+Chile,South Africa,3472.0,SA,AF
+Chile,South Africa,2379.0,SA,AF
+Colombia,South Africa,6606.0,SA,AF
+Colombia,South Africa,4610.0,SA,AF
+Ecuador,South Africa,2014.0,SA,AF
+Ecuador,South Africa,1805.0,SA,AF
+Paraguay,South Africa,111024.0,SA,AF
+Paraguay,South Africa,99907.0,SA,AF
+Peru,South Africa,1504.0,SA,AF
+Peru,South Africa,769.0,SA,AF
+Uruguay,South Africa,26407.0,SA,AF
+Uruguay,South Africa,11090.0,SA,AF
+Guyana,South Africa,22.0,SA,AF
+Suriname,South Africa,54.0,SA,AF
+Argentina,Spain,974464.0,SA,EU
+Argentina,Spain,836202.0,SA,EU
+Brazil,Spain,1317158.0,SA,EU
+Brazil,Spain,1183802.0,SA,EU
+Chile,Spain,146358.0,SA,EU
+Chile,Spain,130417.0,SA,EU
+Colombia,Spain,200496.0,SA,EU
+Colombia,Spain,151543.0,SA,EU
+Ecuador,Spain,87410.0,SA,EU
+Ecuador,Spain,67569.0,SA,EU
+Paraguay,Spain,159646.0,SA,EU
+Paraguay,Spain,174291.0,SA,EU
+Peru,Spain,369753.0,SA,EU
+Peru,Spain,328714.0,SA,EU
+Uruguay,Spain,57590.0,SA,EU
+Uruguay,Spain,57626.0,SA,EU
+Guyana,Spain,5636.0,SA,EU
+Guyana,Spain,21440.0,SA,EU
+Falkland Islands (Malvinas),Spain,218.0,SA,EU
+Argentina,Sri Lanka,1111.0,SA,AS
+Argentina,Sri Lanka,1271.0,SA,AS
+Brazil,Sri Lanka,160442.0,SA,AS
+Brazil,Sri Lanka,137748.0,SA,AS
+Chile,Sri Lanka,1441.0,SA,AS
+Chile,Sri Lanka,1457.0,SA,AS
+Colombia,Sri Lanka,109.0,SA,AS
+Ecuador,Sri Lanka,7667.0,SA,AS
+Ecuador,Sri Lanka,1337.0,SA,AS
+Paraguay,Sri Lanka,69.0,SA,AS
+Peru,Sri Lanka,705.0,SA,AS
+Peru,Sri Lanka,383.0,SA,AS
+Uruguay,Sri Lanka,58.0,SA,AS
+Uruguay,Sri Lanka,26.0,SA,AS
+Suriname,Sri Lanka,1.0,SA,AS
+Argentina,Suriname,1606.0,SA,SA
+Brazil,Suriname,13045.0,SA,SA
+Chile,Suriname,488.0,SA,SA
+Colombia,Suriname,4230.0,SA,SA
+Ecuador,Suriname,61.0,SA,SA
+Peru,Suriname,248.0,SA,SA
+Guyana,Suriname,169.0,SA,SA
+Guyana,Suriname,6277.0,SA,SA
+Argentina,Sweden,27244.0,SA,EU
+Argentina,Sweden,17838.0,SA,EU
+Brazil,Sweden,140605.0,SA,EU
+Brazil,Sweden,133156.0,SA,EU
+Chile,Sweden,51770.0,SA,EU
+Chile,Sweden,44973.0,SA,EU
+Colombia,Sweden,42626.0,SA,EU
+Colombia,Sweden,37309.0,SA,EU
+Ecuador,Sweden,37739.0,SA,EU
+Ecuador,Sweden,25045.0,SA,EU
+Paraguay,Sweden,8906.0,SA,EU
+Paraguay,Sweden,11827.0,SA,EU
+Peru,Sweden,54377.0,SA,EU
+Peru,Sweden,46073.0,SA,EU
+Uruguay,Sweden,7435.0,SA,EU
+Uruguay,Sweden,9636.0,SA,EU
+Argentina,Switzerland,53798.0,SA,EU
+Argentina,Switzerland,32096.0,SA,EU
+Brazil,Switzerland,407226.0,SA,EU
+Brazil,Switzerland,119849.0,SA,EU
+Chile,Switzerland,53161.0,SA,EU
+Chile,Switzerland,26241.0,SA,EU
+Colombia,Switzerland,131161.0,SA,EU
+Colombia,Switzerland,6591.0,SA,EU
+Ecuador,Switzerland,70763.0,SA,EU
+Ecuador,Switzerland,9585.0,SA,EU
+Paraguay,Switzerland,18031.0,SA,EU
+Paraguay,Switzerland,12846.0,SA,EU
+Peru,Switzerland,72739.0,SA,EU
+Peru,Switzerland,6705.0,SA,EU
+Uruguay,Switzerland,25646.0,SA,EU
+Uruguay,Switzerland,22954.0,SA,EU
+Guyana,Switzerland,41.0,SA,EU
+Suriname,Switzerland,17.0,SA,EU
+Argentina,Syrian Arab Republic,64906.0,SA,AS
+Brazil,Syrian Arab Republic,104076.0,SA,AS
+Colombia,Syrian Arab Republic,1477.0,SA,AS
+Ecuador,Syrian Arab Republic,800.0,SA,AS
+Paraguay,Syrian Arab Republic,95.0,SA,AS
+Uruguay,Syrian Arab Republic,71.0,SA,AS
+Argentina,Thailand,362489.0,SA,AS
+Argentina,Thailand,371577.0,SA,AS
+Brazil,Thailand,1532821.0,SA,AS
+Brazil,Thailand,1220029.0,SA,AS
+Chile,Thailand,24281.0,SA,AS
+Chile,Thailand,25100.0,SA,AS
+Colombia,Thailand,2193.0,SA,AS
+Colombia,Thailand,613.0,SA,AS
+Ecuador,Thailand,48.0,SA,AS
+Ecuador,Thailand,399.0,SA,AS
+Paraguay,Thailand,35682.0,SA,AS
+Paraguay,Thailand,45591.0,SA,AS
+Peru,Thailand,26433.0,SA,AS
+Peru,Thailand,19768.0,SA,AS
+Uruguay,Thailand,2622.0,SA,AS
+Uruguay,Thailand,2095.0,SA,AS
+Guyana,Thailand,80.0,SA,AS
+Guyana,Thailand,426.0,SA,AS
+Suriname,Thailand,104.0,SA,AS
+Argentina,Togo,105.0,SA,AF
+Argentina,Togo,121.0,SA,AF
+Brazil,Togo,10973.0,SA,AF
+Brazil,Togo,53576.0,SA,AF
+Chile,Togo,22.0,SA,AF
+Chile,Togo,179.0,SA,AF
+Colombia,Togo,813.0,SA,AF
+Colombia,Togo,1653.0,SA,AF
+Paraguay,Togo,31.0,SA,AF
+Paraguay,Togo,107.0,SA,AF
+Peru,Togo,34.0,SA,AF
+Peru,Togo,196.0,SA,AF
+Uruguay,Togo,6.0,SA,AF
+Uruguay,Togo,99.0,SA,AF
+Argentina,Trinidad and Tobago,7378.0,SA,
+Brazil,Trinidad and Tobago,3924.0,SA,
+Brazil,Trinidad and Tobago,25949.0,SA,
+Chile,Trinidad and Tobago,4590.0,SA,
+Colombia,Trinidad and Tobago,14194.0,SA,
+Ecuador,Trinidad and Tobago,1648.0,SA,
+Paraguay,Trinidad and Tobago,1043.0,SA,
+Paraguay,Trinidad and Tobago,993.0,SA,
+Peru,Trinidad and Tobago,3145.0,SA,
+Uruguay,Trinidad and Tobago,11390.0,SA,
+Guyana,Trinidad and Tobago,13393.0,SA,
+Guyana,Trinidad and Tobago,27012.0,SA,
+Argentina,Tunisia,117285.0,SA,AF
+Argentina,Tunisia,113783.0,SA,AF
+Brazil,Tunisia,213195.0,SA,AF
+Brazil,Tunisia,162502.0,SA,AF
+Chile,Tunisia,366.0,SA,AF
+Chile,Tunisia,1393.0,SA,AF
+Colombia,Tunisia,1244.0,SA,AF
+Colombia,Tunisia,89.0,SA,AF
+Ecuador,Tunisia,13188.0,SA,AF
+Ecuador,Tunisia,10467.0,SA,AF
+Paraguay,Tunisia,59245.0,SA,AF
+Paraguay,Tunisia,29102.0,SA,AF
+Peru,Tunisia,67.0,SA,AF
+Peru,Tunisia,17.0,SA,AF
+Uruguay,Tunisia,7191.0,SA,AF
+Argentina,Turkey,295850.0,SA,AS
+Argentina,Turkey,407540.0,SA,AS
+Brazil,Turkey,632380.0,SA,AS
+Brazil,Turkey,585453.0,SA,AS
+Chile,Turkey,47905.0,SA,AS
+Chile,Turkey,83464.0,SA,AS
+Colombia,Turkey,7636.0,SA,AS
+Colombia,Turkey,2494.0,SA,AS
+Ecuador,Turkey,87493.0,SA,AS
+Ecuador,Turkey,107719.0,SA,AS
+Paraguay,Turkey,259419.0,SA,AS
+Paraguay,Turkey,214873.0,SA,AS
+Peru,Turkey,2636.0,SA,AS
+Peru,Turkey,1437.0,SA,AS
+Uruguay,Turkey,164264.0,SA,AS
+Uruguay,Turkey,204890.0,SA,AS
+Guyana,Turkey,19.0,SA,AS
+Guyana,Turkey,26.0,SA,AS
+Suriname,Turkey,43.0,SA,AS
+Argentina,Uganda,9814.0,SA,AF
+Brazil,Uganda,604.0,SA,AF
+Argentina,Ukraine,24770.0,SA,EU
+Brazil,Ukraine,83279.0,SA,EU
+Chile,Ukraine,3420.0,SA,EU
+Colombia,Ukraine,3841.0,SA,EU
+Ecuador,Ukraine,72923.0,SA,EU
+Paraguay,Ukraine,34.0,SA,EU
+Peru,Ukraine,123.0,SA,EU
+Uruguay,Ukraine,602.0,SA,EU
+Guyana,Ukraine,33.0,SA,EU
+Argentina,United Arab Emirates,135384.0,SA,AS
+Argentina,United Arab Emirates,195619.0,SA,AS
+Brazil,United Arab Emirates,858355.0,SA,AS
+Brazil,United Arab Emirates,1319069.0,SA,AS
+Chile,United Arab Emirates,46699.0,SA,AS
+Chile,United Arab Emirates,41189.0,SA,AS
+Colombia,United Arab Emirates,11727.0,SA,AS
+Colombia,United Arab Emirates,8166.0,SA,AS
+Ecuador,United Arab Emirates,39531.0,SA,AS
+Ecuador,United Arab Emirates,24581.0,SA,AS
+Paraguay,United Arab Emirates,22456.0,SA,AS
+Paraguay,United Arab Emirates,24260.0,SA,AS
+Peru,United Arab Emirates,12113.0,SA,AS
+Peru,United Arab Emirates,6412.0,SA,AS
+Uruguay,United Arab Emirates,6125.0,SA,AS
+Uruguay,United Arab Emirates,6237.0,SA,AS
+Guyana,United Arab Emirates,6.0,SA,AS
+Suriname,United Arab Emirates,3.0,SA,AS
+Argentina,United Kingdom,747711.0,SA,EU
+Argentina,United Kingdom,597141.0,SA,EU
+Brazil,United Kingdom,1105369.0,SA,EU
+Brazil,United Kingdom,925437.0,SA,EU
+Chile,United Kingdom,592436.0,SA,EU
+Chile,United Kingdom,510824.0,SA,EU
+Colombia,United Kingdom,407884.0,SA,EU
+Colombia,United Kingdom,332798.0,SA,EU
+Ecuador,United Kingdom,80329.0,SA,EU
+Ecuador,United Kingdom,73533.0,SA,EU
+Paraguay,United Kingdom,124705.0,SA,EU
+Paraguay,United Kingdom,113259.0,SA,EU
+Peru,United Kingdom,324622.0,SA,EU
+Peru,United Kingdom,248820.0,SA,EU
+Uruguay,United Kingdom,45032.0,SA,EU
+Uruguay,United Kingdom,40486.0,SA,EU
+Guyana,United Kingdom,33071.0,SA,EU
+Guyana,United Kingdom,52766.0,SA,EU
+Suriname,United Kingdom,14.0,SA,EU
+Falkland Islands (Malvinas),United Kingdom,1575.0,SA,EU
+Argentina,Uruguay,332741.0,SA,SA
+Argentina,Uruguay,315410.0,SA,SA
+Brazil,Uruguay,338213.0,SA,SA
+Brazil,Uruguay,312906.0,SA,SA
+Chile,Uruguay,38794.0,SA,SA
+Chile,Uruguay,43606.0,SA,SA
+Colombia,Uruguay,2294.0,SA,SA
+Colombia,Uruguay,1791.0,SA,SA
+Ecuador,Uruguay,19553.0,SA,SA
+Ecuador,Uruguay,15177.0,SA,SA
+Paraguay,Uruguay,58068.0,SA,SA
+Paraguay,Uruguay,121060.0,SA,SA
+Peru,Uruguay,1509.0,SA,SA
+Peru,Uruguay,2528.0,SA,SA
+Uruguay,Uruguay,1149.0,SA,SA
+Argentina,Yemen,167543.0,SA,AS
+Brazil,Yemen,382463.0,SA,AS
+Colombia,Yemen,947.0,SA,AS
+Ecuador,Yemen,74.0,SA,AS
+Uruguay,Yemen,1545.0,SA,AS
+Brazil,Zambia,159.0,SA,AF
+Chile,Zambia,65.0,SA,AF
+Argentina,Zimbabwe,3654.0,SA,AF
+Brazil,Zimbabwe,2322.0,SA,AF
+Brazil,Zimbabwe,3.0,SA,AF
+Paraguay,Zimbabwe,443.0,SA,AF
+Paraguay,Zimbabwe,113.0,SA,AF
+Brazil,American Samoa,27.0,SA,OC
+Argentina,Angola,33652.0,SA,AF
+Brazil,Angola,373158.0,SA,AF
+Chile,Angola,775.0,SA,AF
+Colombia,Angola,1138.0,SA,AF
+Paraguay,Angola,6411.0,SA,AF
+Peru,Angola,510.0,SA,AF
+Uruguay,Angola,1618.0,SA,AF
+Argentina,Aruba,1501.0,SA,
+Brazil,Aruba,12697.0,SA,
+Brazil,Aruba,12684.0,SA,
+Chile,Aruba,1633.0,SA,
+Colombia,Aruba,8836.0,SA,
+Colombia,Aruba,7318.0,SA,
+Paraguay,Aruba,6730.0,SA,
+Paraguay,Aruba,7934.0,SA,
+Peru,Aruba,1249.0,SA,
+Uruguay,Aruba,1486.0,SA,
+Guyana,Aruba,34.0,SA,
+Argentina,Bahamas,1119.0,SA,
+Brazil,Bahamas,235.0,SA,
+Brazil,Bahamas,18686.0,SA,
+Chile,Bahamas,947.0,SA,
+Colombia,Bahamas,5.0,SA,
+Ecuador,Bahamas,412.0,SA,
+Peru,Bahamas,2578.0,SA,
+Guyana,Bahamas,15.0,SA,
+Guyana,Bahamas,52.0,SA,
+Argentina,Belize,64.0,SA,
+Brazil,Belize,1344.0,SA,
+Chile,Belize,702.0,SA,
+Colombia,Belize,548.0,SA,
+Paraguay,Belize,827.0,SA,
+Peru,Belize,334.0,SA,
+Uruguay,Belize,1.0,SA,
+Guyana,Belize,21.0,SA,
+Guyana,Belize,275.0,SA,
+Brazil,Cayman Islands,725.0,SA,
+Chile,Cayman Islands,356.0,SA,
+Colombia,Cayman Islands,19.0,SA,
+Peru,Cayman Islands,137.0,SA,
+Guyana,Cayman Islands,131.0,SA,
+Argentina,Chad,135.0,SA,AF
+Brazil,Chad,1368.0,SA,AF
+Argentina,Cuba,27303.0,SA,
+Argentina,Cuba,309542.0,SA,
+Brazil,Cuba,15265.0,SA,
+Brazil,Cuba,199634.0,SA,
+Chile,Cuba,22729.0,SA,
+Colombia,Cuba,4175.0,SA,
+Ecuador,Cuba,7898.0,SA,
+Peru,Cuba,517.0,SA,
+Uruguay,Cuba,13274.0,SA,
+Uruguay,Cuba,25135.0,SA,
+Argentina,Dominica,159.0,SA,
+Brazil,Dominica,30.0,SA,
+Brazil,Dominica,1791.0,SA,
+Chile,Dominica,123.0,SA,
+Colombia,Dominica,586.0,SA,
+Peru,Dominica,373.0,SA,
+Guyana,Dominica,511.0,SA,
+Guyana,Dominica,1647.0,SA,
+Argentina,Dominican Republic,105732.0,SA,
+Brazil,Dominican Republic,120441.0,SA,
+Chile,Dominican Republic,28606.0,SA,
+Colombia,Dominican Republic,36944.0,SA,
+Ecuador,Dominican Republic,32494.0,SA,
+Paraguay,Dominican Republic,5903.0,SA,
+Peru,Dominican Republic,19734.0,SA,
+Uruguay,Dominican Republic,3821.0,SA,
+Guyana,Dominican Republic,5729.0,SA,
+Argentina,Equatorial Guinea,1565.0,SA,AF
+Brazil,Equatorial Guinea,13351.0,SA,AF
+Chile,Equatorial Guinea,470.0,SA,AF
+Colombia,Equatorial Guinea,167.0,SA,AF
+Paraguay,Equatorial Guinea,340.0,SA,AF
+Peru,Equatorial Guinea,1255.0,SA,AF
+Uruguay,Equatorial Guinea,19.0,SA,AF
+Argentina,Eritrea,68.0,SA,AF
+Brazil,Eritrea,22366.0,SA,AF
+Brazil,French Polynesia,277.0,SA,OC
+Chile,French Polynesia,1067.0,SA,OC
+Ecuador,French Polynesia,49.0,SA,OC
+Peru,French Polynesia,73.0,SA,OC
+Uruguay,French Polynesia,5041.0,SA,OC
+Argentina,Grenada,285.0,SA,
+Brazil,Grenada,46.0,SA,
+Brazil,Grenada,6146.0,SA,
+Chile,Grenada,287.0,SA,
+Colombia,Grenada,147.0,SA,
+Peru,Grenada,162.0,SA,
+Guyana,Grenada,1165.0,SA,
+Guyana,Grenada,3823.0,SA,
+Argentina,Guatemala,28514.0,SA,
+Brazil,Guatemala,253.0,SA,
+Brazil,Guatemala,8856.0,SA,
+Chile,Guatemala,50657.0,SA,
+Colombia,Guatemala,14028.0,SA,
+Ecuador,Guatemala,1988.0,SA,
+Paraguay,Guatemala,28.0,SA,
+Paraguay,Guatemala,84.0,SA,
+Peru,Guatemala,10252.0,SA,
+Uruguay,Guatemala,1148.0,SA,
+Uruguay,Guatemala,3394.0,SA,
+Guyana,Guatemala,5.0,SA,
+Brazil,Guinea-Bissau,1848.0,SA,AF
+Paraguay,Guinea-Bissau,765.0,SA,AF
+Peru,Guinea-Bissau,116.0,SA,AF
+Uruguay,Guinea-Bissau,2622.0,SA,AF
+Argentina,Haiti,3011.0,SA,
+Brazil,Haiti,18933.0,SA,
+Chile,Haiti,2035.0,SA,
+Colombia,Haiti,35308.0,SA,
+Ecuador,Haiti,84.0,SA,
+Paraguay,Haiti,42.0,SA,
+Peru,Haiti,44671.0,SA,
+Uruguay,Haiti,305.0,SA,
+Guyana,Haiti,8701.0,SA,
+Argentina,Iraq,93284.0,SA,AS
+Brazil,Iraq,430800.0,SA,AS
+Chile,Iraq,1647.0,SA,AS
+Colombia,Iraq,25928.0,SA,AS
+Ecuador,Iraq,21137.0,SA,AS
+Paraguay,Iraq,16020.0,SA,AS
+Uruguay,Iraq,26410.0,SA,AS
+Argentina,Lesotho,1517.0,SA,AF
+Brazil,Lesotho,461.0,SA,AF
+Argentina,Liberia,1095.0,SA,AF
+Brazil,Liberia,20052.0,SA,AF
+Chile,Liberia,678.0,SA,AF
+Colombia,Liberia,415.0,SA,AF
+Paraguay,Liberia,115.0,SA,AF
+Peru,Liberia,1283.0,SA,AF
+Uruguay,Liberia,18.0,SA,AF
+Argentina,Mozambique,56800.0,SA,AF
+Brazil,Mozambique,37573.0,SA,AF
+Chile,Mozambique,4333.0,SA,AF
+Colombia,Mozambique,346.0,SA,AF
+Paraguay,Mozambique,562.0,SA,AF
+Uruguay,Mozambique,22.0,SA,AF
+Argentina,Myanmar,4961.0,SA,AS
+Brazil,Myanmar,182049.0,SA,AS
+Chile,Myanmar,163.0,SA,AS
+Colombia,Myanmar,61.0,SA,AS
+Paraguay,Myanmar,8091.0,SA,AS
+Uruguay,Myanmar,988.0,SA,AS
+Brazil,New Caledonia,3203.0,SA,OC
+Chile,New Caledonia,94.0,SA,OC
+Colombia,New Caledonia,41.0,SA,OC
+Ecuador,New Caledonia,1.0,SA,OC
+Peru,New Caledonia,16.0,SA,OC
+Argentina,Nicaragua,5280.0,SA,
+Argentina,Nicaragua,8454.0,SA,
+Brazil,Nicaragua,31990.0,SA,
+Brazil,Nicaragua,34146.0,SA,
+Chile,Nicaragua,23372.0,SA,
+Colombia,Nicaragua,951.0,SA,
+Ecuador,Nicaragua,15336.0,SA,
+Paraguay,Nicaragua,6814.0,SA,
+Paraguay,Nicaragua,6132.0,SA,
+Peru,Nicaragua,4653.0,SA,
+Uruguay,Nicaragua,1819.0,SA,
+Uruguay,Nicaragua,1780.0,SA,
+Guyana,Nicaragua,7701.0,SA,
+Guyana,Nicaragua,6878.0,SA,
+Chile,Northern Mariana Islands,238.0,SA,OC
+Ecuador,Northern Mariana Islands,19.0,SA,OC
+Argentina,Panama,2089.0,SA,
+Argentina,Panama,29003.0,SA,
+Brazil,Panama,4447.0,SA,
+Brazil,Panama,18918.0,SA,
+Chile,Panama,40663.0,SA,
+Colombia,Panama,46967.0,SA,
+Ecuador,Panama,6691.0,SA,
+Paraguay,Panama,321.0,SA,
+Paraguay,Panama,1271.0,SA,
+Peru,Panama,9.0,SA,
+Peru,Panama,31794.0,SA,
+Uruguay,Panama,2957.0,SA,
+Uruguay,Panama,6333.0,SA,
+Guyana,Panama,35508.0,SA,
+Guyana,Panama,31725.0,SA,
+Argentina,Saint Vincent and the Grenadines,130.0,SA,
+Brazil,Saint Vincent and the Grenadines,405.0,SA,
+Brazil,Saint Vincent and the Grenadines,837.0,SA,
+Chile,Saint Vincent and the Grenadines,433.0,SA,
+Colombia,Saint Vincent and the Grenadines,440.0,SA,
+Peru,Saint Vincent and the Grenadines,519.0,SA,
+Guyana,Saint Vincent and the Grenadines,1524.0,SA,
+Guyana,Saint Vincent and the Grenadines,3911.0,SA,
+Brazil,Samoa,375.0,SA,OC
+Chile,Samoa,22.0,SA,OC
+Brazil,San Marino,22.0,SA,EU
+Argentina,Solomon Islands,75.0,SA,OC
+Brazil,Solomon Islands,72.0,SA,OC
+Colombia,Solomon Islands,17.0,SA,OC
+Argentina,Somalia,523.0,SA,AF
+Brazil,Somalia,78731.0,SA,AF
+Paraguay,Somalia,210.0,SA,AF
+Brazil,Tajikistan,1591.0,SA,AS
+Colombia,Tajikistan,104.0,SA,AS
+Ecuador,Tajikistan,226.0,SA,AS
+Brazil,Timor-Leste,6616.0,SA,AS
+Brazil,Tonga,645.0,SA,OC
+Chile,Tonga,14.0,SA,OC
+Colombia,Tonga,131.0,SA,OC
+Argentina,Turkmenistan,45.0,SA,AS
+Brazil,Turkmenistan,423.0,SA,AS
+Colombia,Turkmenistan,1.0,SA,AS
+Ecuador,Turkmenistan,507.0,SA,AS
+Paraguay,Turkmenistan,196.0,SA,AS
+Argentina,Uzbekistan,3400.0,SA,AS
+Brazil,Uzbekistan,12177.0,SA,AS
+Chile,Uzbekistan,44.0,SA,AS
+Ecuador,Uzbekistan,1155.0,SA,AS
+Brazil,Vanuatu,32.0,SA,OC
+Colombia,Vanuatu,65.0,SA,OC
+Argentina,Viet Nam,2446081.0,SA,AS
+Brazil,Viet Nam,1072064.0,SA,AS
+Chile,Viet Nam,20667.0,SA,AS
+Colombia,Viet Nam,4382.0,SA,AS
+Ecuador,Viet Nam,394.0,SA,AS
+Paraguay,Viet Nam,149262.0,SA,AS
+Peru,Viet Nam,16770.0,SA,AS
+Uruguay,Viet Nam,8516.0,SA,AS
+Argentina,India,2485047.0,SA,AS
+Argentina,India,2080037.0,SA,AS
+Brazil,India,1475324.0,SA,AS
+Brazil,India,1342316.0,SA,AS
+Chile,India,43568.0,SA,AS
+Chile,India,30712.0,SA,AS
+Colombia,India,8035.0,SA,AS
+Colombia,India,2225.0,SA,AS
+Ecuador,India,42381.0,SA,AS
+Ecuador,India,45042.0,SA,AS
+Paraguay,India,154990.0,SA,AS
+Paraguay,India,187778.0,SA,AS
+Peru,India,7753.0,SA,AS
+Peru,India,6506.0,SA,AS
+Uruguay,India,4654.0,SA,AS
+Uruguay,India,8236.0,SA,AS
+Chile,Cook Islands,12.0,SA,OC
+Brazil,Faroe Islands,28.0,SA,EU
+Brazil,Guam,269.0,SA,OC
+Chile,Guam,32.0,SA,OC
+Colombia,Guam,92.0,SA,OC
+Ecuador,Guam,336.0,SA,OC
+Brazil,Montserrat,68.0,SA,
+Guyana,Montserrat,30.0,SA,
+Argentina,Saint Kitts and Nevis,65.0,SA,
+Brazil,Saint Kitts and Nevis,14.0,SA,
+Brazil,Saint Kitts and Nevis,2240.0,SA,
+Chile,Saint Kitts and Nevis,84.0,SA,
+Colombia,Saint Kitts and Nevis,279.0,SA,
+Peru,Saint Kitts and Nevis,995.0,SA,
+Guyana,Saint Kitts and Nevis,224.0,SA,
+Guyana,Saint Kitts and Nevis,757.0,SA,
+Brazil,Turks and Caicos Islands,18.0,SA,
+Chile,Turks and Caicos Islands,153.0,SA,
+Guyana,Turks and Caicos Islands,86.0,SA,
+Argentina,Gibraltar,150.0,SA,EU
+Brazil,Gibraltar,128.0,SA,EU
+Brazil,Anguilla,395.0,SA,
+Chile,Anguilla,92.0,SA,
+Guyana,Anguilla,64.0,SA,

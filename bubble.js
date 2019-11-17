@@ -114,7 +114,7 @@ var balloonVis = function(nations){
                                 .attr("height", this.myPie1.height);
         var mousedown = function(d) {
             var countryname = d.name;
-            var file1 ="graph.json";
+            var file1 ="data/graph.json";
             var vis = "#mytip";
             var selColor = d3.select(this).style('fill');
             drawNestCircle(circletip, countryname, file1, selColor);
@@ -433,7 +433,7 @@ var balloonVis = function(nations){
             .force("link", d3.forceLink().distance(300))
             .force("center", d3.forceCenter(width / 2, height / 2));
 
-        d3.csv("countryrelation_top1.csv", function(links) {
+        d3.csv("data/countryrelation_top1.csv", function(links) {
 
         var nodes = {};
 
@@ -920,6 +920,10 @@ var balloonVis = function(nations){
           }
           return root;
         };
-    }
+    };
+
+    this.load_home = function(){
+          document.getElementById("content").innerHTML='<object type="text/html" data="index_chord.html" style="width:100%; height:100%;  border:none;" scrolling="no"  seamless="seamless""></object>';
+    };
 
 }

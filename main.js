@@ -4,7 +4,7 @@ var _data;
  * Do the following when the browser window loads
  */
 window.onload = function(){
-    loadData("trade_exports_value_u.json");
+    loadData("data/trade_exports_value_u.json");
    //drawNestCircle();
 };
 
@@ -32,8 +32,8 @@ function loadData(path){
 
         balloon.PhraseNet();
 
-        balloon.sunBurst();
-
+        //balloon.sunBurst();
+        balloon.load_home();
          
     });
 }

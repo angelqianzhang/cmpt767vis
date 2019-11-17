@@ -1,0 +1,859 @@
+source,target,value,sourcecont,targetcont
+Australia,Afghanistan,659.0,OC,AS
+New Zealand,Afghanistan,406.0,OC,AS
+Australia,Albania,1057.0,OC,EU
+New Zealand,Albania,125.0,OC,EU
+Australia,Algeria,6270.0,OC,AF
+Australia,Algeria,4611.0,OC,AF
+New Zealand,Algeria,365202.0,OC,AF
+New Zealand,Algeria,483310.0,OC,AF
+Australia,Antigua and Barbuda,406.0,OC,
+Australia,Antigua and Barbuda,292.0,OC,
+New Zealand,Antigua and Barbuda,440.0,OC,
+New Zealand,Antigua and Barbuda,411.0,OC,
+Fiji,Antigua and Barbuda,37.0,OC,
+Guam,Antigua and Barbuda,1.0,OC,
+Australia,Argentina,7848.0,OC,SA
+Australia,Argentina,3872.0,OC,SA
+New Zealand,Argentina,3437.0,OC,SA
+New Zealand,Argentina,2438.0,OC,SA
+Fiji,Argentina,21.0,OC,SA
+Fiji,Argentina,11.0,OC,SA
+Papua New Guinea,Argentina,2.0,OC,SA
+Australia,Armenia,21.0,OC,AS
+New Zealand,Armenia,8.0,OC,AS
+New Zealand,Armenia,10776.0,OC,AS
+Fiji,Armenia,3.0,OC,AS
+American Samoa,Armenia,2.0,OC,AS
+Australia,Australia,28554.0,OC,OC
+New Zealand,Australia,2535083.0,OC,OC
+New Zealand,Australia,2273672.0,OC,OC
+Fiji,Australia,9681.0,OC,OC
+Fiji,Australia,13137.0,OC,OC
+Papua New Guinea,Australia,33408.0,OC,OC
+American Samoa,Australia,6.0,OC,OC
+Cook Islands,Australia,7.0,OC,OC
+French Polynesia,Australia,48.0,OC,OC
+French Polynesia,Australia,10.0,OC,OC
+Marshall Islands,Australia,154.0,OC,OC
+New Caledonia,Australia,520.0,OC,OC
+Niue,Australia,4.0,OC,OC
+Samoa,Australia,707.0,OC,OC
+Solomon Islands,Australia,727.0,OC,OC
+Tonga,Australia,1081.0,OC,OC
+Vanuatu,Australia,906.0,OC,OC
+Kiribati,Australia,19.0,OC,OC
+Australia,Austria,2564.0,OC,EU
+Australia,Austria,447.0,OC,EU
+New Zealand,Austria,3292.0,OC,EU
+New Zealand,Austria,3869.0,OC,EU
+Fiji,Austria,22.0,OC,EU
+French Polynesia,Austria,15.0,OC,EU
+Australia,Azerbaijan,79.0,OC,AS
+New Zealand,Azerbaijan,36575.0,OC,AS
+Australia,Bahrain,99788.0,OC,AS
+Australia,Bahrain,67553.0,OC,AS
+New Zealand,Bahrain,51968.0,OC,AS
+New Zealand,Bahrain,40636.0,OC,AS
+Fiji,Bahrain,70.0,OC,AS
+Fiji,Bahrain,22.0,OC,AS
+Guam,Bahrain,92.0,OC,AS
+Papua New Guinea,Bahrain,4.0,OC,AS
+American Samoa,Bahrain,3.0,OC,AS
+French Polynesia,Bahrain,14.0,OC,AS
+Vanuatu,Bahrain,4.0,OC,AS
+Tokelau,Bahrain,103.0,OC,AS
+Australia,Bangladesh,478556.0,OC,AS
+New Zealand,Bangladesh,109280.0,OC,AS
+Australia,Barbados,1113.0,OC,
+Australia,Barbados,754.0,OC,
+New Zealand,Barbados,15432.0,OC,
+New Zealand,Barbados,14821.0,OC,
+Guam,Barbados,1.0,OC,
+Tokelau,Barbados,17.0,OC,
+Nauru,Barbados,5.0,OC,
+Australia,Belarus,195.0,OC,EU
+New Zealand,Belarus,295.0,OC,EU
+New Zealand,Belarus,46.0,OC,EU
+Papua New Guinea,Belarus,4.0,OC,EU
+Australia,Belgium,286282.0,OC,EU
+Australia,Belgium,335881.0,OC,EU
+New Zealand,Belgium,280321.0,OC,EU
+New Zealand,Belgium,101304.0,OC,EU
+Papua New Guinea,Belgium,51469.0,OC,EU
+French Polynesia,Belgium,11.0,OC,EU
+New Caledonia,Belgium,185.0,OC,EU
+Vanuatu,Belgium,2.0,OC,EU
+Australia,Benin,283.0,OC,AF
+Australia,Benin,84.0,OC,AF
+New Zealand,Benin,54.0,OC,AF
+New Zealand,Benin,149.0,OC,AF
+Marshall Islands,Benin,173.0,OC,AF
+Tokelau,Benin,2.0,OC,AF
+Australia,Bermuda,737.0,OC,
+Australia,Bermuda,197.0,OC,
+New Zealand,Bermuda,1785.0,OC,
+New Zealand,Bermuda,2839.0,OC,
+New Zealand,Bhutan,554.0,OC,AS
+Australia,Bosnia and Herzegovina,265.0,OC,EU
+Australia,Bosnia and Herzegovina,139.0,OC,EU
+New Zealand,Bosnia and Herzegovina,5.0,OC,EU
+Fiji,Bosnia and Herzegovina,5.0,OC,EU
+French Polynesia,Bosnia and Herzegovina,11.0,OC,EU
+Australia,Botswana,2876.0,OC,AF
+Australia,Brazil,13545.0,OC,SA
+Australia,Brazil,11408.0,OC,SA
+New Zealand,Brazil,17728.0,OC,SA
+New Zealand,Brazil,22046.0,OC,SA
+Fiji,Brazil,7.0,OC,SA
+Papua New Guinea,Brazil,15.0,OC,SA
+Australia,Brunei Darussalam,22503.0,OC,AS
+New Zealand,Brunei Darussalam,2677.0,OC,AS
+Australia,Bulgaria,241.0,OC,EU
+Australia,Bulgaria,61.0,OC,EU
+New Zealand,Bulgaria,6573.0,OC,EU
+New Zealand,Bulgaria,4821.0,OC,EU
+Australia,Burkina Faso,125.0,OC,AF
+New Zealand,Burkina Faso,1763.0,OC,AF
+New Zealand,Burkina Faso,1522.0,OC,AF
+Australia,Cambodia,20272.0,OC,AS
+Australia,Cambodia,23101.0,OC,AS
+New Zealand,Cambodia,2306.0,OC,AS
+New Zealand,Cambodia,4554.0,OC,AS
+Fiji,Cambodia,66.0,OC,AS
+Fiji,Cambodia,99.0,OC,AS
+Australia,Cameroon,155.0,OC,AF
+New Zealand,Cameroon,6968.0,OC,AF
+Australia,Canada,431009.0,OC,
+Australia,Canada,337285.0,OC,
+New Zealand,Canada,322099.0,OC,
+New Zealand,Canada,279461.0,OC,
+Fiji,Canada,3146.0,OC,
+Fiji,Canada,3251.0,OC,
+Guam,Canada,24.0,OC,
+Papua New Guinea,Canada,2147.0,OC,
+Cook Islands,Canada,8.0,OC,
+French Polynesia,Canada,137.0,OC,
+New Caledonia,Canada,71.0,OC,
+Solomon Islands,Canada,92.0,OC,
+Tonga,Canada,2.0,OC,
+Vanuatu,Canada,5.0,OC,
+Australia,Chile,1929.0,OC,SA
+Australia,Chile,1709.0,OC,SA
+New Zealand,Chile,45066.0,OC,SA
+New Zealand,Chile,44805.0,OC,SA
+Australia,Colombia,347.0,OC,SA
+Australia,Colombia,596.0,OC,SA
+New Zealand,Colombia,511.0,OC,SA
+New Zealand,Colombia,1478.0,OC,SA
+French Polynesia,Colombia,4.0,OC,SA
+Vanuatu,Colombia,60.0,OC,SA
+New Zealand,Comoros,28.0,OC,AF
+New Zealand,Congo,843.0,OC,AF
+Australia,Costa Rica,754.0,OC,
+Australia,Costa Rica,283.0,OC,
+New Zealand,Costa Rica,6005.0,OC,
+New Zealand,Costa Rica,6605.0,OC,
+Fiji,Costa Rica,86.0,OC,
+French Polynesia,Costa Rica,1.0,OC,
+Vanuatu,Costa Rica,2.0,OC,
+Nauru,Costa Rica,2.0,OC,
+Australia,Croatia,31.0,OC,EU
+Australia,Croatia,859.0,OC,EU
+New Zealand,Croatia,295.0,OC,EU
+New Zealand,Croatia,271.0,OC,EU
+Papua New Guinea,Croatia,127.0,OC,EU
+Australia,Cyprus,976.0,OC,AS
+Australia,Cyprus,1792.0,OC,AS
+New Zealand,Cyprus,7793.0,OC,AS
+New Zealand,Cyprus,8601.0,OC,AS
+Australia,Denmark,28107.0,OC,EU
+Australia,Denmark,37379.0,OC,EU
+New Zealand,Denmark,38863.0,OC,EU
+New Zealand,Denmark,61242.0,OC,EU
+Fiji,Denmark,2.0,OC,EU
+Fiji,Denmark,8.0,OC,EU
+Papua New Guinea,Denmark,85.0,OC,EU
+French Polynesia,Denmark,203.0,OC,EU
+New Caledonia,Denmark,60.0,OC,EU
+New Zealand,Djibouti,2329.0,OC,AF
+Australia,Ecuador,104.0,OC,SA
+Australia,Ecuador,1876.0,OC,SA
+New Zealand,Ecuador,166.0,OC,SA
+New Zealand,Ecuador,125.0,OC,SA
+American Samoa,Ecuador,32.0,OC,SA
+Kiribati,Ecuador,115.0,OC,SA
+Australia,Egypt,130722.0,OC,AF
+New Zealand,Egypt,290291.0,OC,AF
+Australia,El Salvador,4051.0,OC,
+Australia,El Salvador,6572.0,OC,
+New Zealand,El Salvador,13631.0,OC,
+New Zealand,El Salvador,6731.0,OC,
+Australia,Estonia,394.0,OC,EU
+Australia,Estonia,299.0,OC,EU
+New Zealand,Estonia,1431.0,OC,EU
+New Zealand,Estonia,1452.0,OC,EU
+Fiji,Estonia,5.0,OC,EU
+Fiji,Estonia,5.0,OC,EU
+Papua New Guinea,Estonia,3.0,OC,EU
+Australia,Ethiopia,114.0,OC,AF
+Australia,Ethiopia,865.0,OC,AF
+New Zealand,Ethiopia,2999.0,OC,AF
+Tonga,Ethiopia,2.0,OC,AF
+Australia,Fiji,119975.0,OC,OC
+Australia,Fiji,87268.0,OC,OC
+New Zealand,Fiji,115125.0,OC,OC
+New Zealand,Fiji,105279.0,OC,OC
+Guam,Fiji,2.0,OC,OC
+Papua New Guinea,Fiji,428.0,OC,OC
+French Polynesia,Fiji,1.0,OC,OC
+New Caledonia,Fiji,21.0,OC,OC
+Solomon Islands,Fiji,16.0,OC,OC
+Tonga,Fiji,46.0,OC,OC
+Vanuatu,Fiji,1830.0,OC,OC
+Kiribati,Fiji,407.0,OC,OC
+Kiribati,Fiji,235.0,OC,OC
+Australia,Finland,13380.0,OC,EU
+Australia,Finland,11602.0,OC,EU
+New Zealand,Finland,4570.0,OC,EU
+New Zealand,Finland,8293.0,OC,EU
+Papua New Guinea,Finland,224.0,OC,EU
+Australia,France,148341.0,OC,EU
+Australia,France,135219.0,OC,EU
+New Zealand,France,108008.0,OC,EU
+New Zealand,France,142205.0,OC,EU
+Fiji,France,13.0,OC,EU
+Fiji,France,29.0,OC,EU
+Papua New Guinea,France,7173.0,OC,EU
+French Polynesia,France,10898.0,OC,EU
+New Caledonia,France,4411.0,OC,EU
+Solomon Islands,France,428.0,OC,EU
+Vanuatu,France,9.0,OC,EU
+Australia,Gabon,958.0,OC,AF
+New Zealand,Gabon,1212.0,OC,AF
+Australia,Gambia,1.0,OC,AF
+New Zealand,Gambia,132.0,OC,AF
+New Zealand,Gambia,671.0,OC,AF
+Australia,Georgia,334.0,OC,AS
+Australia,Georgia,1154.0,OC,AS
+New Zealand,Georgia,2053.0,OC,AS
+New Zealand,Georgia,1081.0,OC,AS
+Marshall Islands,Georgia,159.0,OC,AS
+Australia,Germany,387595.0,OC,EU
+Australia,Germany,447428.0,OC,EU
+New Zealand,Germany,321343.0,OC,EU
+New Zealand,Germany,294363.0,OC,EU
+Fiji,Germany,389.0,OC,EU
+Fiji,Germany,601.0,OC,EU
+Papua New Guinea,Germany,124508.0,OC,EU
+French Polynesia,Germany,636.0,OC,EU
+New Caledonia,Germany,629.0,OC,EU
+Samoa,Germany,268.0,OC,EU
+Solomon Islands,Germany,2453.0,OC,EU
+Australia,Ghana,453.0,OC,AF
+Australia,Ghana,890.0,OC,AF
+New Zealand,Ghana,24644.0,OC,AF
+New Zealand,Ghana,19082.0,OC,AF
+American Samoa,Ghana,1.0,OC,AF
+Marshall Islands,Ghana,6.0,OC,AF
+Tonga,Ghana,1.0,OC,AF
+Tokelau,Ghana,2.0,OC,AF
+Australia,Greece,2328.0,OC,EU
+Australia,Greece,2038.0,OC,EU
+New Zealand,Greece,19093.0,OC,EU
+New Zealand,Greece,19493.0,OC,EU
+Papua New Guinea,Greece,11.0,OC,EU
+French Polynesia,Greece,598.0,OC,EU
+Australia,Greenland,303.0,OC,
+New Zealand,Greenland,2015.0,OC,
+Guam,Greenland,2.0,OC,
+Marshall Islands,Greenland,3.0,OC,
+Australia,Guinea,51.0,OC,AF
+New Zealand,Guinea,1986.0,OC,AF
+Australia,Guyana,204.0,OC,SA
+Australia,Guyana,120.0,OC,SA
+New Zealand,Guyana,14179.0,OC,SA
+New Zealand,Guyana,12648.0,OC,SA
+Guam,Guyana,1.0,OC,SA
+New Caledonia,Guyana,63.0,OC,SA
+Australia,Honduras,57.0,OC,
+Australia,Honduras,15.0,OC,
+New Zealand,Honduras,2020.0,OC,
+New Zealand,Honduras,56.0,OC,
+Fiji,Honduras,1.0,OC,
+Australia,Hungary,180.0,OC,EU
+Australia,Hungary,86.0,OC,EU
+New Zealand,Hungary,676.0,OC,EU
+New Zealand,Hungary,305.0,OC,EU
+Australia,Iceland,931.0,OC,EU
+Australia,Iceland,370.0,OC,EU
+New Zealand,Iceland,3832.0,OC,EU
+New Zealand,Iceland,902.0,OC,EU
+Papua New Guinea,Iceland,18.0,OC,EU
+French Polynesia,Iceland,5.0,OC,EU
+Australia,Indonesia,2706847.0,OC,AS
+Australia,Indonesia,2002148.0,OC,AS
+New Zealand,Indonesia,438944.0,OC,AS
+New Zealand,Indonesia,416166.0,OC,AS
+Fiji,Indonesia,554.0,OC,AS
+Fiji,Indonesia,289.0,OC,AS
+Papua New Guinea,Indonesia,26771.0,OC,AS
+American Samoa,Indonesia,558.0,OC,AS
+French Polynesia,Indonesia,9.0,OC,AS
+Marshall Islands,Indonesia,9.0,OC,AS
+New Caledonia,Indonesia,15.0,OC,AS
+Solomon Islands,Indonesia,335.0,OC,AS
+Kiribati,Indonesia,139.0,OC,AS
+Australia,Ireland,51841.0,OC,EU
+Australia,Ireland,14172.0,OC,EU
+New Zealand,Ireland,20810.0,OC,EU
+New Zealand,Ireland,23127.0,OC,EU
+Papua New Guinea,Ireland,292.0,OC,EU
+Tonga,Ireland,17.0,OC,EU
+Vanuatu,Ireland,16.0,OC,EU
+Australia,Israel,107724.0,OC,AS
+Australia,Israel,91552.0,OC,AS
+New Zealand,Israel,2283.0,OC,AS
+New Zealand,Israel,3030.0,OC,AS
+Fiji,Israel,1.0,OC,AS
+Papua New Guinea,Israel,150.0,OC,AS
+Australia,Italy,160890.0,OC,EU
+Australia,Italy,162618.0,OC,EU
+New Zealand,Italy,104109.0,OC,EU
+New Zealand,Italy,102790.0,OC,EU
+Fiji,Italy,8.0,OC,EU
+Fiji,Italy,2.0,OC,EU
+Papua New Guinea,Italy,4252.0,OC,EU
+Cook Islands,Italy,34.0,OC,EU
+French Polynesia,Italy,85.0,OC,EU
+New Caledonia,Italy,308.0,OC,EU
+Solomon Islands,Italy,66.0,OC,EU
+Vanuatu,Italy,1.0,OC,EU
+Australia,Jamaica,9575.0,OC,
+Australia,Jamaica,9279.0,OC,
+New Zealand,Jamaica,19890.0,OC,
+New Zealand,Jamaica,20565.0,OC,
+Australia,Japan,3658012.0,OC,AS
+Australia,Japan,2788569.0,OC,AS
+New Zealand,Japan,1138678.0,OC,AS
+New Zealand,Japan,1054812.0,OC,AS
+Fiji,Japan,2072.0,OC,AS
+Fiji,Japan,924.0,OC,AS
+Guam,Japan,37.0,OC,AS
+Papua New Guinea,Japan,11719.0,OC,AS
+Cook Islands,Japan,258.0,OC,AS
+French Polynesia,Japan,1931.0,OC,AS
+Marshall Islands,Japan,291.0,OC,AS
+New Caledonia,Japan,1477.0,OC,AS
+Niue,Japan,13.0,OC,AS
+Samoa,Japan,253.0,OC,AS
+Solomon Islands,Japan,39.0,OC,AS
+Tonga,Japan,1751.0,OC,AS
+Vanuatu,Japan,1223.0,OC,AS
+Palau,Japan,45.0,OC,AS
+Australia,Jordan,118394.0,OC,AS
+Australia,Jordan,89944.0,OC,AS
+New Zealand,Jordan,58269.0,OC,AS
+New Zealand,Jordan,49522.0,OC,AS
+Papua New Guinea,Jordan,3127.0,OC,AS
+Australia,Kazakhstan,281.0,OC,AS
+Australia,Kazakhstan,1117.0,OC,AS
+New Zealand,Kazakhstan,3210.0,OC,AS
+New Zealand,Kazakhstan,1505.0,OC,AS
+Papua New Guinea,Kazakhstan,19.0,OC,AS
+Australia,Kenya,486.0,OC,AF
+New Zealand,Kenya,821.0,OC,AF
+Australia,Kiribati,16179.0,OC,OC
+Australia,Kiribati,6626.0,OC,OC
+New Zealand,Kiribati,1179.0,OC,OC
+New Zealand,Kiribati,472.0,OC,OC
+Fiji,Kiribati,7071.0,OC,OC
+Fiji,Kiribati,5881.0,OC,OC
+Marshall Islands,Kiribati,20.0,OC,OC
+Solomon Islands,Kiribati,408.0,OC,OC
+Vanuatu,Kiribati,5695.0,OC,OC
+Australia,Kuwait,363622.0,OC,AS
+Australia,Kuwait,264389.0,OC,AS
+New Zealand,Kuwait,52377.0,OC,AS
+New Zealand,Kuwait,44005.0,OC,AS
+Fiji,Kuwait,388.0,OC,AS
+Fiji,Kuwait,137.0,OC,AS
+Guam,Kuwait,1.0,OC,AS
+Australia,Kyrgyzstan,4.0,OC,AS
+Australia,Kyrgyzstan,2.0,OC,AS
+New Zealand,Kyrgyzstan,29.0,OC,AS
+Australia,Latvia,273.0,OC,EU
+Australia,Latvia,2764.0,OC,EU
+New Zealand,Latvia,2587.0,OC,EU
+New Zealand,Latvia,6259.0,OC,EU
+Australia,Lebanon,25453.0,OC,AS
+Australia,Lebanon,19505.0,OC,AS
+New Zealand,Lebanon,7416.0,OC,AS
+New Zealand,Lebanon,8507.0,OC,AS
+Solomon Islands,Lebanon,9.0,OC,AS
+Australia,Lithuania,1015.0,OC,EU
+Australia,Lithuania,899.0,OC,EU
+New Zealand,Lithuania,12412.0,OC,EU
+New Zealand,Lithuania,11564.0,OC,EU
+French Polynesia,Lithuania,3.0,OC,EU
+Australia,Luxembourg,2318.0,OC,EU
+Australia,Luxembourg,904.0,OC,EU
+Australia,Madagascar,879.0,OC,AF
+Australia,Madagascar,1089.0,OC,AF
+New Zealand,Madagascar,1476.0,OC,AF
+New Zealand,Madagascar,1562.0,OC,AF
+Papua New Guinea,Madagascar,2.0,OC,AF
+French Polynesia,Madagascar,271.0,OC,AF
+Nauru,Madagascar,1.0,OC,AF
+Australia,Malawi,13594.0,OC,AF
+New Zealand,Malawi,145.0,OC,AF
+Australia,Malaysia,954509.0,OC,AS
+Australia,Malaysia,703468.0,OC,AS
+New Zealand,Malaysia,496654.0,OC,AS
+New Zealand,Malaysia,437967.0,OC,AS
+Fiji,Malaysia,3920.0,OC,AS
+Fiji,Malaysia,889.0,OC,AS
+Papua New Guinea,Malaysia,114152.0,OC,AS
+American Samoa,Malaysia,132.0,OC,AS
+Marshall Islands,Malaysia,1208.0,OC,AS
+New Caledonia,Malaysia,2.0,OC,AS
+Solomon Islands,Malaysia,15004.0,OC,AS
+Vanuatu,Malaysia,4420.0,OC,AS
+Kiribati,Malaysia,1467.0,OC,AS
+Kiribati,Malaysia,3488.0,OC,AS
+Australia,Maldives,21104.0,OC,AS
+Australia,Maldives,9259.0,OC,AS
+New Zealand,Maldives,1383.0,OC,AS
+New Zealand,Maldives,1879.0,OC,AS
+Fiji,Maldives,35.0,OC,AS
+Fiji,Maldives,27.0,OC,AS
+Solomon Islands,Maldives,5.0,OC,AS
+Australia,Mali,17.0,OC,AF
+Australia,Mali,137.0,OC,AF
+New Zealand,Mali,2970.0,OC,AF
+New Zealand,Mali,4891.0,OC,AF
+Tokelau,Mali,50.0,OC,AF
+Australia,Malta,1697.0,OC,EU
+Australia,Malta,1983.0,OC,EU
+New Zealand,Malta,3305.0,OC,EU
+New Zealand,Malta,2954.0,OC,EU
+Fiji,Malta,35.0,OC,EU
+Australia,Mauritania,23.0,OC,AF
+American Samoa,Mauritania,5.0,OC,AF
+Australia,Mauritius,62670.0,OC,AF
+Australia,Mauritius,56527.0,OC,AF
+New Zealand,Mauritius,60714.0,OC,AF
+New Zealand,Mauritius,41843.0,OC,AF
+Guam,Mauritius,1.0,OC,AF
+Cook Islands,Mauritius,1.0,OC,AF
+Marshall Islands,Mauritius,13.0,OC,AF
+Australia,Mexico,34781.0,OC,
+Australia,Mexico,31442.0,OC,
+New Zealand,Mexico,75449.0,OC,
+New Zealand,Mexico,243066.0,OC,
+Fiji,Mexico,2419.0,OC,
+Fiji,Mexico,5.0,OC,
+Papua New Guinea,Mexico,1275.0,OC,
+French Polynesia,Mexico,2.0,OC,
+Samoa,Mexico,1.0,OC,
+Australia,Mongolia,863.0,OC,AS
+Australia,Mongolia,224.0,OC,AS
+New Zealand,Mongolia,6167.0,OC,AS
+New Zealand,Mongolia,6822.0,OC,AS
+Solomon Islands,Mongolia,1.0,OC,AS
+Australia,Montenegro,142.0,OC,EU
+New Zealand,Montenegro,167.0,OC,EU
+French Polynesia,Montenegro,1.0,OC,EU
+Australia,Morocco,11721.0,OC,AF
+Australia,Morocco,6630.0,OC,AF
+New Zealand,Morocco,64842.0,OC,AF
+New Zealand,Morocco,49185.0,OC,AF
+Papua New Guinea,Morocco,1.0,OC,AF
+Tokelau,Morocco,10.0,OC,AF
+Kiribati,Morocco,19.0,OC,AF
+Australia,Namibia,172.0,OC,AF
+Australia,Namibia,9.0,OC,AF
+Australia,Nepal,30165.0,OC,AS
+New Zealand,Nepal,8010.0,OC,AS
+Australia,Netherlands,203970.0,OC,EU
+Australia,Netherlands,239446.0,OC,EU
+New Zealand,Netherlands,405575.0,OC,EU
+New Zealand,Netherlands,331376.0,OC,EU
+Fiji,Netherlands,17005.0,OC,EU
+Fiji,Netherlands,15390.0,OC,EU
+Papua New Guinea,Netherlands,184733.0,OC,EU
+French Polynesia,Netherlands,474.0,OC,EU
+New Caledonia,Netherlands,759.0,OC,EU
+Solomon Islands,Netherlands,8169.0,OC,EU
+Vanuatu,Netherlands,407.0,OC,EU
+Australia,New Zealand,1204168.0,OC,OC
+Australia,New Zealand,1026933.0,OC,OC
+New Zealand,New Zealand,47747.0,OC,OC
+Fiji,New Zealand,20258.0,OC,OC
+Fiji,New Zealand,12213.0,OC,OC
+Papua New Guinea,New Zealand,5482.0,OC,OC
+Cook Islands,New Zealand,24.0,OC,OC
+French Polynesia,New Zealand,12.0,OC,OC
+New Caledonia,New Zealand,632.0,OC,OC
+Niue,New Zealand,106.0,OC,OC
+Samoa,New Zealand,1542.0,OC,OC
+Solomon Islands,New Zealand,156.0,OC,OC
+Tonga,New Zealand,1378.0,OC,OC
+Vanuatu,New Zealand,366.0,OC,OC
+Tokelau,New Zealand,1.0,OC,OC
+Nauru,New Zealand,10.0,OC,OC
+Australia,Niger,817.0,OC,AF
+Australia,Niger,35.0,OC,AF
+New Zealand,Niger,850.0,OC,AF
+Australia,Nigeria,103321.0,OC,AF
+New Zealand,Nigeria,111249.0,OC,AF
+Australia,Norway,14053.0,OC,EU
+Australia,Norway,6179.0,OC,EU
+New Zealand,Norway,21235.0,OC,EU
+New Zealand,Norway,9284.0,OC,EU
+Fiji,Norway,2.0,OC,EU
+Papua New Guinea,Norway,396.0,OC,EU
+French Polynesia,Norway,10.0,OC,EU
+Australia,Oman,57445.0,OC,AS
+Australia,Oman,80120.0,OC,AS
+New Zealand,Oman,5420.0,OC,AS
+New Zealand,Oman,58897.0,OC,AS
+Solomon Islands,Oman,3.0,OC,AS
+Australia,Pakistan,160957.0,OC,AS
+Australia,Pakistan,213785.0,OC,AS
+New Zealand,Pakistan,40347.0,OC,AS
+New Zealand,Pakistan,38697.0,OC,AS
+Solomon Islands,Pakistan,28.0,OC,AS
+Kiribati,Pakistan,10.0,OC,AS
+Australia,Papua New Guinea,7.0,OC,OC
+Australia,Papua New Guinea,223732.0,OC,OC
+New Zealand,Papua New Guinea,1.0,OC,OC
+New Zealand,Papua New Guinea,46673.0,OC,OC
+Fiji,Papua New Guinea,4.0,OC,OC
+Fiji,Papua New Guinea,2742.0,OC,OC
+Australia,Paraguay,239.0,OC,SA
+Australia,Paraguay,138.0,OC,SA
+New Zealand,Paraguay,940.0,OC,SA
+New Zealand,Paraguay,59.0,OC,SA
+Australia,Peru,3570.0,OC,SA
+Australia,Peru,2269.0,OC,SA
+New Zealand,Peru,46127.0,OC,SA
+New Zealand,Peru,37453.0,OC,SA
+Fiji,Peru,3.0,OC,SA
+Tokelau,Peru,1.0,OC,SA
+Australia,Philippines,521516.0,OC,AS
+Australia,Philippines,498408.0,OC,AS
+New Zealand,Philippines,282346.0,OC,AS
+New Zealand,Philippines,324435.0,OC,AS
+Fiji,Philippines,4084.0,OC,AS
+Fiji,Philippines,2875.0,OC,AS
+Guam,Philippines,1488.0,OC,AS
+Papua New Guinea,Philippines,50554.0,OC,AS
+Marshall Islands,Philippines,502.0,OC,AS
+Solomon Islands,Philippines,8636.0,OC,AS
+Tonga,Philippines,257.0,OC,AS
+Vanuatu,Philippines,13524.0,OC,AS
+Kiribati,Philippines,233.0,OC,AS
+Kiribati,Philippines,376.0,OC,AS
+Australia,Poland,7500.0,OC,EU
+Australia,Poland,6651.0,OC,EU
+New Zealand,Poland,1759.0,OC,EU
+New Zealand,Poland,2642.0,OC,EU
+Fiji,Poland,4.0,OC,EU
+Papua New Guinea,Poland,39.0,OC,EU
+Australia,Portugal,2678.0,OC,EU
+Australia,Portugal,2311.0,OC,EU
+New Zealand,Portugal,9858.0,OC,EU
+New Zealand,Portugal,9514.0,OC,EU
+Fiji,Portugal,12734.0,OC,EU
+Papua New Guinea,Portugal,174.0,OC,EU
+Australia,Qatar,226226.0,OC,AS
+Australia,Qatar,166261.0,OC,AS
+New Zealand,Qatar,21021.0,OC,AS
+New Zealand,Qatar,17665.0,OC,AS
+Fiji,Qatar,323.0,OC,AS
+Fiji,Qatar,89.0,OC,AS
+Australia,Romania,834.0,OC,EU
+Australia,Romania,835.0,OC,EU
+New Zealand,Romania,3095.0,OC,EU
+New Zealand,Romania,2189.0,OC,EU
+Australia,Russian Federation,84994.0,OC,EU
+Australia,Russian Federation,44580.0,OC,EU
+New Zealand,Russian Federation,90911.0,OC,EU
+New Zealand,Russian Federation,136539.0,OC,EU
+Fiji,Russian Federation,66.0,OC,EU
+Fiji,Russian Federation,4.0,OC,EU
+Papua New Guinea,Russian Federation,3048.0,OC,EU
+Solomon Islands,Russian Federation,8.0,OC,EU
+Australia,Rwanda,1540.0,OC,AF
+New Zealand,Rwanda,257.0,OC,AF
+Australia,Saint Lucia,322.0,OC,
+Australia,Saint Lucia,438.0,OC,
+New Zealand,Saint Lucia,2760.0,OC,
+New Zealand,Saint Lucia,2454.0,OC,
+Australia,Saudi Arabia,270219.0,OC,AS
+New Zealand,Saudi Arabia,321192.0,OC,AS
+Fiji,Saudi Arabia,108.0,OC,AS
+Australia,Senegal,546.0,OC,AF
+Australia,Senegal,623.0,OC,AF
+New Zealand,Senegal,12520.0,OC,AF
+New Zealand,Senegal,12809.0,OC,AF
+Papua New Guinea,Senegal,4.0,OC,AF
+Australia,Serbia,809.0,OC,EU
+Australia,Serbia,57.0,OC,EU
+New Zealand,Serbia,898.0,OC,EU
+New Zealand,Serbia,259.0,OC,EU
+Fiji,Serbia,5.0,OC,EU
+Papua New Guinea,Serbia,6.0,OC,EU
+Australia,Seychelles,4410.0,OC,AF
+Australia,Seychelles,2428.0,OC,AF
+New Zealand,Seychelles,1339.0,OC,AF
+New Zealand,Seychelles,370.0,OC,AF
+American Samoa,Seychelles,4.0,OC,AF
+Australia,Sierra Leone,32.0,OC,AF
+New Zealand,Sierra Leone,2346.0,OC,AF
+Australia,Singapore,701790.0,OC,AS
+Australia,Singapore,878740.0,OC,AS
+New Zealand,Singapore,316895.0,OC,AS
+New Zealand,Singapore,355707.0,OC,AS
+Fiji,Singapore,1761.0,OC,AS
+Fiji,Singapore,826.0,OC,AS
+Papua New Guinea,Singapore,16543.0,OC,AS
+French Polynesia,Singapore,2.0,OC,AS
+New Caledonia,Singapore,1.0,OC,AS
+Solomon Islands,Singapore,209.0,OC,AS
+Tonga,Singapore,2.0,OC,AS
+Vanuatu,Singapore,642.0,OC,AS
+Tokelau,Singapore,12.0,OC,AS
+Australia,Slovakia,123.0,OC,EU
+Australia,Slovakia,2.0,OC,EU
+New Zealand,Slovakia,45.0,OC,EU
+New Zealand,Slovakia,50.0,OC,EU
+Australia,Slovenia,207.0,OC,EU
+Australia,Slovenia,1378.0,OC,EU
+New Zealand,Slovenia,8.0,OC,EU
+Solomon Islands,Slovenia,29.0,OC,EU
+Australia,South Africa,69938.0,OC,AF
+Australia,South Africa,70762.0,OC,AF
+New Zealand,South Africa,36934.0,OC,AF
+New Zealand,South Africa,43056.0,OC,AF
+Fiji,South Africa,73.0,OC,AF
+Fiji,South Africa,78.0,OC,AF
+Papua New Guinea,South Africa,83.0,OC,AF
+Tokelau,South Africa,27.0,OC,AF
+Australia,Spain,72398.0,OC,EU
+Australia,Spain,71470.0,OC,EU
+New Zealand,Spain,86576.0,OC,EU
+New Zealand,Spain,96146.0,OC,EU
+Guam,Spain,78.0,OC,EU
+Papua New Guinea,Spain,52623.0,OC,EU
+French Polynesia,Spain,17.0,OC,EU
+Solomon Islands,Spain,145.0,OC,EU
+Vanuatu,Spain,125.0,OC,EU
+Palau,Spain,7.0,OC,EU
+Australia,Sri Lanka,132251.0,OC,AS
+Australia,Sri Lanka,99796.0,OC,AS
+New Zealand,Sri Lanka,186280.0,OC,AS
+New Zealand,Sri Lanka,162400.0,OC,AS
+Papua New Guinea,Sri Lanka,102.0,OC,AS
+Vanuatu,Sri Lanka,57.0,OC,AS
+Australia,Suriname,52.0,OC,SA
+Australia,Sweden,24517.0,OC,EU
+Australia,Sweden,20108.0,OC,EU
+New Zealand,Sweden,40887.0,OC,EU
+New Zealand,Sweden,35724.0,OC,EU
+Papua New Guinea,Sweden,4467.0,OC,EU
+French Polynesia,Sweden,105.0,OC,EU
+Australia,Switzerland,88840.0,OC,EU
+Australia,Switzerland,68834.0,OC,EU
+New Zealand,Switzerland,75195.0,OC,EU
+New Zealand,Switzerland,49919.0,OC,EU
+Fiji,Switzerland,90.0,OC,EU
+Fiji,Switzerland,5.0,OC,EU
+Papua New Guinea,Switzerland,3004.0,OC,EU
+French Polynesia,Switzerland,75.0,OC,EU
+Solomon Islands,Switzerland,10322.0,OC,EU
+Australia,Syrian Arab Republic,322.0,OC,AS
+New Zealand,Syrian Arab Republic,9955.0,OC,AS
+Australia,Thailand,497323.0,OC,AS
+Australia,Thailand,479500.0,OC,AS
+New Zealand,Thailand,355263.0,OC,AS
+New Zealand,Thailand,352663.0,OC,AS
+Fiji,Thailand,214.0,OC,AS
+Fiji,Thailand,109.0,OC,AS
+Papua New Guinea,Thailand,101.0,OC,AS
+New Caledonia,Thailand,7.0,OC,AS
+Samoa,Thailand,16.0,OC,AS
+Solomon Islands,Thailand,10.0,OC,AS
+Tonga,Thailand,5.0,OC,AS
+Tokelau,Thailand,76.0,OC,AS
+Australia,Togo,11.0,OC,AF
+Australia,Togo,32.0,OC,AF
+New Zealand,Togo,68.0,OC,AF
+New Zealand,Togo,310.0,OC,AF
+Australia,Trinidad and Tobago,12194.0,OC,
+New Zealand,Trinidad and Tobago,33000.0,OC,
+Australia,Tunisia,1536.0,OC,AF
+Australia,Tunisia,5219.0,OC,AF
+New Zealand,Tunisia,1984.0,OC,AF
+New Zealand,Tunisia,2008.0,OC,AF
+Papua New Guinea,Tunisia,10.0,OC,AF
+Australia,Turkey,55722.0,OC,AS
+Australia,Turkey,88123.0,OC,AS
+New Zealand,Turkey,29306.0,OC,AS
+New Zealand,Turkey,39604.0,OC,AS
+Fiji,Turkey,38.0,OC,AS
+Papua New Guinea,Turkey,61.0,OC,AS
+Marshall Islands,Turkey,24.0,OC,AS
+Solomon Islands,Turkey,13.0,OC,AS
+Northern Mariana Islands,Turkey,17.0,OC,AS
+Australia,Uganda,48.0,OC,AF
+Australia,Ukraine,522.0,OC,EU
+New Zealand,Ukraine,2278.0,OC,EU
+Australia,United Arab Emirates,716920.0,OC,AS
+Australia,United Arab Emirates,562765.0,OC,AS
+New Zealand,United Arab Emirates,348598.0,OC,AS
+New Zealand,United Arab Emirates,364973.0,OC,AS
+Fiji,United Arab Emirates,1490.0,OC,AS
+Fiji,United Arab Emirates,519.0,OC,AS
+Papua New Guinea,United Arab Emirates,41.0,OC,AS
+Vanuatu,United Arab Emirates,165.0,OC,AS
+Kiribati,United Arab Emirates,1.0,OC,AS
+Australia,United Kingdom,498358.0,OC,EU
+Australia,United Kingdom,465370.0,OC,EU
+New Zealand,United Kingdom,885056.0,OC,EU
+New Zealand,United Kingdom,790448.0,OC,EU
+Fiji,United Kingdom,28017.0,OC,EU
+Fiji,United Kingdom,32364.0,OC,EU
+Papua New Guinea,United Kingdom,124906.0,OC,EU
+French Polynesia,United Kingdom,14.0,OC,EU
+Marshall Islands,United Kingdom,6.0,OC,EU
+Samoa,United Kingdom,57.0,OC,EU
+Solomon Islands,United Kingdom,11759.0,OC,EU
+Australia,Uruguay,2055.0,OC,SA
+Australia,Uruguay,2621.0,OC,SA
+New Zealand,Uruguay,4255.0,OC,SA
+New Zealand,Uruguay,4100.0,OC,SA
+Australia,Yemen,188557.0,OC,AS
+New Zealand,Yemen,24419.0,OC,AS
+Australia,Zambia,80.0,OC,AF
+New Zealand,Zambia,1096.0,OC,AF
+Australia,Zimbabwe,7982.0,OC,AF
+Australia,Zimbabwe,189.0,OC,AF
+New Zealand,Zimbabwe,260.0,OC,AF
+New Zealand,Zimbabwe,773.0,OC,AF
+American Samoa,Zimbabwe,33.0,OC,AF
+Australia,American Samoa,3992.0,OC,OC
+New Zealand,American Samoa,7378.0,OC,OC
+Fiji,American Samoa,2012.0,OC,OC
+Australia,Angola,2002.0,OC,AF
+New Zealand,Angola,6843.0,OC,AF
+New Zealand,Aruba,608.0,OC,
+Australia,Bahamas,2454.0,OC,
+New Zealand,Bahamas,815.0,OC,
+Australia,Belize,2.0,OC,
+New Zealand,Belize,292.0,OC,
+Australia,Cayman Islands,292.0,OC,
+New Zealand,Cayman Islands,693.0,OC,
+New Zealand,Chad,280.0,OC,AF
+Australia,Cuba,47.0,OC,
+New Zealand,Cuba,26543.0,OC,
+Australia,Dominica,176.0,OC,
+Australia,Dominican Republic,1303.0,OC,
+New Zealand,Dominican Republic,8628.0,OC,
+Australia,Equatorial Guinea,32.0,OC,AF
+Australia,French Polynesia,17059.0,OC,OC
+New Zealand,French Polynesia,1.0,OC,OC
+New Zealand,French Polynesia,61844.0,OC,OC
+Fiji,French Polynesia,2070.0,OC,OC
+New Zealand,Grenada,1437.0,OC,
+Australia,Guatemala,1702.0,OC,
+New Zealand,Guatemala,16999.0,OC,
+New Zealand,Guinea-Bissau,58.0,OC,AF
+New Zealand,Haiti,117.0,OC,
+Australia,Iraq,18464.0,OC,AS
+New Zealand,Iraq,3077.0,OC,AS
+Australia,Liberia,157.0,OC,AF
+New Zealand,Liberia,250.0,OC,AF
+Australia,Marshall Islands,1201.0,OC,OC
+New Zealand,Marshall Islands,265.0,OC,OC
+Fiji,Marshall Islands,345.0,OC,OC
+Kiribati,Marshall Islands,24.0,OC,OC
+Australia,Mozambique,8818.0,OC,AF
+New Zealand,Mozambique,2683.0,OC,AF
+Australia,Myanmar,99687.0,OC,AS
+New Zealand,Myanmar,23428.0,OC,AS
+Fiji,Myanmar,20.0,OC,AS
+Australia,Nauru,9578.0,OC,OC
+New Zealand,Nauru,38.0,OC,OC
+Fiji,Nauru,1194.0,OC,OC
+Australia,New Caledonia,35084.0,OC,OC
+New Zealand,New Caledonia,9.0,OC,OC
+New Zealand,New Caledonia,45535.0,OC,OC
+Fiji,New Caledonia,906.0,OC,OC
+New Zealand,Nicaragua,17126.0,OC,
+Australia,Northern Mariana Islands,1126.0,OC,OC
+New Zealand,Northern Mariana Islands,2678.0,OC,OC
+Australia,Panama,185.0,OC,
+New Zealand,Panama,31080.0,OC,
+New Zealand,Saint Vincent and the Grenadines,848.0,OC,
+Australia,Samoa,6261.0,OC,OC
+New Zealand,Samoa,19409.0,OC,OC
+Fiji,Samoa,8284.0,OC,OC
+Fiji,San Marino,4.0,OC,EU
+Australia,Solomon Islands,17718.0,OC,OC
+New Zealand,Solomon Islands,4.0,OC,OC
+New Zealand,Solomon Islands,8373.0,OC,OC
+Fiji,Solomon Islands,3131.0,OC,OC
+Australia,Somalia,3.0,OC,AF
+New Zealand,Somalia,109.0,OC,AF
+Australia,Timor-Leste,1721.0,OC,AS
+New Zealand,Timor-Leste,1166.0,OC,AS
+Australia,Tonga,5367.0,OC,OC
+New Zealand,Tonga,8.0,OC,OC
+New Zealand,Tonga,15387.0,OC,OC
+Fiji,Tonga,28.0,OC,OC
+Fiji,Tonga,8570.0,OC,OC
+Australia,Tuvalu,508.0,OC,OC
+New Zealand,Tuvalu,1.0,OC,OC
+New Zealand,Tuvalu,337.0,OC,OC
+Fiji,Tuvalu,348.0,OC,OC
+Fiji,Tuvalu,2293.0,OC,OC
+Kiribati,Tuvalu,40.0,OC,OC
+New Zealand,Uzbekistan,2267.0,OC,AS
+Australia,Vanuatu,16189.0,OC,OC
+New Zealand,Vanuatu,12.0,OC,OC
+New Zealand,Vanuatu,7193.0,OC,OC
+Fiji,Vanuatu,13.0,OC,OC
+Fiji,Vanuatu,15623.0,OC,OC
+Australia,Viet Nam,1082230.0,OC,AS
+New Zealand,Viet Nam,229185.0,OC,AS
+Fiji,Viet Nam,3479.0,OC,AS
+Australia,India,1178293.0,OC,AS
+Australia,India,1175357.0,OC,AS
+New Zealand,India,67221.0,OC,AS
+New Zealand,India,71161.0,OC,AS
+Fiji,India,1.0,OC,AS
+Papua New Guinea,India,5373.0,OC,AS
+French Polynesia,India,4.0,OC,AS
+Australia,Cook Islands,1334.0,OC,OC
+New Zealand,Cook Islands,21.0,OC,OC
+New Zealand,Cook Islands,24887.0,OC,OC
+Fiji,Cook Islands,50.0,OC,OC
+Fiji,Cook Islands,834.0,OC,OC
+New Zealand,Faroe Islands,3114.0,OC,EU
+Australia,Guam,4396.0,OC,OC
+New Zealand,Guam,3865.0,OC,OC
+Fiji,Guam,120.0,OC,OC
+Australia,Niue,51.0,OC,OC
+New Zealand,Niue,2797.0,OC,OC
+Fiji,Niue,2.0,OC,OC
+Australia,Saint Kitts and Nevis,376.0,OC,
+New Zealand,Saint Kitts and Nevis,80.0,OC,
+New Zealand,Turks and Caicos Islands,203.0,OC,
+New Zealand,Gibraltar,778.0,OC,EU
+New Zealand,Anguilla,37.0,OC,
+Australia,Palau,759.0,OC,OC
+New Zealand,Palau,121.0,OC,OC
+Australia,Falkland Islands (Malvinas),23.0,OC,SA
+New Zealand,Falkland Islands (Malvinas),1.0,OC,SA

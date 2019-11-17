@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>The Wealth & Health of Nations</title>
+<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="main.js"></script>
+	<script type="text/javascript" src="bubble.js"></script>
+
+    <script src="https://d3js.org/d3.v4.js"></script>
+	<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.6.3/d3-tip.js"></script>-->
+	<script type="text/javascript" src="js/d3-tip_u.js"></script>
+	<script type="text/javascript" src="skill.js"></script>
+	<link rel="stylesheet" type="text/css" href="main.css">
+
+<!--<div id="cont" class="container-fluid text-center">-->
+<div id="header"></div>
+
+<div position:relative id="cont" width="4060" max-height = "1900">
+	<div style="float:left">
+		<svg class="large-vis" id="chart" style="float:left"></svg>
+	</div>
+	<div style="float:right">
+		<svg class="small-vis" width="700" height="950" id="pie1"></svg>
+		<!--<svg class="small-vis" width="580" height="950" id="pie2"></svg>-->
+	</div>
+</div>
+<div position:relative id="force" width="5060" max-height = "1900">
+	<div style="float:left">
+		<svg class="large-vis" width="2900" height = "1900" id="net" style="float:left"></svg>
+	</div>
+	<div style="float:right">
+		<svg class="small-vis" width="760" height="950" id="pie2"></svg>
+	</div>
+</div>
+<div id="main">
+	<div id="sequence"></div>
+	<div id="sunb">
+		<div id="explanation" style="visibility: hidden;">
+			<span id="percentage"></span><br/>
+			of visits begin with this sequence of pages
+		</div>
+	</div>
+</div>
+<div id="sidebar">
+	<input type="checkbox" id="togglelegend"> Legend<br/>
+	<div id="legend" style="visibility: hidden;"></div>
+</div>
+<div id="buttonHide"><button>Hide</button></div>
+<!--<div id="topBar"> <a href ="#" onclick="load_home()"> HOME </a> </div>-->
+<div id ="showinner"><button class="tablinks" onclick="load_home(event, 'Overview')">Overview</button></div>
+<div id ="content" style="overflow:hidden;"></div>
+<script>
+ function load_home() {
+	   document.getElementById("content").innerHTML='<object type="text/html" data="index_chord.html" style="width:100%; height:100%;  border:none;" scrolling="no"  seamless="seamless""></object>';
+	}
+</script>
+</html>
+

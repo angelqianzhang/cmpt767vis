@@ -25,6 +25,11 @@ body {
     height: 1900px;
 }
 
+#content {
+    width: 2500px;
+    height: 1500px;
+}
+
 h1 {
     font-weight: bold;
     font-size: 2em;
