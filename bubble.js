@@ -108,7 +108,7 @@ var balloonVis = function(nations){
           .direction('s')
           .offset([-8, 0])
           .html(function(d) {
-            return "<h2><strong>" + d.name + "</strong></h2><h2><strong>Population: </strong>" + format(d.population) + "</h2>";
+            return "<h5><strong>" + d.name + "</strong></h5><h5><strong>Population: </strong>" + format(d.population) + "</h5>";
             });
 
 

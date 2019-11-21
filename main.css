@@ -42,6 +42,7 @@ h1 {
     text-align: center;
 
 }
+
 h2 {
     font-weight: normal;
     font-size: 2.25em;
@@ -65,6 +66,15 @@ h4 {
     font-size: 2.25em;
     margin: 5px 0 0 20px;
     color: #708090;
+
+
+}
+
+h5 {
+    font-weight: normal;
+    font-size: 2.25em;
+    text-align: center;
+    margin: 5px 0 0 20px;
 
 
 }
