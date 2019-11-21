@@ -1,10 +1,10 @@
-playPause.on("click",stopStart);
+playPause.on("2007",stopStart);
 
 function stopStart() {
     if (running==true) {
         running=false;
         clearInterval(refreshIntervalId);
-        playPause.attr("src","images/play_bw.png");
+        playPause.attr("src","images/test.jpeg");
         eChords.interrupt();
         iChords.interrupt();
         iText.interrupt();
@@ -13,7 +13,7 @@ function stopStart() {
     }
     else {
         running=true;
-        playPause.attr("src","images/pause_bw.png");
+        playPause.attr("src","images/pause.jpeg");
         update(year,month);
         refreshIntervalId=setInterval(run,delay);
     }

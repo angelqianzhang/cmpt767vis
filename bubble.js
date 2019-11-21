@@ -81,7 +81,7 @@ var balloonVis = function(nations){
             .attr("class", "x label")
             .attr("text-anchor", "end")
             .attr("x", this.width - 100)
-            .attr("y", this.height + 21)
+            .attr("y", this.height - 10)
             .attr("style", "font-size:20px")
             .text("import value, unit (1000 US$)");
         // Add a y-axis label.
@@ -123,14 +123,16 @@ var balloonVis = function(nations){
         function click(d) {
             d3.select(this)
                .style('stroke', 'red');
-
             nodeid = d.name.split(' ').join('_');
+
 
             d3.select('#net').select("circle#"+nodeid).transition()
                             .duration(750)
                             .attr("r", 50)
                             .style("fill", "lightsteelblue");
-
+            $('html,body').animate({
+                    scrollTop: $("#net").offset().top},
+                    'slow');
             var country = d.name;
             load_home(country);
         }
@@ -180,6 +182,7 @@ var balloonVis = function(nations){
             .style("fill", function(d) { return colorScale(color(d)); })
             .call(position)
             .sort(order);
+
 
         // Add an overlay for the year label.
         var box =  label.node().getBBox();
@@ -250,6 +253,7 @@ var balloonVis = function(nations){
 
                 return {
                     name: d.name,
+                    code: d.CountryCode,
                     //region: d.region,
                     //income: this.interpolateValues(d.income, year),
                     income: interpolateValues(d.importvalue, year),
@@ -452,7 +456,9 @@ var balloonVis = function(nations){
                 .duration(750)
                 .style('stroke-width', '15px')
                 .style('stroke', 'red');
-             
+            $('html,body').animate({
+                scrollTop: $("#content").offset().top},
+                'slow');
 
             var country = d3.select(this).text();
 

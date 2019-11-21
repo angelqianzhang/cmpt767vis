@@ -9,9 +9,9 @@ var outerRadius = (maxWidth / 2),
 var iText,iChords,eText,eChords;
 
 var angleRange=320,
-    baseYear=2001,
+    baseYear=2007,
     maxMonth=1,
-    maxYear=12,
+    maxYear=9,
     monthOffset=(monthWidth)/(maxYear*12+maxMonth),
     countries,
     e_labels=[],
@@ -101,8 +101,8 @@ dGroup.append("text")
 dGroup.append("text")
     .attr("class","secondLabel")
     .attr("transform", "translate(" + (outerRadius - 90) + ","  + (outerRadius * 1.15) +")")
-    .text("* Cumulative trade imbalance since 2001")
-    .style("font-size","10px");
+    .text("* Cumulative trade imbalance since 2007")
+    .style("font-size","60px");
 
 var gY=(outerRadius-(innerRadius *.8/2));
 
