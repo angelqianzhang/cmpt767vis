@@ -17,30 +17,35 @@ body {
     padding: 0;
 
     max-width: 4060px;
-    max-height: 3060px;
+
+    max-height: 6060px;
 }
 
 #chart {
-    width: 2900px;
-    height: 1900px;
+ /*   width: 2900px;
+    height: 1900px; */
+    width: 1800px;
+    height: 1280px;
 }
 
 #content {
-    width: 2500px;
-    height: 1500px;
+    width: 2000px;
+    height: 2800px;
 }
 
 h1 {
     font-weight: bold;
-    font-size: 2em;
+    font-size: 5em;
     margin-top: 10px;
-    margin-bottom: 0;
-}
+    margin-bottom: 20px;
 
+}
 h2 {
     font-weight: normal;
-    font-size: 1.25em;
-    margin: 5px 0 0 0;
+    font-size: 2.25em;
+    margin: 5px 0 0 20px;
+
+
 }
 
 .caption {

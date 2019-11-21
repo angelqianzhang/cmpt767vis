@@ -4,7 +4,7 @@ var _data;
  * Do the following when the browser window loads
  */
 window.onload = function(){
-    loadData("data/trade_exports_value_u.json");
+    loadData("data/trade_exports_value.json");
    //drawNestCircle();
 };
 

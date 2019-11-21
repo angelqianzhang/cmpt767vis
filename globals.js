@@ -96,13 +96,13 @@ var dGroup = svg.append("g")
 dGroup.append("text")
     .attr("class","mainLabel")
     .attr("transform", "translate(" + (outerRadius - 20) + ","  + (outerRadius + 30) +")")
-    .style("font-size","0px");
+    .style("font-size","10px");
 
 dGroup.append("text")
     .attr("class","secondLabel")
     .attr("transform", "translate(" + (outerRadius - 90) + ","  + (outerRadius * 1.15) +")")
     .text("* Cumulative trade imbalance since 2001")
-    .style("font-size","0px");
+    .style("font-size","10px");
 
 var gY=(outerRadius-(innerRadius *.8/2));
 

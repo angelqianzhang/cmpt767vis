@@ -47,7 +47,7 @@ function node_onMouseOut(d) {
 /** Returns an event handler for fading a given chord group. */
 function fade(opacity) {
 
-    return;
+    //return;
 
     return function(g, i) {
         svg.selectAll("path.chord")

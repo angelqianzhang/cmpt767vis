@@ -19,6 +19,13 @@ var balloonVis = function(nations){
 
     this.createBalloon = function(){
 
+        var load_home = function(country){
+
+                            document.getElementById("content")
+                            .innerHTML='<object type="text/html" data="index_chord.html?country='
+                                + country
+                                + '" style="width:90%; height:80%;  border:none;" scrolling="no"  seamless="seamless"></object>';
+                            };
 
         var svg = this.svgContainer.append("svg")
             .attr("width", this.width + this.margin.left + this.margin.right)
@@ -101,7 +108,7 @@ var balloonVis = function(nations){
           .direction('s')
           .offset([-8, 0])
           .html(function(d) {
-            return "<p><strong>" + d.name + "</strong></p><p><strong>Population: </strong>" + format(d.population) + "</p>";
+            return "<h2><strong>" + d.name + "</strong></h2><h2><strong>Population: </strong>" + format(d.population) + "</h2>";
             });
 
 
@@ -109,31 +116,41 @@ var balloonVis = function(nations){
 //                                .attr("id", "mytip")
 //                                .attr("width", this.myPie1.width)
 //                                .attr("height", this.myPie1.height);
-        var mousedown = function(d) {
-            var countryname = d.name;
-            var file1 ="data/graph.json";
-            var vis = "#mytip";
-            var selColor = d3.select(this).style('fill');
-//            drawNestCircle(circletip, countryname, file1, selColor);
-            //drawPie(circletip);
-            var countryClass = d3.select(this).classed();
-            //d3.selectAll("circle").transition().duration(100).style("opacity", 0.25);
-            d3.select(countryClass).transition().duration(10).style("opacity", 1);
-            d3.select("#mytip").transition().duration(100).style("opacity", 1);
 
-            //${#vis1}.style.display = 'block';
-          };
 
-        var mouseup = function(d){
-            //${#vis1}.style.display = 'none';
-            d3.select("#mytip").transition().duration(100).style("opacity", 0);
-            d3.selectAll("circle").transition().duration(100).style("opacity", 1);
+
+
+        function click(d) {
+            d3.select(this)
+               .style('stroke', 'red');
+
+            nodeid = d.name.split(' ').join('_');
+
+            d3.select('#net').select("circle#"+nodeid).transition()
+                            .duration(750)
+                            .attr("r", 50)
+                            .style("fill", "lightsteelblue");
+
+            var country = d.name;
+            load_home(country);
         }
 
+        function dblclick(d) {
+            d3.select(this)
+               .style('stroke', 'none');
+            nodeid = d.name.split(' ').join('_');
+
+            d3.select('#net').select("circle#"+nodeid).transition()
+                            .duration(750)
+                            .attr("r", 6)
+                            .style("fill", "#ccc");
+
+
+        }
         // Various accessors that specify the four dimensions of data to visualize.
         function x(d) { return d.income; }
         function y(d) { return d.lifeExpectancy; }
-        function radius(d) { return d.population*5; }
+        function radius(d) { return d.population*1; }
 
 
     //function color(d) { return d.region; }
@@ -150,28 +167,19 @@ var balloonVis = function(nations){
             .selectAll(".dot")
                 .data(interpolateData(2007))
             .enter().append("circle")
+                .style('stroke-width', '15px')
+                .style('stroke', 'none')
+                .attr('id', function(d){
+                    var newid = d.name.split(' ').join('_');
+                     return newid;})
                 .on('mouseover', tip.show)
                 .on('mouseout', tip.hide)
                 .attr("class", function (d) { return "dot " + d.name; })
-                .on("mousedown", mousedown )
-                .on("mouseup", mouseup)
+                .on("click", click )
+                .on("dblclick", dblclick)
             .style("fill", function(d) { return colorScale(color(d)); })
             .call(position)
             .sort(order);
-
-//        this.myCont.on("click", function() {
-//        	d3.select("#mytip").transition().duration(100).style("opacity", 0);
-//        });
-
-
-//        function position(dot) {
-//                    //dot.attr("cx", function(d, i) {   return xScale(x(i)); })
-//                    dot.attr("x", function(d, i) {   return xScale(i); })
-//                        .attr("y", function(d) {   return yScale(y(d)); })
-//                        .attr("r", function(d) {  return radiusScale(radius(d)); });
-//                        }
-
-
 
         // Add an overlay for the year label.
         var box =  label.node().getBBox();
@@ -264,149 +272,6 @@ var balloonVis = function(nations){
           return a[1];
         }
 
-
-        function drawNestCircle(svg, ctname, file, myColor){
-            //var svg = d3.select(vis);
-
-            var margin = 20;
-
-            var diameter = 800;
-
-            var g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
-
-            var color = d3.scaleLinear()
-                .domain([-1, 5])
-                .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
-                .interpolate(d3.interpolateHcl);
-            var pack = d3.pack()
-                .size([diameter - margin, diameter - margin])
-                .padding(2);
-
-            d3.json(file, function( json) {
-              //if (error) throw error;
-
-              for (i=0; i<json.length; i++) {
-                  if (json[i]['name']==ctname){
-                      root1 = json[i];
-                      break;
-                  } else {
-                      root1 = 0
-                      console.log('no country is selected')
-                  }
-              }
-
-              root = d3.hierarchy(root1)
-                  .sum(function(d) { return d.size; })
-                  .sort(function(a, b) { return b.value - a.value; });
-              var focus = root,
-                  nodes = pack(root).descendants(),
-                  view;
-              //var circle = g.selectAll("circle")
-              var circle = g.selectAll("circle")
-                .data(nodes)
-                .enter().append("circle")
-                  .attr("class", function(d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
-                  .style("fill", function(d) { return d.children ? color(d.depth) : myColor; })
-                  .on("click", function(d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
-              var text = g.selectAll("text")
-                .data(nodes)
-                .enter().append("text")
-                  .attr("class", "label")
-                  .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
-                  .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
-                  .text(function(d) { return d.data.name; });
-
-              var node = g.selectAll("circle,text");
-              svg
-                  .style("background", color(-1))
-//                  .style("fill", null)
-                  .on("click", function() { zoom(root); });
-
-
-              zoomTo([root.x, root.y, root.r * 2 + margin]);
-              drawPie(svg, root);
-
-              function zoom(d) {
-                var focus0 = focus; focus = d;
-                var transition = d3.transition()
-                    .duration(d3.event.altKey ? 7500 : 750)
-                    .tween("zoom", function(d) {
-                      var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
-                      return function(t) { zoomTo(i(t)); };
-                    });
-                transition.selectAll("text")
-                  .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
-                    .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
-                    .on("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
-                    .on("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
-              }
-              function zoomTo(v) {
-                var k = diameter / v[2]; view = v;
-
-                node.attr("transform", function(d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
-                circle.attr("r", function(d) {  return d.r * k; });
-              }
-
-
-              function drawPie(piesvg, data){
-
-                  var data1 = [2, 4, 8, 10];
-                  var data1 = [];
-                  var width = piesvg.attr("width"),
-                      height = piesvg.attr("height"),
-                      radius = Math.min(width, height) / 3.5,
-                      g = piesvg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 3 + ")");
-
-                  var color = d3.scaleOrdinal()
-                   	.range(["#2C93E8","#838690","#F56C4E"]);
-
-
-                  // Generate the pie
-                  var pie = d3.pie()
-                        .value(function(d) { return d.data.size; })(data.children);
-                  console.log(data.children[0].data);
-                  console.log(data.children.length)
-                  // Generate the arcs
-                  var arc = d3.arc()
-                              .innerRadius(0)
-                              .outerRadius(radius);
-                  //Generate groups
-                  var arcs = g.selectAll("arc")
-                              .data(pie)
-                              .enter()
-                              .append("g")
-                              .attr("class", "arc")
-
-                  var labelArc = d3.arc()
-                  	.outerRadius(radius - 40)
-                  	.innerRadius(radius - 40);
-
-//
-//                  var g = piesvg.selectAll("arc")
-//                  	.data(pie)
-//                  	.enter().append("g")
-//                  	.attr("class", "arc");
-
-                  //Draw arc paths
-                  arcs.append("path")
-                      .attr("fill", function(d, i) {
-                          return color(i);
-                      })
-                      .attr("d", arc);
-
-//                    g.append("path")
-//                     .style("fill", function(d) { return color(d.data.name);})
-//                     .attr("d", arc);
-                  arcs.append("text")
-                  	.attr("transform", function(d) { return "translate(" + labelArc.centroid(d) + ")"; })
-                  	.text(function(d) { console.log(d.data.data.name); return d.data.data.name;})
-                  	.style("fill", "#fff");
-              }
-              });
-        }
-
-
-
     }
     this.PhraseNet = function(){
                 // get the data
@@ -431,14 +296,14 @@ var balloonVis = function(nations){
             .force("link", d3.forceLink().distance(300))
             .force("center", d3.forceCenter(width / 2, height / 2));
 
-        d3.csv("data/countryrelation_top1.csv", function(links) {
+        d3.csv("countryrelation_top1.csv", function(links) {
 
         var load_home = function(country){
 
                 document.getElementById("content")
                 .innerHTML='<object type="text/html" data="index_chord.html?country='
                     + country
-                    + '" style="width:100%; height:100%;  border:none;" scrolling="no"  seamless="seamless"></object>';
+                    + '" style="width:80%; height:70%;  border:none;" scrolling="no"  seamless="seamless"></object>';
                 };
 
         var nodes = {};
@@ -497,8 +362,8 @@ var balloonVis = function(nations){
             .data(links )
             .enter().append("path")
             .attr("class", function(d) { return "link " + d.type; })
-            .attr("marker-end", "url(#end)")
-            .attr("stroke-width", function(d) { return 2*d.type; });
+            .attr("stroke-width", function(d) { return 2*d.type; })
+            .attr("marker-end", "url(#end)");
 
         // define the nodes
         var node = svg.selectAll(".node")
@@ -516,6 +381,8 @@ var balloonVis = function(nations){
         // add the nodes
         node.append("circle")
             .attr("r", 10)
+            .attr("id", function(d){ var newid = d.name.split(' ').join('_');
+              return newid;})
             .style("fill", function(d) { return color(d.name); });
 
         // add the text
@@ -531,13 +398,16 @@ var balloonVis = function(nations){
             .data(["end"])      // Different link/path types can be defined here
           .enter().append("marker")    // This section adds in the arrows
             .attr("id", String)
-            .attr("viewBox", "0 -5 10 10")
+//            .attr("viewBox", "0 -5 10 10")
             .attr("refX", 15)
             .attr("refY", -1.5)
-            .attr("markerWidth", 6)
-            .attr("markerHeight", 6)
+            .attr("viewBox", "0 0 10 10")
+            .attr("markerUnits", "strokeWidth")
+            .attr("markerWidth", 10)
+            .attr("markerHeight", 5)
             .attr("orient", "auto")
           .append("path")
+//            .attr("d", "M 0 0 L 10 5 L 0 10 z");
             .attr("d", "M0,-5L10,0L0,5");
 
 
@@ -565,7 +435,7 @@ var balloonVis = function(nations){
 
         // action to take on mouse click
         var globalCount = 0;
-        function click() {
+        function click(d) {
             d3.select(this).select("text").transition()
                 .duration(750)
                 .attr("x", 22)
@@ -577,18 +447,15 @@ var balloonVis = function(nations){
                 .duration(750)
                 .attr("r", 50)
                 .style("fill", "lightsteelblue");
-
+            nodeid = d.name.split(' ').join('_');
+            d3.select('#chart').select("circle#"+nodeid).transition()
+                .duration(750)
+                .style('stroke-width', '15px')
+                .style('stroke', 'red');
+             
 
             var country = d3.select(this).text();
 
-            globalCount = globalCount +1;
-            if (globalCount%2 == 0 ) {
-                country = "even";
-            }
-            else {
-                country = "odd";
-            }
-            alert("The country is " + country);
             load_home(country);
         }
 
@@ -603,8 +470,13 @@ var balloonVis = function(nations){
                 .attr("x", 20)
                 .style("stroke", "none")
                 .style("fill", "black")
-                .style("stroke", "none")
                 .style("font", "10px sans-serif");
+            nodeid = d.name.split(' ').join('_');
+                d3.select('#chart').select("circle#"+nodeid).transition()
+                    .duration(750)
+                    .style('stroke', 'none');
+
+
         }
 
         function dragstarted(d) {
@@ -628,320 +500,6 @@ var balloonVis = function(nations){
         }
 
         });
-    };
-
-    this.sunBurst = function(){
-        // Dimensions of sunburst.
-        var width = 750;
-        var height = 600;
-        var radius = Math.min(width, height) / 2;
-
-        // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
-        var b = {
-          w: 75, h: 30, s: 3, t: 10
-        };
-        var color = d3.scaleOrdinal(d3.schemeCategory20b);
-        // Mapping of step names to colors.
-        var colors = {
-          "home": "#5687d1",
-          "product": "#7b615c",
-          "search": "#de783b",
-          "account": "#6ab975",
-          "other": "#a173d1",
-          "end": "#bbbbbb"
-        };
-
-        // Total size of all segments; we set this later, after loading the data.
-        var totalSize = 1;
-
-        var vis = d3.select("#sunb").append("svg")
-            .attr("width", width)
-            .attr("height", height)
-            .append("g")
-            .attr("id", "container")
-            .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
-
-        var partition = d3.partition()
-            .size([2 * Math.PI, radius * radius]);
-
-
-        // Use d3.text and d3.csvParseRows so that we do not need to have a header
-        // row, and can receive the csv as an array of arrays.
-        //d3.text("visit-sequences.csv", function(text) {
-        d3.json("flare.json", function(json) {
-        //  var csv = d3.csvParseRows(text);
-        //  var json = buildHierarchy(csv);
-
-          createVisualization(json);
-        });
-
-        // Main function to draw and set up the visualization, once we have the data.
-        function createVisualization(json) {
-
-          // Basic setup of page elements.
-          initializeBreadcrumbTrail();
-          drawLegend();
-        //
-        //  d3.select("#togglelegend").on("click", toggleLegend);
-
-          // Bounding circle underneath the sunburst, to make it easier to detect
-          // when the mouse leaves the parent g.
-        //  vis.append("circle")
-        //      .attr("r", radius)
-        //      .style("opacity", 0);
-
-          // Turn the data into a d3 hierarchy and calculate the sums.
-          var root = d3.hierarchy(json)
-              .sum(function(d) { return d.size; })
-              .sort(function(a, b) { return b.value - a.value; });
-
-          // For efficiency, filter nodes to keep only those large enough to see.
-        //  var nodes = partition(root).descendants()
-        //      .filter(function(d) {
-        //          return (d.x1 - d.x0 > 0.005); // 0.005 radians = 0.29 degrees
-        //      });
-
-
-
-          partition(root);
-
-          var arc = d3.arc()
-              .startAngle(function(d) { return d.x0; })
-              .endAngle(function(d) { return d.x1; })
-//              .innerRadius(function(d) { return d.y0; })
-//                    .outerRadius(function(d) { return d.y1; });
-              .innerRadius(function(d) { return Math.sqrt(d.y0); })
-              .outerRadius(function(d) { return Math.sqrt(d.y1); });
-
-        //  var path = vis.data([json]).selectAll("path")
-          var path = vis.selectAll("path")
-              .data(root.descendants())
-              .enter().append("path")
-              .attr("display", function(d) {return d.depth ? null : "none"; })
-              .attr("d", arc)
-              .attr("fill-rule", "evenodd")
-              .style("fill", function (d) { return color((d.children ? d : d.parent).data.name); })
-              .style("opacity", 1)
-              .on("mouseover", mouseover);
-               ;
-          // Add the mouseleave handler to the bounding circle.
-          d3.select("#container").on("mouseleave", mouseleave);
-
-          // Get total size of the tree = value of root node from partition.
-
-          totalSize = path.datum().value;
-         };
-
-        // Fade all but the current sequence, and show it in the breadcrumb trail.
-        function mouseover(d) {
-
-          var percentage = (100 * d.value / totalSize).toPrecision(3);
-          var percentageString = percentage + "%";
-          if (percentage < 0.1) {
-            percentageString = "< 0.1%";
-          }
-
-          d3.select("#percentage")
-              .text(percentageString);
-
-          d3.select("#explanation")
-              .style("visibility", "");
-
-          var sequenceArray = d.ancestors().reverse();
-          sequenceArray.shift(); // remove root node from the array
-          updateBreadcrumbs(sequenceArray, percentageString);
-
-          // Fade all the segments.
-          d3.selectAll("path")
-              .style("opacity", 0.3);
-
-          // Then highlight only those that are an ancestor of the current segment.
-          vis.selectAll("path")
-              .filter(function(node) {
-                        return (sequenceArray.indexOf(node) >= 0);
-                      })
-              .style("opacity", 1);
-        }
-
-        // Restore everything to full opacity when moving off the visualization.
-        function mouseleave(d) {
-
-          // Hide the breadcrumb trail
-          d3.select("#trail")
-              .style("visibility", "hidden");
-
-          // Deactivate all segments during transition.
-          d3.selectAll("path").on("mouseover", null);
-
-          // Transition each segment to full opacity and then reactivate it.
-          d3.selectAll("path")
-              .transition()
-              .duration(1000)
-              .style("opacity", 1)
-              .on("end", function() {
-                      d3.select(this).on("mouseover", mouseover);
-                    });
-
-          d3.select("#explanation")
-              .style("visibility", "hidden");
-        }
-
-        function initializeBreadcrumbTrail() {
-          // Add the svg area.
-          var trail = d3.select("#sequence").append("svg")
-              .attr("width", width)
-              .attr("height", 50)
-              .attr("id", "trail");
-          // Add the label at the end, for the percentage.
-          trail.append("text")
-            .attr("id", "endlabel")
-            .style("fill", "#000");
-        }
-
-        // Generate a string that describes the points of a breadcrumb polygon.
-        function breadcrumbPoints(d, i) {
-          var points = [];
-          points.push("0,0");
-          points.push(b.w + ",0");
-          points.push(b.w + b.t + "," + (b.h / 2));
-          points.push(b.w + "," + b.h);
-          points.push("0," + b.h);
-          if (i > 0) { // Leftmost breadcrumb; don't include 6th vertex.
-            points.push(b.t + "," + (b.h / 2));
-          }
-          return points.join(" ");
-        }
-
-        // Update the breadcrumb trail to show the current sequence and percentage.
-        function updateBreadcrumbs(nodeArray, percentageString) {
-
-          // Data join; key function combines name and depth (= position in sequence).
-          var trail = d3.select("#trail")
-              .selectAll("g")
-              .data(nodeArray, function(d) { return d.data.name + d.depth; });
-
-          // Remove exiting nodes.
-          trail.exit().remove();
-
-          // Add breadcrumb and label for entering nodes.
-          var entering = trail.enter().append("g");
-
-          entering.append("polygon")
-              .attr("points", breadcrumbPoints)
-              .style("fill", function (d) { return color(d.data.name); });
-//              .style("fill", function(d) { return colors[d.data.name]; });
-
-          entering.append("text")
-              .attr("x", (b.w + b.t) / 2)
-              .attr("y", b.h / 2)
-              .attr("dy", "0.35em")
-              .attr("text-anchor", "middle")
-              .text(function(d) { return d.data.name; });
-
-          // Merge enter and update selections; set position for all nodes.
-          entering.merge(trail).attr("transform", function(d, i) {
-            return "translate(" + i * (b.w + b.s) + ", 0)";
-          });
-
-          // Now move and update the percentage at the end.
-          d3.select("#trail").select("#endlabel")
-              .attr("x", (nodeArray.length + 0.5) * (b.w + b.s))
-              .attr("y", b.h / 2)
-              .attr("dy", "0.35em")
-              .attr("text-anchor", "middle")
-              .text(percentageString);
-
-          // Make the breadcrumb trail visible, if it's hidden.
-          d3.select("#trail")
-              .style("visibility", "");
-
-        }
-
-        function drawLegend() {
-
-          // Dimensions of legend item: width, height, spacing, radius of rounded rect.
-          var li = {
-            w: 75, h: 30, s: 3, r: 3
-          };
-
-          var legend = d3.select("#legend").append("svg")
-              .attr("width", li.w)
-              .attr("height", d3.keys(color).length * (li.h + li.s));
-
-          var g = legend.selectAll("g")
-              .data(d3.entries(color))
-              .enter().append("g")
-              .attr("transform", function(d, i) {
-                      return "translate(0," + i * (li.h + li.s) + ")";
-                   });
-
-          g.append("rect")
-              .attr("rx", li.r)
-              .attr("ry", li.r)
-              .attr("width", li.w)
-              .attr("height", li.h)
-              .style("fill", function(d) { return d.value; });
-
-          g.append("text")
-              .attr("x", li.w / 2)
-              .attr("y", li.h / 2)
-              .attr("dy", "0.35em")
-              .attr("text-anchor", "middle")
-              .text(function(d) { return d.key; });
-        }
-
-        function toggleLegend() {
-          var legend = d3.select("#legend");
-          if (legend.style("visibility") == "hidden") {
-            legend.style("visibility", "");
-          } else {
-            legend.style("visibility", "hidden");
-          }
-        }
-
-        // Take a 2-column CSV and transform it into a hierarchical structure suitable
-        // for a partition layout. The first column is a sequence of step names, from
-        // root to leaf, separated by hyphens. The second column is a count of how
-        // often that sequence occurred.
-        function buildHierarchy(csv) {
-          var root = {"name": "root", "children": []};
-          for (var i = 0; i < csv.length; i++) {
-            var sequence = csv[i][0];
-            var size = +csv[i][1];
-            if (isNaN(size)) { // e.g. if this is a header row
-              continue;
-            }
-            var parts = sequence.split("-");
-            var currentNode = root;
-            for (var j = 0; j < parts.length; j++) {
-              var children = currentNode["children"];
-              var nodeName = parts[j];
-              var childNode;
-              if (j + 1 < parts.length) {
-           // Not yet at the end of the sequence; move down the tree.
-         	var foundChild = false;
-         	for (var k = 0; k < children.length; k++) {
-         	  if (children[k]["name"] == nodeName) {
-         	    childNode = children[k];
-         	    foundChild = true;
-         	    break;
-         	  }
-         	}
-          // If we don't already have a child node for this branch, create it.
-         	if (!foundChild) {
-         	  childNode = {"name": nodeName, "children": []};
-         	  children.push(childNode);
-         	}
-         	currentNode = childNode;
-              } else {
-         	// Reached the end of the sequence; create a leaf node.
-         	childNode = {"name": nodeName, "size": size};
-         	children.push(childNode);
-              }
-            }
-          }
-          return root;
-        };
     };
 
 
