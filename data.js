@@ -4,7 +4,13 @@
  * DATA SOURCE:  http://www.census.gov/foreign-trade/statistics/country/
  *
  */
+function setCountryTitle(myCountry) {
 
+    var decodedMyCountry = decodeURIComponent(myCountry);
+    document.getElementById("countryTitle").textContent=decodedMyCountry;
+
+
+}
 function fetchData(myCountry) {
     var filename = "data/ustrade_2000-2013-"+myCountry+".csv"
     d3.csv(filename, function(csv) {

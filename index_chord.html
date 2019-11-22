@@ -62,9 +62,15 @@
 
 
     <div id="mainDiv">
+        <p><br><br></p>
+        <span id="countryTitle" style="font-weight:bold; font-size: 60px;">My Selected Country</span>
+        <p><br><br></p>
+
         <div id="imgDiv" style="width:1000px; high:1000px; margin:0px auto; margin-top:10px">
+
             <!--<img id="playPause" src="images/pause.jpeg" width="80" height="80" style="float:left"/>-->
-            <div style="font-size:39px; color:#2F4F4F; float:left; margin-top:4px; margin-left:4px">click on a timeline year to skip to that point.</div>
+            <div style="font-size:39px; color:#2F4F4F; float:left; margin-top:4px; margin-left:4px">
+                click on a timeline year to skip to that point.</div>
         </div>
 
         <div id="svgDiv" style="font-size:20px"></div>
@@ -85,14 +91,17 @@
 <script type="text/javascript" src="globals.js"></script>
 <script type="text/javascript" src="initialize.js"></script>
 <script type="text/javascript" src="events.js"></script>
-<script type="text/javascript" src="data.js"></script>
+<script type="text/javascript" src="data.js?version=1"></script>
 <script type="text/javascript" src="_buildChords.js"></script>
 <script type="text/javascript" src="update.js"></script>
 
 <script type="text/javascript">
 
         initialize();
+
         var myCountry = getUrlParam('country','DefaultCountry');
+
+        setCountryTitle(myCountry);
 
         fetchData(myCountry);
 

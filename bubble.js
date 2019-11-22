@@ -307,7 +307,7 @@ var balloonVis = function(nations){
                 document.getElementById("content")
                 .innerHTML='<object type="text/html" data="index_chord.html?country='
                     + country
-                    + '" style="width:80%; height:70%;  border:none;" scrolling="no"  seamless="seamless"></object>';
+                    + '" style="width:100%; height:80%;  border:none;" scrolling="no"  seamless="seamless"></object>';
                 };
 
         var nodes = {};
