@@ -96,7 +96,7 @@ var dGroup = svg.append("g")
 dGroup.append("text")
     .attr("class","mainLabel")
     .attr("transform", "translate(" + (outerRadius - 20) + ","  + (outerRadius + 30) +")")
-    .style("font-size","10px");
+    .style("font-size","60px");
 
 dGroup.append("text")
     .attr("class","secondLabel")
