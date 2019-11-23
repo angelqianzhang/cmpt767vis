@@ -1,9 +1,4 @@
 
-/**
- *
- * DATA SOURCE:  http://www.census.gov/foreign-trade/statistics/country/
- *
- */
 function setCountryTitle(myCountry) {
 
     var decodedMyCountry = decodeURIComponent(myCountry);

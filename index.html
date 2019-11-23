@@ -20,33 +20,38 @@
 	<!--<h2>Explore Countries Trade Stats and Production</h2>-->
 <!--<div id="cont" class="container-fluid text-center">-->
 
-<div id="header1" width="4060" height = "300">
+<div id="header1" height = 10%>
 	<h1> World's Trade Stat and Production Data Visualization</h1>
 	<h2>Explore Countries Trade Stats and Production</h2>
-
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 
 </div>
 
-<div position:relative id="cont" width="1800" max-height = "1580">
-	<h3>Countries' Total Import and Export Value Changes Between 2007 and 2016 </h3>
-	<h4></h4>
-	<svg width="1800" height = "10">
-	</svg>
-	<div style="float:left">
-		<svg class="large-vis" width="1800" height = "1280" id="chart" style="float:left">
+<div position:relative id="cont" width=50% height = 50% style="float:left">
+	<h3> Import Value vs Export Value Changes Between 2007 and 2016 </h3>
+	<br>
+	<h4> A comparison of countries' import / export value changes. Circle are sized according to country's population.
+		<br><strong>Interesting finding: (1)</strong>China surpassed Germany to become the second largest importer,
+		but there was no significant<br> increase in exports<strong> (2) </strong>US had significant increase in both imports and exports,
+		and always stay ahead</h4>
+	<br>
+	<div>
+		<svg class="large-vis" width="1800" height = "1280" id="chart" >
 		</svg>
 	</div>
 </div>
 
-<div position:relative id="force" width="1800" max-height = "1580">
+<div position:relative id="force" width=50% height = 50% style="float:left">
 	<h3>Countries' Biggest Import and Export Partners</h3>
+	<br>
 	<h4>Based on Total Import and Export Value Within 2007-2016</h4>
 
-	<svg width="1800" height = "10">
-	</svg>
-
 	<div style="float:left">
-		<svg class="large-vis" width="1800" height = "1280" id="net" style="float:left"></svg>
+		<svg class="large-vis" width="1800" height = "1280" id="net" ></svg>
 	</div>
 </div>
 <!--<div id="main">-->
@@ -66,6 +71,8 @@
 <!--<div id ="showinner"><button class="tablinks" onclick="load_home(event, 'Overview')">Overview</button></div>-->
 <div id="header2">
 	<svg width="1800" height = "100">
+		<br>
+		<br>
 		<h3>Selected Country's Top 20 Trade Partners and Corresponding Import and Export Value Between 2007 and 2016 </h3>
 	</svg>
 </div>

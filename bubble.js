@@ -1,8 +1,4 @@
-/**
- * Constructor function for a Visualization that displays data as "balloon"
- * @param data (not required) the data array to visualize
- * @constructor
- */
+
 var balloonVis = function(nations){
     this.nations = nations;
 
@@ -162,6 +158,39 @@ var balloonVis = function(nations){
         // A bisector since many nation's data is sparsely-defined.
         var bisect = d3.bisector(function(d) { return d[0]; });
 
+        var defs = svg.append("defs");
+        defs.append("pattern")
+        .attr("id", 'flags')
+        .attr("height", "100%")
+        .attr("width", "100%")
+        .attr("patternContentUnits", "objectBoundingBox")
+        .append("image")
+        .attr("height", 1)
+        .attr("width", 1)
+        .attr("preserveAspectRatio", "none")
+        .attr("xmlns:xlink", "http://www.w3.org/1999/xlink")
+        .attr("xlink:href", "CN.svg");
+
+        defs.selectAll(".flag-pattern")
+            .data(interpolateData(2007))
+            .enter().append("pattern")
+            .attr("class", "flag-pattern")
+            .attr("id", function(d){
+                //CN
+                //US
+                return d.code;})
+            .attr("height", "100%")
+            .attr("width", "100%")
+            .attr("patternContentUnits", "objectBoundingBox")
+            .append("image")
+            .attr("height", 1)
+            .attr("width", 1)
+            .attr("preserveAspectRatio", "none")
+            .attr("xmlns:xlink", "http://www.w3.org/1999/xlink")
+            .attr("xlink:href", function(d){
+                return "images/"+d.code+".svg";
+                });
+
 
         var dot = svg.append("g")
                 .call(tip)
@@ -179,7 +208,11 @@ var balloonVis = function(nations){
                 .attr("class", function (d) { return "dot " + d.name; })
                 .on("click", click )
                 .on("dblclick", dblclick)
-            .style("fill", function(d) { return colorScale(color(d)); })
+//            .style("fill", function(d) { return colorScale(color(d)); })
+              .style("fill", function(d){
+//                    return "url(#flags)";
+                return "url(#" + d.code +")";
+                })
             .call(position)
             .sort(order);
 
